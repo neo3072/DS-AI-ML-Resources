@@ -23,7 +23,7 @@ Note that resources are listed in no particular order of preference or relevance
 - <a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a>
 - <a href="#web-api-devops">Web, API, and DevOps</a>
 - <a href="#books">Books</a>
-- <a href="#tools-utils">Tutorials</a>
+- <a href="#tools-utils">Online Tools and Utilities</a>
 
 <h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)
