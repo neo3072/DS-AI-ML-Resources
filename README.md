@@ -40,6 +40,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Data Science Weekly](https://www.datascienceweekly.org/)
 - [Edwin Chen](http://blog.echen.me/)
 - [Harvard Data Science](http://harvarddatascience.com/)
+- [OpenAI](https://openai.com/blog/)
 
 <h2><a name="gitHub-repos">GitHub Repos</a></h2>
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
@@ -85,6 +86,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [11 Steps for Data Exploration in R](https://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
 - [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
 - [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
+- [MIT Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 
 <h2><a name="web-resources">Web Resources</a></h2>
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
@@ -162,6 +164,7 @@ Note that resources are listed in no particular order of preference or relevance
     + [Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
     + [Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
 - [Apache Foundation](https://www.apache.org/)
+    + [Apache Projects List (by category)](https://projects.apache.org/projects.html?category)
     + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
     + [Hadoop](http://hadoop.apache.org/docs/current/) - Open-source software for reliable, scalable, distributed computing
     + [Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
@@ -179,6 +182,7 @@ Note that resources are listed in no particular order of preference or relevance
     + [Storm](http://storm.apache.org/index.html) - A free and open source distributed realtime computation system 
     + [Kafka](https://kafka.apache.org/) - A distributed streaming platform
     + [Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
+    + [JMeter](http://jmeter.apache.org/) - Java application designed to load test functional behavior and measure performance
 - NoSQL
     - [MongoDB](https://docs.mongodb.com/) - NoSQL document store
     - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
@@ -226,7 +230,9 @@ Note that resources are listed in no particular order of preference or relevance
     + [Seaborn](http://seaborn.pydata.org/api.html) - A Python visualization library based on matplotlib
     + [StatsModels](http://statsmodels.sourceforge.net/documentation.html) - A Python module that allows users to explore data, estimate statistical models, and perform statistical tests
     + [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
-    + [Scrapy](https://scrapy.org/doc/) - 
+    + [Scrapy](https://scrapy.org/doc/) - An open source and collaborative framework for extracting the data you need from websites
+    + [ggplot](http://yhat.github.io/ggplot/docs.html) - A package for plotting in Python
+    + [Altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
 An open source and collaborative framework for extracting the data you need from websites
     + [Bokeh](http://bokeh.pydata.org/en/latest/docs/user_guide.html) - A Python interactive visualization library that targets modern web browsers for presentation
     + [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
@@ -305,7 +311,6 @@ An open source and collaborative framework for extracting the data you need from
     + [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/documentation/sns/) - Fully managed and highly scalable push messaging
     + [Amazon Simple Email Service (Amazon SES)](https://aws.amazon.com/documentation/ses/) - Reliable, cost-effective email platform
     + [Amazon Simple Queue Service (SQS)](https://aws.amazon.com/documentation/sqs/) - A fast, reliable, scalable, fully managed message queuing service
-- [Apache Projects List (by category)](https://projects.apache.org/projects.html?category)
 - [Google Cloud Platform](https://cloud.google.com/docs/)
 - [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
@@ -336,4 +341,5 @@ An open source and collaborative framework for extracting the data you need from
 
 <h2><a name="tools-utils">Online Tools and Utilities</a></h2>
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 

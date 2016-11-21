@@ -19,12 +19,19 @@
 - [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
 - [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
 - [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0)
+- [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_48)
+- [The big data ecosystem for science](https://www.oreilly.com/ideas/the-big-data-ecosystem-for-science?imm_mid=0ea74c&cmp=em-data-na-na-newsltr_20161109)
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
+- [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
+- [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
 
 <h2><a name="moocs">MOOCS</a></h2>
+- [Stanford Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Become A Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+- Lists
+    + [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
 - [AWS](https://aws.amazon.com/whitepapers/)
