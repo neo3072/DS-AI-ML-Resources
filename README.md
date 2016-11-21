@@ -93,7 +93,6 @@ Note that resources are listed in no particular order of preference or relevance
 - [Data School resources](http://www.dataschool.io/resources/)
 - [Open Source Data Science Masters](http://datasciencemasters.org/)
 - [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)
-- [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 
 <h2><a name="datasets">Datasets</a></h2>
@@ -342,4 +341,5 @@ An open source and collaborative framework for extracting the data you need from
 <h2><a name="tools-utils">Online Tools and Utilities</a></h2>
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [Scikit-learn's Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
