@@ -18,14 +18,12 @@ Note that resources are listed in no particular order of preference or relevance
 - <a href="#datasets">Datasets</a>
 - <a href="#ides">IDEs</a>
 - <a href="#programming-languages-os">Programming Languages and OS</a>
-- <a href="#database-big-data">Database and Big Data</a>
+- <a href="#database-big-data">Databases, Big Data, and Cloud Services</a>
 - <a href="#platforms-libraries-packages">Platforms, Libraries, and Packages</a>
 - <a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a>
 - <a href="#web-api-devops">Web, API, and DevOps</a>
 - <a href="#books">Books</a>
-- <a href="#tutorials">Tutorials</a>
-- <a href="#articles">Articles</a>
-- <a href="#whitepapers">Whitepapers</a>
+- <a href="#tools-utils">Tutorials</a>
 
 <h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)
@@ -47,6 +45,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
 - [Data science blogs](https://github.com/rushter/data-science-blogs)
+- [Machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses)
 - [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes)
@@ -129,7 +128,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [YAML](http://yaml.org/spec/1.2/spec.html)
 - [Git](https://git-scm.com/documentation)
 
-<h2><a name="database-big-data">Database and Big Data</a></h2>
+<h2><a name="database-big-data">Databases, Big Data, and Cloud Services</a></h2>
 - [AWS](https://aws.amazon.com/documentation/)
     - [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
     - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
@@ -179,6 +178,7 @@ Note that resources are listed in no particular order of preference or relevance
     + [REEF](http://reef.apache.org/introduction.html) - Apache REEF (Retainable Evaluator Execution Framework) is a library for developing portable applications for cluster resource managers such as Apache Hadoop YARN or Apache Mesos
     + [Storm](http://storm.apache.org/index.html) - A free and open source distributed realtime computation system 
     + [Kafka](https://kafka.apache.org/) - A distributed streaming platform
+    + [Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
 - NoSQL
     - [MongoDB](https://docs.mongodb.com/) - NoSQL document store
     - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
@@ -197,20 +197,21 @@ Note that resources are listed in no particular order of preference or relevance
     - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
 - Cache
     - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
-
-<h2><a name="platforms-libraries-packages">Platforms, Libraries, and Packages</a></h2>
-- [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
-- [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html) - A collection of machine learning algorithms for data mining tasks
-- [Theano](http://deeplearning.net/software/theano/) - Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
-- [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html) - Open source software library for numerical computation using data flow graphs
-- [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
-- [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne) - An Amazon developed library for building Deep Learning (DL) machine learning (ML) models
-- [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
-- [Caffe](http://caffe.berkeleyvision.org/) - A deep learning framework made with expression, speed, and modularity in mind
-- [DL4J](https://deeplearning4j.org/) - Open-Source, Distributed, Deep Learning Library for the JVM
 - [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
 - [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
 - [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
+
+<h2><a name="platforms-libraries-packages">Platforms, Libraries, and Packages</a></h2>
+- Deep learning and neural networks
+    + [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
+    + [Caffe](http://caffe.berkeleyvision.org/) - A deep learning framework made with expression, speed, and modularity in mind
+    + [DL4J](https://deeplearning4j.org/) - Open-Source, Distributed, Deep Learning Library for the JVM
+    + [Theano](http://deeplearning.net/software/theano/) - Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
+    + [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html) - Open source software library for numerical computation using data flow graphs
+    + [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne) - An Amazon developed library for building Deep Learning (DL) machine learning (ML) models
+    + [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
+- [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html) - A collection of machine learning algorithms for data mining tasks
+- [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
 - Python
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
@@ -333,47 +334,6 @@ An open source and collaborative framework for extracting the data you need from
 - [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
-<h2><a name="tutorials">Tutorials</a></h2>
-- [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
-
-<h2><a name="articles">Articles</a></h2>
-- [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
-- [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
-- [Data Science Falls Into Many Roles](http://www.forbes.com/sites/rawnshah/2015/10/06/data-science-falls-into-many-roles/)
-- [What’s the Difference Between Data Science Roles?](https://www.betterbuys.com/bi/comparing-data-science-roles/)
-- [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
-- [All the best big data tools and how to use them](https://www.import.io/post/all-the-best-big-data-tools-and-how-to-use-them/)
-- [DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
-- [10+ Machine Learning as a Service Platforms](http://www.butleranalytics.com/10-machine-learning-as-a-service-platforms/)
-- [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
-- [What are the pros and cons of offline vs. online learning?](https://www.quora.com/What-are-the-pros-and-cons-of-offline-vs-online-learning)
-- [Introduction to Online Machine Learning : Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)
-- [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
-- [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
-
-<h2><a name="whitepapers">Whitepapers</a></h2>
-- [AWS](https://aws.amazon.com/whitepapers/)
-    + [Architecting for the Cloud](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
-    + [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
-    + [AWS Storage Services Overview](https://d0.awsstatic.com/whitepapers/Storage/AWS%20Storage%20Services%20Whitepaper-v9.pdf)
-    + [AWS Well-Architected Framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
-    + [Cloud Architectures](https://d0.awsstatic.com/whitepapers/aws-cloud-architectures.pdf)
-    + [Operational Checklists for AWS](https://d0.awsstatic.com/whitepapers/aws-operational-checklists.pdf)
-    + [Robust Random Cut Forest Based Anomaly Detection On Streams](https://d0.awsstatic.com/whitepapers/kinesis-anomaly-detection-on-streaming-data.pdf)
-    + [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
-    + [Lambda Architecture for Batch and RealTime Processing on AWS with Spark Streaming and Spark SQL](https://d0.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf)
-    + [Amazon Kinesis and Apache Storm - Building a Real-Time Sliding-Window Dashboard over Streaming Data](https://d0.awsstatic.com/whitepapers/building-sliding-window-analysis-of-clickstream-data-kinesis.pdf)
-    + [Best Practices for Amazon EMR](https://d0.awsstatic.com/whitepapers/aws-amazon-emr-best-practices.pdf)
-    + [SaaS Storage Strategies - Building a Multitenant Storage Model on AWS](https://d0.awsstatic.com/whitepapers/Multi_Tenant_SaaS_Storage_Strategies.pdf)
-    + [SaaS Solutions on AWS - Tenant Isolation Architectures](https://d0.awsstatic.com/whitepapers/saas-solutions-on-aws-final.pdf)
-    + [Docker on AWS - Running Containers in the Cloud](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)
-    + [Data Warehousing on AWS](https://d0.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf)
-    + [Best Practices for Migrating from RDBMS to Amazon DynamoDB](https://d0.awsstatic.com/whitepapers/migration-best-practices-rdbms-to-dynamodb.pdf)
-    + [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf)
-    + [An Introduction to High Performance Computing on AWS](https://d0.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)
-    + [Core Tenets of IoT](https://d0.awsstatic.com/whitepapers/core-tenets-of-iot1.pdf)
-    + [Hosting Static Websites on AWS](https://d0.awsstatic.com/whitepapers/Storage/Building%20Static%20Websites%20on%20AWS.pdf)
-    + [Web Application Hosting in the AWS Cloud - Best Practices](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)
-    + [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
-    + [Migrating your Existing Applications to the AWS Cloud](https://d0.awsstatic.com/whitepapers/cloud-migration-main.pdf)
+<h2><a name="tools-utils">Online Tools and Utilities</a></h2>
+- [Google AI experiments](https://aiexperiments.withgoogle.com)
 
