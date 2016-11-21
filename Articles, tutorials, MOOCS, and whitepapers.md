@@ -1,6 +1,7 @@
 ## Table of Contents
 - <a href="#articles">Articles</a>
 - <a href="#tutorials">Tutorials</a>
+- <a href="#moocs">MOOCS</a>
 - <a href="#whitepapers">Whitepapers</a>
 
 <h2><a name="articles">Articles</a></h2>
@@ -21,6 +22,9 @@
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
+
+<h2><a name="moocs">MOOCS</a></h2>
+- [Become A Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
 - [AWS](https://aws.amazon.com/whitepapers/)
