@@ -1,4 +1,4 @@
-# Big Data Architectures
+# Cloud and Big Data Architectures
 
 ## Big Data and Analytics Overview
 - [Four V's](http://www.ibmbigdatahub.com/infographic/four-vs-big-data)
