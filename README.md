@@ -7,7 +7,7 @@ Here is a non-exaustive, work in progress repository of resources for data scien
 Note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
-- [README.md](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources)
+- README.md
     - <a href="#blogs">Blogs</a>
     - <a href="#gitHub-repos">GitHub Repos</a>
     - <a href="#notebooks">Notebooks</a>
@@ -23,8 +23,17 @@ Note that links are listed in no particular order of preference or relevance. We
     - <a href="#web-api-devops">Web, API, and DevOps</a>
     - <a href="#books">Books</a>
     - <a href="#tools-utils">Online Tools and Utilities</a>
-- [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
-- [Cloud and Big Data Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Architectures%20-%20Cloud%20and%20big%20data.md)
+- Files
+    + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
+    + [Articles, Tutorials, MOOCS, and Whitepapers](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Articles%2C%20tutorials%2C%20MOOCS%2C%20and%20whitepapers.md)
+    + [Cloud and Big Data Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%20and%20big%20data%20architectures.md)
+    + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
+- Directories
+    + [Articles](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/articles)
+    + [Books](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/books)
+    + [Book Files](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/book-files)
+    + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/cheats)
+    + [Technical Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/technical-reference)
 
 <h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)
