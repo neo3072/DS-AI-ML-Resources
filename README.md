@@ -8,8 +8,6 @@ Resources include all files in this repository, including the links given in thi
 
 Note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
------
-
 <h2><a name="toc">Table of Contents</a></h2>
 - README.md
     - <a href="#blogs">Blogs</a>
@@ -358,6 +356,4 @@ An open source and collaborative framework for extracting the data you need from
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Scikit-learn's Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-
-<a href="http://www.innoarchitech.com/" target="_blank">Test Link</a>
 
