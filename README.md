@@ -26,6 +26,7 @@ Note that links are listed in no particular order of preference or relevance. We
     - <a href="#books">Books</a>
     - <a href="#data-software">Business Intelligence, Data Mining, and Analytics Software</a>
     - <a href="#tools-utils">Online Tools and Utilities</a>
+    - <a href="#gartner">Gartner Magic Quadrants</a>
 - Files
     + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
     + [Articles, Tutorials, MOOCS, and Whitepapers](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Articles%2C%20tutorials%2C%20MOOCS%2C%20and%20whitepapers.md)
@@ -216,6 +217,10 @@ Note that links are listed in no particular order of preference or relevance. We
     - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
 - Cache
     - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
+- Time-series and event data
+    + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/)
+    + [Prometheus](https://prometheus.io/docs/introduction/overview/)
+    + [Druid](http://druid.io/docs/0.9.1.1/design/index.html)
 - [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
 - [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
 - [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
@@ -326,6 +331,9 @@ An open source and collaborative framework for extracting the data you need from
     + [gmodels](https://cran.r-project.org/web/packages/gmodels/index.html) - Various R programming tools for model fitting
     + [rodbc](https://cran.r-project.org/web/packages/RODBC/index.html) - An ODBC database interface
     + [princurve](https://cran.r-project.org/web/packages/princurve/index.html) - Fits a principal curve to a data matrix in arbitrary dimensions
+- Analytics
+    + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
+    + [Snowplow](http://snowplowanalytics.com/guides/)
 
 <h2><a name="cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a></h2>
 - [AWS](https://aws.amazon.com/documentation/)
@@ -366,6 +374,8 @@ An open source and collaborative framework for extracting the data you need from
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
 <h2><a name="data-software">Business Intelligence, Data Mining, and Analytics Software</a></h2>
+- [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)
+- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/)
 - [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
 - [Tableau](http://www.tableau.com/support) - Business intelligence software
 - [RapidMiner](http://docs.rapidminer.com/) - DATA SCIENCE PLATFORM
