@@ -4,13 +4,13 @@ Welcome!
 
 Here is a non-exaustive, work in progress repository of resources for data science, machine learning, artificial intelligence (AI), big data, and more.
 
-Resources include all files in this repository, and include the links given in this file. A hyperlinked table of contents is provided below for your convenience.
+Resources include all files in this repository, including the links given in this file. A hyperlinked <a href="#toc">table of contents</a> is provided below for your convenience.
 
 Note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 -----
 
-## Table of Contents
+<h2><a name="toc">Table of Contents</a></h2>
 - README.md
     - <a href="#blogs">Blogs</a>
     - <a href="#gitHub-repos">GitHub Repos</a>
@@ -359,5 +359,5 @@ An open source and collaborative framework for extracting the data you need from
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Scikit-learn's Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
-<a href="www.google.com" target="_blank">Test Link</a>
+<a href="http://www.innoarchitech.com/" target="_blank">Test Link</a>
 
