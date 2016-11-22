@@ -31,6 +31,7 @@ Note that links are listed in no particular order of preference or relevance. We
     + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
     + [Articles, Tutorials, MOOCS, and Whitepapers](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Articles%2C%20tutorials%2C%20MOOCS%2C%20and%20whitepapers.md)
     + [Cloud and Big Data Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%20and%20big%20data%20architectures.md)
+    + [Hiring](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Hiring.md)
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 - Directories
     + [Articles](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/articles)
