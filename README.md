@@ -1,8 +1,8 @@
-# Data Science, Machine Learning, and Artificial Intelligence Resources
+# Data Science, Machine Learning, Artificial Intelligence, and Big Data Resources
 
 Welcome! 
 
-Here is a non-exaustive, work in progress set of resources for data science, machine learning, artificial intelligence, data and text analytics, and data visualization.
+Here is a non-exaustive, work in progress set of resources for A curated set of resources for data science, machine learning, artificial intelligence (AI), big data, and more.
 
 I've also included links for web and API development, programming languages, DevOps tools, cloud computing, and more.
 
