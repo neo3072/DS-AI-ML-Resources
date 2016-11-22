@@ -24,6 +24,7 @@ Note that links are listed in no particular order of preference or relevance. We
     - <a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a>
     - <a href="#web-api-devops">Web, API, and DevOps</a>
     - <a href="#books">Books</a>
+    - <a href="#data-software">Business Intelligence, Data Mining, and Analytics Software</a>
     - <a href="#tools-utils">Online Tools and Utilities</a>
 - Files
     + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
@@ -142,6 +143,7 @@ Note that links are listed in no particular order of preference or relevance. We
 - [JSON-RPC](http://json-rpc.org/)
 - [YAML](http://yaml.org/spec/1.2/spec.html)
 - [Git](https://git-scm.com/documentation)
+- [Octave](https://www.gnu.org/software/octave/doc/interpreter/) - Scientific programming language
 
 <h2><a name="database-big-data">Databases, Big Data, and Cloud Services</a></h2>
 - [AWS](https://aws.amazon.com/documentation/)
@@ -251,6 +253,16 @@ An open source and collaborative framework for extracting the data you need from
     + [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
     + [NetworkX](http://networkx.github.io/documentation.html) - A Python language software package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
     + [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A Python library for pulling data out of HTML and XML files
+    + [Gensim](http://radimrehurek.com/gensim/) - Python framework for fast Vector Space Modelling
+    + [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox that provides a wide range of unified and efficient Machine Learning (ML) methods
+    + [Chainer](http://docs.chainer.org/en/stable/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks
+    + [NuPIC](http://numenta.org/#docs) - An open source project based on a theory of neocortex called Hierarchical Temporal Memory (HTM)
+    + [Neon](http://neon.nervanasys.com/index.html/) - Python-based deep learning library
+    + [PyMC](https://pymc-devs.github.io/pymc/index.html) - A python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo
+    + [Fuel](https://fuel.readthedocs.io/en/latest/) - A data pipeline framework which provides your machine learning models with the data they need
+    + [PyMVPA](http://www.pymvpa.org/manual.html) - PyMVPA stands for MultiVariate Pattern Analysis (MVPA) in Python
+    + [Deap](http://deap.gel.ulaval.ca/doc/default/index.html) - A novel evolutionary computation framework for rapid prototyping and testing of ideas
+    + [Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - R
     + [General CRAN List - By task](https://cran.r-project.org/web/views/)
     + [General CRAN List - NLP/Text analytics](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
@@ -325,6 +337,7 @@ An open source and collaborative framework for extracting the data you need from
     + [Amazon Simple Email Service (Amazon SES)](https://aws.amazon.com/documentation/ses/) - Reliable, cost-effective email platform
     + [Amazon Simple Queue Service (SQS)](https://aws.amazon.com/documentation/sqs/) - A fast, reliable, scalable, fully managed message queuing service
 - [Google Cloud Platform](https://cloud.google.com/docs/)
+- [Microsoft](https://docs.microsoft.com/en-us/azure/)
 - [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
 <h2><a name="web-api-devops">Web, API, and DevOps</a></h2>
@@ -352,8 +365,26 @@ An open source and collaborative framework for extracting the data you need from
 - [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
+<h2><a name="data-software">Business Intelligence, Data Mining, and Analytics Software</a></h2>
+- [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
+- [Tableau](http://www.tableau.com/support) - Business intelligence software
+- [RapidMiner](http://docs.rapidminer.com/) - DATA SCIENCE PLATFORM
+- [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
+- [SAS](https://support.sas.com/documentation/) - Business intelligence software
+- Qlik
+- Microsoft Power BI
+- Alteryx
+- SAP
+- KNIME
+
 <h2><a name="tools-utils">Online Tools and Utilities</a></h2>
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Scikit-learn's Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [RapidMiner Machine Learning Algorithm Reference Guide](http://mod.rapidminer.com/#app)
+
+<h2><a name="gartner">Gartner Magic Quadrants</a></h2>
+- [Magic Quadrant for Business Intelligence and Analytics Platforms](https://www.gartner.com/doc/reprints?id=1-2XXET8P&ct=160204)
+- [Magic Quadrant for Cloud Infrastructure as a Service, Worldwide](https://www.gartner.com/doc/reprints?id=1-2G2O5FC&ct=150519)
+- [Magic Quadrant for Advanced Analytics Platforms](https://www.gartner.com/doc/reprints?id=1-2YEIILW&ct=160210&st=sb)
 
