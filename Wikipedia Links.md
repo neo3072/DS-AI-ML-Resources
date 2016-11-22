@@ -34,6 +34,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)
 - [Hidden markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - [Forecasting](https://en.wikipedia.org/wiki/Forecasting)
+- [Semantic analysis]('https://en.wikipedia.org/wiki/Semantic_analysis_(machine_learning)')
 - [Predictive analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [Predictive modeling](https://en.wikipedia.org/wiki/Predictive_modelling)
 - [Prescriptive analytics](https://en.wikipedia.org/wiki/Prescriptive_analytics)
@@ -48,6 +49,9 @@ Note that some links are categorized according to my determination of best fit s
 - [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 - [Text analytics](https://en.wikipedia.org/wiki/Text_mining)
 - [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
+- [Network theory](https://en.wikipedia.org/wiki/Network_theory)
+- [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+- [Pattern matching](https://en.wikipedia.org/wiki/Pattern_matching)
 
 ## Artificial Intelligence
 - [Artificial intelligence portal](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
@@ -81,6 +85,18 @@ Note that some links are categorized according to my determination of best fit s
 ## Big Data and IoT
 - [Big Data](https://en.wikipedia.org/wiki/Big_data)
 - [Information of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
+- [Complex event processing](https://en.wikipedia.org/wiki/Complex_event_processing)
+- [Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+
+## Data Storage, Querying, and CRUD
+- [Data warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
+- [Data lake](https://en.wikipedia.org/wiki/Data_lake)
+- [Data mart](https://en.wikipedia.org/wiki/Data_mart)
+- [Operational data store](https://en.wikipedia.org/wiki/Operational_data_store)
+- [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+- [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing)
+- [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing)
+- [Federated database system](https://en.wikipedia.org/wiki/Federated_database_system)
 
 ## Optimization
 - [Mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
@@ -100,6 +116,9 @@ Note that some links are categorized according to my determination of best fit s
 ## Computer Science and Information Theory
 - [Computer science portal](https://en.wikipedia.org/wiki/Portal:Computer_science)
 - [Information theory](https://en.wikipedia.org/wiki/Information_theory)
+
+## Software Architecture and Design Patterns
+- [Multitenancy](https://en.wikipedia.org/wiki/Multitenancy)
 
 ## Signal processing
 - [Digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing)
