@@ -2,9 +2,9 @@
 
 Welcome! 
 
-Here is a non-exaustive, work in progress set of resources for data science, machine learning, artificial intelligence (AI), big data, and more.
+Here is a non-exaustive, work in progress repository of resources for data science, machine learning, artificial intelligence (AI), big data, and more.
 
-Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
+Note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
 - <a href="#blogs">Blogs</a>
