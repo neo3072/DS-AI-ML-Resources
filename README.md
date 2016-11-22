@@ -4,7 +4,11 @@ Welcome!
 
 Here is a non-exaustive, work in progress repository of resources for data science, machine learning, artificial intelligence (AI), big data, and more.
 
+Resources include all files in this repository, and include the links given in this file. A hyperlinked table of contents is provided below for your convenience.
+
 Note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
+
+-----
 
 ## Table of Contents
 - README.md
@@ -34,6 +38,8 @@ Note that links are listed in no particular order of preference or relevance. We
     + [Book Files](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/book-files)
     + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/cheats)
     + [Technical Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/technical-reference)
+
+-----
 
 <h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)
@@ -352,4 +358,6 @@ An open source and collaborative framework for extracting the data you need from
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Scikit-learn's Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
+<a href="www.google.com" target="_blank">Test Link</a>
 
