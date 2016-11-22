@@ -34,7 +34,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Sensitivity analysis](https://en.wikipedia.org/wiki/Sensitivity_analysis)
 - [Hidden markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - [Forecasting](https://en.wikipedia.org/wiki/Forecasting)
-- [Semantic analysis]('https://en.wikipedia.org/wiki/Semantic_analysis_(machine_learning)')
+- [Semantic analysis](https://en.wikipedia.org/wiki/Semantic_analysis_(machine_learning))
 - [Predictive analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
 - [Predictive modeling](https://en.wikipedia.org/wiki/Predictive_modelling)
 - [Prescriptive analytics](https://en.wikipedia.org/wiki/Prescriptive_analytics)
