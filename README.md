@@ -4,8 +4,6 @@ Welcome!
 
 Here is a non-exaustive, work in progress set of resources for A curated set of resources for data science, machine learning, artificial intelligence (AI), big data, and more.
 
-I've also included links for web and API development, programming languages, DevOps tools, cloud computing, and more.
-
 Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
