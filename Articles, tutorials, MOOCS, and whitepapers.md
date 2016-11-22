@@ -22,6 +22,7 @@
 - [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_48)
 - [The big data ecosystem for science](https://www.oreilly.com/ideas/the-big-data-ecosystem-for-science?imm_mid=0ea74c&cmp=em-data-na-na-newsltr_20161109)
 - [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
+- [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)

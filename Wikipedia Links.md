@@ -7,6 +7,7 @@ Note that some links are categorized according to my determination of best fit s
 ## Statistics and Analysis
 - [Statistics portal](https://en.wikipedia.org/wiki/Portal:Statistics)
 - [ANOVA - Analysis of variance](https://en.m.wikipedia.org/wiki/Analysis_of_variance)
+- [Statistics](https://en.wikipedia.org/wiki/Statistics)
 - [Statistical model](https://en.wikipedia.org/wiki/Statistical_model)
 - [Statistical inference](https://en.wikipedia.org/wiki/Statistical_inference)
 - [Markov chain](https://en.wikipedia.org/wiki/Markov_chain)
@@ -21,7 +22,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Outlier](https://en.wikipedia.org/wiki/Outlier)
 - [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
-## Data Science, Data Mining, and Analytics
+## Data Science, Data Mining, and Advanced Analytics
 - [Machine learning portal](https://en.wikipedia.org/wiki/Portal:Machine_learning)
 - [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 - [Data science](https://en.wikipedia.org/wiki/Data_science)
@@ -34,6 +35,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Hidden markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 - [Forecasting](https://en.wikipedia.org/wiki/Forecasting)
 - [Predictive analytics](https://en.wikipedia.org/wiki/Predictive_analytics)
+- [Predictive modeling](https://en.wikipedia.org/wiki/Predictive_modelling)
 - [Prescriptive analytics](https://en.wikipedia.org/wiki/Prescriptive_analytics)
 - [Data mining](https://en.wikipedia.org/wiki/Data_mining)
 - [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning)
@@ -45,6 +47,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Anamoly detection](https://en.wikipedia.org/wiki/Anomaly_detection)
 - [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 - [Text analytics](https://en.wikipedia.org/wiki/Text_mining)
+- [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
 
 ## Artificial Intelligence
 - [Artificial intelligence portal](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
