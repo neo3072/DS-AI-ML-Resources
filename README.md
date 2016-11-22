@@ -7,21 +7,24 @@ Here is a non-exaustive, work in progress repository of resources for data scien
 Note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
-- <a href="#blogs">Blogs</a>
-- <a href="#gitHub-repos">GitHub Repos</a>
-- <a href="#notebooks">Notebooks</a>
-- <a href="#book-resources">Book Resources</a>
-- <a href="#cheats">Cheats</a>
-- <a href="#web-resources">Web Resources</a>
-- <a href="#datasets">Datasets</a>
-- <a href="#ides">IDEs</a>
-- <a href="#programming-languages-os">Programming Languages and OS</a>
-- <a href="#database-big-data">Databases, Big Data, and Cloud Services</a>
-- <a href="#platforms-libraries-packages">Platforms, Libraries, and Packages</a>
-- <a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a>
-- <a href="#web-api-devops">Web, API, and DevOps</a>
-- <a href="#books">Books</a>
-- <a href="#tools-utils">Online Tools and Utilities</a>
+- [README.md](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources)
+    - <a href="#blogs">Blogs</a>
+    - <a href="#gitHub-repos">GitHub Repos</a>
+    - <a href="#notebooks">Notebooks</a>
+    - <a href="#book-resources">Book Resources</a>
+    - <a href="#cheats">Cheats</a>
+    - <a href="#web-resources">Web Resources</a>
+    - <a href="#datasets">Datasets</a>
+    - <a href="#ides">IDEs</a>
+    - <a href="#programming-languages-os">Programming Languages and OS</a>
+    - <a href="#database-big-data">Databases, Big Data, and Cloud Services</a>
+    - <a href="#platforms-libraries-packages">Platforms, Libraries, and Packages</a>
+    - <a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a>
+    - <a href="#web-api-devops">Web, API, and DevOps</a>
+    - <a href="#books">Books</a>
+    - <a href="#tools-utils">Online Tools and Utilities</a>
+- [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
+- [Cloud and Big Data Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Architectures%20-%20Cloud%20and%20big%20data.md)
 
 <h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)
