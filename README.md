@@ -12,7 +12,6 @@ Note that links are listed in no particular order of preference or relevance. We
 - README.md
     - <a href="#blogs">Blogs</a>
     - <a href="#gitHub-repos">GitHub Repos</a>
-    - <a href="#book-resources">Book Resources</a>
     - <a href="#cheats">Cheats</a>
     - <a href="#web-resources">Web Resources</a>
     - <a href="#datasets">Datasets</a>
@@ -86,14 +85,13 @@ Note that links are listed in no particular order of preference or relevance. We
     + [machine_learning](https://github.com/masinoa/machine_learning)
     + [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
     + [Spark Notebook](https://github.com/andypetrella/spark-notebook)
-
-<h2><a name="book-resources">Book Resources</a></h2>
-- [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
-- [Python Machine Learning book FAQ](https://github.com/rasbt/python-machine-learning-book/tree/master/faq)
-- [Learning-Predictive-Analytics-with-R](https://github.com/PacktPublishing/Learning-Predictive-Analytics-with-R)
-- [Data Science from Scratch book resources](https://github.com/joelgrus/data-science-from-scratch)
-- [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
-- [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
+- Book Resources
+    + [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
+    + [Python Machine Learning book FAQ](https://github.com/rasbt/python-machine-learning-book/tree/master/faq)
+    + [Learning-Predictive-Analytics-with-R](https://github.com/PacktPublishing/Learning-Predictive-Analytics-with-R)
+    + [Data Science from Scratch book resources](https://github.com/joelgrus/data-science-from-scratch)
+    + [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
+    + [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 <h2><a name="cheats">Cheats</a></h2>
 - [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
