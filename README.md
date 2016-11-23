@@ -12,7 +12,6 @@ Note that links are listed in no particular order of preference or relevance. We
 - README.md
     - <a href="#blogs">Blogs</a>
     - <a href="#gitHub-repos">GitHub Repos</a>
-    - <a href="#notebooks">Notebooks</a>
     - <a href="#book-resources">Book Resources</a>
     - <a href="#cheats">Cheats</a>
     - <a href="#web-resources">Web Resources</a>
@@ -81,13 +80,12 @@ Note that links are listed in no particular order of preference or relevance. We
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)
 - [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
-
-<h2><a name="notebooks">Notebooks</a></h2>
-- [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
-- [machine_learning](https://github.com/masinoa/machine_learning)
-- [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
-- [Spark Notebook](https://github.com/andypetrella/spark-notebook)
+- Notebooks
+    + [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+    + [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+    + [machine_learning](https://github.com/masinoa/machine_learning)
+    + [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
+    + [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 
 <h2><a name="book-resources">Book Resources</a></h2>
 - [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
@@ -105,13 +103,13 @@ Note that links are listed in no particular order of preference or relevance. We
 - [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
 - [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
 - [MIT Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
+- [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 
 <h2><a name="web-resources">Web Resources</a></h2>
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
 - [Data School resources](http://www.dataschool.io/resources/)
 - [Open Source Data Science Masters](http://datasciencemasters.org/)
 - [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)
-- [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 
 <h2><a name="datasets">Datasets</a></h2>
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
