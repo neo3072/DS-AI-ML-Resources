@@ -199,23 +199,47 @@ Note that links are listed in no particular order of preference or relevance. We
     + [Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
     + [JMeter](http://jmeter.apache.org/) - Java application designed to load test functional behavior and measure performance
 - NoSQL
-    - [MongoDB](https://docs.mongodb.com/) - NoSQL document store
-    - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
-    - [BigTable](https://cloud.google.com/bigtable/docs/) - Fast, fully managed, massively scalable NoSQL database service
-    - [Neo4j](https://neo4j.com/docs/) - World's fastest and most scalable graph database
-    - [CouchBase](http://developer.couchbase.com/documentation-archive) - A document database with a SQL-based query language that is engineered to deliver performance at scale
-    - [Cassandra](http://cassandra.apache.org/doc/latest/) - Free and open-source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure
-    - [Riak](https://docs.basho.com/) - Distributed NoSQL Database
-    - [CouchDB](http://docs.couchdb.org/en/2.0.0/) - NoSQL document store
+    + Document
+        + [MongoDB](https://docs.mongodb.com/) - NoSQL document store
+        + [CouchBase](http://developer.couchbase.com/documentation-archive) - A document database with a SQL-based query language that is engineered to deliver performance at scale
+        + [CouchDB](http://docs.couchdb.org/en/2.0.0/) - NoSQL document store
+        + DynamoDB
+        + RethinkDB
+        + Azure's DocumentDB
+    + Column and wide-column (Big-table style)
+        + [BigTable](https://cloud.google.com/bigtable/docs/) - Fast, fully managed, massively scalable NoSQL database service
+        + [Cassandra](http://cassandra.apache.org/doc/latest/) - Free and open-source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure
+        + Druid
+        + HyperTable
+        + HBase
+    + Key-value
+        + [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
+        + [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
+        + [Riak](https://docs.basho.com/) - Distributed NoSQL Database
+        + DynamoDB
+        + BerkelyDB
+        + Azure Table Storage (ATS)
+    + Graph
+        + [Neo4j](https://neo4j.com/docs/) - World's fastest and most scalable graph database
+        + Titan
+        * OrientDB
+        * FlockDB
 - RDBMS
+    + [AWS RDS](https://aws.amazon.com/documentation/rds/)
     + [MySQL](https://dev.mysql.com/doc/) - Open source RDBMS
     + [PostgreSQL](https://www.postgresql.org/docs/) - Open-source Object-Relational DBMS supporting almost all SQL constructs
+    + [SQLite](https://www.sqlite.org/docs.html)
+    + Oracle
+    + SQL Server
 - Static storage
     - [S3](https://aws.amazon.com/documentation/s3/) - Simple, durable, massively scalable object storage
 - Search and full-text
     - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
+    - Apache Lucene
+    - Apache Solr
 - Cache
     - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
+    - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
 - Time-series and event data
     + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/)
     + [Prometheus](https://prometheus.io/docs/introduction/overview/)
@@ -385,6 +409,9 @@ An open source and collaborative framework for extracting the data you need from
 - Alteryx
 - SAP
 - KNIME
+- Karmasphere
+- Talend
+- Splunk
 
 <h2><a name="tools-utils">Online Tools and Utilities</a></h2>
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
