@@ -125,6 +125,9 @@ Note that links are listed in no particular order of preference or relevance. We
 <h2><a name="ides">IDEs</a></h2>
 - [Sublime Text](https://www.sublimetext.com/)
 - [R Studio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
+- [R Studio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
+- [Rodeo](http://rodeo.yhat.com/docs/)
+- [Spyder](https://pythonhosted.org/spyder/)
 
 <h2><a name="programming-languages-os">Programming Languages and OS</a></h2>
 - [Python](https://docs.python.org/3/)
@@ -224,10 +227,10 @@ Note that links are listed in no particular order of preference or relevance. We
         + [Titan](https://github.com/thinkaurelius/titan) - A highly scalable graph database optimized for storing and querying large graphs with billions of vertices and edges distributed across a multi-machine cluster
         * [OrientDB](http://orientdb.com/docs/last/) - A document-graph database, meaning it has full native graph capabilities coupled with features normally only found in document databases
 - RDBMS
-    + [AWS RDS](https://aws.amazon.com/documentation/rds/)
+    + [AWS RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
     + [MySQL](https://dev.mysql.com/doc/) - Open source RDBMS
     + [PostgreSQL](https://www.postgresql.org/docs/) - Open-source Object-Relational DBMS supporting almost all SQL constructs
-    + [SQLite](https://www.sqlite.org/docs.html)
+    + [SQLite](https://www.sqlite.org/docs.html) - A self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine
     + [Oracle Database](http://www.oracle.com/technetwork/database/index.html)
     + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
 - Static storage
@@ -241,9 +244,9 @@ Note that links are listed in no particular order of preference or relevance. We
     - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
     - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
 - Time-series and event data
-    + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/)
-    + [Prometheus](https://prometheus.io/docs/introduction/overview/)
-    + [Druid](http://druid.io/docs/0.9.1.1/design/index.html)
+    + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/) - A time series database built from the ground up to handle high write and query loads
+    + [Prometheus](https://prometheus.io/docs/introduction/overview/) - An open-source systems monitoring and alerting toolkit originally built at SoundCloud
+    + [Druid](http://druid.io/docs/0.9.1.1/design/index.html) - An open source data store designed for OLAP queries on event data
 - Cloud services and APIs
     + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
     + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
@@ -260,6 +263,7 @@ Note that links are listed in no particular order of preference or relevance. We
     + [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
 - [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html) - A collection of machine learning algorithms for data mining tasks
 - [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
+- [Python(x,y)](http://python-xy.github.io/) - A free scientific and engineering development software for numerical computations, data analysis and data visualization based on Python programming language, Qt graphical user interfaces and Spyder interactive scientific development environment
 - Python
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
@@ -405,14 +409,13 @@ An open source and collaborative framework for extracting the data you need from
 - [RapidMiner](http://docs.rapidminer.com/) - DATA SCIENCE PLATFORM
 - [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
 - [SAS](https://support.sas.com/documentation/) - Business intelligence software
-- Qlik
-- Microsoft Power BI
-- Alteryx
-- SAP
-- KNIME
-- Karmasphere
-- Talend
-- Splunk
+- [Qlik](https://help.qlik.com/) - Business intelligence software
+- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
+- [Alteryx](http://downloads.alteryx.com/documentation.html)
+- [SAP](https://support.sap.com/documentation.html)
+- [KNIME](https://tech.knime.org/documentation)
+- [Talend](https://help.talend.com/display/HOME/Current+Documentation)
+- [Splunk](http://docs.splunk.com/Documentation)
 
 <h2><a name="tools-utils">Online Tools and Utilities</a></h2>
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
