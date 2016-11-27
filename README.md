@@ -203,40 +203,40 @@ Note that links are listed in no particular order of preference or relevance. We
         + [MongoDB](https://docs.mongodb.com/) - NoSQL document store
         + [CouchBase](http://developer.couchbase.com/documentation-archive) - A document database with a SQL-based query language that is engineered to deliver performance at scale
         + [CouchDB](http://docs.couchdb.org/en/2.0.0/) - NoSQL document store
-        + DynamoDB
-        + RethinkDB
-        + Azure's DocumentDB
+        + [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability
+        + [RethinkDB](https://rethinkdb.com/docs/) - RethinkDB is the open-source, scalable database that makes building realtime apps dramatically easier
+        + [Azure's DocumentDB](https://docs.microsoft.com/en-us/azure/documentdb/) - A fully managed NoSQL database service built for fast and predictable performance, high availability, elastic scaling, global distribution, and ease of development
     + Column and wide-column (Big-table style)
         + [BigTable](https://cloud.google.com/bigtable/docs/) - Fast, fully managed, massively scalable NoSQL database service
         + [Cassandra](http://cassandra.apache.org/doc/latest/) - Free and open-source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure
-        + Druid
-        + HyperTable
-        + HBase
+        + [Druid](http://druid.io/docs/latest/design/index.html) - An open source data store designed for OLAP queries on event data
+        + [HyperTable](http://www.hypertable.com/documentation/) - A high performance, open source, massively scalable database modeled after Bigtable
+        + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
+        + [SimpleDB](https://aws.amazon.com/documentation/simpledb/) - A highly available, scalable, and flexible non-relational data store that enables you to store and query data items using web services requests
     + Key-value
         + [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
         + [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
         + [Riak](https://docs.basho.com/) - Distributed NoSQL Database
-        + DynamoDB
-        + BerkelyDB
-        + Azure Table Storage (ATS)
+        + [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability
+        + [Azure Table Storage (ATS)](https://docs.microsoft.com/en-us/azure/storage/)
     + Graph
         + [Neo4j](https://neo4j.com/docs/) - World's fastest and most scalable graph database
-        + Titan
-        * OrientDB
-        * FlockDB
+        + [Titan](https://github.com/thinkaurelius/titan) - A highly scalable graph database optimized for storing and querying large graphs with billions of vertices and edges distributed across a multi-machine cluster
+        * [OrientDB](http://orientdb.com/docs/last/) - A document-graph database, meaning it has full native graph capabilities coupled with features normally only found in document databases
 - RDBMS
     + [AWS RDS](https://aws.amazon.com/documentation/rds/)
     + [MySQL](https://dev.mysql.com/doc/) - Open source RDBMS
     + [PostgreSQL](https://www.postgresql.org/docs/) - Open-source Object-Relational DBMS supporting almost all SQL constructs
     + [SQLite](https://www.sqlite.org/docs.html)
-    + Oracle
-    + SQL Server
+    + [Oracle Database](http://www.oracle.com/technetwork/database/index.html)
+    + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
 - Static storage
     - [S3](https://aws.amazon.com/documentation/s3/) - Simple, durable, massively scalable object storage
 - Search and full-text
     - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
-    - Apache Lucene
-    - Apache Solr
+    - [Apache Lucene](https://lucene.apache.org/core/documentation.html) - Java-based indexing and search technology, as well as spellchecking, hit highlighting and advanced analysis/tokenization capabilities
+    - [Apache Solr](http://lucene.apache.org/solr/resources.html#documentation) - A high performance search server built using Lucene Core, with XML/HTTP and JSON/Python/Ruby APIs, hit highlighting, faceted search, caching, replication, and a web admin interface
+    - [PyLucene](http://lucene.apache.org/pylucene/features.html) - A Python port of the Lucene Core project
 - Cache
     - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
     - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
@@ -244,9 +244,10 @@ Note that links are listed in no particular order of preference or relevance. We
     + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/)
     + [Prometheus](https://prometheus.io/docs/introduction/overview/)
     + [Druid](http://druid.io/docs/0.9.1.1/design/index.html)
-- [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
-- [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
-- [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
+- Cloud services and APIs
+    + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
+    + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
+    + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
 
 <h2><a name="platforms-libraries-packages">Platforms, Libraries, and Packages</a></h2>
 - Deep learning and neural networks
