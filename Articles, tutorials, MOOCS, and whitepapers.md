@@ -23,6 +23,7 @@
 - [The big data ecosystem for science](https://www.oreilly.com/ideas/the-big-data-ecosystem-for-science?imm_mid=0ea74c&cmp=em-data-na-na-newsltr_20161109)
 - [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
 - [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+- [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
