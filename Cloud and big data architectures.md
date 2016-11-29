@@ -16,17 +16,7 @@
     - API or RPC or REST
     - Deployed trained models (batch) vs. [real-time/streaming/online machine learning](https://en.wikipedia.org/wiki/Online_machine_learning)
     - Reliable quality data
-- Solution elements
-    + Data sources: real time measurement, events, IoT, and so on
-    + Raw data extraction, collection, and ingestion
-    + Data preparation, processing, cleaning, normalization, and standardization
-    + Data transformation and aggregation
-    + Data storage
-    + Data comsumption, visualization, and analysis
-    + Prediction and prescription
-    + Asynchronous messaging
-    + Actionable insights
-    + Deployed model monitoring and performance measurement
+- [Solution elements]()
 - Data Analytics
     + Descriptive analytics - What happened and why?
     + Predictive analytics - What is the probability of something happening?

@@ -24,6 +24,8 @@
 - [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
 - [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 - [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+- Data science processes and deliverables
+    + 
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
