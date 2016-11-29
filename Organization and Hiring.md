@@ -1,10 +1,41 @@
 # Hiring
 
 <h2><a name="toc">Table of Contents</a></h2>
+- <a href="#roles">Roles</a>
+- <a href="#skills">Data Science Skills</a>
+- <a href="#org-structure">Organization Structure</a>
 - <a href="#ex-process">Example Process</a>
 - <a href="#interview-q">Interview Questions</a>
 - <a href="#articles">Articles</a>
 - <a href="#projects">Take Home Projects</a>
+
+<h2><a name="roles">Roles</a></h2>
+- Chief Executive Officer - CEO
+- Chief Data Officer - CDO
+- Chief Analytics Officer - CAO
+- VP of Data Science
+- Director of Data Science
+- Lead Data Scientist
+- Senior Data Scientist
+- Data Scientist
+- Analyst
+
+<h2><a name="skills">Data Science Skills</a></h2>
+- Foundational
+    + Domain expertise
+    + Computer science
+    + Mathematics and statistics, including algorithms (ML, AI, ...)
+- Qualities
+    + Curiosity
+    + Creativity
+    + Focus
+    + Attention to detail
+
+<h2><a name="org-structure">Organization Structure</a></h2>
+- [Data Science Operating Models (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
+    + Centralized
+    + Deployed
+    + Diffused
 
 <h2><a name="ex-process">Example Hiring Process</a></h2>
 - Phone interview
@@ -26,3 +57,6 @@
 <h2><a name="projects">Take Home Projects</a></h2>
 
 Coming soon...
+
+## References
+- The Field Guide to Data Science (Booz, Allen, Hamilton)

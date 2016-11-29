@@ -7,17 +7,30 @@
     + Typical data science goals
         * Turning data into actions
         * Build data products providing actionable information while abstracting away technical details, data, and analytics
+        * Question discovery
         * Improving products for user benefit and experience
         * Driving business decisions and solutions
         * Automated decision making, predictions, recommendations, and insights
         * Inform strategic decisions
         * Inform product changes and drive company KPIs
         * Shift from HiPPO decision making to data-driven decision making
-        * Shifting from deductive (hypothesis-based) to inductive (pattern- based) reasoning.
-        * Competitive advantage, differentiation, and future-proofing
+        * Competitive advantage, differentiation, future-proofing, and opportunity costs
+        * Complement business intelligence functions
+        * Predict and advise
+        * Grow data economy wealth
+        * Increase ROI and ROA
+        * Shifting between deductive (hypothesis-based) and inductive (pattern- based) reasoning (ref. Booz, Allen, Hamilton)
+            - Deductive
+                + Formulate hypotheses about relationships and underlying models
+                + Carry out experiments with the data to test hypotheses and models
+            - Inductive
+                + Exploratory data analysis to discover or refine hypotheses
+                + Discover new relationships, insights and analytic paths from the data
 - Determine the type of problem and type of solution required
 - Data instrumentation, acquisition, collection, extraction, merging/joining, ETL, storage, and pipeline architecture/development
     + Data sources: raw data, real time measurement, events, IoT, and so on
+    + Data warehouse or data lake
+        * Data lake eliminates need for ETL according to Booz, Allen, and Hamilton
 - Data munging/wrangling
     - Data parsing, cleaning, and tidying
     - Outlier detection and handling
@@ -98,7 +111,7 @@
         * Text and optical character
         * Pattern
         * Audio
-        * Facial
+        * Facial    
         * Handwriting
     + Text analytics
         * Sentiment analysis
@@ -122,6 +135,12 @@
 ## Process Models
 - [Ask, Get, Explore, Model, Communicate and visualize results](http://www.datascientists.net/what-is-data-science)
 - [Sample, Explore, Modify, Model, and Assess - SEMMA](https://en.wikipedia.org/wiki/SEMMA)
+- [Acquire, Prepare, Analyze, Act (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
+    + Analyze stage (iterate evaluation)
+        * Setup
+        * Try
+        * Do
+- [The Data Science Maturity Model: Collect, Describe, Discover, Predict, Advise (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
 - [Cross Industry Standard Process for Data Mining - CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
     + [CRISP Visual Guide](https://exde.files.wordpress.com/2009/03/crisp_visualguide.pdf)
 - [Knowledge Discovery in Databases - KDD](https://en.wikipedia.org/wiki/Data_mining#Process)
@@ -133,3 +152,6 @@
 
 ## Statistics
 Coming soon...
+
+## References
+- The Field Guide to Data Science (Booz, Allen, Hamilton)
