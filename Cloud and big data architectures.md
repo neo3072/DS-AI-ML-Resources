@@ -5,7 +5,9 @@
     + Volume - Scale of data
     + Variety - Different forms of data
     + Velocity - Analysis of streaming data
-    + Veracity - Uncertainty of data
+    + Veracity - Overall quality and correctness of the data
+        * Garbage in, garbage out
+        * Assess the truthfulness and accuracy of the data as well as identify missing or incomplete information
 - Additional V's
     + Visualization
     + Value

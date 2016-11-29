@@ -1,6 +1,6 @@
 # Data Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
 
-## Data Science Components
+## Data Science Components and Considerations
 - Data types
     + Structured data
     + Unstructured data
@@ -38,6 +38,8 @@
     + Scheduling
         * Streaming execution
         * Batch execution
+- Key considerations
+    + Curse of dimensionality
 
 ## Data Science Process (non-linear, iterative, and cyclical)
 - Domain discovery, goal identification, and question development
@@ -72,12 +74,35 @@
         * Data lake eliminates need for ETL according to Booz, Allen, and Hamilton
 - Data munging/wrangling
     - Data parsing, cleaning, and tidying
-    - Outlier detection and handling
     - Data processing, transformation, and aggregation
         + Includes feature scaling, normalization, and/or standardization
         + Categorical feature transformation and dummy variables
+        + Deduplication
+        + Format conversion
+        + Frequency space
+            * Fast fourier transform (FFT)
+            * Discrete wavelet transform
+        + Euclidian space
+            * Coordinate transform
+    - Data filtering
+        + Outlier detection and removal
+        + Exponential smoothing
+        + Gaussian filter
+        + Median filter
+    - Imputation
+        + Generate values for other observations in dataset
+            * Random sampling
+            * Markov chain monte carlo
+        + Without other observations
+            * Mean
+            * Statistical distributions
+            * Regression models
+    - Data deletion
 - Data consumption, exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
-- Feature selection and feature engineering
+- Feature extraction, feature selection, and feature engineering
+    + Wrapper methods
+    + Sensitivity analysis
+    + PCA
 - Performance metric selection. Examples:
     + MSE and RMSE
     + R squared (aka explained variance)
@@ -91,6 +116,18 @@
 - Model selection, training, evaluation, validation, complexity reduction, and tuning
     + Iterative process and involves revisiting previous stages, including model selection
     + Model complexity reduction via subset selection, shrinkage methods, regularization (e.g., ridge regression and lasso), and dimensionality reduction
+        * Dimensionality reduction
+            - PCA
+            - Factor analysis
+            - K-means clustering
+            - Canopy clustering
+            - Feature hashing
+            - Wrapper methods
+            - Sensitivity analysis
+            - Self organizing maps
+            - Text data
+                + Term frequency (TF)
+                + Inverse document frequency (IDF)
     + Ensemble methods exploration and implementation as needed for performance goals (e.g., bagging, boosting, model averaging, weak learner theory, random forests, ...)
     + Model validation, resampling methods, and selection
         + Cross-validation
@@ -126,6 +163,9 @@
     + Skew and kurtosis
     + Quartiles
     + Distribution
+    + Count
+    + Range
+    + Plots
 - Asynchronous messaging, notifications, insights, and alerts
 - Deployed batch and/or real-time solution (e.g., analytics models and algorithms), potentially including monitoring, performance measurement, analytics, dashboards, and reporting
 - Analytics

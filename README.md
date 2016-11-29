@@ -4,7 +4,7 @@ Welcome!
 
 Here is a non-exaustive, work in progress repository of resources for data science, machine learning, artificial intelligence (AI), big data, and more. 
 
-I've developed this set of resources for my [InnoArchiTech blog](http://www.innoarchitech.com/) writing, and for my personal learning and development.
+I've developed this set of resources for my [InnoArchiTech blog](http://www.innoarchitech.com/) writing, and for my personal learning, development, and use.
 
 Resources include all files in this repository, including the links given in this file. A hyperlinked <a href="#toc">table of contents</a> is provided below for your convenience.
 
