@@ -4,7 +4,7 @@
 - Domain discovery, goal identification, and question development
     + Drives mapping the problem space to the solution space
 - Determine the type of problem and type of solution required
-- Data extraction, collection, ETL, and pipeline architecture/development
+- Data collection, extraction, merging/joining, ETL, and pipeline architecture/development
     + Data sources: raw data, real time measurement, events, IoT, and so on
 - Data munging/wrangling
     - Data parsing, cleaning, and tidying
@@ -13,7 +13,7 @@
         + Includes feature scaling, normalization, and/or standardization
         + Categorical feature transformation and dummy variables
 - Feature selection and feature engineering
-- Data comsumption, exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
+- Data consumption, exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
 - Performance metric selection. Examples:
     + MSE and RMSE
     + R squared (aka explained variance)
@@ -27,7 +27,7 @@
 - Model selection, training, evaluation, validation, complexity reduction, and tuning
     + Iterative process and involves revisiting previous stages, including model selection
     + Model complexity reduction via subset selection, shrinkage methods, regularization (e.g., ridge regression and lasso), and dimensionality reduction
-    + Ensemble methods exploration and implementation as needed for performance goals (e.g., bagging, boosting, random forests, and so on)
+    + Ensemble methods exploration and implementation as needed for performance goals (e.g., bagging, boosting, model averaging, weak learner theory, random forests, ...)
     + Model validation, resampling methods, and selection
         + Cross-validation
         + Bootstrap
@@ -51,8 +51,15 @@
     + Dashboards
     + Visualizations
 - Statistical analysis
+    + Sensitivity
+    + Correlation
+    + Variance and standard deviation
+    + Mean, median, and mode
+    + Skew and kurtosis
+    + Quartiles
+    + Distribution
 - Asynchronous messaging, notifications, insights, and alerts
-- Deployed solution (e.g., analytics models and algorithms), including monitoring and performance measurement
+- Deployed batch and/or real-time solution (e.g., analytics models and algorithms), potentially including monitoring, performance measurement, analytics, dashboards, and reporting
 - Analytics
     + Descriptive analytics - What happened and why?
     + Predictive analytics - What is the probability of something happening?
@@ -65,7 +72,7 @@
             - Univariate and multivariate
         * Anomoly detection
     + Unsupervised learning
-        * Clustering
+        * Clustering, grouping, and characterizations
         * Anomoly detection
     + Recommendation systems (aka recommendation engine)
     + Recognition
@@ -82,6 +89,14 @@
         * Word clouds
         * NLP, NLG, NLU
     + Reinforcement learning
+    + Probability estimates and likelihoods
+- Optimization
+    + Minimum
+    + Maximun
+    + Optimal value or optimal combination
+- Segmentation
+- Forecasts
+- Risk analysis
 - Optimization and response surface models (RSM) for design of experiments (DOE) projects
 
 ## Process Models
