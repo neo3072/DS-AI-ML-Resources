@@ -180,6 +180,34 @@
         * Try
         * Do
 - [The Data Science Maturity Model: Collect, Describe, Discover, Predict, Advise (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
+- [Balancing the Five Analytic Dimensions (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
+    + Speed
+    + Analytic complexity
+    + Accuracy and precision
+    + Data size
+    + Data complexity
+- [Implementation Constraints (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
+    + Computational frequency
+    + Solution timeliness
+    + Implementation speed
+    + Computational resource limitations
+    + Data storage limitations
+- [Fractal Analytic Model (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
+    + Goal
+        * Describe
+        * Discover
+        * Predict
+        * Advise
+    + Data
+    + Computation
+        * Aggregation
+        * Enrichment
+        * Clustering
+        * Classification
+    + Action
+        * Productization
+        * Data monetization
+        * Insights and relationships
 - [Cross Industry Standard Process for Data Mining - CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
     + [CRISP Visual Guide](https://exde.files.wordpress.com/2009/03/crisp_visualguide.pdf)
 - [Knowledge Discovery in Databases - KDD](https://en.wikipedia.org/wiki/Data_mining#Process)
