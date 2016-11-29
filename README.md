@@ -79,6 +79,7 @@ Note that links are listed in no particular order of preference or relevance. We
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)
 - [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+- [Microsoft Team Data Science Process Repository](https://github.com/Azure/Microsoft-TDSP)
 - Notebooks
     + [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
     + [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
@@ -92,6 +93,9 @@ Note that links are listed in no particular order of preference or relevance. We
     + [Data Science from Scratch book resources](https://github.com/joelgrus/data-science-from-scratch)
     + [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
     + [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
+    + [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- Courses
+    + [Harvard's CS109 Data Science](https://github.com/cs109)
 
 <h2><a name="cheats">Cheats</a></h2>
 - [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -281,7 +285,8 @@ Note that links are listed in no particular order of preference or relevance. We
     + [Scrapy](https://scrapy.org/doc/) - An open source and collaborative framework for extracting the data you need from websites
     + [ggplot](http://yhat.github.io/ggplot/docs.html) - A package for plotting in Python
     + [Altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
-An open source and collaborative framework for extracting the data you need from websites
+    + [Blaze](http://blaze.readthedocs.io/en/latest/index.html) - Provides Python users high-level access to efficient computation on inconveniently large data
+    + [Dask](http://dask.pydata.org/en/latest) - A flexible parallel computing library for analytic computing
     + [Bokeh](http://bokeh.pydata.org/en/latest/docs/user_guide.html) - A Python interactive visualization library that targets modern web browsers for presentation
     + [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
     + [NetworkX](http://networkx.github.io/documentation.html) - A Python language software package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
@@ -400,6 +405,7 @@ An open source and collaborative framework for extracting the data you need from
 - [Data Smart](http://www.john-foreman.com/data-smart-book.html)
 - [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
+- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 <h2><a name="data-software">Business Intelligence, Data Mining, and Analytics Software</a></h2>
 - [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)

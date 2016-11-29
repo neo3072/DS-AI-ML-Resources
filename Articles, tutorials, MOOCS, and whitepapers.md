@@ -24,8 +24,7 @@
 - [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
 - [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 - [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
-- Data science processes and deliverables
-    + 
+- [Doing Data Science Right — Your Most Common Questions Answered](http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/)
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
@@ -35,6 +34,7 @@
 <h2><a name="moocs">MOOCS</a></h2>
 - [Stanford Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Become A Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+- [Harvard's CS109 Data Science](http://cs109.github.io/2015/)
 - Lists
     + [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
 
