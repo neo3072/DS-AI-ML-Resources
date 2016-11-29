@@ -1,4 +1,43 @@
-# Processes - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics
+# Data Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
+
+## Data Science Components
+- Data types
+    + Structured data
+    + Unstructured data
+    + Semi-structured data
+    + Streaming data
+    + Batch data
+- Analytic classes
+    + Transforming analytics
+        * Aggregation
+        * Enrichment
+        * Processing
+    + Learning analytics
+        * Regression
+        * Clustering
+        * Classification
+        * Recommend
+    + Predictive analytics
+        * Simulation
+        * Optimization
+    + Descriptive analytics
+    + Prescriptive analytics
+- Learning models
+    + Learning style
+        * Supervised
+        * Unsupervised
+        * Semi-supervised
+    + Training style
+        * Reinforcement learning
+        * Online learning
+        * Offline learning
+- Execution models
+    + Sequencing
+        * Serial execution
+        * Parallel execution
+    + Scheduling
+        * Streaming execution
+        * Batch execution
 
 ## Data Science Process (non-linear, iterative, and cyclical)
 - Domain discovery, goal identification, and question development
@@ -154,4 +193,4 @@
 Coming soon...
 
 ## References
-- The Field Guide to Data Science (Booz, Allen, Hamilton)
+- [The Field Guide to Data Science (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)

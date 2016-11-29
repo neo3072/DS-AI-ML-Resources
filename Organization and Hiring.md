@@ -18,7 +18,8 @@
 - Lead Data Scientist
 - Senior Data Scientist
 - Data Scientist
-- Analyst
+- Data Engineer
+- Data Analyst
 
 <h2><a name="skills">Data Science Skills</a></h2>
 - Foundational
