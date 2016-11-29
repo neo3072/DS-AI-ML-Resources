@@ -80,6 +80,7 @@ Note that links are listed in no particular order of preference or relevance. We
 - [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)
 - [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 - [Microsoft Team Data Science Process Repository](https://github.com/Azure/Microsoft-TDSP)
+- [The Field Guide to Data Science (Booz, Allen, Hamilton)](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science)
 - Notebooks
     + [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
     + [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)

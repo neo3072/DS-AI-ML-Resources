@@ -5,13 +5,16 @@
     + Understanding the goal of the project and define objectives
     + Drives mapping the problem space to the solution space
     + Typical data science goals
-        * Build data products
+        * Turning data into actions
+        * Build data products providing actionable information while abstracting away technical details, data, and analytics
         * Improving products for user benefit and experience
         * Driving business decisions and solutions
         * Automated decision making, predictions, recommendations, and insights
         * Inform strategic decisions
         * Inform product changes and drive company KPIs
         * Shift from HiPPO decision making to data-driven decision making
+        * Shifting from deductive (hypothesis-based) to inductive (pattern- based) reasoning.
+        * Competitive advantage, differentiation, and future-proofing
 - Determine the type of problem and type of solution required
 - Data instrumentation, acquisition, collection, extraction, merging/joining, ETL, storage, and pipeline architecture/development
     + Data sources: raw data, real time measurement, events, IoT, and so on
@@ -103,11 +106,15 @@
         * NLP, NLG, NLU
     + Reinforcement learning
     + Probability estimates and likelihoods
+    + Graph analytics (e.g., social network analysis)
+    + Health diagnosis
+    + Process improvements
 - Optimization
     + Minimum
     + Maximun
     + Optimal value or optimal combination
 - Segmentation
+- Targeted advertising
 - Forecasts
 - Risk analysis
 - Optimization and response surface models (RSM) for design of experiments (DOE) projects

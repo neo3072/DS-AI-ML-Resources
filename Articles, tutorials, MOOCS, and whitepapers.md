@@ -35,10 +35,12 @@
 - [Stanford Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Become A Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 - [Harvard's CS109 Data Science](http://cs109.github.io/2015/)
+- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 - Lists
     + [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
+- [The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
 - [AWS](https://aws.amazon.com/whitepapers/)
     + [Architecting for the Cloud](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
     + [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
