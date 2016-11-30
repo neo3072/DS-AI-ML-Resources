@@ -6,9 +6,7 @@ Here is a non-exaustive, work in progress repository of resources for data scien
 
 I've developed this set of resources for my [InnoArchiTech](http://www.innoarchitech.com/) blog writing, and for my personal learning, development, and use.
 
-Resources include all files and links in this repository, including the links given in this file. A hyperlinked <a href="#toc">table of contents</a> is provided below for your convenience.
-
-Note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
+Resources include all files and links in this repository, including the links given in this file. A hyperlinked <a href="#toc">table of contents</a> is provided below for your convenience, and note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 If you find this repository useful, please _share_ it with others and help spread the word! Here are some ready to go _sharing links_:
 - [Twitter](https://twitter.com/home?status=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20and%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI)
