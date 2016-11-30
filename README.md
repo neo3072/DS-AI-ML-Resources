@@ -14,7 +14,7 @@ If you find this repository useful, please _share_ it with others! Here are some
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources)
 - [Email](mailto:?&subject=GitHub Repo: Data Science, Machine Learning, AI, Big Data, and IoT Resources&body=Check%20out%20this%20curated%20set%20of%20resources%20for%20data%20science,%20machine%20learning,%20artificial%20intelligence,%20big%20data,%20and%20IoT!%0A%0AEnjoy!)
 
-You can also [Click here to follow](https://twitter.com/innoarchitech) me and InnoArchiTech on _Twitter_.
+To follow me and InnoArchiTech on _Twitter_, please click [here](https://twitter.com/innoarchitech).
 
 Cheers, and best of luck with your technical endeavors!
 
