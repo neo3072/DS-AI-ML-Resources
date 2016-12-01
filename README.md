@@ -18,7 +18,8 @@ Follow [_@innoarchitech_](https://twitter.com/innoarchitech) on _Twitter_, and s
 
 Please visit our [_about page_](http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource) to learn more about _me_ and _InnoArchiTech_.
 
-Cheers, and best of luck with your technical endeavors! 
+Cheers, and best of luck with your technical endeavors!
+
 Alex
 
 <h2><a name="toc">Table of Contents</a></h2>
