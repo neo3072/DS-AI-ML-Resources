@@ -1,5 +1,7 @@
 # Data Science, Machine Learning, Artificial Intelligence, Big Data, and IoT Resources
 
+![InnoArchiTech Logo](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/images/logo-horizontal-blue-No-Tagline.png)
+
 Welcome! 
 
 Here is a non-exaustive, work in progress repository of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more. 
