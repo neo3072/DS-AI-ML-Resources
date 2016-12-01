@@ -4,7 +4,7 @@ Welcome!
 
 Here is a non-exaustive, work in progress repository of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more. 
 
-I've developed this set of resources for my [InnoArchiTech](http://www.innoarchitech.com/) blog writing, and for my personal learning, development, and use.
+I've developed this set of resources for my <a href="http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=promote">InnoArchiTech</a> blog writing, and for my personal learning, development, and use.
 
 Resources include all files and links in this repository, including the links given in this file. A hyperlinked <a href="#toc">table of contents</a> is provided below for your convenience, and note that links are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
@@ -16,7 +16,7 @@ If you find this repository useful, please _share_ it with others and help sprea
 
 Cheers, and best of luck with your technical endeavors!
 
-Alex
+<a href="http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=promote">Alex</a>
 
 <h2><a name="toc">Table of Contents</a></h2>
 - README.md
