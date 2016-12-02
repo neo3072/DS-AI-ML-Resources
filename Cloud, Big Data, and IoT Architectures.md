@@ -104,5 +104,9 @@ Coming soon...
 
 Coming soon...
 
+## Offline vs Online Learning
+
+Coming soon...
+
 ## Images
 - [Big data classification](https://www.ibm.com/developerworks/library/bd-archpatterns1/fig1.png)
