@@ -78,6 +78,9 @@
     + [Websites and Web Apps](https://cloud.google.com/solutions/websites/#development_guides)
     + [Development & Test](https://cloud.google.com/solutions/dev-test/#development_guides)
 
+## IoT
+
+Coming soon...
 
 ## General
 - [Lambda Architecture](http://lambda-architecture.net/)
@@ -92,6 +95,14 @@
 - [Big Data Architecture](http://bigdata.teradata.com/US/Big-Ideas/Big-Data-Architecture/)
 - [Big Data Analytics Architecture](http://www.thebigdatainsightgroup.com/site/sites/default/files/Teradata's%20-%20Big%20Data%20Architecture%20-%20Putting%20all%20your%20eggs%20in%20one%20basket.pdf)
 - [What is Streaming Data?](https://aws.amazon.com/streaming-data/)
+
+## Data Lake vs Data Warehouse
+
+Coming soon...
+
+## Batch vs Real-Time Processing
+
+Coming soon...
 
 ## Images
 - [Big data classification](https://www.ibm.com/developerworks/library/bd-archpatterns1/fig1.png)
