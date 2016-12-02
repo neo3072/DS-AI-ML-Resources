@@ -28,7 +28,8 @@ Alex
 - README.md
     - <a href="#blogs">Blogs</a>
     - <a href="#gitHub-repos">GitHub Repos</a>
-    - <a href="#cheats">Cheats</a>
+    - <a href="#cheats">Cheat Sheets</a>
+    - <a href="#graphics">Graphics and Infographics</a>
     - <a href="#web-resources">Web Resources</a>
     - <a href="#datasets">Datasets</a>
     - <a href="#ides">IDEs</a>
@@ -115,7 +116,7 @@ Alex
 - Courses
     + [Harvard's CS109 Data Science](https://github.com/cs109)
 
-<h2><a name="cheats">Cheats</a></h2>
+<h2><a name="cheats">Cheat Sheets</a></h2>
 - [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
 - [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
@@ -123,11 +124,14 @@ Alex
 - [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
 - [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
 - [MIT Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
-- [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
-- [Common probability distributions](http://blog.cloudera.com/wp-content/uploads/2015/12/distribution.png)
 - [Machine Learning Periodic Table](http://www.mln.io/resources/periodic-table/)
 - [Data Science Venn Diagram](http://www.datascienceassn.org/sites/default/files/users/user30/Data%20Science%20Venn%20Diagram%20by%20Shelly%20Palmer%202015.png)
+
+<h2><a name="graphics">Graphics and Infographics</a></h2>
+- [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
+- [Common probability distributions](http://blog.cloudera.com/wp-content/uploads/2015/12/distribution.png)
 - [Data Science and Mining Multidisciplinary](http://images.slideplayer.com/19/5798869/slides/slide_8.jpg)
+- [R Reference Card for Data Mining](https://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf)
 
 <h2><a name="web-resources">Web Resources</a></h2>
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
