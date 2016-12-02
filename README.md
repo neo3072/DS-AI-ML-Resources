@@ -48,6 +48,7 @@ Alex
     + [Cloud, Big Data, and IoT Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%2C%20Big%20Data%2C%20and%20IoT%20Architectures.md)
     + [Organization and Hiring](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Organization%20and%20Hiring.md)
     + [Data Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Components%2C%20Processes%2C%20and%20Deliverables.md)
+    + [DevOps](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/DevOps.md)
     + [Product Development Methodologies](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Product%20Development%20Methodologies.md)
     + [Statistics and Probability](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Statistics%20and%20Probability.md)
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
