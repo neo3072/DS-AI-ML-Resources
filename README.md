@@ -44,9 +44,10 @@ Alex
 - Files
     + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
     + [Articles, Tutorials, MOOCS, and Whitepapers](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Articles%2C%20tutorials%2C%20MOOCS%2C%20and%20whitepapers.md)
-    + [Cloud and Big Data Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%20and%20big%20data%20architectures.md)
-    + [Hiring](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Hiring.md)
-    + [Processes](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Processes.md)
+    + [Cloud, Big Data, and IoT Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%2C%20Big%20Data%2C%20and%20IoT%20Architectures.md)
+    + [Organization and Hiring](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Organization%20and%20Hiring.md)
+    + [Data Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Components%2C%20Processes%2C%20and%20Deliverables.md)
+    + [Product Development Methodologies](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Product%20Development%20Methodologies.md)
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 - Directories
     + [Articles](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/articles)
