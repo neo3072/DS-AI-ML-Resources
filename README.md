@@ -99,10 +99,12 @@ Alex
 - [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 - [Microsoft Team Data Science Process Repository](https://github.com/Azure/Microsoft-TDSP)
 - [The Field Guide to Data Science (Booz, Allen, Hamilton)](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science)
+- [Open Source Data Science Masters](https://github.com/datasciencemasters)
 - Notebooks
     + [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
     + [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
     + [machine_learning](https://github.com/masinoa/machine_learning)
+    + [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
     + [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
     + [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 - Book Resources
@@ -137,7 +139,6 @@ Alex
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
 - [Data School resources](http://www.dataschool.io/resources/)
 - [Open Source Data Science Masters](http://datasciencemasters.org/)
-- [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)
 
 <h2><a name="datasets">Datasets</a></h2>
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
