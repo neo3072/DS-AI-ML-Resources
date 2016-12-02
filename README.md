@@ -1,6 +1,6 @@
 # Data Science, Machine Learning, Artificial Intelligence, Big Data, and IoT Resources
 
-<p><a href="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/images/logo-horizontal-blue-No-Tagline.png" target="_blank"><img src="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/raw/master/images/logo-horizontal-blue-No-Tagline.png" alt="InnoArchiTech Logo" width="450px"></a></p>
+<p><a href="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Assets/logo-horizontal-blue-No-Tagline.png" target="_blank"><img src="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Assets/logo-horizontal-blue-No-Tagline.png" alt="InnoArchiTech Logo" width="450px"></a></p>
 
 Welcome! 
 
@@ -128,13 +128,15 @@ Alex
 - [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
 - [MIT Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 - [Machine Learning Periodic Table](http://www.mln.io/resources/periodic-table/)
-- [Data Science Venn Diagram](http://www.datascienceassn.org/sites/default/files/users/user30/Data%20Science%20Venn%20Diagram%20by%20Shelly%20Palmer%202015.png)
+- [R Reference Card for Data Mining](https://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf)
+- [Guide to Data Science Cheat Sheets](http://www.kdnuggets.com/2014/05/guide-to-data-science-cheat-sheets.html)
+- [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 
 <h2><a name="graphics">Graphics and Infographics</a></h2>
 - [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 - [Common probability distributions](http://blog.cloudera.com/wp-content/uploads/2015/12/distribution.png)
 - [Data Science and Mining Multidisciplinary](http://images.slideplayer.com/19/5798869/slides/slide_8.jpg)
-- [R Reference Card for Data Mining](https://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf)
+- [Data Science Venn Diagram](http://www.datascienceassn.org/sites/default/files/users/user30/Data%20Science%20Venn%20Diagram%20by%20Shelly%20Palmer%202015.png)
 
 <h2><a name="web-resources">Web Resources</a></h2>
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
