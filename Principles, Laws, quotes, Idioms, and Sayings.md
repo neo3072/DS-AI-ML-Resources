@@ -15,6 +15,11 @@
     + Credibility
     + Emotions
     + Stories
+- Build, measure, learn
+    + Maximize learning through incremental and iterative engineering
+    + Build relates to MVP, ie, the simplest product to show customers to get most learning at that time
+    + Goal is always to maximize learning and not build fully featured beta/prototype
+    + Lean startup version: hypothesis, design experiments, test, insight
 
 ## Laws
 - Parkinson's law of triviality
@@ -37,6 +42,12 @@
 - DTSTTCPW (from XP) - "do the simplest thing that could possibly work"
 - Skip blame and complain game and get things done despite major obstacles. Victim mentality is the kiss of death.
 - KISS - Keep it simple, stupid
+- A good plan implemented today is better than a perfect plan implemented tomorrow
+- MLP - minimum lovable product
+- A problem without a solution is a complaint
+- Working on the right thing is as—if not more important—than how hard you are working
+- You can’t have five North Stars, you can’t have five most important goals…
+- Prioritize goals that are ‘critical’ ahead of goals that are ‘beneficial
 
 ## General
 - Priorities for business (in order)
@@ -51,3 +62,20 @@
     + Integrity
         * Accountability
     + Truth
+- Give credit, don't take it
+- The most effective way to solve any problem is to put together all of the people with the skills required to solve it, i.e., a cross-functional or multi-disciplinary team
+- A startup is a temporary organization designed to search for a repeatable and scalable business model
+- When people don’t take responsibility
+    + Reputations decline
+    + Timelines are extended
+    + Performance falls short
+    + Frustration shoots up
+    + Goals are adapted
+    + Accusation and blame escalates
+    + Gossip soars. “What’s up with Fred? He never get’s things done on time.
+    + Excuses abound. Irresponsible people give “good” reason for irresponsibility.
+    + Higher ups complain
+    + Stress increase
+- Curse of knowledge
+    + The curse of knowledge is a cognitive bias that leads better-informed parties to find it extremely difficult to think about problems from the perspective of lesser-informed parties
+    + Aka the ‘tapper effect’ (2.5% guessed right), charades, etc.
