@@ -31,6 +31,8 @@
     + Creativity
     + Focus
     + Attention to detail
+- Goals and deliverables
+    + Give actionable insights to a business for making decisions
 
 <h2><a name="org-structure">Organization Structure</a></h2>
 - [Data Science Operating Models (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)

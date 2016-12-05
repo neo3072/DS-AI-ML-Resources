@@ -48,7 +48,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Data Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Components%2C%20Processes%2C%20and%20Deliverables.md)
     + [DevOps](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/DevOps.md)
     + [Internet of Things (IoT)](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Internet%20of%20Things%20-%20IoT.md)
-    + [Principles, Quotes, Idioms, and Sayings](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Principles%2C%20quotes%2C%20Idioms%2C%20and%20Sayings.md)
+    + [Principles, Laws, Quotes, Idioms, and Sayings](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Principles%2C%20quotes%2C%20Idioms%2C%20and%20Sayings.md)
     + [Product Development Methodologies](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Product%20Development%20Methodologies.md)
     + [Statistics and Probability](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Statistics%20and%20Probability.md)
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
