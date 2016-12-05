@@ -79,3 +79,12 @@
 - Curse of knowledge
     + The curse of knowledge is a cognitive bias that leads better-informed parties to find it extremely difficult to think about problems from the perspective of lesser-informed parties
     + Aka the ‘tapper effect’ (2.5% guessed right), charades, etc.
+- Maslow's Hierarchy of Needs
+    + Self-actualization
+    + Esteem
+    + Love/belonging
+    + Safety
+    + Physiological
+- Analysis paralysis
+    + The state of over- analyzing (or over-thinking) a situation so that a decision or action is never taken, in effect paralyzing the outcome
+- The paradox of choice
