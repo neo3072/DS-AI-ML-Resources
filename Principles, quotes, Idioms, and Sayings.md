@@ -1,4 +1,4 @@
-# Quotes, Idioms, and Sayings.md
+# Principles, Quotes, Idioms, and Sayings
 
 ## Principles
 - Principle of least priviledge
