@@ -1,5 +1,21 @@
 # Algorithms
 
+## General Considerations
+- Dimensions for comparison (Kevin Markham)
+    + Problem type (classification/regression)
+    + Results interpretable by you?
+    + Easy to explain algorithm to others?
+    + Average predictive accuracy
+    + Training speed
+    + Prediction speed
+    + Amount of parameter tuning needed (excluding feature selection)
+    + Performs well with small number of observations?
+    + Handles lots of irrelevant features well (separates signal from noise)?
+    + Automatically learns feature interactions?
+    + Gives calibrated probabilities of class membership?
+    + Parametric?
+    + Features might need scaling?
+
 ## Clustering
 - Hierarchical
 - X-means

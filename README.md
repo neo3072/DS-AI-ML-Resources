@@ -48,7 +48,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Data Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Components%2C%20Processes%2C%20and%20Deliverables.md)
     + [DevOps](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/DevOps.md)
     + [Internet of Things (IoT)](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Internet%20of%20Things%20-%20IoT.md)
-    + [Principles, Quotes, Idioms, and Sayings]()
+    + [Principles, Quotes, Idioms, and Sayings](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Principles%2C%20quotes%2C%20Idioms%2C%20and%20Sayings.md)
     + [Product Development Methodologies](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Product%20Development%20Methodologies.md)
     + [Statistics and Probability](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Statistics%20and%20Probability.md)
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
@@ -132,6 +132,7 @@ Cheers, and best of luck with your technical endeavors!
 - [R Reference Card for Data Mining](https://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf)
 - [Guide to Data Science Cheat Sheets](http://www.kdnuggets.com/2014/05/guide-to-data-science-cheat-sheets.html)
 - [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+- [Comparing Supervised Learning Algorithms - Google Doc Spreadsheet](https://docs.google.com/spreadsheets/d/16i47Wmjpj8k-mFRk-NnXXU5tmSQz8h37YxluDV8Zy9U/edit#gid=0)
 
 <h2><a name="graphics">Graphics and Infographics</a></h2>
 - [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
@@ -441,6 +442,7 @@ Cheers, and best of luck with your technical endeavors!
 <h2><a name="data-software">Business Intelligence, Data Mining, and Analytics Software</a></h2>
 - [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)
 - [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/)
+- [Graphviz](http://www.graphviz.org/) - Open source graph visualization software
 - [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
 - [Tableau](http://www.tableau.com/support) - Business intelligence software
 - [RapidMiner](http://docs.rapidminer.com/) - DATA SCIENCE PLATFORM

@@ -25,6 +25,7 @@
 - [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 - [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 - [Doing Data Science Right — Your Most Common Questions Answered](http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/)
+- [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)

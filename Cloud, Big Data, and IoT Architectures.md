@@ -13,16 +13,32 @@
     + Value
     + Variability
 - Considerations
-    - Data batching vs. streaming
+    - Batch vs. real-time streaming data processing
     - Embedded models or interfaces
     - API or RPC or REST
-    - Deployed trained models (batch) vs. [real-time/streaming/online machine learning](https://en.wikipedia.org/wiki/Online_machine_learning)
+    - Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
     - Reliable quality data
 - [Solution elements](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Processes%20and%20Deliverables.md)
 - Data Analytics
     + Descriptive analytics - What happened and why?
     + Predictive analytics - What is the probability of something happening?
     + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
+
+## Database Considerations and Tradeoffs
+- ACID
+- BASE
+- CAP and PACELC
+- Consistent vs eventually consistent
+- Speed and performance
+- Locks
+    + Lock contention
+    + Long term blocking
+    + Database deadlocks
+    + System deadlocks
+- Schema on write vs schema on read
+- Isolation levels
+- Concurrency control
+- Different read types (e.g., dirty, non-repeatable, phantom, ...)
 
 ## AWS
 - [Solution Development Guides](https://aws.amazon.com/solutions)

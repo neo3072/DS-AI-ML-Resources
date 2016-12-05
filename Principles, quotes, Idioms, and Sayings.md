@@ -1,9 +1,7 @@
 # Quotes, Idioms, and Sayings.md
 
 ## Principles
-
-- Nothing is more permanent than a temporary solution.
+- Principle of least priviledge
 
 ## Quotes, Idioms, and Sayings
-
-- 
+- Nothing is more permanent than a temporary solution. 
