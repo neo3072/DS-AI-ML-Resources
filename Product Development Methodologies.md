@@ -5,6 +5,7 @@
 
 ## Agile Manifesto
 
+## Prioritization
 
 ## Kanban
 - Benefits
