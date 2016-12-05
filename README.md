@@ -46,6 +46,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Cloud, Big Data, and IoT Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%2C%20Big%20Data%2C%20and%20IoT%20Architectures.md)
     + [Organization and Hiring](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Organization%20and%20Hiring.md)
     + [Data Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Components%2C%20Processes%2C%20and%20Deliverables.md)
+    + [Data Visualization](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Visualization.md)
     + [DevOps](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/DevOps.md)
     + [Internet of Things (IoT)](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Internet%20of%20Things%20-%20IoT.md)
     + [Principles, Laws, Quotes, Idioms, and Sayings](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Principles%2C%20Laws%2C%20quotes%2C%20Idioms%2C%20and%20Sayings.md)
