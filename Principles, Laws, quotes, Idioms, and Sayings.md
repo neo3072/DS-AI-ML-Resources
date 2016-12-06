@@ -26,6 +26,7 @@
 - Parkinson's law - Work expands so as to fill the time available for its completion
 - Brooks's law - Adding manpower to a late software project makes it later
 - Hofstadter's law - It always takes longer than you expect, even when you take into account Hofstadter's Law
+- Little's law
 
 ## Quotes, Idioms, and Sayings
 - Nothing is more permanent than a temporary solution
@@ -107,3 +108,16 @@
     + Referrals
     + Revenue
 - MTMM - Metric that matters most
+- Problem space vs solution space
+    + Problem space - user benefit
+        * A customer problem, need, or benefit that the product should address
+        * A product requirement
+    + Solution space - product
+        * A specific implementation to address the need or product requirement
+- INVEST - user story model
+    + Independent: The user story should be self-contained, in a way that there is no inherent dependency on another user story.
+    + Negotiable: User stories, up until they are part of an iteration, can always be changed and rewritten.
+    + Valuable: A user story must deliver value to the end user.
+    + Estimatable: You must always be able to estimate the size of a user story.
+    + Small: User stories should not be so big as to become impossible to plan/task/prioritize with a certain level of certainty.
+    + Testable: The user story or its related description must provide the necessary information to make test development possible.

@@ -21,7 +21,7 @@
     + Conceptual design
     + Requirements
     + Acceptance criteria
-    + Strategic themes
+    + Investment/strategic themes
     + Backlog items (aka artifacts)
         * Epics
         * Features
@@ -37,6 +37,10 @@
         * Automation
         * User acceptance (UAT)
         * Usability
+            - "Traditional" or "discount" usability testing
+            - RITE Method - Rapid Iterative Testing and Evaluation
+        * Qualitative and quantitative
+        * Agile testing matrix
 
 ## Considerations and Tradeoffs
 - Iron triangle
@@ -47,6 +51,9 @@
 
 ## Product Development Methodologies and Frameworks List (non-exhaustive)
 - Agile/SCRUM
+    + Alternatives
+        * Disciplined agile delivery (DAD)
+        * Agile model driven development (AMDD)
 - Scaled agile framework (SAFe)
 - Kanban
 - Scrumban
@@ -119,33 +126,43 @@ its behavior accordingly.
     + Emphasized continous delivery
     + Increased productivity and efficiency
         + Increased output
+- Characteristics
+    + Class of service (CoD: cost of delay-based)
+    + Work in progress (WIP) limits
+    + Target date with performance metric
 
 **Lean** 
 - Principles
+    + Kaizen
     + Build, measure, learn
-    + Fail fast
+    + Fail fast and often
     + Maximize customer value while minimizing waste
     + Create flow and establish pull
-    + Minimum marketable feature
-    + Minimum viable product
-    + Minimum lovable product
+    + Minimum viable product (MVP)
+    + Minimum lovable product (MLP)
+    + Minimum marketable feature (MMF)
 
 ## Prioritization
-- JTBD and importance vs satisfaction | underserved needs
+- JTBD and importance vs satisfaction (four quadrants) | underserved needs
     + Opportunity (top left)
     + Competitive market (top right)
     + Not worth going after (bottom half)
-- Kano model
+- Kano model (customer delight vs product function)
     + Categories
         * Must have
         * Performance
         * Delighter
     + Notes
         * Today's must have is tomorrow's delighter
-- Pareto: which 20% of features deliver 80% of value/impact
-- CoD/CoS (class of service) framework
+- Pareto: Identify which 20% of features are likely to create 80% of the value/impact
+- CoD/CoS: Cost of delay, class of service, and risk
+    + CoS
+        * Expedite - Unacceptable cost of delay
+        * Fixed-date - Step function cost of delay
+        * Standard - Linear cost of delay
+        * Intangible - Intangible cost of delay
 - MoSCoW ­ "MUST, SHOULD, COULD, WON'T"
-- Benefit Cost Ratio (BCR) ­ Value Divided by Effort
+- Benefit Cost Ratio (BCR) - Value Divided by Effort
 - Buy a feature
 - KJ method, affinity diagramming/grouping
     + Brainstorm on sticky notes
@@ -155,6 +172,22 @@ its behavior accordingly.
 - Weighted shortest job first (WSJF)
     + Priority = Cost of delay / Job duration
     + Jobs that deliver the highest value (i.e., cost of delay) and can be implemented in the shortest duration are of the highest priority for implementation
+- Cost benefit analysis (financial measures)
+- Opportunity scoring
+- Three feature buckets
+- Story mapping and slides
+- Pandora method
+- Value vs complexity (graph and quadrants)
+- Weighted scoring
+    + Benefit (positive)
+    + Cost (negative)
+
+## Continuous...
+- Prioritization
+- Improvement
+- Optimization
+- Learning
+- Integration/deployment/delivery
 
 ## Product Market Fit
 - Product
@@ -167,8 +200,16 @@ its behavior accordingly.
 
 ## UX Design Iceberg
 - Visual design
+    + Color
+    + Typography
+    + Design principles
+    + Look and feel
+    + Aesthetics
 - Interaction design
+    + All interactions and messages, notifications, flow, errors, etc.
 - Information architecture
+    + Page and navigation structure
+    + Sitemap best representative
 - Conceptual design
 
 ## MVP Characteristics
