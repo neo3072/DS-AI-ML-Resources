@@ -26,9 +26,19 @@
 
 ## Database Considerations and Tradeoffs
 - ACID
+    + Atomicity
+    + Consistency
+    + Isolation
+    + Durability
 - BASE
-- CAP and PACELC
-- Consistent vs eventually consistent
+    + Basically Available
+    + Soft state
+    + Eventual consistency
+- CAP (Brewers theorem) and PACELC
+    + Consistency
+    + Availability
+    + Partition tolerance
+- Consistency vs eventually consistency
 - Speed and performance
 - Locks
     + Lock contention

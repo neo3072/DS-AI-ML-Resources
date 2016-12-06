@@ -1,5 +1,19 @@
 # Algorithms
 
+## Algorithm Categories
+- Decision tree learning
+- Association rule learning
+- Artificial neural networks
+- Inductive logic programming
+- Support vector machines
+- Clustering
+- Bayesian networks
+- Reinforcement learning
+- Representation learning
+- Similarity and metric learning
+- Sparse dictionary learning
+- Genetic algorithms
+
 ## General Considerations
 - Dimensions for comparison (Kevin Markham)
     + Problem type (classification/regression)

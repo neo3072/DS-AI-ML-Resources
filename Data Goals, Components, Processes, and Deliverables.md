@@ -1,5 +1,32 @@
 # Data Goals, Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
 
+## Typical data science goals
+* Derive discoveries, insights, and value from data collections
+* Turning data into actions
+* Build data products providing actionable information while abstracting away technical details, data, and analytics
+* Question discovery
+* Improving products for user benefit and experience
+* Driving business decisions and solutions
+* Improving the decisions your business makes
+    - Decision science uses data to analyze business metrics — such as growth, engagement, profitability drivers, and user feedback — to inform strategy and key business decisions.
+    - Decision science uses data analysis and visualization to inform business and product decisions.
+* Automated decision making, predictions, recommendations, and insights
+* Inform strategic decisions
+* Inform product changes and drive company KPIs
+* Shift from HiPPO decision making to data-driven decision making
+* Competitive advantage, differentiation, future-proofing, and opportunity costs
+* Complement business intelligence functions
+* Predict and advise
+* Grow data economy wealth
+* Increase ROI and ROA
+* Shifting between deductive (hypothesis-based) and inductive (pattern- based) reasoning (ref. Booz, Allen, Hamilton)
+    - Deductive
+        + Formulate hypotheses about relationships and underlying models
+        + Carry out experiments with the data to test hypotheses and models
+    - Inductive
+        + Exploratory data analysis to discover or refine hypotheses
+        + Discover new relationships, insights and analytic paths from the data
+
 ## Data Science Components and Considerations
 - Data types
     + Structured data
@@ -41,32 +68,21 @@
 - Key considerations
     + Curse of dimensionality
 
+## Analytics Toolbox
+- Mathematical
+- Computational
+- Visual
+- Analytic
+- Statistical
+- Experimental
+- Problem definition
+- Model building
+- Validation
+
 ## Data Science Process (non-linear, iterative, and cyclical)
 - Domain discovery, goal identification, and question development
     + Understanding the goal of the project and define objectives
     + Drives mapping the problem space to the solution space
-    + Typical data science goals
-        * Turning data into actions
-        * Build data products providing actionable information while abstracting away technical details, data, and analytics
-        * Question discovery
-        * Improving products for user benefit and experience
-        * Driving business decisions and solutions
-        * Automated decision making, predictions, recommendations, and insights
-        * Inform strategic decisions
-        * Inform product changes and drive company KPIs
-        * Shift from HiPPO decision making to data-driven decision making
-        * Competitive advantage, differentiation, future-proofing, and opportunity costs
-        * Complement business intelligence functions
-        * Predict and advise
-        * Grow data economy wealth
-        * Increase ROI and ROA
-        * Shifting between deductive (hypothesis-based) and inductive (pattern- based) reasoning (ref. Booz, Allen, Hamilton)
-            - Deductive
-                + Formulate hypotheses about relationships and underlying models
-                + Carry out experiments with the data to test hypotheses and models
-            - Inductive
-                + Exploratory data analysis to discover or refine hypotheses
-                + Discover new relationships, insights and analytic paths from the data
 - Determine the type of problem and type of solution required
 - Data instrumentation, acquisition, collection, extraction, merging/joining, ETL, storage, and pipeline architecture/development
     + Data sources: raw data, real time measurement, events, IoT, and so on
@@ -170,7 +186,12 @@
 - Deployed batch and/or real-time solution (e.g., analytics models and algorithms), potentially including monitoring, performance measurement, analytics, dashboards, and reporting
 - Analytics
     + Descriptive analytics - What happened and why?
+        * Visualization
+        * Exploratory data analysis
     + Predictive analytics - What is the probability of something happening?
+        * Machine learning
+        * Artificial intelligence
+        * Forecasting
     + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
 - Machine learning and Artificial intelligence specific
     + Supervised learning and prediction
