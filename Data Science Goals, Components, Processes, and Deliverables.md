@@ -1,8 +1,33 @@
 # Data Science Goals, Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
 
+## Data Science, Artificial Intelligence, Statistics, and Advanced Analytics Fields
+- Data/text mining and data exploration
+- Data/text analytics
+- Descriptive, predictive, and descriptive analytics
+- Machine learning
+- Real-time stream processing and computing (spot opportunities and risks)
+- Pattern Matching
+- Forecasting
+- Visualization
+- Semantic analysis
+- Statistical analysis
+- Network and cluster analysis
+- Multivariate statistics
+- Graph analysis
+- Simulation
+- Optimization
+- Experimental design
+- Complex event processing
+- Autonomous systems
+- Smart machines and devices
+- Neural networks and deep learning
+- Real-time scoring
+- Entity analytics
+- Business intelligence
+
 ## Typical data science goals
 * Derive discoveries, insights, and value from data collections
-* Turning data into actions
+* Turning data into actions, including real-time
 * Build data products providing actionable information while abstracting away technical details, data, and analytics
 * Question discovery
 * Improving products for user benefit and experience
@@ -10,7 +35,7 @@
 * Improving the decisions your business makes
     - Decision science uses data to analyze business metrics — such as growth, engagement, profitability drivers, and user feedback — to inform strategy and key business decisions.
     - Decision science uses data analysis and visualization to inform business and product decisions.
-* Automated decision making, predictions, recommendations, and insights
+* Automated decision making, predictions, recommendations, and deeper insights
 * Inform strategic decisions
 * Inform product changes and drive company KPIs
 * Shift from HiPPO decision making to data-driven decision making
