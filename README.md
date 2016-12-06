@@ -1,6 +1,6 @@
 # Data Science, Machine Learning, Artificial Intelligence, Big Data, and IoT Resources
 
-<p><a href="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Assets/logo-horizontal-blue-No-Tagline.png" target="_blank"><img src="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Assets/logo-horizontal-blue-No-Tagline.png" alt="InnoArchiTech Logo" width="450px"></a></p>
+<p><a href="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Assets/logo-horizontal-blue-No-Tagline.png" target="_blank"><img src="https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Assets/logo-horizontal-blue-No-Tagline.png" alt="InnoArchiTech Logo" width="350px"></a></p>
 
 Welcome! 
 
