@@ -1,5 +1,17 @@
 # Data Science Platforms, Libraries, and Packages
 
+## Package Managers
+- [Sublime Text Package Control](https://packagecontrol.io/)
+- [Bower](https://bower.io/search/)
+- [NPM](https://www.npmjs.com/)
+- [Crantastic](http://www.crantastic.org/)
+- [Cran Packages by Name](https://cran.r-project.org/web/packages/available_packages_by_name.html)
+- [R seek](http://rseek.org/)
+- [PyPi](https://pypi.python.org/pypi)
+- [Gulp](http://gulpjs.com/plugins/)
+- [Grunt](http://gruntjs.com/plugins)
+
+## Platforms, Libraries, and Packages
 - Deep learning and neural networks
     + [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
     + [Caffe](http://caffe.berkeleyvision.org/) - A deep learning framework made with expression, speed, and modularity in mind
