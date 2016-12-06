@@ -56,6 +56,8 @@ Note that some links are categorized according to my determination of best fit s
 ## Artificial Intelligence
 - [Artificial intelligence portal](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
 - [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [Artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+- [Weak AI](https://en.wikipedia.org/wiki/Weak_AI)
 - [Evolutionary algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 - [Evolutionary computing](https://en.wikipedia.org/wiki/Evolutionary_computation)
 - [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
