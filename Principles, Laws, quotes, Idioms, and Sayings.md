@@ -49,7 +49,7 @@
 - You can’t have five North Stars, you can’t have five most important goals…
 - Prioritize goals that are ‘critical’ ahead of goals that are ‘beneficial
 
-## General
+## General terms, models, acronymns, and concepts
 - Priorities for business (in order)
     + People
     + Products
@@ -88,3 +88,22 @@
 - Analysis paralysis
     + The state of over- analyzing (or over-thinking) a situation so that a decision or action is never taken, in effect paralyzing the outcome
 - The paradox of choice
+- SMART model for goals
+    + S – Specific
+    + M – Measurable
+    + A – Achievable
+    + R – Relevant
+    + T – Time-boxed
+- FURPS - Model for classifying software quality attributes
+    + Functionality
+    + Usability
+    + Reliability
+    + Performance
+    + Supportability
+- AAARR metrics for pirates
+    + Acquisition
+    + Activation
+    + Retention
+    + Referrals
+    + Revenue
+- MTMM - Metric that matters most

@@ -26,6 +26,7 @@
 - [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 - [Doing Data Science Right — Your Most Common Questions Answered](http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/)
 - [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
+- [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)

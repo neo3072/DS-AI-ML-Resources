@@ -1,4 +1,4 @@
-# Product Development Methodologies
+# Product Management and Development Methodologies
 
 ## Product Management Key Elements and Phases
 - Product vision
@@ -35,6 +35,18 @@
 - Design by committee (collaboration vs concensus)
     + Godin - "Nothing is what happens when everyone has to agree"
     + Consistently produces weak results
+
+## Product Development Methodologies and Frameworks List (non-exhaustive)
+- Agile/SCRUM
+- Kanban
+- Lean
+- Outcome-driven innovation (ODI) and 'jobs to be done' (JTBD)
+- Waterfall
+- Extreme programming (XP)
+- Prototyping
+- Rapid app development
+- Iterative development
+- Spiral development
 
 ## Agile Values
 - Individuals and interactions over processes and tools
@@ -103,6 +115,40 @@
     + Minimum marketable feature
     + Minimum viable product
     + Minimum lovable product
+
+## Product Market Fit
+- Product
+    + UX
+    + Feature set
+    + Value proposition
+- Market
+    + Underserved needs
+    + Target customer
+
+## UX Design Iceberg
+- Visual design
+- Interaction design
+- Information architecture
+- Conceptual design
+
+## MVP Characteristics
+- Delightful
+- Usable
+- Reliable
+- Functional
+
+## Technology Adoption
+- Innovators - Techies
+- Early adopters - Visionaries
+- GAP - CHASM
+- Early majority - Pragmatists
+- Late majority - Conservatives
+- Laggards - Skeptics
+
+## Pricing and Service Levels
+- Service level agreement (SLA)
+    + Mean time between failures (MTBF)
+    + Mean time to repair/recovery (MTTR)
 
 ## Risk Management
 - ROAM model
