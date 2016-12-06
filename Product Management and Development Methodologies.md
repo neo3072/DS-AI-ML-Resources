@@ -28,6 +28,15 @@
         * User stories
         * Tasks
 - Product delivery
+    + Design
+    + Engineering
+    + QA
+    + Testing
+        * Unit
+        * Integration
+        * Automation
+        * User acceptance (UAT)
+        * Usability
 
 ## Considerations and Tradeoffs
 - Iron triangle
@@ -38,15 +47,14 @@
 
 ## Product Development Methodologies and Frameworks List (non-exhaustive)
 - Agile/SCRUM
+- Scaled agile framework (SAFe)
 - Kanban
+- Scrumban
 - Lean
 - Outcome-driven innovation (ODI) and 'jobs to be done' (JTBD)
 - Waterfall
 - Extreme programming (XP)
-- Prototyping
-- Rapid app development
-- Iterative development
-- Spiral development
+- Spiral
 
 ## Agile Values
 - Individuals and interactions over processes and tools
@@ -54,7 +62,73 @@
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-## Agile Manifesto
+## Agile Manifesto - Principles
+- Our highest priority is to satisfy the customer
+through early and continuous delivery
+of valuable software.
+- Welcome changing requirements, even late in 
+development. Agile processes harness change for 
+the customer's competitive advantage.
+- Deliver working software frequently, from a 
+couple of weeks to a couple of months, with a 
+preference to the shorter timescale.
+- Business people and developers must work 
+together daily throughout the project.
+- Build projects around motivated individuals. 
+Give them the environment and support they need, 
+and trust them to get the job done.
+- The most efficient and effective method of 
+conveying information to and within a development 
+team is face-to-face conversation.
+- Working software is the primary measure of progress.
+- Agile processes promote sustainable development. 
+The sponsors, developers, and users should be able 
+to maintain a constant pace indefinitely.
+- Continuous attention to technical excellence 
+and good design enhances agility.
+- Simplicity--the art of maximizing the amount 
+of work not done--is essential.
+- The best architectures, requirements, and designs 
+emerge from self-organizing teams.
+- At regular intervals, the team reflects on how 
+to become more effective, then tunes and adjusts 
+its behavior accordingly.
+
+## Product Development Methodologies (Details)
+
+**Kanban**
+- Principles
+    + Visualize workflow
+    + Create flow and pull
+    + Balance demand against throughput
+    + Limit WIP
+    + Target lead time with performance metric
+    + Continuous improvement
+    + Class of service
+- Benefits
+    + Flow-driven, pull system, balance demand and throuput
+        + Allows for 'just in time' and more focused delivery of work
+        + Less multitasking and context switching
+        + Reduces wasted time (parkinsons as well)
+    + Not everything requires estimates and deadlines
+    + Front-loading not optimimal, and oftern arbitrary
+    + Matches client request of weekly meetings
+    + Continuous improvement and reprioritization, not fixed methodology
+    + More flexible process-wise and with client, which we need now
+        + Quickly adapt to new information and needs
+    + Emphasized continous delivery
+    + Increased productivity and efficiency
+        + Increased output
+
+**Lean** 
+- Principles
+    + Build, measure, learn
+    + Fail fast
+    + Maximize customer value while minimizing waste
+    + Create flow and establish pull
+    + Minimum marketable feature
+    + Minimum viable product
+    + Minimum lovable product
 
 ## Prioritization
 - JTBD and importance vs satisfaction | underserved needs
@@ -81,40 +155,6 @@
 - Weighted shortest job first (WSJF)
     + Priority = Cost of delay / Job duration
     + Jobs that deliver the highest value (i.e., cost of delay) and can be implemented in the shortest duration are of the highest priority for implementation
-
-## Kanban
-- Principles
-    + Visualize workflow
-    + Create flow and pull
-    + Balance demand against throughput
-    + Limit WIP
-    + Target lead time with performance metric
-    + Continuous improvement
-    + Class of service
-- Benefits
-    + Flow-driven, pull system, balance demand and throuput
-        + Allows for 'just in time' and more focused delivery of work
-        + Less multitasking and context switching
-        + Reduces wasted time (parkinsons as well)
-    + Not everything requires estimates and deadlines
-    + Front-loading not optimimal, and oftern arbitrary
-    + Matches client request of weekly meetings
-    + Continuous improvement and reprioritization, not fixed methodology
-    + More flexible process-wise and with client, which we need now
-        + Quickly adapt to new information and needs
-    + Emphasized continous delivery
-    + Increased productivity and efficiency
-        + Increased output
-
-## Lean 
-- Principles
-    + Build, measure, learn
-    + Fail fast
-    + Maximize customer value while minimizing waste
-    + Create flow and establish pull
-    + Minimum marketable feature
-    + Minimum viable product
-    + Minimum lovable product
 
 ## Product Market Fit
 - Product
