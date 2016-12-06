@@ -1,4 +1,4 @@
-# Data Goals, Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
+# Data Science Goals, Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
 
 ## Typical data science goals
 * Derive discoveries, insights, and value from data collections
