@@ -1,4 +1,4 @@
-# Data Platforms, Libraries, and Packages
+# Data Science Platforms, Libraries, and Packages
 
 - Deep learning and neural networks
     + [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
