@@ -1,4 +1,4 @@
-# Data Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
+# Data Goals, Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
 
 ## Data Science Components and Considerations
 - Data types
