@@ -54,6 +54,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 - Directories
     + [Articles](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/articles)
+    + [Assets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/tree/master/Assets)
     + [Books](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/books)
     + [Book Files](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/book-files)
     + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/cheats)
