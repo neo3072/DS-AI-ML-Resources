@@ -23,35 +23,34 @@ Cheers, and best of luck with your technical endeavors!
 [Alex](http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
 
 <h2><a name="toc">Table of Contents</a></h2>
-- README.md
-    - <a href="#blogs">Blogs</a>
-    - <a href="#gitHub-repos">GitHub Repos</a>
-    - <a href="#cheats">Cheat Sheets</a>
-    - <a href="#graphics">Graphics and Infographics</a>
-    - <a href="#web-resources">Web Resources</a>
-    - <a href="#datasets">Datasets</a>
-    - <a href="#ides">IDEs</a>
-    - <a href="#programming-languages-os">Programming Languages and OS</a>
-    - <a href="#database-big-data">Databases, Big Data, and Cloud Services</a>
-    - <a href="#platforms-libraries-packages">Platforms, Libraries, and Packages</a>
-    - <a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a>
-    - <a href="#web-api-devops">Web, API, and DevOps</a>
-    - <a href="#books">Books</a>
-    - <a href="#data-software">Business Intelligence, Data Mining, and Analytics Software</a>
-    - <a href="#tools-utils">Online Tools and Utilities</a>
-    - <a href="#gartner">Gartner Magic Quadrants</a>
 - Files
     + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
     + [Articles, Tutorials, MOOCS, and Whitepapers](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Articles%2C%20tutorials%2C%20MOOCS%2C%20and%20whitepapers.md)
+    + [Blogs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Blogs.md)
+    + [Books List](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Books%20List.md)
+    + [Business Intelligence, Data Mining, and Analytics Software](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Business%20Intelligence%2C%20Data%20Mining%2C%20and%20Analytics%20Software.md)
+    + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cheat%20Sheets.md)
     + [Cloud, Big Data, and IoT Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%2C%20Big%20Data%2C%20and%20IoT%20Architectures.md)
-    + [Organization and Hiring](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Organization%20and%20Hiring.md)
+    + [Cloud, SaaS, PaaS, and IaaS](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cloud%2C%20SaaS%2C%20PaaS%2C%20and%20IaaS.md)
     + [Data Goals, Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Goals%2C%20Components%2C%20Processes%2C%20and%20Deliverables.md)
+    + [Data Platforms, Libraries, and Packages](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Platforms%2C%20Libraries%2C%20and%20Packages.md)
     + [Data Visualization](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Visualization.md)
+    + [Databases, Big Data, and Cloud Services](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Databases%2C%20Big%20Data%2C%20and%20Cloud%20Services.md)
+    + [Datasets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Datasets.md)
     + [DevOps](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/DevOps.md)
+    + [Gartner Magic Quadrants](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Gartner%20Magic%20Quadrants.md)
+    + [GitHub Repos](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/GitHub%20Repos.md)
+    + [Graphics and Infographics](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Graphics%20and%20Infographics.md)
+    + [IDEs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/IDEs.md)
     + [Internet of Things (IoT)](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Internet%20of%20Things%20-%20IoT.md)
+    + [Online Tools and Utilities](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Online%20Tools%20and%20Utilities.md)
+    + [Organization and Hiring](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Organization%20and%20Hiring.md)
     + [Principles, Laws, Quotes, Idioms, and Sayings](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Principles%2C%20Laws%2C%20quotes%2C%20Idioms%2C%20and%20Sayings.md)
     + [Product Management and Development Methodologies](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Product%20Management%20and%20Development%20Methodologies.md)
+    + [Programming Languages and OS](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Programming%20Languages%20and%20OS.md)
     + [Statistics and Probability](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Statistics%20and%20Probability.md)
+    + [Web Resources](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%20Resources.md)
+    + [Web, API, and DevOps](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%2C%20API%2C%20and%20DevOps.md)
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 - Directories
     + [Articles](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/articles)
