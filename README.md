@@ -8,7 +8,7 @@ Here is a non-exaustive, work in progress repository of resources for data scien
 
 I've developed this set of resources for my <a href="http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_InnoArchiTech_</a> blog writing, and for my personal learning, development, and use.
 
-Resources include all files and links in this repository, including the links found below. A hyperlinked <a href="#toc">_table of contents_</a> is provided for your convenience, and note that links are listed in no particular order of preference or relevance. Well... except for my _blog_ maybe :)
+Resources include all files and links in this repository. A hyperlinked <a href="#toc">_table of contents_</a> is provided below for your convenience, and note that links are listed in no particular order of preference or relevance. Well... except for my _blog_ maybe :)
 
 If you find this repository useful, please _share_ it with others! Here are some ready-to-go _sharing links_:
 - [Twitter](https://twitter.com/intent/tweet?text=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20%26%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI%20%23Data)
@@ -59,25 +59,6 @@ Cheers, and best of luck with your technical endeavors!
     + [Book Files](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/book-files)
     + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/cheats)
     + [Technical Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/technical-reference)
-
------
-
-<h2><a name="blogs">Blogs</a></h2>
-- [InnoArchiTech](http://www.innoarchitech.com/)
-- [Flowing Data](http://flowingdata.com/)
-- [KDnuggets](http://www.kdnuggets.com/)
-- [R-bloggers](https://www.r-bloggers.com/)
-- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
-- [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/)
-- [Simply Statistics](http://simplystatistics.org/)
-- [Walking Randomly](http://www.walkingrandomly.com/)
-- [FastML](http://fastml.com/)
-- [No Free Hunch](http://blog.kaggle.com/)
-- [Machine Learning Mastery](http://machinelearningmastery.com/)
-- [Data Science Weekly](https://www.datascienceweekly.org/)
-- [Edwin Chen](http://blog.echen.me/)
-- [Harvard Data Science](http://harvarddatascience.com/)
-- [OpenAI](https://openai.com/blog/)
 
 
 
