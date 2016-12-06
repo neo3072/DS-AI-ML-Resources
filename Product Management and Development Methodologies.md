@@ -21,8 +21,12 @@
     + Conceptual design
     + Requirements
     + Acceptance criteria
-    + Epics, user stories, tasks
-    + Backlog artifacts
+    + Strategic themes
+    + Backlog items (aka artifacts)
+        * Epics
+        * Features
+        * User stories
+        * Tasks
 - Product delivery
 
 ## Considerations and Tradeoffs
