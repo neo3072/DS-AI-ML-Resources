@@ -14,7 +14,7 @@ If you find this repository useful, please _share_ it with others! Here are some
 - [Twitter](https://twitter.com/intent/tweet?text=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20%26%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI%20%23Data)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources&title=Data%20Science,%20Machine%20Learning,%20Artificial%20Intelligence,%20Big%20Data,%20and%20IoT%20Resources&summary=)
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources)
-- [Email](mailto:?&subject=GitHub Repo: Data Science, Machine Learning, AI, Big Data, and IoT Resources&body=Check%20out%20this%20curated%20set%20of%20resources%20for%20data%20science,%20machine%20learning,%20artificial%20intelligence,%20big%20data,%20and%20IoT!%0A%0AEnjoy!)
+- [Email](mailto:?&subject=GitHub Repo: Data Science, Machine Learning, AI, Big Data, and IoT Resources&body=Check%20out%20this%20curated%20set%20of%20resources%20for%20data%20science,%20machine%20learning,%20artificial%20intelligence,%20big%20data,%20and%20IoT!%0A%0Ahttps://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources%0A%0AEnjoy!)
 
 You can follow [_@innoarchitech_](https://twitter.com/innoarchitech) on _Twitter_ and sign up for our <a href="http://innoarchitech.com/newsletter/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_newsletter_</a> for the latest _InnoArchiTech_ content updates.
 
