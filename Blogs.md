@@ -1,6 +1,6 @@
 # Blogs
 
-- [InnoArchiTech](http://www.innoarchitech.com/)
+- [InnoArchiTech](http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
 - [Flowing Data](http://flowingdata.com/)
 - [KDnuggets](http://www.kdnuggets.com/)
 - [R-bloggers](https://www.r-bloggers.com/)

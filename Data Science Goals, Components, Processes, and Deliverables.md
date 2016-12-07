@@ -1,6 +1,6 @@
 # Data Science Goals, Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
 
-## Data Science, Artificial Intelligence, Statistics, and Advanced Analytics Fields
+## Data Science, Artificial Intelligence, Statistics, Advanced Analytics, Big Data, and IoT Fields
 - Data/text mining and data exploration
 - Data/text analytics
 - Descriptive, predictive, and descriptive analytics
@@ -24,6 +24,13 @@
 - Real-time scoring
 - Entity analytics
 - Business intelligence
+- Streaming media analytics
+- Cognitive IoT
+- Cognitive chatbots
+- Embedded deep learning
+- Embodied robotic cognition
+- Computer vision
+- Virtual and augmented reality
 
 ## Typical data science goals
 * Derive discoveries, insights, and value from data collections
