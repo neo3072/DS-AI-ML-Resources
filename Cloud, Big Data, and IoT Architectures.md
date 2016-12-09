@@ -103,24 +103,35 @@
 - Scalable, flexible, computational model
 
 ## Data Lake vs Data Warehouse
-- Data Warehouse
-    + Definition
-    + Benefits
-        * Schema-on-write
+- Data Warehouse (EDW)
+    + [Definition](https://en.wikipedia.org/wiki/Data_warehouse) - A system used for reporting and data analysis, and is considered a core component of business intelligence
+    + Characteristics
+        * Data
+            - Structured
+            - Processed
+        * Schema-on-write processing
+        * Relatively expensive for large volumes
+        * Fixed configuration and less flexible
+        * Better suited for business intelligence and business professionals
     + Considerations
     + Technologies
         * AWS Redshift
 - Data Lake
-    + Definition
-    + Benefits
+    + [Definition](http://www.kdnuggets.com/2015/09/data-lake-vs-data-warehouse-key-differences.html) - A data lake is a storage repository that holds a vast amount of raw data in its native format, including structured, semi-structured, and unstructured data. The data structure and requirements are not defined until the data is needed.
+    + Characteristics
+        * Data
+            - Structured, semi-structured, unstructured
+            - Raw
         * A data lake delivers maximum scale and insight with the lowest possible friction and cost
         * Increased efficiency
         * Reduced storage costs
         * Data processing workload optimization, including data integration and transformation
-        * Schema-on-read and associated flexibility and new opportunities
+        * Schema-on-read processing and associated flexibility and new opportunities
         * Multi-use and multi-workload data processing on same data from batch to real-time across business units
         * Eliminate need for ETL and associated costs
-        * Keep 100% of source data and historical data for ongoing exploration (both raw and processed)    
+        * Keep 100% of source data and historical data for ongoing exploration (both raw and processed)   
+        * Easy and dynamic configuration and reconfiguration
+        * Better suited for data scientists
     + Considerations
     + Technologies
         * Hadoop
