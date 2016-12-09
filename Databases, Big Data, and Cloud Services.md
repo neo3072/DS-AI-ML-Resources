@@ -1,41 +1,10 @@
 # Databases, Big Data, and Cloud Services
 
-- [AWS](https://aws.amazon.com/documentation/)
-    - [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
-    - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
-    - [RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
-        + [Amazon Aurora](https://aws.amazon.com/rds/aurora/getting-started/) - MySQL-compatible relational database with 5X performance
-        + [Oracle](https://docs.oracle.com/en/database/)
-        + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
-        + [PostgreSQL](https://www.postgresql.org/docs/)
-        + [MySQL](https://dev.mysql.com/doc/)
-        + [MariaDB](https://mariadb.org/learn/)
-    + [Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
-        * Firehouse - Easily load real-time streaming data into AWS
-        * Analytics - Get actionable insights from streaming data in real-time
-        * Streams - Build custom applications that process or analyze streaming data for specialized needs
-    + [Amazon EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
-    + [QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
-    + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
-    + [IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
-    + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
-- [Google Cloud Platform](https://cloud.google.com/docs/)
-    + [BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
-    + [Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
-    + [Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
-    + [Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
-    + [Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
-    + [Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
-    + [Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
-    + [Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
-    + [Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
-    + [Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
-    + [Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
-    + [Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
 - [Apache Foundation](https://www.apache.org/)
     + [Apache Projects List (by category)](https://projects.apache.org/projects.html?category)
     + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
     + [Hadoop](http://hadoop.apache.org/docs/current/) - Open-source software for reliable, scalable, distributed computing
+        * HDFS - Scalable and reliable data storage that is designed to span large clusters of commodity servers
     + [Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
     + [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual) - Data warehouse software that facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
     + [Pig](http://pig.apache.org/docs/r0.16.0/) - A platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs
@@ -52,6 +21,25 @@
     + [Kafka](https://kafka.apache.org/) - A distributed streaming platform
     + [Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
     + [JMeter](http://jmeter.apache.org/) - Java application designed to load test functional behavior and measure performance
+    + [Yarn](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Pluggable architecture and resource management for data processing engines to interact with data stored in HDFS
+
+- Data Warehouse and Data Lake
+    + [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
+    + [BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
+- Real-time/streaming data and big data pipeline
+    + [Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
+        * Firehouse - Easily load real-time streaming data into AWS
+        * Analytics - Get actionable insights from streaming data in real-time
+        * Streams - Build custom applications that process or analyze streaming data for specialized needs
+    + [Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
+    + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
+    + [Amazon EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
+    + [Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
+- Business Intelligence
+    + [QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
+    + [Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
+- IoT
+    + [IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
 - NoSQL
     + Document
         + [MongoDB](https://docs.mongodb.com/) - NoSQL document store
@@ -78,7 +66,13 @@
         + [Titan](https://github.com/thinkaurelius/titan) - A highly scalable graph database optimized for storing and querying large graphs with billions of vertices and edges distributed across a multi-machine cluster
         * [OrientDB](http://orientdb.com/docs/last/) - A document-graph database, meaning it has full native graph capabilities coupled with features normally only found in document databases
 - RDBMS
-    + [AWS RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
+    - [RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
+        + [Amazon Aurora](https://aws.amazon.com/rds/aurora/getting-started/) - MySQL-compatible relational database with 5X performance
+        + [Oracle](https://docs.oracle.com/en/database/)
+        + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
+        + [PostgreSQL](https://www.postgresql.org/docs/)
+        + [MySQL](https://dev.mysql.com/doc/)
+        + [MariaDB](https://mariadb.org/learn/)
     + [MySQL](https://dev.mysql.com/doc/) - Open source RDBMS
     + [PostgreSQL](https://www.postgresql.org/docs/) - Open-source Object-Relational DBMS supporting almost all SQL constructs
     + [SQLite](https://www.sqlite.org/docs.html) - A self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine
@@ -98,7 +92,18 @@
     + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/) - A time series database built from the ground up to handle high write and query loads
     + [Prometheus](https://prometheus.io/docs/introduction/overview/) - An open-source systems monitoring and alerting toolkit originally built at SoundCloud
     + [Druid](http://druid.io/docs/0.9.1.1/design/index.html) - An open source data store designed for OLAP queries on event data
-- Cloud services and APIs
+- Machine learning and AI Cloud services and APIs
     + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
     + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
     + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
+    + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
+    + [Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
+    + [Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
+    + [Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
+    + [Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
+    + [Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
+    + [Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
+    + [Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
+- Massively parallel processing database (MPP)
+- Messaging, communications, notifications, and more
+    + [Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications

@@ -23,6 +23,51 @@
     + Descriptive analytics - What happened and why?
     + Predictive analytics - What is the probability of something happening?
     + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
+- Data types and sources
+    + Structured
+    + Unstructured
+    + Semi-structured
+    + Sensors
+    + RFID
+    + Instore WiFi logs
+    + Logs
+    + Text, including documents and emails
+    + Social
+    + Geo-location
+    + Machine generated
+    + Clickstream
+    + Software
+    + OLTP, ERP, CRM systems - Online transaction processing, Enterprise resource planning, and customer relationship management
+    + Online chat
+    + Merchant listings
+    + DMP - Data management platform (advertising/marketing)
+    + CDR - Call detail records
+    + Surveys, questionnaires, binary questions, and sentiment
+    + Billing data
+    + Product catalog
+    + Network data
+    + Subscriber data
+    + Staffing
+    + Inventory
+    + POS
+    + eCommerce transactions
+
+## Enterprise Big Data Capabilities
+- Governance
+- Data Integration
+- Data access
+- Data management
+- Deployment choice
+    + On-premise
+    + In-cloud
+    + Appliance
+- Presentation and applciations
+- Enterprise management and security
+- Security
+- Operations
+
+## Enterprise Big Data Components
+- http://hortonworks.com/wp-content/uploads/2014/03/11.png
 
 ## Database Considerations and Tradeoffs
 - ACID
@@ -123,12 +168,40 @@ Coming soon...
 - [What is Streaming Data?](https://aws.amazon.com/streaming-data/)
 
 ## Data Lake vs Data Warehouse
+- Data Warehouse
+    + Definition
+    + Benefits
+        * Schema-on-write
+    + Considerations
+    + Technologies
+        * AWS Redshift
+- Data Lake
+    + Definition
+    + Benefits
+        * A data lake delivers maximum scale and insight with the lowest possible friction and cost
+        * Increased efficiency
+        * Reduced storage costs
+        * Data processing workload optimization, including data integration and transformation
+        * Schema-on-read and associated flexibility and new opportunities
+        * Multi-use and multi-workload data processing on same data from batch to real-time across business units
+        * Eliminate need for ETL and associated costs
+        * Keep 100% of source data and historical data for ongoing exploration (both raw and processed)    
+    + Considerations
+    + Technologies
+        * Hadoop
+        * Apache YARN
 
-Coming soon...
-
-## Batch vs Real-Time Processing
-
-Coming soon...
+## Data Processing and access methods/patterns compared
+- Batch
+    + Process batches of data on regular time intervals, e.g., hourly, daily, overnight, etc.
+- Real-time
+    + Monitor and react in real time
+- Streaming
+- Interactive
+    + Data analysts reviewing data
+- Online
+- Search
+- In-memory
 
 ## Offline vs Online Learning
 
