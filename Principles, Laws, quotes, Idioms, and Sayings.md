@@ -38,7 +38,7 @@
 - Deliver results rather than excuses
 - Don't prove own importance by vetoing good ideas and road-blocking productive work
 - Accept total accountability and make it happen
-- Slower ultimate success is better than faster permanent failure - Me :)
+- Slower ultimate success is better than faster permanent failure - Me
 - YAGNI (from XP) - You aren’t gonna need it
     + "Always implement things when you actually need them, never when you just foresee that you need them."
 - DTSTTCPW (from XP) - "do the simplest thing that could possibly work"
