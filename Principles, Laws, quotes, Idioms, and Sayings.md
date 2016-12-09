@@ -1,8 +1,9 @@
 # Principles, Laws, Quotes, Idioms, and Sayings
 
 ## Principles and Rules
-- Principle of least priviledge
-- Peter principle
+- Principle of least priviledge - Requires that in a particular abstraction layer of a computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able to access only the information and resources that are necessary for its legitimate purpose
+- Peter principle - The selection of a candidate for a position is based on the candidate's performance in their current role, rather than on abilities relevant to the intended role
+    + Employees only stop being promoted once they can no longer perform effectively, and "managers rise to the level of their incompetence."
 - Pareto principle
     + 20% of the features will account for 80% of the value
     + 20% of the work will produce 80% of the value
@@ -22,11 +23,11 @@
     + Lean startup version: hypothesis, design experiments, test, insight
 
 ## Laws
-- Parkinson's law of triviality
+- Parkinson's law of triviality - Members of an organisation give disproportionate weight to trivial issues
 - Parkinson's law - Work expands so as to fill the time available for its completion
 - Brooks's law - Adding manpower to a late software project makes it later
 - Hofstadter's law - It always takes longer than you expect, even when you take into account Hofstadter's Law
-- Little's law
+- Little's law - The long-term average number of customers in a stable system L is equal to the long-term average effective arrival rate, λ, multiplied by the (Palm‑)average time a customer spends in the system, W; or expressed algebraically: L = λW.
 
 ## Quotes, Idioms, and Sayings
 - Nothing is more permanent than a temporary solution
@@ -37,7 +38,7 @@
 - Deliver results rather than excuses
 - Don't prove own importance by vetoing good ideas and road-blocking productive work
 - Accept total accountability and make it happen
-- Slightly slower success is better than rapid failure - Alex Castrounis :)
+- Slower ultimate success is better than faster permanent failure - Me :)
 - YAGNI (from XP) - You aren’t gonna need it
     + "Always implement things when you actually need them, never when you just foresee that you need them."
 - DTSTTCPW (from XP) - "do the simplest thing that could possibly work"
