@@ -4,56 +4,11 @@
 - [Apache Foundation](https://www.apache.org/)
     + [Apache Projects List (by category)](https://projects.apache.org/projects.html?category)
     
-## By Category
-- Big Data and Application Architecture and Configuration
-    + [Brooklyn](https://brooklyn.apache.org/documentation/index.html) - A framework for modeling, monitoring, and managing applications through autonomic blueprints
-    + [Bigtop](http://bigtop.apache.org/) - Project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components
-    + [REEF](http://reef.apache.org/introduction.html) - Apache REEF (Retainable Evaluator Execution Framework) is a library for developing portable applications for cluster resource managers such as Apache Hadoop YARN or Apache Mesos
-- Data Management
-    + [Hadoop](http://hadoop.apache.org/docs/current/) - Open-source software for reliable, scalable, distributed computing
-    + [Apache Hadoop HDFS](http://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html) - The primary distributed storage used by Hadoop applications
-    + [Apache Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Pluggable architecture and resource management for data processing engines to interact with data stored in HDFS
+## Database Systems
 - Data Warehouse and Data Lake
     + [AWS Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
     + [Google Cloud BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
     + [Tajo](http://tajo.apache.org/docs/current/index.html) - A robust big data relational and distributed data warehouse system for Apache Hadoop
-- Big Data Access
-    + [Pig](http://pig.apache.org/docs/r0.16.0/) - A platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs
-    + [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual) - Data warehouse software that facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
-    + [Tez](https://tez.apache.org/user_guides.html) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data
-    + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
-    + [Storm](http://storm.apache.org/index.html) - A free and open source distributed realtime computation system
-    + [Apache Hadoop MapReduce](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - A YARN-based system for parallel processing of large data sets
-    + [Apache Accumulo](https://accumulo.apache.org/) - A sorted, distributed key/value store that provides robust, scalable data storage and retrieval
-    + [Apache Hive HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) - A table and storage management layer for Hadoop that enables users with different data processing tools — Pig, MapReduce — to more easily read and write data on the grid
-- Big Data Processing and pipeline (batch, real-time/streaming, ...)
-    + [Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
-        * [Spark SQL](http://spark.apache.org/docs/latest/sql-programming-guide.html) - A Spark module for structured data processing
-        * [MLlib](http://spark.apache.org/docs/latest/ml-guide.html) - Spark’s machine learning (ML) library
-        * [GraphX](http://spark.apache.org/docs/latest/graphx-programming-guide.html) - Graphs and graph-parallel computation
-        * [Spark Streaming](http://spark.apache.org/docs/latest/streaming-programming-guide.html) - An extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing of live data streams
-    + [AWS Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
-        * Firehouse - Easily load real-time streaming data into AWS
-        * Analytics - Get actionable insights from streaming data in real-time
-        * Streams - Build custom applications that process or analyze streaming data for specialized needs
-    + [Kafka](https://kafka.apache.org/) - A distributed streaming platform
-    + [Apex](https://apex.apache.org/docs.html) - Enterprise-grade unified stream and batch processing engine
-    + [Apache Flume](https://flume.apache.org/documentation.html) - A distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data
-    + [Ignite](https://apacheignite.readme.io/docs) - A high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies
-    + [Google Cloud Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
-    + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
-    + [AWS EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
-    + [Google Cloud Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
-- Big Data Analytics
-    + [Kylin](http://kylin.apache.org/docs15/) - An open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets, original contributed from eBay Inc
-    + [Lens](http://lens.apache.org/user/index.html) - A unified analytics interface
-- Data Transfer and Migration
-    + [Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
-- Business Intelligence
-    + [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
-    + [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
-- IoT
-    + [AWS IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
 - NoSQL
     + Document
         + [MongoDB](https://docs.mongodb.com/) - NoSQL document store
@@ -92,6 +47,11 @@
     + [SQLite](https://www.sqlite.org/docs.html) - A self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine
     + [Oracle Database](http://www.oracle.com/technetwork/database/index.html)
     + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
+- In-memory
+    + [VoltDB](https://docs.voltdb.com/?utm_source=LL-UX&utm_medium=resources-dropdown&utm_content=resources-dropdown-top&utm_campaign=docs) - The only in-memory, operational database purpose-built to help businesses build high velocity applications
+    + [MemSQL](http://docs.memsql.com/docs) - A high-performance, in-memory database that combines
+    + [SAP HANA](https://hcp.sap.com/index.html#) - An open platform-as-a-service that provides unique in-memory database and application services
+the horizontal scalability of distributed systems with the familiarity of SQL
 - Static storage
     - [AWS S3](https://aws.amazon.com/documentation/s3/) - Simple, durable, massively scalable object storage
 - Search and full-text
@@ -106,6 +66,70 @@
     + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/) - A time series database built from the ground up to handle high write and query loads
     + [Prometheus](https://prometheus.io/docs/introduction/overview/) - An open-source systems monitoring and alerting toolkit originally built at SoundCloud
     + [Druid](http://druid.io/docs/0.9.1.1/design/index.html) - An open source data store designed for OLAP queries on event data
+
+## Big Data and Data Pipelines
+- Big Data and Application Architecture and Configuration
+    + [Brooklyn](https://brooklyn.apache.org/documentation/index.html) - A framework for modeling, monitoring, and managing applications through autonomic blueprints
+    + [Bigtop](http://bigtop.apache.org/) - Project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components
+    + [REEF](http://reef.apache.org/introduction.html) - Apache REEF (Retainable Evaluator Execution Framework) is a library for developing portable applications for cluster resource managers such as Apache Hadoop YARN or Apache Mesos
+- Data Management
+    + [Hadoop](http://hadoop.apache.org/docs/current/) - Open-source software for reliable, scalable, distributed computing
+    + [Apache Hadoop HDFS](http://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html) - The primary distributed storage used by Hadoop applications
+    + [Apache Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Pluggable architecture and resource management for data processing engines to interact with data stored in HDFS
+    + [Kite](http://kitesdk.org/docs/current/) - A high-level data layer for Hadoop
+- Big Data Access
+    + [Pig](http://pig.apache.org/docs/r0.16.0/) - A platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs
+    + [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual) - Data warehouse software that facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
+    + [Tez](https://tez.apache.org/user_guides.html) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data
+    + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
+    + [Storm](http://storm.apache.org/index.html) - A free and open source distributed realtime computation system
+    + [Apache Hadoop MapReduce](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - A YARN-based system for parallel processing of large data sets
+    + [Apache Accumulo](https://accumulo.apache.org/) - A sorted, distributed key/value store that provides robust, scalable data storage and retrieval
+    + [Apache Hive HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) - A table and storage management layer for Hadoop that enables users with different data processing tools — Pig, MapReduce — to more easily read and write data on the grid
+- Big Data Processing and pipeline (ETL, batch, real-time/streaming, ...)
+    + [Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
+        * [Spark SQL](http://spark.apache.org/docs/latest/sql-programming-guide.html) - A Spark module for structured data processing
+        * [MLlib](http://spark.apache.org/docs/latest/ml-guide.html) - Spark’s machine learning (ML) library
+        * [GraphX](http://spark.apache.org/docs/latest/graphx-programming-guide.html) - Graphs and graph-parallel computation
+        * [Spark Streaming](http://spark.apache.org/docs/latest/streaming-programming-guide.html) - An extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing of live data streams
+    + [AWS Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
+        * Firehouse - Easily load real-time streaming data into AWS
+        * Analytics - Get actionable insights from streaming data in real-time
+        * Streams - Build custom applications that process or analyze streaming data for specialized needs
+    + [Kafka](https://kafka.apache.org/) - A distributed streaming platform
+    + [Apex](https://apex.apache.org/docs.html) - Enterprise-grade unified stream and batch processing engine
+    + [Apache Flume](https://flume.apache.org/documentation.html) - A distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data
+    + [Ignite](https://apacheignite.readme.io/docs) - A high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies
+    + [Google Cloud Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
+    + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
+    + [AWS EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
+    + [Google Cloud Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
+- Big Data Analytics
+    + [Kylin](http://kylin.apache.org/docs15/) - An open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets, original contributed from eBay Inc
+    + [Lens](http://lens.apache.org/user/index.html) - A unified analytics interface
+    + [Cloudera Impala](http://www.cloudera.com/products/apache-hadoop/impala.html) - The open source, analytic MPP database for Apache Hadoop that provides the fastest time-to-insight
+- Data Transfer and Migration
+    + [Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
+- Hadoop Enabled Applications
+    + Cascading
+    + Cascalog
+    + Scalding
+    + PyCascading 
+- Business Intelligence
+    + [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
+    + [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
+- Data Governance and Integration
+    + [Apache Falcon](https://falcon.apache.org/index.html) - A feed processing and feed management system aimed at making it easier for end consumers to onboard their feed processing and feed management on hadoop clusters
+- Security
+    + [Apache Knox Gateway](https://knox.apache.org/books/knox-0-10-0/dev-guide.html) - A REST API Gateway for interacting with Apache Hadoop clusters
+- Operations
+    + [Apache Ambari](https://cwiki.apache.org/confluence/display/AMBARI/Ambari) - Tool for provisioning, managing, and monitoring Apache Hadoop clusters
+- Massively parallel processing database (MPP)
+
+## IoT
+- [AWS IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
+
+## Cloud Services
 - Machine learning and AI Cloud services and APIs
     + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
     + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
@@ -118,14 +142,9 @@
     + [Google Cloud Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
     + [Google Cloud Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
     + [Google Cloud Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
-- Data Governance and Integration
-    + [Apache Falcon](https://falcon.apache.org/index.html) - A feed processing and feed management system aimed at making it easier for end consumers to onboard their feed processing and feed management on hadoop clusters
-- Security
-    + [Apache Knox Gateway](https://knox.apache.org/books/knox-0-10-0/dev-guide.html) - A REST API Gateway for interacting with Apache Hadoop clusters
-- Operations
-    + [Apache Ambari](https://cwiki.apache.org/confluence/display/AMBARI/Ambari) - Tool for provisioning, managing, and monitoring Apache Hadoop clusters
-- Massively parallel processing database (MPP)
 - Messaging, communications, notifications, and more
     + [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
+
+## Other
 - Load testing
     + [JMeter](http://jmeter.apache.org/) - Java application designed to load test functional behavior and measure performance
