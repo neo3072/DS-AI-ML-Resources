@@ -24,50 +24,50 @@
     + [Yarn](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Pluggable architecture and resource management for data processing engines to interact with data stored in HDFS
 
 - Data Warehouse and Data Lake
-    + [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
-    + [BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
+    + [AWS Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
+    + [Google Cloud BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
 - Real-time/streaming data and big data pipeline
-    + [Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
+    + [AWS Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
         * Firehouse - Easily load real-time streaming data into AWS
         * Analytics - Get actionable insights from streaming data in real-time
         * Streams - Build custom applications that process or analyze streaming data for specialized needs
-    + [Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
+    + [Google Cloud Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
     + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
-    + [Amazon EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
-    + [Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
+    + [AWS EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
+    + [Google Cloud Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
 - Business Intelligence
-    + [QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
-    + [Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
+    + [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
+    + [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
 - IoT
-    + [IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
+    + [AWS IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
 - NoSQL
     + Document
         + [MongoDB](https://docs.mongodb.com/) - NoSQL document store
         + [CouchBase](http://developer.couchbase.com/documentation-archive) - A document database with a SQL-based query language that is engineered to deliver performance at scale
         + [CouchDB](http://docs.couchdb.org/en/2.0.0/) - NoSQL document store
-        + [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability
+        + [AWS DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability
         + [RethinkDB](https://rethinkdb.com/docs/) - RethinkDB is the open-source, scalable database that makes building realtime apps dramatically easier
         + [Azure's DocumentDB](https://docs.microsoft.com/en-us/azure/documentdb/) - A fully managed NoSQL database service built for fast and predictable performance, high availability, elastic scaling, global distribution, and ease of development
     + Column and wide-column (Big-table style)
-        + [BigTable](https://cloud.google.com/bigtable/docs/) - Fast, fully managed, massively scalable NoSQL database service
+        + [Google Cloud BigTable](https://cloud.google.com/bigtable/docs/) - Fast, fully managed, massively scalable NoSQL database service
         + [Cassandra](http://cassandra.apache.org/doc/latest/) - Free and open-source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure
         + [Druid](http://druid.io/docs/latest/design/index.html) - An open source data store designed for OLAP queries on event data
         + [HyperTable](http://www.hypertable.com/documentation/) - A high performance, open source, massively scalable database modeled after Bigtable
         + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
-        + [SimpleDB](https://aws.amazon.com/documentation/simpledb/) - A highly available, scalable, and flexible non-relational data store that enables you to store and query data items using web services requests
+        + [AWS SimpleDB](https://aws.amazon.com/documentation/simpledb/) - A highly available, scalable, and flexible non-relational data store that enables you to store and query data items using web services requests
     + Key-value
         + [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
         + [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
         + [Riak](https://docs.basho.com/) - Distributed NoSQL Database
-        + [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability
+        + [AWS DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability
         + [Azure Table Storage (ATS)](https://docs.microsoft.com/en-us/azure/storage/)
     + Graph
         + [Neo4j](https://neo4j.com/docs/) - World's fastest and most scalable graph database
         + [Titan](https://github.com/thinkaurelius/titan) - A highly scalable graph database optimized for storing and querying large graphs with billions of vertices and edges distributed across a multi-machine cluster
         * [OrientDB](http://orientdb.com/docs/last/) - A document-graph database, meaning it has full native graph capabilities coupled with features normally only found in document databases
 - RDBMS
-    - [RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
-        + [Amazon Aurora](https://aws.amazon.com/rds/aurora/getting-started/) - MySQL-compatible relational database with 5X performance
+    - [AWS RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
+        + [AWS Aurora](https://aws.amazon.com/rds/aurora/getting-started/) - MySQL-compatible relational database with 5X performance
         + [Oracle](https://docs.oracle.com/en/database/)
         + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
         + [PostgreSQL](https://www.postgresql.org/docs/)
@@ -79,7 +79,7 @@
     + [Oracle Database](http://www.oracle.com/technetwork/database/index.html)
     + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
 - Static storage
-    - [S3](https://aws.amazon.com/documentation/s3/) - Simple, durable, massively scalable object storage
+    - [AWS S3](https://aws.amazon.com/documentation/s3/) - Simple, durable, massively scalable object storage
 - Search and full-text
     - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
     - [Apache Lucene](https://lucene.apache.org/core/documentation.html) - Java-based indexing and search technology, as well as spellchecking, hit highlighting and advanced analysis/tokenization capabilities
@@ -96,14 +96,14 @@
     + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
     + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
     + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
-    + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
-    + [Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
-    + [Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
-    + [Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
-    + [Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
-    + [Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
-    + [Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
-    + [Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
+    + [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
+    + [Google Cloud Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
+    + [Google Cloud Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
+    + [Google Cloud Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
+    + [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
+    + [Google Cloud Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
+    + [Google Cloud Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
+    + [Google Cloud Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
 - Massively parallel processing database (MPP)
 - Messaging, communications, notifications, and more
-    + [Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
+    + [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
