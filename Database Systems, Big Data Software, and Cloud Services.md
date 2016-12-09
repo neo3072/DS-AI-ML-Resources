@@ -33,6 +33,9 @@
     + [Tez](https://tez.apache.org/user_guides.html) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data
     + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
     + [Storm](http://storm.apache.org/index.html) - A free and open source distributed realtime computation system
+    + [Apache Hadoop MapReduce](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - A YARN-based system for parallel processing of large data sets
+    + [Apache Accumulo](https://accumulo.apache.org/) - A sorted, distributed key/value store that provides robust, scalable data storage and retrieval
+    + [Apache Hive HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) - A table and storage management layer for Hadoop that enables users with different data processing tools — Pig, MapReduce — to more easily read and write data on the grid
 - Real-time/streaming data and big data pipeline
     + [AWS Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
         * Firehouse - Easily load real-time streaming data into AWS
