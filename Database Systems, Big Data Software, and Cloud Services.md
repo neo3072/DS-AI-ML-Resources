@@ -69,16 +69,23 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     + [Druid](http://druid.io/docs/0.9.1.1/design/index.html) - An open source data store designed for OLAP queries on event data
 
 ## Big Data and Data Pipelines
-- Application Architecture and Configuration
+- Application Architecture, Configuration, and Deployment
     + [Apache Brooklyn](https://brooklyn.apache.org/documentation/index.html) - A framework for modeling, monitoring, and managing applications through autonomic blueprints
     + [Apache Bigtop](http://bigtop.apache.org/) - Project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components
     + [Apache REEF](http://reef.apache.org/introduction.html) - Apache REEF (Retainable Evaluator Execution Framework) is a library for developing portable applications for cluster resource managers such as Apache Hadoop YARN or Apache Mesos
-- Storage and Resource Management
+    + [Apache Slider](https://slider.incubator.apache.org/) - An application to deploy existing distributed applications on an Apache Hadoop YARN cluster, monitor them and make them larger or smaller as desired -even while the application is running
+- Data Storage, Resource Management, and Architecture
     + [Apache Hadoop](http://hadoop.apache.org/docs/current/) - Open-source software for reliable, scalable, distributed computing
     + [Apache Hadoop HDFS](http://hadoop.apache.org/docs/r2.7.2/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html) - The primary distributed storage used by Hadoop applications
     + [Apache Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Pluggable architecture and resource management for data processing engines to interact with data stored in HDFS
+    - Enterprise and Service-based Hadoop
+        * [Cloudera](http://www.cloudera.com/documentation.html)
+            - [Hortonworks Data Platform (HDP)](http://hortonworks.com/products/data-center/hdp/)
+        * [Hortonworks](http://maprdocs.mapr.com/home/)
+        * [MapR](http://docs.hortonworks.com/index.html)
+            - [MapR Converged Data Platform](MapR Converged Data Platform)
     + [Kite](http://kitesdk.org/docs/current/) - A high-level data layer for Hadoop
-- Access
+- Data Access
     + [Apache Pig](http://pig.apache.org/docs/r0.16.0/) - A platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs
     + [Apache Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual) - Data warehouse software that facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
     + [Apache Tez](https://tez.apache.org/user_guides.html) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data
@@ -87,7 +94,11 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     + [Apache Hadoop MapReduce](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) - A YARN-based system for parallel processing of large data sets
     + [Apache Accumulo](https://accumulo.apache.org/) - A sorted, distributed key/value store that provides robust, scalable data storage and retrieval
     + [Apache Hive HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) - A table and storage management layer for Hadoop that enables users with different data processing tools — Pig, MapReduce — to more easily read and write data on the grid
-- Processing and pipeline (Integration, ETL, batch, real-time/streaming, ...)
+    + [Apache Drill](https://drill.apache.org/docs/) - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
+- Data Cleaning and Integrity
+    + [OpenRefine](http://openrefine.org/documentation.html) - A powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
+    + [DataCleaner](http://datacleaner.org/docs) - A strong data profiling engine for discovering and analyzing the quality of your data
+- Data Processing and pipeline (Integration, ETL, batch, real-time/streaming, ...)
     + [Apache Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
         * [Spark SQL](http://spark.apache.org/docs/latest/sql-programming-guide.html) - A Spark module for structured data processing
         * [MLlib](http://spark.apache.org/docs/latest/ml-guide.html) - Spark’s machine learning (ML) library
@@ -149,6 +160,13 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     + [Google Cloud Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
 - Messaging, communications, notifications, and more
     + [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
+
+## Enterprise Products and Services
+- [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises
+- [Teradata](http://www.teradata.com/?LangType=1033)
+    + Business Analytics Solutions
+    + Analytical Architecture Consulting
+    + Hybrid Cloud Products
 
 ## Other
 - Load testing

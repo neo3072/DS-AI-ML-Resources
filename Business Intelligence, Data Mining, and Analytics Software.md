@@ -6,13 +6,23 @@
 - [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
 - [Tableau](http://www.tableau.com/support) - Business intelligence software
 - [RapidMiner](http://docs.rapidminer.com/) - DATA SCIENCE PLATFORM
+- [Pentaho](http://www.pentaho.com/)
 - [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
+- [IBM SPSS Modeler](https://www.ibm.com/marketplace/cloud/spss-modeler/resources/us/en-us#product-header-top) - A predictive analytics platform that helps you build accurate predictive models quickly and deliver predictive intelligence to individuals, groups, systems and the enterprise
 - [SAS](https://support.sas.com/documentation/) - Business intelligence software
+- [BigML](https://bigml.com/)
 - [Qlik](https://help.qlik.com/) - Business intelligence software
 - [Microsoft Power BI](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
 - [Alteryx](http://downloads.alteryx.com/documentation.html)
+- [Qubole](https://www.qubole.com/)
 - [SAP](https://support.sap.com/documentation.html)
 - [KNIME](https://tech.knime.org/documentation)
 - [Talend](https://help.talend.com/display/HOME/Current+Documentation)
 - [Splunk](http://docs.splunk.com/Documentation)
 - [SlamData](http://docs.slamdata.com/en/v4.0/)
+- [Silk](https://www.silk.co/home)
+- [Carto.com](https://carto.com/)
+- [Chartio](https://chartio.com/login/?next=/welcome/)
+- [Plotly](https://plot.ly/)
+- [Datawrapper](https://www.datawrapper.de/)
+- [Statwing](https://www.statwing.com/)

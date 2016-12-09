@@ -24,6 +24,9 @@
 - [Online GUID Generator](https://www.guidgenerator.com/online-guid-generator.aspx)
 - [Unix permissions lookup](http://permissions-calculator.org/)
 
+## RegEx
+- [RegExr](http://www.regexr.com/)
+
 ## Mail Lists and Newsletters
 - [Mailchimp](https://mailchimp.com/)
 

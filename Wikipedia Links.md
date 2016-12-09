@@ -89,6 +89,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Information of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
 - [Complex event processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 - [Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+- [Data integration](https://en.wikipedia.org/wiki/Data_integration)
 
 ## Data Storage, Querying, and CRUD
 - [Data warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
