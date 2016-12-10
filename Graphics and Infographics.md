@@ -5,3 +5,4 @@
 - [Data Science and Mining Multidisciplinary](http://images.slideplayer.com/19/5798869/slides/slide_8.jpg)
 - [Data Science Venn Diagram](http://www.datascienceassn.org/sites/default/files/users/user30/Data%20Science%20Venn%20Diagram%20by%20Shelly%20Palmer%202015.png)
 - [Data Science Puzzle](http://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-600.jpg)
+- [Benefits of Having a Data Science Career](https://www.simplilearn.com/ice9/Other_Infographics/Benefits-of-having-a-career-in-data-science.jpg)

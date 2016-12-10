@@ -48,6 +48,7 @@
     + [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform
     + [Apache Apex](https://apex.apache.org/docs.html) - Enterprise-grade unified stream and batch processing engine
     + [Apache Flume](https://flume.apache.org/documentation.html) - A distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data
+    + [Apache Samza](http://samza.apache.org/learn/documentation/0.11/) - A distributed stream processing framework
     + [Apache Ignite](https://apacheignite.readme.io/docs) - A high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies
     + [Apache Flink](https://flink.apache.org/) - A streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams
     + [Google Cloud Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
@@ -57,6 +58,7 @@
 - Scheduling and Jobs
     + [Apache Oozie](http://oozie.apache.org/) - A workflow scheduler system to manage Apache Hadoop jobs
 - Analytics
+    + [Apache Mahout](http://mahout.apache.org/developers/developer-resources.html) - Build an environment for quickly creating scalable performant machine learning applications
     + [Apache Kylin](http://kylin.apache.org/docs15/) - An open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets, original contributed from eBay Inc
     + [Apache Lens](http://lens.apache.org/user/index.html) - A unified analytics interface
     + [Cloudera Impala](http://www.cloudera.com/products/apache-hadoop/impala.html) - The open source, analytic MPP database for Apache Hadoop that provides the fastest time-to-insight
