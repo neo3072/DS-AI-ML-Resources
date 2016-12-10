@@ -31,6 +31,7 @@
     + [Apache Accumulo](https://accumulo.apache.org/) - A sorted, distributed key/value store that provides robust, scalable data storage and retrieval
     + [Apache Hive HCatalog](https://cwiki.apache.org/confluence/display/Hive/HCatalog) - A table and storage management layer for Hadoop that enables users with different data processing tools — Pig, MapReduce — to more easily read and write data on the grid
     + [Apache Drill](https://drill.apache.org/docs/) - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage
+    + [Presto](https://prestodb.io/docs/current/) - An open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes
 - Data Cleaning and Integrity
     + [OpenRefine](http://openrefine.org/documentation.html) - A powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
     + [DataCleaner](http://datacleaner.org/docs) - A strong data profiling engine for discovering and analyzing the quality of your data
@@ -62,10 +63,11 @@
 - Data Transfer and Migration
     + [Apache Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
 - Hadoop Enabled Applications
-    + Cascading
-    + Cascalog
-    + Scalding
-    + PyCascading
+    + [Cascading](http://www.cascading.org/documentation/) - The proven application development platform for building data applications on Hadoop
+    + [Cascalog](http://nathanmarz.github.io/cascalog/) - Fully-featured data processing and querying library 
+for Clojure or Java
+    + [Scalding](https://github.com/twitter/scalding/wiki/Getting-Started) - An extension to Cascading that enables application development with Scala, a powerful language for solving functional problems
+    + [PyCascading](https://github.com/twitter/pycascading) - A Python wrapper for Cascading
 - Data Governance and Integration
     + [Apache Falcon](https://falcon.apache.org/index.html) - A feed processing and feed management system aimed at making it easier for end consumers to onboard their feed processing and feed management on hadoop clusters
 - Security
