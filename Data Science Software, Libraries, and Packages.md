@@ -1,4 +1,4 @@
-# Data Science Software, Platforms, Libraries, and Packages
+# Data Science Software, Libraries, and Packages
 
 ## Package Managers
 - [Sublime Text Package Control](https://packagecontrol.io/)
