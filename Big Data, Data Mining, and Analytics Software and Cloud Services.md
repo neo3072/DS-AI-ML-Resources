@@ -1,4 +1,4 @@
-# Big Data Software and Cloud Services
+# Big Data, Data Mining, and Analytics Software and Cloud Services
 
 ## Lists
 - [Apache Foundation](https://www.apache.org/)
@@ -77,25 +77,50 @@
 ## IoT
 - [AWS IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
 
-## Business Intelligence
-- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
+## Data Mining
 - [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
 
-## Cloud Services
-- Machine learning and AI Cloud services and APIs
-    + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
-    + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
-    + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
-    + [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
-    + [Google Cloud Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
-    + [Google Cloud Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
-    + [Google Cloud Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
-    + [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
-    + [Google Cloud Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
-    + [Google Cloud Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
-    + [Google Cloud Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
-- Messaging, communications, notifications, and more
-    + [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
+## Business Intelligence
+- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
+- [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)
+- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/)
+- [Graphviz](http://www.graphviz.org/) - Open source graph visualization software
+- [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
+- [Tableau](http://www.tableau.com/support) - Business intelligence software
+- [RapidMiner](http://docs.rapidminer.com/) - DATA SCIENCE PLATFORM
+- [Pentaho](http://www.pentaho.com/)
+- [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
+- [IBM SPSS Modeler](https://www.ibm.com/marketplace/cloud/spss-modeler/resources/us/en-us#product-header-top) - A predictive analytics platform that helps you build accurate predictive models quickly and deliver predictive intelligence to individuals, groups, systems and the enterprise
+- [SAS](https://support.sas.com/documentation/) - Business intelligence software
+- [BigML](https://bigml.com/)
+- [Qlik](https://help.qlik.com/) - Business intelligence software
+- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
+- [Alteryx](http://downloads.alteryx.com/documentation.html)
+- [Qubole](https://www.qubole.com/)
+- [SAP](https://support.sap.com/documentation.html)
+- [KNIME](https://tech.knime.org/documentation)
+- [Talend](https://help.talend.com/display/HOME/Current+Documentation)
+- [Splunk](http://docs.splunk.com/Documentation)
+- [SlamData](http://docs.slamdata.com/en/v4.0/)
+- [Silk](https://www.silk.co/home)
+- [Carto.com](https://carto.com/)
+- [Chartio](https://chartio.com/login/?next=/welcome/)
+- [Plotly](https://plot.ly/)
+- [Datawrapper](https://www.datawrapper.de/)
+- [Statwing](https://www.statwing.com/)
+
+## Cloud Services and APIs
++ [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
++ [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
++ [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
++ [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
++ [Google Cloud Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
++ [Google Cloud Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
++ [Google Cloud Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
++ [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
++ [Google Cloud Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
++ [Google Cloud Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
++ [Google Cloud Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
 
 ## Enterprise Products and Services
 - [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises

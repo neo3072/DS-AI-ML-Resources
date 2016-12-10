@@ -11,7 +11,7 @@
 - [Gulp](http://gulpjs.com/plugins/)
 - [Grunt](http://gruntjs.com/plugins)
 
-## Platforms, Libraries, and Packages
+## Software, Libraries, and Packages
 - Deep learning and neural networks
     + [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
     + [Caffe](http://caffe.berkeleyvision.org/) - A deep learning framework made with expression, speed, and modularity in mind
