@@ -77,39 +77,7 @@
 ## IoT
 - [AWS IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
 
-## Data Mining
-- [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
-
-## Business Intelligence
-- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
-- [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)
-- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/)
-- [Graphviz](http://www.graphviz.org/) - Open source graph visualization software
-- [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
-- [Tableau](http://www.tableau.com/support) - Business intelligence software
-- [RapidMiner](http://docs.rapidminer.com/) - DATA SCIENCE PLATFORM
-- [Pentaho](http://www.pentaho.com/)
-- [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
-- [IBM SPSS Modeler](https://www.ibm.com/marketplace/cloud/spss-modeler/resources/us/en-us#product-header-top) - A predictive analytics platform that helps you build accurate predictive models quickly and deliver predictive intelligence to individuals, groups, systems and the enterprise
-- [SAS](https://support.sas.com/documentation/) - Business intelligence software
-- [BigML](https://bigml.com/)
-- [Qlik](https://help.qlik.com/) - Business intelligence software
-- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
-- [Alteryx](http://downloads.alteryx.com/documentation.html)
-- [Qubole](https://www.qubole.com/)
-- [SAP](https://support.sap.com/documentation.html)
-- [KNIME](https://tech.knime.org/documentation)
-- [Talend](https://help.talend.com/display/HOME/Current+Documentation)
-- [Splunk](http://docs.splunk.com/Documentation)
-- [SlamData](http://docs.slamdata.com/en/v4.0/)
-- [Silk](https://www.silk.co/home)
-- [Carto.com](https://carto.com/)
-- [Chartio](https://chartio.com/login/?next=/welcome/)
-- [Plotly](https://plot.ly/)
-- [Datawrapper](https://www.datawrapper.de/)
-- [Statwing](https://www.statwing.com/)
-
-## Cloud Services and APIs
+## Data Science and Advanced Analytics Cloud Services and APIs
 + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
 + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
 + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
@@ -121,13 +89,43 @@
 + [Google Cloud Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
 + [Google Cloud Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
 + [Google Cloud Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
+- [BigML](https://bigml.com/)
+- [Carto.com](https://carto.com/)
 
-## Enterprise Products and Services
+## Data Mining and Analytics
+- [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
+- [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
+- [RapidMiner](http://docs.rapidminer.com/) - Data science platform
+- [Statwing](https://www.statwing.com/)
+
+## Business Intelligence and Data Visualization
+- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
+- [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)
+- [Graphviz](http://www.graphviz.org/) - Open source graph visualization software
+- [Tableau](http://www.tableau.com/support) - Business intelligence software
+- [Qlik](https://help.qlik.com/) - Business intelligence software
+- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
+- [SlamData](http://docs.slamdata.com/en/v4.0/)
+- [Silk](https://www.silk.co/home)
+- [Chartio](https://chartio.com/login/?next=/welcome/)
+- [Plotly](https://plot.ly/)
+- [Datawrapper](https://www.datawrapper.de/)
+
+## Enterprise Big Data and Analytics Products and Services
 - [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises
 - [Teradata](http://www.teradata.com/?LangType=1033)
     + Business Analytics Solutions
     + Analytical Architecture Consulting
     + Hybrid Cloud Products
+- [Pentaho](http://www.pentaho.com/)
+- [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
+- [IBM SPSS Modeler](https://www.ibm.com/marketplace/cloud/spss-modeler/resources/us/en-us#product-header-top) - A predictive analytics platform that helps you build accurate predictive models quickly and deliver predictive intelligence to individuals, groups, systems and the enterprise
+- [SAS](https://support.sas.com/documentation/) - Business intelligence software
+- [Alteryx](http://downloads.alteryx.com/documentation.html)
+- [Qubole](https://www.qubole.com/)
+- [SAP](https://support.sap.com/documentation.html)
+- [KNIME](https://tech.knime.org/documentation)
+- [Splunk](http://docs.splunk.com/Documentation)
 
 ## Other
 - Load testing
