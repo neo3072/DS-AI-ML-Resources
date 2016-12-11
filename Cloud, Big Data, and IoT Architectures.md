@@ -27,17 +27,31 @@
     + Structured
     + Unstructured
     + Semi-structured
+    + Data storage (databases)
     + Sensors
     + RFID
     + Instore WiFi logs
-    + Logs
-    + Text, including documents and emails
-    + Social
+    + Machine Logs
+        * Application
+        * Events
+        * Server
+        * CDRs
+        * Clickstream
+    + Text, including documents, emails, scanned documents, records, ...
+    + Social networks
+    + Public web
     + Geo-location
     + Machine generated
     + Clickstream
     + Software
-    + OLTP, ERP, CRM systems - Online transaction processing, Enterprise resource planning, and customer relationship management
+    + Media
+        * Images
+        * Video
+        * Audio
+    + Business applications
+        * OLTP, ERP, CRM systems - Online transaction processing, Enterprise resource planning, and customer relationship management
+        * HR
+        * Product/Project management
     + Online chat
     + Merchant listings
     + DMP - Data management platform (advertising/marketing)
