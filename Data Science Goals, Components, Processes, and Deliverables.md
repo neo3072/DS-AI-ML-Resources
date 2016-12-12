@@ -250,6 +250,11 @@
         * Sentiment analysis
         * Word clouds
         * NLP, NLG, NLU
+        * Text categorization
+        * Text processing
+        * N-grams
+        * Entity extraction (e.g., phone numbers, addresses, ...)
+        * Levenshtein distance
     + Reinforcement learning
     + Probability estimates and likelihoods
     + Graph analytics (e.g., social network analysis)

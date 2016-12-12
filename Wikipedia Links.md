@@ -91,7 +91,8 @@ Note that some links are categorized according to my determination of best fit s
 - [Big Data](https://en.wikipedia.org/wiki/Big_data)
 - [Information of Things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things)
 - [Complex event processing](https://en.wikipedia.org/wiki/Complex_event_processing)
-- [Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+- [Extract, transform, load (ETL)](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+- [Extract, load, transform (ELT)](https://en.wikipedia.org/wiki/Extract,_load,_transform)
 - [Data integration](https://en.wikipedia.org/wiki/Data_integration)
 - [Information integration](https://en.wikipedia.org/wiki/Information_integration)
 - [OLAP Cube](https://en.wikipedia.org/wiki/OLAP_cube)
@@ -130,6 +131,7 @@ Note that some links are categorized according to my determination of best fit s
 ## Computer Science and Information Theory
 - [Computer science portal](https://en.wikipedia.org/wiki/Portal:Computer_science)
 - [Information theory](https://en.wikipedia.org/wiki/Information_theory)
+- [Directed acyclic graph (DAG)](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 
 ## Software Architecture and Design Patterns
 - [Multitenancy](https://en.wikipedia.org/wiki/Multitenancy)
