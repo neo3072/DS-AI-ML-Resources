@@ -17,7 +17,8 @@
 - Data Stores
     + Data lake
     + Data warehouse
-    + Database Systems and DBMS (operational data stores)
+    + Operational data store (ODS)
+    + Database Systems and DBMS
         * Relational (RDBMS)
         * NoSQL
         * NewSQL

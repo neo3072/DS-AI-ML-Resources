@@ -38,7 +38,9 @@
 - Data Integration, ETL, Transfer, and Migration
     + [Apache Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
     + [Apache Flume](https://flume.apache.org/documentation.html) - A distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data
-    + [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises
+    + [Talend Open Studio](https://www.talend.com/products/talend-open-studio) - Open source integration software provider to data-driven enterprises
+    + [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/)
+    + [Blockspring](https://www.blockspring.com/)
 - Data Processing (Batch, real-time/streaming, ...)
     + [Apache Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
         * [Spark SQL](http://spark.apache.org/docs/latest/sql-programming-guide.html) - A Spark module for structured data processing
@@ -138,6 +140,7 @@ for Clojure or Java
 - [SAP](https://support.sap.com/documentation.html)
 - [KNIME](https://tech.knime.org/documentation)
 - [Splunk](http://docs.splunk.com/Documentation)
+- [FICO Big Data Analyzer - Formerly Karmasphere](http://www.fico.com/en/products/fico-big-data-analyzer#corebenefits)
 
 ## Other
 - Load testing
