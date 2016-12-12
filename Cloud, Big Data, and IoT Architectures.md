@@ -1,6 +1,34 @@
 # Cloud, Big Data, and IoT Architectures
 
 ## Big Data and Analytics Overview
+- Goals and Deliverables
+    + Real time intelligence and analytics
+    + Data and insights discovery and exploration
+    + Decision management
+    + Business reporting and analysis
+    + Predictive analytics and modeling
+    + Self-service (ad-hoc)
+    + Stream computing
+        * Event and data streams
+- Reference Architectures
+    + Extended Relational
+    + Non-Relational
+    + Hybrid
+- Data Stores
+    + Data lake
+    + Data warehouse
+    + Database Systems and DBMS (operational data stores)
+        * Relational (RDBMS)
+        * NoSQL
+        * NewSQL
+        * Hybrid
+    + Data marts
+    + Distributed file systems (e.g., HDFS)
+- Data integration
+    + ETL
+    + Messaging
+    + API/ODBC
+    + Replication
 - [Four V's](http://www.ibmbigdatahub.com/infographic/four-vs-big-data)
     + Volume - Scale of data
     + Variety - Different forms of data
@@ -13,16 +41,31 @@
     + Value
     + Variability
 - Considerations
+    - Consistency
     - Batch vs. real-time streaming data processing
     - Embedded models or interfaces
     - API or RPC or REST
     - Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
-    - Reliable quality data
+    + Latency (near real time)
+    + Reliability and fault tolerance
+    + Volume handling and scale
+    + Performance
+    + Throughput
+    + Extensibility
+    + Security
+    + Cost
+    + Data quality
+    + Skills availability
 - [Solution elements](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Processes%20and%20Deliverables.md)
 - Data Analytics
     + Descriptive analytics - What happened and why?
     + Predictive analytics - What is the probability of something happening?
     + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
+    + Query and reporting
+    + OLAP Cubes
+    + Advanced analytics
+    + MapReduce
+    + Search engines
 - Data types and sources
     + Structured
     + Unstructured
@@ -63,7 +106,7 @@
     + Subscriber data
     + Staffing
     + Inventory
-    + POS
+    + POS and transaction
     + eCommerce transactions
 
 ## Enterprise Big Data Components

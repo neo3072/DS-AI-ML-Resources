@@ -31,6 +31,7 @@
 - Embodied robotic cognition
 - Computer vision
 - Virtual and augmented reality
+- Knowledge management
 
 ## Typical data science goals
 * Derive discoveries, insights, and value from data collections

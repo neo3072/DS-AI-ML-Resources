@@ -4,6 +4,9 @@ Here is a non-exaustive, work in progress list of Wikipedia links related to sta
 
 Note that some links are categorized according to my determination of best fit since some topics may span multiple categories.
 
+## Architecture
+- [Enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture)
+
 ## Statistics and Analysis
 - [Statistics portal](https://en.wikipedia.org/wiki/Portal:Statistics)
 - [ANOVA - Analysis of variance](https://en.m.wikipedia.org/wiki/Analysis_of_variance)
@@ -90,6 +93,8 @@ Note that some links are categorized according to my determination of best fit s
 - [Complex event processing](https://en.wikipedia.org/wiki/Complex_event_processing)
 - [Extract, transform, load](https://en.wikipedia.org/wiki/Extract,_transform,_load)
 - [Data integration](https://en.wikipedia.org/wiki/Data_integration)
+- [Information integration](https://en.wikipedia.org/wiki/Information_integration)
+- [OLAP Cube](https://en.wikipedia.org/wiki/OLAP_cube)
 
 ## Data Storage, Querying, and CRUD
 - [Data warehouse](https://en.wikipedia.org/wiki/Data_warehouse)
@@ -100,6 +105,12 @@ Note that some links are categorized according to my determination of best fit s
 - [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing)
 - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing)
 - [Federated database system](https://en.wikipedia.org/wiki/Federated_database_system)
+
+## Data Modeling and Schemas
+- Data marts
+    + [Star schema](https://en.wikipedia.org/wiki/Star_schema)
+    + [Reverse star schema](https://en.wikipedia.org/wiki/Reverse_star_schema)
+    + [Snowflake schema](https://en.wikipedia.org/wiki/Snowflake_schema)
 
 ## Optimization
 - [Mathematical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)
@@ -135,4 +146,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Control system](https://en.wikipedia.org/wiki/Control_system)
 - [Control engineering](https://en.wikipedia.org/wiki/Control_engineering)
 - [PID controller](https://en.wikipedia.org/wiki/PID_controller)
+
+## Business
+- [Knowledge management](https://en.wikipedia.org/wiki/Knowledge_management)
 

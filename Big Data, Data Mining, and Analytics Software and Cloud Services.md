@@ -35,7 +35,11 @@
 - Data Cleaning and Integrity
     + [OpenRefine](http://openrefine.org/documentation.html) - A powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
     + [DataCleaner](http://datacleaner.org/docs) - A strong data profiling engine for discovering and analyzing the quality of your data
-- Data Processing and pipeline (Integration, ETL, batch, real-time/streaming, ...)
+- Data Integration, ETL, Transfer, and Migration
+    + [Apache Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
+    + [Apache Flume](https://flume.apache.org/documentation.html) - A distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data
+    + [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises
+- Data Processing (Batch, real-time/streaming, ...)
     + [Apache Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
         * [Spark SQL](http://spark.apache.org/docs/latest/sql-programming-guide.html) - A Spark module for structured data processing
         * [MLlib](http://spark.apache.org/docs/latest/ml-guide.html) - Spark’s machine learning (ML) library
@@ -47,7 +51,6 @@
         * Streams - Build custom applications that process or analyze streaming data for specialized needs
     + [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform
     + [Apache Apex](https://apex.apache.org/docs.html) - Enterprise-grade unified stream and batch processing engine
-    + [Apache Flume](https://flume.apache.org/documentation.html) - A distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data
     + [Apache Samza](http://samza.apache.org/learn/documentation/0.11/) - A distributed stream processing framework
     + [Apache Ignite](https://apacheignite.readme.io/docs) - A high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies
     + [Apache Flink](https://flink.apache.org/) - A streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams
@@ -62,8 +65,6 @@
     + [Apache Kylin](http://kylin.apache.org/docs15/) - An open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets, original contributed from eBay Inc
     + [Apache Lens](http://lens.apache.org/user/index.html) - A unified analytics interface
     + [Cloudera Impala](http://www.cloudera.com/products/apache-hadoop/impala.html) - The open source, analytic MPP database for Apache Hadoop that provides the fastest time-to-insight
-- Data Transfer and Migration
-    + [Apache Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
 - Hadoop Enabled Applications
     + [Cascading](http://www.cascading.org/documentation/) - The proven application development platform for building data applications on Hadoop
     + [Cascalog](http://nathanmarz.github.io/cascalog/) - Fully-featured data processing and querying library 
@@ -118,6 +119,8 @@ for Clojure or Java
 - [Chartio](https://chartio.com/login/?next=/welcome/)
 - [Plotly](https://plot.ly/)
 - [Datawrapper](https://www.datawrapper.de/)
+- [TIBCO Jaspersoft](https://www.jaspersoft.com/big-data-business-intelligence-instant)
+- [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - Business intelligence and performance management
 
 ## Enterprise Big Data and Analytics Products and Services
 - [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises
@@ -128,6 +131,7 @@ for Clojure or Java
 - [Pentaho](http://www.pentaho.com/)
 - [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
 - [IBM SPSS Modeler](https://www.ibm.com/marketplace/cloud/spss-modeler/resources/us/en-us#product-header-top) - A predictive analytics platform that helps you build accurate predictive models quickly and deliver predictive intelligence to individuals, groups, systems and the enterprise
+- [IBM SPSS Statistics](https://www.ibm.com/marketplace/cloud/statistical-analysis-and-reporting/us/en-us) - An integrated family of products that addresses the entire analytical process, from planning to data collection to analysis, reporting and deployment
 - [SAS](https://support.sas.com/documentation/) - Business intelligence software
 - [Alteryx](http://downloads.alteryx.com/documentation.html)
 - [Qubole](https://www.qubole.com/)
