@@ -6,6 +6,19 @@
 + Hybrid
 
 ## Goals and Deliverables
++ Business goals
+    * Increase revenue
+    * Increase profit
+    * Decrease costs
+    * Reduce risk
+    * Increase operational efficiency
+    * Reduce waste
+    * Increase customer acquisition, retention, and growth
+    * Improve customer service
+    * Enhance business development
+    * Improve business governance
+    * Drive data and evidence-driven decisions
+    * Improve business agility
 + Real time intelligence and analytics
 + Data and insights discovery and exploration
 + Decision management and inform decisions
@@ -181,7 +194,10 @@
     * Video
     * Audio
 + Business applications
-    * OLTP, ERP, CRM systems - Online transaction processing, Enterprise resource planning, and customer relationship management
+    * OLTP - Online transaction processing
+    * ERP - Enterprise resource planning
+    * CRM - Customer relationship management
+    * SCM - Supply chain management
     * HR
     * Product/Project management
 + Online chat

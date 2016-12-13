@@ -3,6 +3,29 @@
 ## Cloud Goals
 - Consolidation
 - Resource pooling
+- Scalability and large workload handling
+- Redundancy
+- Failover
+- Programmability and orchestration
+- Utility computing - _pay as you go_
+- Mixed workloads
+- Rapid elasticity
+- Networking
+- Multi-tenancy and workload isolation
+
+## Cloud Computing Functions
+- Data storage (block or object storage)
+- Data processing (compute resources)
+- Data interchange (networking)
+
+## Cloud Components
+- Data storage
+    + Disk attached storage (DAS) - block storage
+        * No RAID
+        * JBOD - _just a box of disks_
+    + Object storage
+        * Primary or _boot_ storage
+        * Secondary or _object_ storage
 
 ## Vendors and Providers
 - [AWS](https://aws.amazon.com/documentation/)
