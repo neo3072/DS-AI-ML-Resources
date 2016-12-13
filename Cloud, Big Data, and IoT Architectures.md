@@ -43,6 +43,7 @@
 ## Enterprise Big Data Components
 - Governance
 - Operations, Infrastructure, and DevOps
+- Monitoring
 - Security and privacy
     + Authentication
     + Authorization
@@ -98,9 +99,12 @@
     + Data compression
     + Data archiving
 - Deployment Choice
-    + On-premise
+    + On-premise, aka traditional IT
     + In-cloud
+        * Public cloud
+        * Private cloud
     + Appliance
+    + Managed services
 - Presentation, Analytics, and Applications
     + Browser/web
     + Mobile
@@ -108,6 +112,9 @@
     + Dashboards
     + Reports
     + Notifications and messaging
+    + Scorecards
+    + Charts and graphics
+    + Visualization
 
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
