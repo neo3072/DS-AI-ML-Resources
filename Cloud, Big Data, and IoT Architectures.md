@@ -43,7 +43,7 @@
 ## Enterprise Big Data Components
 - Governance
 - Operations, Infrastructure, and DevOps
-- Security
+- Security and privacy
     + Authentication
     + Authorization
     + Accounting
@@ -54,6 +54,8 @@
     + ETL
     * API/ODBC
     * Replication
+    * Bulk movement
+    * Virtualization
 - Data Processing
     + Event ingestion
     + Batch and stream processing
@@ -67,10 +69,18 @@
     + BI analytics
     + MapReduce analytics
 - Data Modeling and Structure
+    + Star schema
+    + Snowflake schema
 - Data Storage and Management
     + Data lake
     * Data warehouse
-        - Powers BI analytics and drives actionable insights
+        - Centralized, integrated data store
+        - Powers BI analytics, reporting, and drives actionable insights
+        - Responsible for integrating data
+        - Structured, prepared, and stored data optimized for
+            + Analytical applications and decision support
+            + Querying and reporting
+            + Data mining
     * Operational data store (ODS)
     * Database Systems and DBMS
         - Relational (RDBMS)
@@ -79,8 +89,14 @@
         - NewSQL
         - Hybrid
     * Data marts
+        - Data warehouse extracted data subsets oriented to speciﬁc business lines, departments or analytical applications
     * Distributed file systems (e.g., HDFS)
         - Real-time and MapReduce analytics and insights
+    * In-memory
+- Data lifecycle management
+    + Rule-based Data and Policy Tracking
+    + Data compression
+    + Data archiving
 - Deployment Choice
     + On-premise
     + In-cloud
@@ -95,6 +111,22 @@
 
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
+
+## Data Storage Functions
+- Staging
+    + Temporary storage
+    + Used for cleaning, integration and transformation routines
+- Data management
+    + Long-time managed storage
+    + Clean and integrated data
+- Sandboxing
+    + Temporary data stores
+    + Used by people, groups, and departments
+    + Experimentation with data, processing, and analysis techniques
+- Application optimized storage
+    + Example usage = data mart
+- Archive and raw data archive
+    + Raw, processed, and transformed data
 
 ## [The 7 V's of Big Data](https://www.impactradius.com/blog/7-vs-big-data/)
 + Volume - Scale of data
@@ -147,8 +179,9 @@
 + Subscriber data
 + Staffing
 + Inventory
-+ POS and transaction
++ POS and transactional
 + eCommerce transactions
++ Biometrics
 
 ## Database Considerations and Tradeoffs
 - ACID
