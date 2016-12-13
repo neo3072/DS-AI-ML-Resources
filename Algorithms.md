@@ -32,6 +32,7 @@
 
 ## Clustering
 - Hierarchical
+- K-means
 - X-means
 - Canapoy
 - Association rule mining (Apriori)
@@ -39,13 +40,13 @@
 - Fractal
 - DB scan
 - Guassian mixture models
-- K-means
 
 ## Regression
 - Tree-based methods
 - Generalized linear models
 - Regression with shrinkage
 - Stepwise regression
+- Regularized regression
 
 ## Classification
 - Bayesian network
@@ -57,6 +58,13 @@
 - Naive bayes
 - Hidden markov model
 - Support vector machines (SVM)
+
+## Ensemble Methods
+- Bootstrapping,
+- Bagging
+- Boosting
+- AdaBoost
+- Random Forests
 
 ## Recommendation
 - Collaborative filtering
@@ -96,7 +104,7 @@
 - T-test - Compare two groups
 - ANOVA - Compare multiple groups
 
-## Future
+## Other
 - Massive-scale graph
 - Geospatial temporal predictive analytics
 - Hyperfast analytics

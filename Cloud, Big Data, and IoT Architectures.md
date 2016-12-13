@@ -113,7 +113,11 @@
 ## Enterprise Big Data Components
 - Governance
 - Data Integration
+    + Message queues
+    + ETL
 - Data Processing
+    + Event ingestion
+    + Batch and stream processing
 - Data access
 - Data management
 - Deployment choice
