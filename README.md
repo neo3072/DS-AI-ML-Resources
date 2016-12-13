@@ -30,7 +30,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Blogs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Blogs.md)
     + [Books List](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Books%20List.md)
     + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cheat%20Sheets.md)
-    + [Big Data, Analytics, and IoT Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Cloud%2C%20Big%20Data%2C%20and%20IoT%20Architectures.md)
+    + [Big Data, Analytics, and IoT Architectures](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cloud%2C%20Big%20Data%2C%20and%20IoT%20Architectures.md)
     + [Cloud, SaaS, PaaS, and IaaS](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cloud%2C%20SaaS%2C%20PaaS%2C%20and%20IaaS.md)
     + [Data Science Goals, Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Goals%2C%20Components%2C%20Processes%2C%20and%20Deliverables.md)
     + [Data Science Software, Libraries, and Packages](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Software%2C%20Libraries%2C%20and%20Packages.md)
