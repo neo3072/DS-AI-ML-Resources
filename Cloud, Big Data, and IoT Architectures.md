@@ -5,15 +5,6 @@
 + Non-Relational
 + Hybrid
 
-## Client Level Architecture
-
-
-## Server Level Architecture
-- Parallel computing platform
-    + Clusters or grids
-    + Massively parallel processing (MPP)
-    + High performance computing (HPC)
-
 ## Goals and Deliverables
 + Real time intelligence and analytics
 + Data and insights discovery and exploration
@@ -51,7 +42,7 @@
 
 ## Enterprise Big Data Components
 - Governance
-- Operations and DevOps
+- Operations, Infrastructure, and DevOps
 - Security
     + Authentication
     + Authorization
@@ -66,12 +57,17 @@
 - Data Processing
     + Event ingestion
     + Batch and stream processing
-- Data access
+    + Parallel computing platform
+        * Clusters or grids
+        * Massively parallel processing (MPP)
+        * High performance computing (HPC)
+- Data Access
     + Querying
     + Real-time analytics
     + BI analytics
     + MapReduce analytics
-- Data storage and management
+- Data Modeling and Structure
+- Data Storage and Management
     + Data lake
     * Data warehouse
         - Powers BI analytics and drives actionable insights
@@ -85,11 +81,11 @@
     * Data marts
     * Distributed file systems (e.g., HDFS)
         - Real-time and MapReduce analytics and insights
-- Deployment choice
+- Deployment Choice
     + On-premise
     + In-cloud
     + Appliance
-- Presentation and applications
+- Presentation, Analytics, and Applications
     + Browser/web
     + Mobile
     + Desktop
@@ -100,7 +96,7 @@
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
 
-## [Four V's](http://www.ibmbigdatahub.com/infographic/four-vs-big-data), and additional V's
+## [The 7 V's of Big Data](https://www.impactradius.com/blog/7-vs-big-data/)
 + Volume - Scale of data
 + Variety - Different forms of data
 + Velocity - Analysis of streaming data
