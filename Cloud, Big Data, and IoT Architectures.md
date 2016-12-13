@@ -1,4 +1,4 @@
-# Cloud, Big Data, and IoT Architectures
+# Big Data, Analytics, and IoT Architectures
 
 ## Reference Architectures
 + Extended Relational
@@ -8,9 +8,11 @@
 ## Goals and Deliverables
 + Real time intelligence and analytics
 + Data and insights discovery and exploration
-+ Decision management
++ Decision management and inform decisions
 + Business reporting and analysis
 + Self-service (ad-hoc)
++ Discover relevant trends and patterns
++ Drive new business models
 + Stream computing
     * Event and data streams
 + Data and text analytics
@@ -42,6 +44,7 @@
 
 ## Enterprise Big Data Components
 - Governance
+    + Govern data quality
 - Operations, Infrastructure, and DevOps
 - Monitoring
 - Security and privacy
@@ -59,7 +62,8 @@
     * Virtualization
 - Data Processing
     + Event ingestion
-    + Batch and stream processing
+    + Batch and stream processing/computing (velocity)
+        * Massive scaling and processing of multiple concurrent input streams
     + Parallel computing platform
         * Clusters or grids
         * Massively parallel processing (MPP)
@@ -74,7 +78,7 @@
     + Snowflake schema
 - Data Storage and Management
     + Data lake
-    * Data warehouse
+    * Data warehouse (volume)
         - Centralized, integrated data store
         - Powers BI analytics, reporting, and drives actionable insights
         - Responsible for integrating data
@@ -82,6 +86,10 @@
             + Analytical applications and decision support
             + Querying and reporting
             + Data mining
+        - In-database analytics
+        - Operational analytics
+        - MPP engine
+        - 'Deep analytical appliance' - IBM
     * Operational data store (ODS)
     * Database Systems and DBMS
         - Relational (RDBMS)
@@ -91,8 +99,9 @@
         - Hybrid
     * Data marts
         - Data warehouse extracted data subsets oriented to speciﬁc business lines, departments or analytical applications
-    * Distributed file systems (e.g., HDFS)
+    * Distributed file systems (e.g., HDFS) and Hadoop (volume and variety)
         - Real-time and MapReduce analytics and insights
+        - Deep analysis of petabytes of structured and unstructured data
     * In-memory
 - Data lifecycle management
     + Rule-based Data and Policy Tracking
@@ -105,7 +114,7 @@
         * Private cloud
     + Appliance
     + Managed services
-- Presentation, Analytics, and Applications
+- Presentation, Analytics, and Applications (visibility)
     + Browser/web
     + Mobile
     + Desktop
@@ -114,7 +123,7 @@
     + Notifications and messaging
     + Scorecards
     + Charts and graphics
-    + Visualization
+    + Visualization and discovery
 
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
@@ -142,7 +151,7 @@
 + Veracity - Overall quality and correctness of the data
     * Garbage in, garbage out
     * Assess the truthfulness and accuracy of the data as well as identify missing or incomplete information
-- Visualization
+- Visibility/Visualization
 - Value
 - Variability
 
@@ -152,7 +161,7 @@
 + Semi-structured
 + Data storage (databases)
 + Sensors
-+ RFID
++ RFID tags
 + Instore WiFi logs
 + Machine Logs
     * Application
@@ -189,6 +198,9 @@
 + POS and transactional
 + eCommerce transactions
 + Biometrics
++ Mobile devices
++ Weather data
++ Traffic pattern data
 
 ## Database Considerations and Tradeoffs
 - ACID
@@ -217,6 +229,8 @@
 - Different read types (e.g., dirty, non-repeatable, phantom, ...)
 
 ## Hadoop Benefits
+- Built on the _shared nothing_ principle
+    + Each node is independent and self-sufficient
 - Ability to store any and all data types relatively cheap
 - Ability to process any and all data quickly and relatively cheap
 - Vast community, ecosystem, and pluggable architecture

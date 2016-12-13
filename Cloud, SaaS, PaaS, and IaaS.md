@@ -1,5 +1,10 @@
 # Cloud, SaaS, PaaS, and IaaS
 
+## Cloud Goals
+- Consolidation
+- Resource pooling
+
+## Vendors and Providers
 - [AWS](https://aws.amazon.com/documentation/)
     + [Lambda](https://aws.amazon.com/documentation/lambda/) - Serverless compute. AWS Lambda lets you run code without provisioning or managing servers
     + [EC2](https://aws.amazon.com/documentation/ec2/) - Web service that provides resizable compute capacity in the cloud
