@@ -5,6 +5,53 @@
 + Non-Relational
 + Hybrid
 
+## Big Data Exploration - IBM
+- Applications layer
+    + Consists of
+        * Visualization
+        * Discovery
+        * Analysis
+        * Reporting
+        * Statistics
+        * Text and entity analytics
+    + Access
+        * SQL
+        * MDX
+        * Search
+        * REST
+- Discovery and assembly layer
+    + Consists of
+        * Virtual search mart
+            - Faceted search
+        * Analytics mart
+            - Search and survey
+        * Report mart
+            - ETL
+            - Analytics
+            - Streams
+    + Access
+        * NoSQL
+        * SQL
+        * Search
+        * REST
+- Landing layer
+    + Consists of
+        * Shared warehouse and ETL
+            - Extract
+            - Provision
+    + Access
+        * Search
+        * REST
+        * SQL
+        * Files
+- Source layer
+    + Sensors and telemetry
+    + Internet
+    + Social media
+    + Public data
+    + Enterprise data
+    + ...
+
 ## Goals and Deliverables
 + Business goals
     * Increase revenue
@@ -23,6 +70,7 @@
 + Data and insights discovery and exploration
 + Decision management and inform decisions
 + Business reporting and analysis
++ Security intelligence (security, fraud, and risk analysis)
 + Self-service (ad-hoc)
 + Discover relevant trends and patterns
 + Drive new business models
@@ -140,6 +188,48 @@
 
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
+
+## Big Data Processing Key Functional Capabilities - IBM
+- Data ingestion
+    + Optimize the process of loading data in the data store to support time-sensitive analytic goals.
+- Search and survey
+    + Secure federated navigation and discovery across all enterprise content.
+- Data transformation
+    + Convert data values from source system and format to destination system and format.
+- Analytics
+    + Discover and communicate meaningful patterns in data.
+- Actionable decisions
+    + Make repeatable, real-time decisions about organizational policies and business rules.
+- Discover and explore
+    + Discover, navigate, and visualize vast amounts of structured and unstructured information across many enterprise systems and data repositories.
+- Reporting, dashboards, and visualizations
+    + Provide reports, analysis, dashboards, and scorecards to help support the way that people think and work.
+- Provisioning
+    + Deploy and orchestrate on-premises and off-premises components of a big data ecosystem.
+- Monitoring and service management
+    + Conduct end-to-end monitoring of services in the data center and the underlying infrastructure.
+- Security and trust
+    + Detect, prevent, and otherwise address system breaches in the big data ecosystem.
+- Collaborate and share
+
+## Big data and analytics architecture on cloud - IBM
+- Analytics-as-a-service
+    + Consumes both data at rest and in motion
+    + Applies analytical algorithms
+    + Provides
+        * Dashboards
+        * Reports
+        * Visualizations
+        * Insights
+        * Predictive modeling
+    + Abstracts away all complexity of data collection, storage, and cleansing
+- Data-as-a-service
+    + Data-at-rest-service
+    + Data-in-motion-service
+- NoSQL tools (Hive, Pig, BigSQL, ...)
+- EMR clusters (Hadoop, Cassandra, MongoDB, ...) and Traditional DW
+- Big data file system (HDFS, CFS, GPFS, S3, ...)
+- Infrastructure & Appliances (Baremetal or IaaS) and object storage
 
 ## Data Storage Functions
 - Staging
