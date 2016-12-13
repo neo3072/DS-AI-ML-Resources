@@ -5,6 +5,15 @@
 + Non-Relational
 + Hybrid
 
+## Client Level Architecture
+
+
+## Server Level Architecture
+- Parallel computing platform
+    + Clusters or grids
+    + Massively parallel processing (MPP)
+    + High performance computing (HPC)
+
 ## Goals and Deliverables
 + Real time intelligence and analytics
 + Data and insights discovery and exploration
@@ -59,17 +68,23 @@
     + Batch and stream processing
 - Data access
     + Querying
+    + Real-time analytics
+    + BI analytics
+    + MapReduce analytics
 - Data storage and management
     + Data lake
     * Data warehouse
+        - Powers BI analytics and drives actionable insights
     * Operational data store (ODS)
     * Database Systems and DBMS
         - Relational (RDBMS)
         - NoSQL
+            + Real-time analytics and insights
         - NewSQL
         - Hybrid
     * Data marts
     * Distributed file systems (e.g., HDFS)
+        - Real-time and MapReduce analytics and insights
 - Deployment choice
     + On-premise
     + In-cloud
