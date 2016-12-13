@@ -6,6 +6,7 @@ Note that some links are categorized according to my determination of best fit s
 
 ## Architecture
 - [Enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture)
+- [Data governance](https://en.wikipedia.org/wiki/Data_governance)
 
 ## Statistics and Analysis
 - [Statistics portal](https://en.wikipedia.org/wiki/Portal:Statistics)

@@ -42,6 +42,13 @@
 
 ## Enterprise Big Data Components
 - Governance
+- Operations and DevOps
+- Security
+    + Authentication
+    + Authorization
+    + Accounting
+    + Data protection
+    + Compliance
 - Data Integration
     + Messaging and message queues
     + ETL
@@ -51,6 +58,7 @@
     + Event ingestion
     + Batch and stream processing
 - Data access
+    + Querying
 - Data storage and management
     + Data lake
     * Data warehouse
@@ -67,14 +75,15 @@
     + In-cloud
     + Appliance
 - Presentation and applications
-- Enterprise management and security
-- Security
-- Operations
+    + Browser/web
+    + Mobile
+    + Desktop
+    + Dashboards
+    + Reports
+    + Notifications and messaging
 
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
-
-- [Solution elements](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Processes%20and%20Deliverables.md)
 
 ## [Four V's](http://www.ibmbigdatahub.com/infographic/four-vs-big-data), and additional V's
 + Volume - Scale of data
