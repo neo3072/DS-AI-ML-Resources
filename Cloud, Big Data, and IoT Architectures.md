@@ -1,125 +1,67 @@
 # Cloud, Big Data, and IoT Architectures
 
-## Big Data and Analytics Overview
-- Goals and Deliverables
-    + Real time intelligence and analytics
-    + Data and insights discovery and exploration
-    + Decision management
-    + Business reporting and analysis
-    + Predictive analytics and modeling
-    + Self-service (ad-hoc)
-    + Stream computing
-        * Event and data streams
-- Reference Architectures
-    + Extended Relational
-    + Non-Relational
-    + Hybrid
-- Data Stores
-    + Data lake
-    + Data warehouse
-    + Operational data store (ODS)
-    + Database Systems and DBMS
-        * Relational (RDBMS)
-        * NoSQL
-        * NewSQL
-        * Hybrid
-    + Data marts
-    + Distributed file systems (e.g., HDFS)
-- Data integration
-    + ETL
-    + Messaging
-    + API/ODBC
-    + Replication
-- [Four V's](http://www.ibmbigdatahub.com/infographic/four-vs-big-data)
-    + Volume - Scale of data
-    + Variety - Different forms of data
-    + Velocity - Analysis of streaming data
-    + Veracity - Overall quality and correctness of the data
-        * Garbage in, garbage out
-        * Assess the truthfulness and accuracy of the data as well as identify missing or incomplete information
-- Additional V's
-    + Visualization
-    + Value
-    + Variability
-- Considerations
-    - Consistency
-    - Batch vs. real-time streaming data processing
-    - Embedded models or interfaces
-    - API or RPC or REST
-    - Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
-    + Latency (near real time)
-    + Reliability and fault tolerance
-    + Volume handling and scale
-    + Performance
-    + Throughput
-    + Extensibility
-    + Security
-    + Cost
-    + Data quality
-    + Skills availability
-- [Solution elements](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Processes%20and%20Deliverables.md)
-- Data Analytics
-    + Descriptive analytics - What happened and why?
-    + Predictive analytics - What is the probability of something happening?
-    + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
-    + Query and reporting
-    + OLAP Cubes
-    + Advanced analytics
-    + MapReduce
-    + Search engines
-- Data types and sources
-    + Structured
-    + Unstructured
-    + Semi-structured
-    + Data storage (databases)
-    + Sensors
-    + RFID
-    + Instore WiFi logs
-    + Machine Logs
-        * Application
-        * Events
-        * Server
-        * CDRs
-        * Clickstream
-    + Text, including documents, emails, scanned documents, records, ...
-    + Social networks
-    + Public web
-    + Geo-location
-    + Machine generated
-    + Clickstream
-    + Software
-    + Media
-        * Images
-        * Video
-        * Audio
-    + Business applications
-        * OLTP, ERP, CRM systems - Online transaction processing, Enterprise resource planning, and customer relationship management
-        * HR
-        * Product/Project management
-    + Online chat
-    + Merchant listings
-    + DMP - Data management platform (advertising/marketing)
-    + CDR - Call detail records
-    + Surveys, questionnaires, binary questions, and sentiment
-    + Billing data
-    + Product catalog
-    + Network data
-    + Subscriber data
-    + Staffing
-    + Inventory
-    + POS and transaction
-    + eCommerce transactions
+## Reference Architectures
++ Extended Relational
++ Non-Relational
++ Hybrid
+
+## Goals and Deliverables
++ Real time intelligence and analytics
++ Data and insights discovery and exploration
++ Decision management
++ Business reporting and analysis
++ Self-service (ad-hoc)
++ Stream computing
+    * Event and data streams
++ Data and text analytics
+    * Descriptive analytics - What happened and why?
+    * Predictive analytics - What is the probability of something happening?
+    * Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
+    * Query and reporting
+    * OLAP Cubes
+    * Advanced analytics
+    * MapReduce
+    * Search engines
+
+## Considerations
+- Consistency
+- Batch vs. real-time streaming data processing
+- Embedded models or interfaces
+- API or RPC or REST
+- Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
++ Latency (near real time)
++ Reliability and fault tolerance
++ Volume handling and scale
++ Performance
++ Throughput
++ Extensibility
++ Security
++ Cost
++ Data quality
++ Skills availability
 
 ## Enterprise Big Data Components
 - Governance
 - Data Integration
-    + Message queues
+    + Messaging and message queues
     + ETL
+    * API/ODBC
+    * Replication
 - Data Processing
     + Event ingestion
     + Batch and stream processing
 - Data access
-- Data management
+- Data storage and management
+    + Data lake
+    * Data warehouse
+    * Operational data store (ODS)
+    * Database Systems and DBMS
+        - Relational (RDBMS)
+        - NoSQL
+        - NewSQL
+        - Hybrid
+    * Data marts
+    * Distributed file systems (e.g., HDFS)
 - Deployment choice
     + On-premise
     + In-cloud
@@ -131,6 +73,62 @@
 
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
+
+- [Solution elements](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Data%20Processes%20and%20Deliverables.md)
+
+## [Four V's](http://www.ibmbigdatahub.com/infographic/four-vs-big-data), and additional V's
++ Volume - Scale of data
++ Variety - Different forms of data
++ Velocity - Analysis of streaming data
++ Veracity - Overall quality and correctness of the data
+    * Garbage in, garbage out
+    * Assess the truthfulness and accuracy of the data as well as identify missing or incomplete information
+- Visualization
+- Value
+- Variability
+
+## Data types and sources
++ Structured
++ Unstructured
++ Semi-structured
++ Data storage (databases)
++ Sensors
++ RFID
++ Instore WiFi logs
++ Machine Logs
+    * Application
+    * Events
+    * Server
+    * CDRs
+    * Clickstream
++ Text, including documents, emails, scanned documents, records, ...
++ Social networks
++ Public web
++ Geo-location
++ Machine generated
++ Clickstream
++ Software
++ Media
+    * Images
+    * Video
+    * Audio
++ Business applications
+    * OLTP, ERP, CRM systems - Online transaction processing, Enterprise resource planning, and customer relationship management
+    * HR
+    * Product/Project management
++ Online chat
++ Merchant listings
++ DMP - Data management platform (advertising/marketing)
++ CDR - Call detail records
++ Surveys, questionnaires, binary questions, and sentiment
++ Billing data
++ Product catalog
++ Network data
++ Subscriber data
++ Staffing
++ Inventory
++ POS and transaction
++ eCommerce transactions
 
 ## Database Considerations and Tradeoffs
 - ACID
