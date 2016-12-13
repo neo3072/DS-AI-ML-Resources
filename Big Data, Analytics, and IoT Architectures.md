@@ -5,52 +5,9 @@
 + Non-Relational
 + Hybrid
 
-## Big Data Exploration - IBM
-- Applications layer
-    + Consists of
-        * Visualization
-        * Discovery
-        * Analysis
-        * Reporting
-        * Statistics
-        * Text and entity analytics
-    + Access
-        * SQL
-        * MDX
-        * Search
-        * REST
-- Discovery and assembly layer
-    + Consists of
-        * Virtual search mart
-            - Faceted search
-        * Analytics mart
-            - Search and survey
-        * Report mart
-            - ETL
-            - Analytics
-            - Streams
-    + Access
-        * NoSQL
-        * SQL
-        * Search
-        * REST
-- Landing layer
-    + Consists of
-        * Shared warehouse and ETL
-            - Extract
-            - Provision
-    + Access
-        * Search
-        * REST
-        * SQL
-        * Files
-- Source layer
-    + Sensors and telemetry
-    + Internet
-    + Social media
-    + Public data
-    + Enterprise data
-    + ...
+## Normalization
+- First Normal Form (1NF)
+- Third Normal Form (3NF)
 
 ## Goals and Deliverables
 + Business goals
@@ -86,7 +43,7 @@
     * MapReduce
     * Search engines
 
-## Considerations
+## Architectural Goals, Principles, and Considerations
 - Consistency
 - Batch vs. real-time streaming data processing
 - Embedded models or interfaces
@@ -94,14 +51,19 @@
 - Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
 + Latency (near real time)
 + Reliability and fault tolerance
-+ Volume handling and scale
-+ Performance
++ Availability
++ Scalability/Volume handling
++ Performance/speed
 + Throughput
 + Extensibility
 + Security
-+ Cost
++ Cost/financial
 + Data quality
 + Skills availability
++ Backup and recovery
++ Locations and placement
++ Privacy and sensitive data
++ Disaster recovery
 
 ## Enterprise Big Data Components
 - Governance
@@ -466,3 +428,85 @@ Coming soon...
 - [Big Data Architecture](http://bigdata.teradata.com/US/Big-Ideas/Big-Data-Architecture/)
 - [Big Data Analytics Architecture](http://www.thebigdatainsightgroup.com/site/sites/default/files/Teradata's%20-%20Big%20Data%20Architecture%20-%20Putting%20all%20your%20eggs%20in%20one%20basket.pdf)
 - [What is Streaming Data?](https://aws.amazon.com/streaming-data/)
+
+**Solution Patterns - IBM**
+- Landing Zone Warehouse
+- Virtual Tables
+- Discovery Tables
+- Streams Dynamic Warehouse
+- Streams Detail with Update
+- Direct Augmentation
+- Warehouse Augmentation
+- Streams Augmentation
+- Dynamic Search Cube
+
+**Component Patterns - IBM**
+- Source Data
+- Source Event
+- Landing Area Zone ETL
+    + Extract
+    + Normalize
+    + Clean
+- Landing Area Zone Search and Survey
+    + Find
+    + Filter
+    + Extract
+- Landing Area Zone Stream Filter
+- Landing Area Zone Stream Augmentation
+- Landing Area Zone Warehouse Augmentation
+- Landing Area Zone Index
+- Exploration Mart
+- Analytics Mart
+- Report Mart
+- Virtual Report Mart
+- Virtual Search Mart
+- Predictive Analytics
+
+**Big Data Exploration Example Architecture - IBM**
+- Applications layer
+    + Consists of
+        * Visualization
+        * Discovery
+        * Analysis
+        * Reporting
+        * Statistics
+        * Text and entity analytics
+    + Access
+        * SQL
+        * MDX
+        * Search
+        * REST
+- Discovery and assembly layer
+    + Consists of
+        * Virtual search mart
+            - Faceted search
+        * Analytics mart
+            - Report mart
+            - Discovery table
+            - Search and survey
+        * Report mart
+            - ETL
+            - Analytics
+            - Streams
+    + Access
+        * NoSQL
+        * SQL
+        * Search
+        * REST
+- Landing layer
+    + Consists of
+        * Shared warehouse and ETL
+            - Extract
+            - Provision
+    + Access
+        * Search
+        * REST
+        * SQL
+        * Files
+- Source layer
+    + Sensors and telemetry
+    + Internet
+    + Social media
+    + Public data
+    + Enterprise data
+    + ...
