@@ -1,20 +1,27 @@
-# Big Data, Analytics, and IoT Architectures
+# Big Data, Analytics, and IoT Architecture Reference
 
 ## Reference Architectures
 + Extended Relational
 + Non-Relational
 + Hybrid
 
+## Maturity Considerations - Oracle
+- Reference architecture
+- Development patterns
+- Operational processes
+- Governance structures and polices
+
 ## Normalization
-- First Normal Form (1NF)
-- Third Normal Form (3NF)
+- Minimum requirements
+    + First Normal Form (1NF)
+    + Third Normal Form (3NF)
 
 ## Goals and Deliverables
-+ Business goals
++ Business-level goals
     * Increase revenue
     * Increase profit
     * Decrease costs
-    * Reduce risk
+    * Predict and/or reduce risk
     * Increase operational efficiency
     * Reduce waste
     * Increase customer acquisition, retention, and growth
@@ -23,17 +30,19 @@
     * Improve business governance
     * Drive data and evidence-driven decisions
     * Improve business agility
+    * Decision management and inform decisions
+    * Drive new business models
+    * Discover new products and services
+    * Business reporting and analysis
 + Real time intelligence and analytics
-+ Data and insights discovery and exploration
-+ Decision management and inform decisions
-+ Business reporting and analysis
 + Security intelligence (security, fraud, and risk analysis)
 + Self-service (ad-hoc)
-+ Discover relevant trends and patterns
-+ Drive new business models
++ Personalize customer experiences
 + Stream computing
     * Event and data streams
-+ Data and text analytics
++ Advanced analytics, data mining, data modeling, business intelligence (BI), statistical analysis, dashboards and reporting, enterprise performance management (EPM)
+    * Data and insights discovery and exploration
+    * Discover relevant trends and patterns
     * Descriptive analytics - What happened and why?
     * Predictive analytics - What is the probability of something happening?
     * Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
@@ -54,6 +63,14 @@
 + Availability
 + Scalability/Volume handling
 + Performance/speed
+    * Goals and implementation - Oracle
+        - Analyze and transform data in real-time
+        - Optimize data structures for intended use
+        - Use parallel processing
+        - Increase hardware and memory
+        - Database configuration and operations
+        - Dedicate hardware sandboxes
+        - Analyze data at rest, in-place
 + Throughput
 + Extensibility
 + Security
@@ -64,8 +81,11 @@
 + Locations and placement
 + Privacy and sensitive data
 + Disaster recovery
++ Schema on read vs schema on write
+    * Bringing the analytical capabilities to the data, VS
+    * Bringing the data to the analytical capabilities through staging, extracting, transforming and loading
 
-## Enterprise Big Data Components
+## Enterprise Big Data Architectural Components
 - Governance
     + Govern data quality
 - Operations, Infrastructure, and DevOps
@@ -78,19 +98,29 @@
     + Compliance
 - Data Integration
     + Messaging and message queues
-    + ETL
+    + ETL/ELT/Change data capture
     * API/ODBC
     * Replication
     * Bulk movement
     * Virtualization
+- Data Ingestion - Oracle
+    + Sensor-based real-time events
+    + Near real-time transaction events
+    + Real-time analytics
+    + Near real time analytics
+    + No immediate analytics
 - Data Processing
-    + Event ingestion
     + Batch and stream processing/computing (velocity)
         * Massive scaling and processing of multiple concurrent input streams
     + Parallel computing platform
         * Clusters or grids
         * Massively parallel processing (MPP)
         * High performance computing (HPC)
+    + Options - Oracle
+        * Leave it at the point of capture
+        * Add minor transformations
+        * ETL data to analytical platform
+        * Export data to desktops
 - Data Access
     + Querying
     + Real-time analytics
@@ -99,6 +129,15 @@
 - Data Modeling and Structure
     + Star schema
     + Snowflake schema
+- Data Analysis and Discovery
+    + Where to do analysis - Oracle
+        * At ingest – real time evaluation
+        * In a raw data reservoir
+        * In a discovery lab
+        * In a data warehouse/mart
+        * In BI reporting tools
+        * In the public cloud
+        * On premises
 - Data Storage and Management
     + Data lake
     * Data warehouse (volume)
@@ -122,6 +161,7 @@
         - Hybrid
     * Data marts
         - Data warehouse extracted data subsets oriented to speciﬁc business lines, departments or analytical applications
+    * File systems (Non-distributed)
     * Distributed file systems (e.g., HDFS) and Hadoop (volume and variety)
         - Real-time and MapReduce analytics and insights
         - Deep analysis of petabytes of structured and unstructured data
@@ -192,6 +232,16 @@
 - EMR clusters (Hadoop, Cassandra, MongoDB, ...) and Traditional DW
 - Big data file system (HDFS, CFS, GPFS, S3, ...)
 - Infrastructure & Appliances (Baremetal or IaaS) and object storage
+
+## The Oracle Enterprise Architecture Development Process (OADP)
+- Designed to be a flexible and a “just-in-time” architecture development approach
+- Key Steps
+    + Establish Business Context and Scope
+    + Establish an Architecture Vision
+    + Assess the Current State
+    + Establish Future State and Economic Model
+    + Develop a Strategic Roadmap
+    + Establish Governance over the Architecture
 
 ## Data Storage Functions
 - Staging
@@ -359,8 +409,10 @@
 ## Data Processing and access methods/patterns compared
 - Batch
     + Process batches of data on regular time intervals, e.g., hourly, daily, overnight, etc.
+    + Aka, MapReduce
 - Real-time
     + Monitor and react in real time
+    + Key-value data stores, such as NoSQL, allow for high performance, index-based retrieval - Oracle
 - Streaming
 - Interactive
     + Data analysts reviewing data
@@ -371,159 +423,3 @@
 ## Offline vs Online Learning
 
 Coming soon...
-
-## Architecture Guides and Examples
-
-**AWS**
-- [Solution Development Guides](https://aws.amazon.com/solutions)
-    + Reference Architectures
-        * [Web Application Hosting](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf)
-        * [Batch Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_batch_03.pdf)
-        * [Large Scale Computing and Large Data Sets](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_largescale_05.pdf)
-        * [Time Series Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_timeseriesprocessing_16.pdf)
-    + By Application
-        * [Websites](https://aws.amazon.com/websites/)
-        * [Backup and Recovery](https://aws.amazon.com/backup-recovery/)
-        * [Archiving](https://aws.amazon.com/archive/)
-        * [DevOps](https://aws.amazon.com/devops/)
-        * [Big Data](https://aws.amazon.com/big-data/)
-        * [High Performance Computing](https://aws.amazon.com/hpc/)
-        * [Internet of Things](https://aws.amazon.com/iot/)
-        * [Business Applications](https://aws.amazon.com/business-applications/)
-        * [Content Delivery](https://aws.amazon.com/content-delivery/)
-        * [Mobile Services](https://aws.amazon.com/mobile/)
-        * [Scientific Computing](https://aws.amazon.com/government-education/scientific-computing1/)
-        * [E-commerce](https://aws.amazon.com/ecommerce-applications/)
-    + By Industry Sector
-        * [Financial Services](https://aws.amazon.com/financial-services/)
-        * [Digital Marketing](https://aws.amazon.com/digital-marketing/)
-        * [Media and Entertainment](https://aws.amazon.com/digital-media/)
-        * [Gaming](https://aws.amazon.com/game-hosting/)
-        * [Enterprise IT](https://aws.amazon.com/enterprise/)
-        * [Healthcare & Life Sciences](https://aws.amazon.com/health/)
-        * [Government](https://aws.amazon.com/government-education/government/)
-        * [Nonprofit](https://aws.amazon.com/government-education/nonprofits/)
-        * [Education](https://aws.amazon.com/education/)
-- [Partner Solutions](https://aws.amazon.com/solutions/partners/)
-    + [Big Data](https://aws.amazon.com/big-data/partner-solutions/)
-    + [Storage](https://aws.amazon.com/backup-recovery/partner-solutions/)
-    + [DevOps](https://aws.amazon.com/devops/partner-solutions/)
-- [Case Studies](https://aws.amazon.com/solutions/case-studies/)
-    + [Analytics](https://aws.amazon.com/solutions/case-studies/analytics/)
-    + [Big Data](https://aws.amazon.com/solutions/case-studies/big-data/)
-    + [Enterprise](https://aws.amazon.com/solutions/case-studies/enterprise-it/)
-    + [Startups](https://aws.amazon.com/solutions/case-studies/start-ups/)
-    + [Web Apps](https://aws.amazon.com/solutions/case-studies/web-mobile-social/)
-
-**Google Cloud Platform**
-- [Big data reference architecture diagram](https://cloud.google.com/images/products/big-data/big-data-diagram.png)
-- [Solution Development Guides](https://cloud.google.com/solutions/)
-    + [Media](https://cloud.google.com/solutions/media/)
-    + [Mobile Applications](https://cloud.google.com/solutions/mobile/#development_guides)
-    + [Big Data](https://cloud.google.com/solutions/big-data/#development_guides)
-    + [Financial Services](https://cloud.google.com/solutions/financial-services/#development_guides)
-    + [Gaming](https://cloud.google.com/solutions/gaming/#development_guides)
-    + [Retail & Commerce](https://cloud.google.com/solutions/commerce/#development_guides)
-    + [Internet of Things](https://cloud.google.com/solutions/iot/#development_guides)
-    + [Websites and Web Apps](https://cloud.google.com/solutions/websites/#development_guides)
-    + [Development & Test](https://cloud.google.com/solutions/dev-test/#development_guides)
-
-**IoT**
-
-Coming soon...
-
-**General**
-- [Lambda Architecture](http://lambda-architecture.net/)
-- [AWS Architecture Center](https://aws.amazon.com/architecture/?nc1=f_cc)
-- [AWS Big Data Partner Solutions](https://aws.amazon.com/big-data/partner-solutions/)
-- [GCP Architecture](https://cloud.google.com/docs/tutorials#architecture)
-- [Introduction to big data classification and architecture](http://www.ibm.com/developerworks/library/bd-archpatterns1/)
-- [An Enterprise Architect’s Guide to Big Data](http://www.oracle.com/technetwork/topics/entarch/articles/oea-big-data-guide-1522052.pdf)
-- [BIG DATA REFERENCE ARCHITECTURE](https://thinkbiganalytics.com/leading_big_data_technologies/big-data-reference-architecture/)
-- [Getting Started with Big Data Architecture](http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture/)
-- [BIG DATA: Architectures and Technologies](https://www.sei.cmu.edu/go/big-data/)
-- [Big Data Architecture](http://bigdata.teradata.com/US/Big-Ideas/Big-Data-Architecture/)
-- [Big Data Analytics Architecture](http://www.thebigdatainsightgroup.com/site/sites/default/files/Teradata's%20-%20Big%20Data%20Architecture%20-%20Putting%20all%20your%20eggs%20in%20one%20basket.pdf)
-- [What is Streaming Data?](https://aws.amazon.com/streaming-data/)
-
-**Solution Patterns - IBM**
-- Landing Zone Warehouse
-- Virtual Tables
-- Discovery Tables
-- Streams Dynamic Warehouse
-- Streams Detail with Update
-- Direct Augmentation
-- Warehouse Augmentation
-- Streams Augmentation
-- Dynamic Search Cube
-
-**Component Patterns - IBM**
-- Source Data
-- Source Event
-- Landing Area Zone ETL
-    + Extract
-    + Normalize
-    + Clean
-- Landing Area Zone Search and Survey
-    + Find
-    + Filter
-    + Extract
-- Landing Area Zone Stream Filter
-- Landing Area Zone Stream Augmentation
-- Landing Area Zone Warehouse Augmentation
-- Landing Area Zone Index
-- Exploration Mart
-- Analytics Mart
-- Report Mart
-- Virtual Report Mart
-- Virtual Search Mart
-- Predictive Analytics
-
-**Big Data Exploration Example Architecture - IBM**
-- Applications layer
-    + Consists of
-        * Visualization
-        * Discovery
-        * Analysis
-        * Reporting
-        * Statistics
-        * Text and entity analytics
-    + Access
-        * SQL
-        * MDX
-        * Search
-        * REST
-- Discovery and assembly layer
-    + Consists of
-        * Virtual search mart
-            - Faceted search
-        * Analytics mart
-            - Report mart
-            - Discovery table
-            - Search and survey
-        * Report mart
-            - ETL
-            - Analytics
-            - Streams
-    + Access
-        * NoSQL
-        * SQL
-        * Search
-        * REST
-- Landing layer
-    + Consists of
-        * Shared warehouse and ETL
-            - Extract
-            - Provision
-    + Access
-        * Search
-        * REST
-        * SQL
-        * Files
-- Source layer
-    + Sensors and telemetry
-    + Internet
-    + Social media
-    + Public data
-    + Enterprise data
-    + ...
