@@ -26,8 +26,8 @@ Cheers, and best of luck with your technical endeavors!
 - Files
     + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
     + [Articles, Tutorials, MOOCS, and Whitepapers](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Articles%2C%20tutorials%2C%20MOOCS%2C%20and%20whitepapers.md)
-    + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architectures.md)
-    + [Big Data, Analytics, and IoT Architecture Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architectures.md)
+    + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Examples.md)
+    + [Big Data, Analytics, and IoT Architecture Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Reference.md)
     + [Big Data, Data Mining, and Analytics Software and Cloud Services](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Data%20Mining%2C%20and%20Analytics%20Software%20and%20Cloud%20Services.md)
     + [Blogs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Blogs.md)
     + [Books List](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Books%20List.md)
