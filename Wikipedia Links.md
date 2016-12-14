@@ -8,6 +8,9 @@ Note that some links are categorized according to my determination of best fit s
 - [Enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture)
 - [Data governance](https://en.wikipedia.org/wiki/Data_governance)
 
+## Methodologies
+- [MIKE 2.0 - Method for an Integrated Knowledge Environment](https://en.wikipedia.org/wiki/MIKE2.0_methodology)
+
 ## Statistics and Analysis
 - [Statistics portal](https://en.wikipedia.org/wiki/Portal:Statistics)
 - [ANOVA - Analysis of variance](https://en.m.wikipedia.org/wiki/Analysis_of_variance)
@@ -152,4 +155,6 @@ Note that some links are categorized according to my determination of best fit s
 
 ## Business
 - [Knowledge management](https://en.wikipedia.org/wiki/Knowledge_management)
+- [Information management](https://en.wikipedia.org/wiki/Information_management)
+- [Enterprise information management](https://en.wikipedia.org/wiki/Enterprise_information_management)
 
