@@ -296,6 +296,23 @@
 - Concurrency control
 - Different read types (e.g., dirty, non-repeatable, phantom, ...)
 
+## Databases by CAP (non-exhaustive)
+- CA - Typically deal with P with replication
+    + RDBMS
+- AP - Achieve "eventual consistency" through replication and verification
+    + Dynamo
+    + Voldemort
+    + Cassandra
+    + SimpleDB
+    + CouchDB
+    + Riak
+- CP - Have trouble with availability while keeping data consistent across partitioned nodes
+    + BigTable
+    + MongoDB
+    + HBase
+    + MemcacheDB
+    + Redis
+
 ## Hadoop Benefits
 - Built on the _shared nothing_ principle
     + Each node is independent and self-sufficient
