@@ -40,7 +40,7 @@
 + Personalize customer experiences
 + Stream computing
     * Event and data streams
-+ Advanced analytics, data mining, data modeling, business intelligence (BI), statistical analysis, dashboards and reporting, enterprise performance management (EPM)
++ Advanced analytics, data mining, data modeling, business intelligence (BI), statistical analysis, dashboards and reporting, enterprise performance management (EPM), information discovery
     * Data and insights discovery and exploration
     * Discover relevant trends and patterns
     * Descriptive analytics - What happened and why?
@@ -55,6 +55,8 @@
 ## Architectural Goals, Principles, and Considerations
 - Consistency
 - Batch vs. real-time streaming data processing
+    + Batch MapReduce via Hadoop
+    + Real-time in-memory MapReduce via Spark
 - Embedded models or interfaces
 - API or RPC or REST
 - Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
@@ -96,20 +98,21 @@
     + Accounting
     + Data protection
     + Compliance
-- Data Integration
+- Data Integration and Ingestion
     + Messaging and message queues
     + ETL/ELT
     + Change data capture
+    + FTP
     * API/ODBC
     * Replication
     * Bulk movement
     * Virtualization
-- Data Ingestion - Oracle
-    + Sensor-based real-time events
-    + Near real-time transaction events
-    + Real-time analytics
-    + Near real time analytics
-    + No immediate analytics
+    * Analytics types and options on ingestion - Oracle
+        * Sensor-based real-time events
+        * Near real-time transaction events
+        * Real-time analytics
+        * Near real time analytics
+        * No immediate analytics
 - Data Processing
     + Batch and stream processing/computing (velocity)
         * Massive scaling and processing of multiple concurrent input streams
@@ -153,7 +156,7 @@
     + SQL analytics
 - Data Storage and Management
     + Data lake
-    * Data warehouse (volume)
+    * Data warehouse (volume), aka enterprise information store
         - Centralized, integrated data store
         - Powers BI analytics, reporting, and drives actionable insights
         - Responsible for integrating data
@@ -453,3 +456,30 @@
 ## Offline vs Online Learning
 
 Coming soon...
+
+## Big Data Best Practices - Oracle
+- Align Big Data with Specific Business Goals
+- Ease Skills Shortage with Standards and Governance
+- Optimize Knowledge Transfer with a Center of Excellence
+- Top Payoff is Aligning Unstructured with Structured Data
+- Plan Your Discovery Lab for Performance
+- Align with the Cloud Operating Model
+
+## Architecture Principles - Oracle
+- Accommodate All Forms of Data
+- Consistent Information and Object Model
+- Integrated Analysis
+- Insight to Action
+
+## IBM Data Governance Council Maturity Model
+- Organizational Structures & Awareness
+- Stewardship
+- Policy
+- Value Creation
+- Data Risk Management & Compliance
+- Information Security & Privacy
+- Data Architecture
+- Data Quality Management
+- Classification & Metadata
+- Information Lifecycle Management
+- Audit Information, Logging & Reporting

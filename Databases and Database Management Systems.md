@@ -4,6 +4,8 @@
     + [AWS Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
     + [Google Cloud BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
     + [Apache Tajo](http://tajo.apache.org/docs/current/index.html) - A robust big data relational and distributed data warehouse system for Apache Hadoop
+    + [Greenplum](http://gpdb.docs.pivotal.io/43100/common/welcome.html) - The World's First Open Source Massively Parallel Data Warehouse
+    + [IBM Netazza](https://www-01.ibm.com/software/data/netezza/) - The Simple Data Warehouse Appliance for Serious Analytics
 - NoSQL
     + Document
         + [MongoDB](https://docs.mongodb.com/) - NoSQL document store
@@ -21,6 +23,7 @@
         + [AWS SimpleDB](https://aws.amazon.com/documentation/simpledb/) - A highly available, scalable, and flexible non-relational data store that enables you to store and query data items using web services requests
     + Key-value
         + [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
+        + [Apache Accumulo](https://accumulo.apache.org/) - A sorted, distributed key/value store that provides robust, scalable data storage and retrieval
         + [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
         + [Riak](https://docs.basho.com/) - Distributed NoSQL Database
         + [AWS DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability
