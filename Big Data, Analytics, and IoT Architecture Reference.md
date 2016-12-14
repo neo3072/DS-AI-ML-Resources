@@ -98,7 +98,8 @@
     + Compliance
 - Data Integration
     + Messaging and message queues
-    + ETL/ELT/Change data capture
+    + ETL/ELT
+    + Change data capture
     * API/ODBC
     * Replication
     * Bulk movement
@@ -121,6 +122,10 @@
         * Add minor transformations
         * ETL data to analytical platform
         * Export data to desktops
+    + Fast data - Oracle
+        * Streams
+        * Events
+        * Actions
 - Data Access
     + Querying
     + Real-time analytics
@@ -130,6 +135,8 @@
     + Star schema
     + Snowflake schema
 - Data Analysis and Discovery
+    + Advanced analytics
+    + Text and spatial analytics
     + Where to do analysis - Oracle
         * At ingest – real time evaluation
         * In a raw data reservoir
@@ -138,6 +145,12 @@
         * In BI reporting tools
         * In the public cloud
         * On premises
+    + Data sets
+    + Data science
+    + Data discovery
+    + In-place analytics
+    + Faceted analytics
+    + SQL analytics
 - Data Storage and Management
     + Data lake
     * Data warehouse (volume)
@@ -166,6 +179,11 @@
         - Real-time and MapReduce analytics and insights
         - Deep analysis of petabytes of structured and unstructured data
     * In-memory
+    * Data factory
+    * Data Reservoir
+    * Dedicated and ad-hoc
+        - Discovery labs
+        - Sandboxes
 - Data lifecycle management
     + Rule-based Data and Policy Tracking
     + Data compression
@@ -187,6 +205,10 @@
     + Scorecards
     + Charts and graphics
     + Visualization and discovery
+    + Search
+    + Alerting
+    + EPM and BI applications
+    + Recommendations
 
 ## Enterprise Big Data Components
 - http://hortonworks.com/wp-content/uploads/2014/03/11.png
@@ -272,8 +294,16 @@
 
 ## Data types and sources
 + Structured
+    * Transactions
+    * Master and reference
 + Unstructured
+    * Text
+    * Image
+    * Video
+    * Audio
+    * Social
 + Semi-structured
+    * Machine generated
 + Data storage (databases)
 + Sensors
 + RFID tags
