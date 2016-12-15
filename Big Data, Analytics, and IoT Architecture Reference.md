@@ -98,7 +98,7 @@
     + Accounting
     + Data protection
     + Compliance
-- Data Integration and Ingestion
+- Data Aquisition, Ingestion, and Integration 
     + Messaging and message queues
     + ETL/ELT
     + Change data capture

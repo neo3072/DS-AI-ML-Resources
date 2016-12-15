@@ -5,6 +5,7 @@
 - Data/text analytics
 - Descriptive, predictive, and descriptive analytics
 - Machine learning
+- Recommendations
 - Real-time stream processing and computing (spot opportunities and risks)
 - Pattern Matching
 - Forecasting
@@ -32,6 +33,7 @@
 - Computer vision
 - Virtual and augmented reality
 - Knowledge management
+- Fraud detection
 
 ## Typical data science goals
 * Derive discoveries, insights, and value from data collections
