@@ -130,32 +130,45 @@
             * One-hot encoding
             * Note: For large number of categorical features, a good technique is to encode only the most important features (e.g., 95% of the importance) and then assign the rest to an 'others' class
         + Deduplication
+        + Data conversions
+            * Character dates to dates
+            * Numerics to strings and vice versa
         + Format conversion
         + Frequency space
             * Fast fourier transform (FFT)
             * Discrete wavelet transform
         + Euclidian space
             * Coordinate transform
+        + Transposition if needed
+        + Sorting as needed
     - Data filtering
         + Outlier detection and removal
         + Exponential smoothing
         + Gaussian filter
         + Median filter
         + Noise handling and reduction
-    - Imputation
-        + Generate values for other observations in dataset
-            * Random sampling
-            * Markov chain monte carlo
-        + Without other observations
-            * Mean
-            * Statistical distributions
-            * Regression models
-    - Data deletion
+    - Find and handle missing values
+        + Imputation
+            * Generate values for other observations in dataset
+                - Random sampling
+                - Markov chain monte carlo
+            * Without other observations
+                - Mean
+                - Statistical distributions
+                - Regression models
+        + Data deletion
 - Data consumption, exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
+    + General plots
+        * Histogram
+        * Scatter
+        * Box
+    + Generate frequency table
     + Target variable distribution
     + Distributiont and outlier detection via box and scatter plots for numeric features
     + Correlation analysis and pairwise distribution plots
     + Plots with point color as label for classification tasks
+    + Aggregations and analysis
+        * Group for counts, sums, and averages
 - Feature extraction, feature selection, and feature engineering
     + Purpose
         * Simpler and faster training
@@ -201,12 +214,18 @@
                 + Term frequency (TF)
                 + Inverse document frequency (IDF)
     + Ensemble methods exploration and implementation as needed for performance goals
-        *   Bagging
-        *   Boosting
-        *   Model averaging
-        *   Weak learner theory
-        *   Random forests
-        *   ...
+        * Techniques
+            - Bagging
+            - Boosting
+            - Model averaging
+            - Weak learner theory
+            - Random forests
+            - Blending
+            - Stacking
+            - ...
+        * Benefits
+            - Bias and variance reduction, thus reduced overfitting risk
+            - Increased performance
     + Model validation, resampling methods, and selection
         + Cross-validation
         + Hyperparameter optimization
@@ -238,9 +257,22 @@
         * Accuracy
         * Robustness
         * Speed
-    + Tips
-        * Random forest usually reach optimum when max_features is set to the square root of the total number of features.
 - Deliverables, deployment, and results communication (see below)
+
+## Tips
+- Random forest usually reach optimum when max_features is set to the square root of the total number of features.
+- [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
+    + Ensemble methods
+        * Base models should be as unrelated as possibly. This is why we tend to include non-tree-based models in the ensemble even though they don’t perform as well. The math says that the greater the diversity, and less bias in the final ensemble.
+        * Performance of base models shouldn’t differ to much.
+    + Cross-validation
+        * Usually 5-fold CV is good enough
+        * We shouldn’t use too many folds if our training data is limited. Otherwise we would have too few samples in each fold to guarantee statistical significance.
+        * More folds, the CV score would become more reliable, but the training takes longer to finish as well.
+    + Automated pipeline
+        * - Modularized feature transformations. We only need to write a few lines of codes (or better, rules / DSLs) and the new feature is added to the training set.
+        * Automated grid search. We only need to set up models and parameter grid, the search will be run and the best parameters will be recorded.
+        * Automated ensemble selection. Use K best models for training the ensemble as soon as we put another base model into the pool.
 
 ## Data Science Deliverables
 - Automated decision making, predictions, recommendations, and insights
