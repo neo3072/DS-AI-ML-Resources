@@ -54,7 +54,7 @@
 - Random forests
 - Deep learning
 - Decision trees
-- K-nearest neighbors
+- K-nearest neighbors (KNN)
 - Naive bayes
 - Hidden markov model
 - Support vector machines (SVM)

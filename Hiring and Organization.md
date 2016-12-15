@@ -1,4 +1,4 @@
-# Hiring
+# Hiring and Organization
 
 <h2><a name="toc">Table of Contents</a></h2>
 - <a href="#roles">Roles</a>
@@ -25,12 +25,19 @@
 - Foundational
     + Domain expertise
     + Computer science
-    + Mathematics and statistics, including algorithms (ML, AI, ...)
+        * Programming
+    + Mathematics, statistics, analytics, and algorithms
+        * Machine learning
+        * Artificial intelligence
+        * Data visualization
+        * Statistical and quantitative analysis
+        * Modeling
 - Qualities
     + Curiosity
     + Creativity
     + Focus
     + Attention to detail
+    + Problem solver
 - Goals and deliverables
     + Give actionable insights to a business for making decisions
 

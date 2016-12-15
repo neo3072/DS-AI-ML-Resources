@@ -121,11 +121,14 @@
     + Data sources: raw data, real time measurement, events, IoT, and so on
     + Data warehouse or data lake
         * Data lake eliminates need for ETL according to Booz, Allen, and Hamilton
+    + Note that more data is almost always better
 - Data munging/wrangling
     - Data parsing, cleaning, and tidying
     - Data processing, transformation, and aggregation
         + Includes feature scaling, normalization, and/or standardization
         + Categorical feature transformation and dummy variables
+            * One-hot encoding
+            * Note: For large number of categorical features, a good technique is to encode only the most important features (e.g., 95% of the importance) and then assign the rest to an 'others' class
         + Deduplication
         + Format conversion
         + Frequency space
@@ -138,6 +141,7 @@
         + Exponential smoothing
         + Gaussian filter
         + Median filter
+        + Noise handling and reduction
     - Imputation
         + Generate values for other observations in dataset
             * Random sampling
@@ -148,10 +152,26 @@
             * Regression models
     - Data deletion
 - Data consumption, exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
+    + Target variable distribution
+    + Distributiont and outlier detection via box and scatter plots for numeric features
+    + Correlation analysis and pairwise distribution plots
+    + Plots with point color as label for classification tasks
 - Feature extraction, feature selection, and feature engineering
-    + Wrapper methods
-    + Sensitivity analysis
-    + PCA
+    + Purpose
+        * Simpler and faster training
+        * Less computationally expensive
+        * Find feature interactions to use as new features
+    + Techniques
+        * Wrapper methods
+        * Sensitivity analysis
+        * PCA
+        * Random forests
+            - Mean decrease impurity
+            - Mean decrease accuracy
+        * Text-based
+            - Stemming
+            - Tokenizing
+            - Synonym substitutions
 - Performance metric selection. Examples:
     + MSE and RMSE
     + R squared (aka explained variance)
@@ -161,6 +181,9 @@
     + Receiver operator characteristic (ROC)
     + Area under the ROC curve (AUC)
     + F-score
+    + Per Kaggle
+        * LB: Score you get is calculated on a subset of testing set
+        * CV: Score you get by local cross validation is commonly referred to as a CV score.
 - Data splitting
 - Model selection, training, evaluation, validation, complexity reduction, and tuning
     + Iterative process and involves revisiting previous stages, including model selection
@@ -177,21 +200,46 @@
             - Text data
                 + Term frequency (TF)
                 + Inverse document frequency (IDF)
-    + Ensemble methods exploration and implementation as needed for performance goals (e.g., bagging, boosting, model averaging, weak learner theory, random forests, ...)
+    + Ensemble methods exploration and implementation as needed for performance goals
+        *   Bagging
+        *   Boosting
+        *   Model averaging
+        *   Weak learner theory
+        *   Random forests
+        *   ...
     + Model validation, resampling methods, and selection
         + Cross-validation
+        + Hyperparameter optimization
         + Bootstrap
         + Mallow’s Cp
         + Akaike information criterion (AIC)
         + Bayesian information criterion (BIC)
-    + Bias variance tradeoff and model complexity
+    + Model tuning: bias variance tradeoff and model complexity
         * Validation curve
         * Learning curve
         * Residual sum of squares
         * Goodness-of-fit metrics
+        * Grid search
     + Error analysis and tradeoffs
         * Type 1
         * Type 2
+    + Kaggle notes
+        * Tree-based (top for Kaggle)
+            - Gradient Boosted Trees
+            - Random Forest
+            - Extra Randomized Trees
+        * Lower performance
+            - SVM
+            - Linear Regression
+            - Logistic Regression
+            - Neural Networks
+    + Model tuning goals
+        * Performance
+        * Accuracy
+        * Robustness
+        * Speed
+    + Tips
+        * Random forest usually reach optimum when max_features is set to the square root of the total number of features.
 - Deliverables, deployment, and results communication (see below)
 
 ## Data Science Deliverables
@@ -265,6 +313,9 @@
     + Maximun
     + Optimal value or optimal combination
 - Segmentation
+    + Behavioral
+    + Demographic
+    + Geographic
 - Targeted advertising
 - Forecasts
 - Risk analysis

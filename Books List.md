@@ -11,3 +11,7 @@
 - [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- Artificial Intelligence: A Modern Approach
+- Paradigm of Artificial Intelligence Programming
+- Artificial Intelligence for Humans
+- Learning From Data
