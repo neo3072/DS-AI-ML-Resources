@@ -445,6 +445,7 @@
             - [Mahout](http://mahout.apache.org/)
 
 ## IoT Solution Requirements
+- Connected devices
 - Native and processed raw data support
     + Input data typically time-series
 - Support for a variety of workload types
@@ -464,6 +465,11 @@
     + Real-time stream
     + Interactive querying
     + Output generated in batches
+    + Data transformations
+    + Aggregations and computation
+    + Data integration and enrichment
+- Data movement and storage
+    + One or more data stores
 - Leverage _big data_ approach
     + Scale out techniques and storage on commodity hardware
         * Historical data/references (_volume_)
@@ -471,8 +477,21 @@
     + Community defined interfaces
     + Many different data formats and non-relational sensor data (_variety_)
     + High rate data generation and handling via data streams in IoT context (_velocity_)
-- References
-    + [IoT-A](http://iot-a.info/)
+- Analytics
+- Applications and presentation
+
+**Big Data and IoT Tech Stacks**
+- SACK
+    + Spark - Digest
+    + Akka - Ingest
+    + Cassandra
+    + Kafka
+- SMACK
+    + Spark
+    + Mesos
+    + Akka
+    + Cassandra
+    + Kafka
 
 ## Hadoop Benefits
 - Built on the _shared nothing_ principle
