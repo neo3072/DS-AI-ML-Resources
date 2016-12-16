@@ -65,3 +65,8 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     + [InfluxDB](https://docs.influxdata.com/influxdb/v1.1/) - A time series database built from the ground up to handle high write and query loads
     + [Prometheus](https://prometheus.io/docs/introduction/overview/) - An open-source systems monitoring and alerting toolkit originally built at SoundCloud
     + [Druid](http://druid.io/docs/0.9.1.1/design/index.html) - An open source data store designed for OLAP queries on event data
+    + [Geras](http://1248.io/geras.php) - 
+    + [KairosDB](https://github.com/kairosdb/kairosdb) - 
+    + [kdb+](http://kx.com/resources.php) - 
+    + [OpenTSDB](http://opentsdb.net/) - 
+    + [TempoIQ](https://www.tempoiq.com/) - 

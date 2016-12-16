@@ -76,11 +76,6 @@ Coming soon...
 
 ## Oracle Architecture and Patterns Examples
 
-**Big Data Architecture Patterns**
-- Polyglot
-- Lambda
-- Kappa
-
 ## IBM Architecture and Patterns Examples
 
 **Solution Patterns - IBM**

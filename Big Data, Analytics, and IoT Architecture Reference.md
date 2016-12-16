@@ -309,6 +309,7 @@
     * Machine generated
 + Data storage (databases)
 + Sensors
++ [Parquet](https://parquet.apache.org/)
 + RFID tags
 + Instore WiFi logs
 + Machine Logs
@@ -352,6 +353,7 @@
 + Mobile devices
 + Weather data
 + Traffic pattern data
++ Mobile devices
 
 ## Database Considerations and Tradeoffs
 - ACID
@@ -395,6 +397,82 @@
     + HBase
     + MemcacheDB
     + Redis
+
+**Big Data Architecture Patterns**
+- [Polyglot](http://datadventures.ghost.io/2014/07/06/polyglot-processing/)
+- [Lambda](http://lambda-architecture.net/)
+- [Kappa](http://milinda.pathirage.org/kappa-architecture.com/)
+- [IOT-A](http://iot-a.info/)
+    + Message Queue/Stream Processing (MQ/SP) block
+        * Buffer data
+            - Processing speed
+            - Throughput handling of downstream components
+            - Micro-batching can increase ingestion rate into downstream components
+        * Process and filter data
+            - Cleaning and removal
+            - Stream processing
+                + Continuous queries
+                + Aggregates
+                + Counts
+                + Real-time machine learning/AI
+        * Output
+            - Real-time
+            - Ingest data into downstream blocks (DB and/or DFS)
+        * Example technologies
+            - [Kafka](http://kafka.apache.org/)
+            - [Spark](http://spark.apache.org/)
+            - [Fluentd](http://www.fluentd.org/)
+            - [Storm](http://storm.apache.org/)
+    + Database (DB) block
+        * Provides granular, structured, low-latency access to the data
+        * Typically NoSQL
+        * Output
+            - Interactive ad-hoc querying
+                + Data store API (e.g., HBase, MongoDB, ...)
+                + Standard SQL interface
+        * Example technologies
+            - [Spark](http://spark.apache.org/)
+            - [Drill](http://incubator.apache.org/drill/)
+    + Distributed File System (DFS) block
+        * Batch jobs over entire dataset
+            - Aggregations
+            - Reporting
+            - Integration across data sources
+                - E.g., with unstructured data
+        * Long term storage (archiving)
+        * Example technologies
+            - [Hive](http://hive.apache.org/)
+            - [Mahout](http://mahout.apache.org/)
+
+## IoT Solution Requirements
+- Native and processed raw data support
+    + Input data typically time-series
+- Support for a variety of workload types
+    + Stream processing
+    + Low-latency data queries
+    + SLAs (depends on application)
+        * [Recovery Point Objective](https://en.wikipedia.org/wiki/Recovery_point_objective)
+        * [Recovery Time Objective](https://en.wikipedia.org/wiki/Recovery_time_objective)
+        * Availability
+        * Latency
+        * Disaster recovery
+    + Security
+    + Privacy
+        * ACLs
+        * Data encryption and masking
+- Processing and output
+    + Real-time stream
+    + Interactive querying
+    + Output generated in batches
+- Leverage _big data_ approach
+    + Scale out techniques and storage on commodity hardware
+        * Historical data/references (_volume_)
+    + Schema-on-read (e.g., data lake)
+    + Community defined interfaces
+    + Many different data formats and non-relational sensor data (_variety_)
+    + High rate data generation and handling via data streams in IoT context (_velocity_)
+- References
+    + [IoT-A](http://iot-a.info/)
 
 ## Hadoop Benefits
 - Built on the _shared nothing_ principle
