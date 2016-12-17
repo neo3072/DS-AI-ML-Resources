@@ -137,9 +137,13 @@
 - Data Modeling and Structure
     + Star schema
     + Snowflake schema
-- Data Analysis and Discovery
-    + Advanced analytics
-    + Text and spatial analytics
+- Data Analysis, data mining, discovery, simulation, and optimization
+    + Advanced analytics and modeling
+    + Text and natural language analytics
+    + Video and voice analytics
+    + Geospatial analytics
+    + Data visualization
+    + Data mining
     + Where to do analysis - Oracle
         * At ingest – real time evaluation
         * In a raw data reservoir
@@ -309,6 +313,7 @@
     * Machine generated
 + Data storage (databases)
 + Sensors
++ Events
 + [Parquet](https://parquet.apache.org/)
 + RFID tags
 + Instore WiFi logs
@@ -321,7 +326,8 @@
 + Text, including documents, emails, scanned documents, records, ...
 + Social networks
 + Public web
-+ Geo-location
++ Geo-location/geospatial
++ Feeds
 + Machine generated
 + Clickstream
 + Software
@@ -354,6 +360,7 @@
 + Weather data
 + Traffic pattern data
 + Mobile devices
++ Surveillance
 
 ## Database Considerations and Tradeoffs
 - ACID
@@ -426,6 +433,9 @@
     + Database (DB) block
         * Provides granular, structured, low-latency access to the data
         * Typically NoSQL
+            - MongoDB
+            - Cassandra
+            - HBase
         * Output
             - Interactive ad-hoc querying
                 + Data store API (e.g., HBase, MongoDB, ...)
@@ -444,7 +454,7 @@
             - [Hive](http://hive.apache.org/)
             - [Mahout](http://mahout.apache.org/)
 
-## IoT Solution Requirements
+## IoT Solution Components
 - Connected devices
 - Native and processed raw data support
     + Input data typically time-series
@@ -478,6 +488,7 @@
     + Many different data formats and non-relational sensor data (_variety_)
     + High rate data generation and handling via data streams in IoT context (_velocity_)
 - Analytics
+- APIs/SDKs
 - Applications and presentation
 
 **Big Data and IoT Tech Stacks**
