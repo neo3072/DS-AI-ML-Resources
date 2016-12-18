@@ -7,6 +7,7 @@ Note that some links are categorized according to my determination of best fit s
 ## Architecture
 - [Enterprise architecture](https://en.wikipedia.org/wiki/Enterprise_architecture)
 - [Data governance](https://en.wikipedia.org/wiki/Data_governance)
+- [Lambda Architectures](https://en.wikipedia.org/wiki/Lambda_architecture)
 
 ## Methodologies
 - [MIKE 2.0 - Method for an Integrated Knowledge Environment](https://en.wikipedia.org/wiki/MIKE2.0_methodology)

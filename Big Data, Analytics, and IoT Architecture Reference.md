@@ -5,12 +5,6 @@
 + Non-Relational
 + Hybrid
 
-## Maturity Considerations - Oracle
-- Reference architecture
-- Development patterns
-- Operational processes
-- Governance structures and polices
-
 ## Normalization
 - Minimum requirements
     + First Normal Form (1NF)
@@ -54,9 +48,7 @@
 
 ## Architectural Goals, Principles, and Considerations
 - Consistency
-- Batch vs. real-time streaming data processing
-    + Batch MapReduce via Hadoop
-    + Real-time in-memory MapReduce via Spark
+- Batch (slow/cold) vs. real-time streaming (fast/hot) data processing
 - Embedded models or interfaces
 - API or RPC or REST
 - Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
@@ -86,6 +78,11 @@
 + Schema on read vs schema on write
     * Bringing the analytical capabilities to the data, VS
     * Bringing the data to the analytical capabilities through staging, extracting, transforming and loading
++ Maturity Considerations - Oracle
+    + Reference architecture
+    + Development patterns
+    + Operational processes
+    + Governance structures and polices
 
 ## Enterprise Big Data Architectural Components
 - Governance
@@ -547,15 +544,16 @@
         * Hadoop
         * Apache YARN
 
-## Data Processing and access methods/patterns compared
+## Data Processing and access methods/patterns
 - Batch
     + Process batches of data on regular time intervals, e.g., hourly, daily, overnight, etc.
-    + Aka, MapReduce
+    + Aka, MapReduce on Hadoop
 - Real-time
     + Monitor and react in real time
     + Key-value data stores, such as NoSQL, allow for high performance, index-based retrieval - Oracle
+    + Real-time MapReduce and processing (e.g., Spark)
 - Streaming
-- Interactive
+- Interactive/ad-hoc querying
     + Data analysts reviewing data
 - Online
 - Search
