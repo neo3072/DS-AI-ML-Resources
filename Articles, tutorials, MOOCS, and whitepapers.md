@@ -30,12 +30,16 @@
     + [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0)
     + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_48)
 - Big Data
+    + [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
+    + [Real-Time Stream Processing as Game Changer in a Big Data World with Hadoop and Data Warehouse](https://www.infoq.com/articles/stream-processing-hadoop/)
+    + [Real-time Data Processing in AWS Cloud](https://www.infoq.com/articles/real-time-data-processing-in-aws-cloud)
     + [How much data does one need to efficiently use Hadoop instead of SQL?](https://www.quora.com/How-much-data-does-one-need-to-efficiently-use-Hadoop-instead-of-SQL)
     + [Don't use Hadoop - your data isn't that big](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html)
     + [All the best big data tools and how to use them](https://www.import.io/post/all-the-best-big-data-tools-and-how-to-use-them/)
     + [The big data ecosystem for science](https://www.oreilly.com/ideas/the-big-data-ecosystem-for-science?imm_mid=0ea74c&cmp=em-data-na-na-newsltr_20161109)
     + [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
     + [Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
+    + [Data processing architectures – Lambda and Kappa](https://www.ericsson.com/research-blog/data-knowledge/data-processing-architectures-lambda-and-kappa/)
 - Programming and Computer Science
 - IoT
 - Opinion

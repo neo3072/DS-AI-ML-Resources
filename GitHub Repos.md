@@ -38,5 +38,6 @@
     + [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
     + [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
     + [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+    + [Hadoop Application Architectures](https://github.com/hadooparchitecturebook/hadoop-arch-book)
 - Courses
     + [Harvard's CS109 Data Science](https://github.com/cs109)

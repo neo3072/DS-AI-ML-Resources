@@ -1,6 +1,6 @@
 # Big Data, Analytics, and IoT Architecture Examples
 
-## Architecture Guides and Examples
+## Architecture Guides, Usage, and Examples
 
 **AWS**
 - [Solution Development Guides](https://aws.amazon.com/solutions)
@@ -55,6 +55,10 @@
     + [Internet of Things](https://cloud.google.com/solutions/iot/#development_guides)
     + [Websites and Web Apps](https://cloud.google.com/solutions/websites/#development_guides)
     + [Development & Test](https://cloud.google.com/solutions/dev-test/#development_guides)
+
+**By Technology**
+- [Apache Storm](http://storm.apache.org/releases/current/Powered-By.html)
+- [Apache Spark](http://www.datanami.com/2014/03/06/apache_spark_3_real-world_use_cases/)
 
 **IoT**
 

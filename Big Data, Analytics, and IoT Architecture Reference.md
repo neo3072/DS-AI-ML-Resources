@@ -48,7 +48,15 @@
 
 ## Architectural Goals, Principles, and Considerations
 - Consistency
-- Batch (slow/cold) vs. real-time streaming (fast/hot) data processing
+- [Batch (slow/cold) vs. real-time streaming (fast/hot) data processing and paths](https://www.opsgility.com/blog/2016/11/07/big-data-and-iot-lambda-architecture/)
+    + Slow/cold path - batch processing
+        * Batch Processing / Analysis
+        * Historical Lookup
+        * Auditing
+    + Fast/hot path - real-time processing
+        * Real-time Analytics / Machine Learning Analysis
+        * Real-time Reporting
+        * Notifications
 - Embedded models or interfaces
 - API or RPC or REST
 - Deployed trained models (offline learning) vs. [online learning](https://en.wikipedia.org/wiki/Online_machine_learning)
@@ -552,7 +560,11 @@
     + Monitor and react in real time
     + Key-value data stores, such as NoSQL, allow for high performance, index-based retrieval - Oracle
     + Real-time MapReduce and processing (e.g., Spark)
-- Streaming
+- [Streaming](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
+    + Stream ingestion
+    + Near Real-Time (NRT) Event Processing with External Context
+    + NRT Event Partitioned Processing
+    + Complex Topology for Aggregations or ML
 - Interactive/ad-hoc querying
     + Data analysts reviewing data
 - Online
