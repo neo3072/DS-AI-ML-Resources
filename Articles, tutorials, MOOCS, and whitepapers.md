@@ -60,6 +60,7 @@
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
 - [The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
+- [Increase Your Analytics Proficiency - Making the Move From Analytics to Data Science](http://www.actian.com/wp-content/uploads/2014/07/Neil-Raden-White-Paper4.pdf)
 - [AWS](https://aws.amazon.com/whitepapers/)
     + [Architecting for the Cloud](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
     + [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)

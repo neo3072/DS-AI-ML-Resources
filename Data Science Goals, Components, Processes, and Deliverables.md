@@ -355,6 +355,32 @@
 - Risk analysis
 - Optimization and response surface models (RSM) for design of experiments (DOE) projects
 
+## Types of Analytics
+- [The four types of analytics - Neil Raden](http://www.actian.com/wp-content/uploads/2014/07/Neil-Raden-White-Paper4.pdf)
+    + Quantitative R&D - Type I
+        * PHD or equivalent
+        * The creation of theory and development of algorithms for all forms of quantitative analysis
+        * Quantitative Research analytics are performed by mathematicians, statisticians and other pure quantitative scientists
+    + Data scientist or quantitative analyst - Type II
+        * Advanced math/stats, not nec. PHD
+        * More practical than theoretical
+        * Incorporation of advanced analytical approaches derived from quantitative R&D activities
+        * Two sub-types - both perform roughly the same function – providing guidance and expertise in the application of quantitative analysis – they are differentiated by the sophistication of the techniques applied
+            - Heavy
+                + Understand the mathematics behind the analytics and may apply very complex tools
+            - Light
+                + Work with more common and well-understood techniques
+                + Approach the problems they deal with using more conventional best practices and/or packaged analytical solutions from third parties
+    + Operational analytics - Type III
+        * Business domain knowledge, optional background in statistics
+            - The part of analytics we’re most familiar with
+            - The application of Type II applications into real work is the realm of operational analysts
+            - Analytics using the _whats_ without always knowing the _whys_
+    + Business intelligence/discovery - Type IV
+        * Data and numbers oriented, but no special advanced statistical skills
+        * The analytical work we are most familiar with via reports, OLAP, dashboards and visualizations
+        * Pulling the right information, and understanding what information means
+
 ## Process Models
 - [Ask, Get, Explore, Model, Communicate and visualize results](http://www.datascientists.net/what-is-data-science)
 - [Sample, Explore, Modify, Model, and Assess - SEMMA](https://en.wikipedia.org/wiki/SEMMA)
