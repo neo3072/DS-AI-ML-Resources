@@ -186,6 +186,7 @@
         - Hybrid
     * Data marts
         - Data warehouse extracted data subsets oriented to speciﬁc business lines, departments or analytical applications
+        - Can be a 'live' data mart
     * File systems (Non-distributed)
     * Distributed file systems (e.g., HDFS) and Hadoop (volume and variety)
         - Real-time and MapReduce analytics and insights

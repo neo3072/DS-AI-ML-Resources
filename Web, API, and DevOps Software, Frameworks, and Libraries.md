@@ -1,4 +1,4 @@
-# Web, API, and DevOps
+# Web, API, and DevOps Software, Frameworks, and Libraries
 
 - [Node.js](https://nodejs.org/en/docs/)
 - [AngularJS](https://docs.angularjs.org/guide)
