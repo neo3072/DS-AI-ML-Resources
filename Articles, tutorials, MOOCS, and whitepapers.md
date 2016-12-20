@@ -80,6 +80,9 @@
     + [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 - Lists
     + [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
+    + [Data Science Online Courses: A Comprehensive List](http://www.learndatasci.com/best-data-science-online-courses/)
+    + [Best Data Science Online Courses](http://www.kdnuggets.com/2015/10/best-data-science-online-courses.html)
+    + [Online Education in Analytics, Big Data, Data Science, Machine Learning](http://www.kdnuggets.com/education/online.html)
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
 - [The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
