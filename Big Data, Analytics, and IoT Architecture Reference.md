@@ -461,8 +461,6 @@
 
 ## IoT Solution Components
 - Connected devices
-- Native and processed raw data support
-    + Input data typically time-series
 - Support for a variety of workload types
     + Stream processing
     + Low-latency data queries
@@ -476,7 +474,14 @@
     + Privacy
         * ACLs
         * Data encryption and masking
+- Data management
+- Data modeling and schemas
+    + Device metadata
+- Data streams
+    + Composed of data records flowing through the system
 - Processing and output
+    + Native and processed raw data support
+        * Input data typically time-series
     + Real-time stream
     + Interactive querying
     + Output generated in batches
