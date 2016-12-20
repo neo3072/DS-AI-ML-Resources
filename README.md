@@ -51,7 +51,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Programming Languages and OS](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Programming%20Languages%20and%20OS.md)
     + [Statistics and Probability](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Statistics%20and%20Probability.md)
     + [Web Resources](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%20Resources.md)
-    + [Web, API, and DevOps Frameworks and Libraries](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%2C%20API%2C%20and%20DevOps.md)
+    + [Web, API, and DevOps Frameworks and Libraries](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%2C%20API%2C%20and%20DevOps%20Frameworks%20and%20Libraries.md)
     + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 - Directories
     + [Articles](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/tree/master/articles)
