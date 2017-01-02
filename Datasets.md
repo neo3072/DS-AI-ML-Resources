@@ -10,3 +10,4 @@
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)
 - [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 - [THE Wikipedia Corpus](http://corpus.byu.edu/wiki/)
+- [data.world](https://data.world/)

@@ -39,5 +39,6 @@
     + [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
     + [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     + [Hadoop Application Architectures](https://github.com/hadooparchitecturebook/hadoop-arch-book)
+    + [Advanced Analytics with Spark](https://github.com/sryza/aas)
 - Courses
     + [Harvard's CS109 Data Science](https://github.com/cs109)

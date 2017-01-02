@@ -70,3 +70,6 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     + [kdb+](http://kx.com/resources.php) - 
     + [OpenTSDB](http://opentsdb.net/) - 
     + [TempoIQ](https://www.tempoiq.com/) - 
+
+## Database Comparisons
+- [MongoDB and HBase Compared](https://www.mongodb.com/compare/mongodb-hbase)

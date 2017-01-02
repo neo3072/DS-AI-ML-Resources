@@ -59,24 +59,11 @@
 **By Technology**
 - [Apache Storm](http://storm.apache.org/releases/current/Powered-By.html)
 - [Apache Spark](http://www.datanami.com/2014/03/06/apache_spark_3_real-world_use_cases/)
+- [Apache Mahout](https://mahout.apache.org/general/powered-by-mahout.html)
 
 **IoT**
 
 Coming soon...
-
-**General**
-- [Lambda Architecture](http://lambda-architecture.net/)
-- [AWS Architecture Center](https://aws.amazon.com/architecture/?nc1=f_cc)
-- [AWS Big Data Partner Solutions](https://aws.amazon.com/big-data/partner-solutions/)
-- [GCP Architecture](https://cloud.google.com/docs/tutorials#architecture)
-- [Introduction to big data classification and architecture](http://www.ibm.com/developerworks/library/bd-archpatterns1/)
-- [An Enterprise Architect’s Guide to Big Data](http://www.oracle.com/technetwork/topics/entarch/articles/oea-big-data-guide-1522052.pdf)
-- [BIG DATA REFERENCE ARCHITECTURE](https://thinkbiganalytics.com/leading_big_data_technologies/big-data-reference-architecture/)
-- [Getting Started with Big Data Architecture](http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture/)
-- [BIG DATA: Architectures and Technologies](https://www.sei.cmu.edu/go/big-data/)
-- [Big Data Architecture](http://bigdata.teradata.com/US/Big-Ideas/Big-Data-Architecture/)
-- [Big Data Analytics Architecture](http://www.thebigdatainsightgroup.com/site/sites/default/files/Teradata's%20-%20Big%20Data%20Architecture%20-%20Putting%20all%20your%20eggs%20in%20one%20basket.pdf)
-- [What is Streaming Data?](https://aws.amazon.com/streaming-data/)
 
 ## Oracle Architecture and Patterns Examples
 
