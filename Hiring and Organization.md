@@ -8,6 +8,7 @@
 - <a href="#interview-q">Interview Questions</a>
 - <a href="#articles">Articles</a>
 - <a href="#projects">Take Home Projects</a>
+- <a href="#forhire">Data Scientists for Hire & Training</a>
 
 <h2><a name="roles">Roles</a></h2>
 - Chief Executive Officer - CEO
@@ -67,6 +68,9 @@
 <h2><a name="projects">Take Home Projects</a></h2>
 
 Coming soon...
+
+<h2><a name="forhire">Data Scientists for Hire & Training</a></h2>
+- [The Data Incubator](https://www.thedataincubator.com/)
 
 ## References
 - The Field Guide to Data Science (Booz, Allen, Hamilton)

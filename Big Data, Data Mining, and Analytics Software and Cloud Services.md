@@ -126,6 +126,7 @@ for Clojure or Java
 - [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - Business intelligence and performance management
 
 ## Enterprise Big Data and Analytics Products and Services
+- [Databricks](https://databricks.com/) - Data integration, real-time exploration, and production pipelines in the cloud, powered by Apache® Spark
 - [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises
 - [Teradata](http://www.teradata.com/?LangType=1033)
     + Business Analytics Solutions
