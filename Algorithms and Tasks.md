@@ -14,6 +14,23 @@
 - Sparse dictionary learning
 - Genetic algorithms
 
+## Tasks by Area
+- Text analytics/mining (Wikipedia)
+    + Information retrieval
+    + Text categorization
+    + Text clustering
+    + Concept/entity extraction
+    + Production of granular taxonomies
+    + Sentiment analysis
+    + Document summarization
+    + Entity relation modeling
+    + Named entity recognition
+    + Recognition of Pattern Identified Entities
+    + Coreference
+    + Syntactic parsing
+    + Part-of-speech tagging
+    + Quantitative text analysis
+
 ## General Considerations
 - Dimensions for comparison (Kevin Markham)
     + Problem type (classification/regression)
@@ -83,10 +100,24 @@
 - Levenshtein distance
 
 ## Natural language processing, generation, and understanding (NLP, NLG, NLU)
-- 
+- See text analytics above
 
 ## Reinforcement Learning
-- 
+- Markov decision process (MDP)
+- Finite MDPs
+- Monte Carlo methods
+- Criterion of optimality
+- Brute force
+- Value function estimation
+- Direct policy search
+- Temporal difference methods
+- Generalized policy iteration
+- Stochastic optimization
+- Gradient ascent
+- Simulation-based optimization
+- Learning Automata[edit]
+- Example
+    + Multi-armed bandit problem
 
 ## Outlier/Anomaly Detection
 - 
@@ -146,7 +177,7 @@
 - T-test - Compare two groups
 - ANOVA - Compare multiple groups
 
-## Other
+## Other Fields, Algorithms, and Tasks
 - Massive-scale graph
 - Geospatial temporal predictive analytics
 - Hyperfast analytics
@@ -154,6 +185,14 @@
 - Cognitive machine learning
 - Natural language processing, generation, and understanding
 - Structured database generation
+- Game theory
+- Control theory
+- Operations research
+- Information theory
+- Simulation-based optimization
+- Multi-agent systems
+- Swarm intelligence
+- Genetic algorithms
 
 ## References
 - [The Field Guide to Data Science (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
