@@ -192,17 +192,6 @@
         * Simpler and faster training
         * Less computationally expensive
         * Find feature interactions to use as new features
-    + Techniques
-        * Wrapper methods
-        * Sensitivity analysis
-        * PCA
-        * Random forests
-            - Mean decrease impurity
-            - Mean decrease accuracy
-        * Text-based
-            - Stemming
-            - Tokenizing
-            - Synonym substitutions
 - Performance metric selection, including:
     + Mean squared error (MSE)
     + Root mean squared error (RMSE)
@@ -224,43 +213,12 @@
     + Iterative process and involves revisiting previous stages, including model selection
     + Model complexity reduction via subset selection, shrinkage methods, regularization (e.g., ridge regression and lasso), and dimensionality reduction
         * Dimensionality reduction
-            - PCA
-            - Factor analysis
-            - K-means clustering
-            - Canopy clustering
-            - Feature hashing
-            - Wrapper methods
-            - Sensitivity analysis
-            - Self organizing maps
-            - Text data
-                + Term frequency (TF)
-                + Inverse document frequency (IDF)
     + Ensemble methods exploration and implementation as needed for performance goals
-        * Techniques
-            - Bagging
-            - Boosting
-            - Model averaging
-            - Weak learner theory
-            - Random forests
-            - Blending
-            - Stacking
-            - ...
         * Benefits
             - Bias and variance reduction, thus reduced overfitting risk
             - Increased performance
     + Model validation, resampling methods, and selection
-        + Cross-validation
-        + Hyperparameter optimization
-        + Bootstrap
-        + Mallow’s Cp
-        + Akaike information criterion (AIC)
-        + Bayesian information criterion (BIC)
     + Model tuning: bias variance tradeoff and model complexity
-        * Validation curve
-        * Learning curve
-        * Residual sum of squares
-        * Goodness-of-fit metrics
-        * Grid search
     + Error analysis and tradeoffs
         * Type 1
         * Type 2

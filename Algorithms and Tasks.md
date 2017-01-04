@@ -91,6 +91,10 @@
 - Boosting
 - AdaBoost
 - Random Forests
+- Model averaging
+- Weak learner theory
+- Blending
+- Stacking
 
 ## Recommendation
 - Collaborative filtering
@@ -126,6 +130,33 @@
 - Example
     + Multi-armed bandit problem
 
+## Model validation, resampling methods, and selection
+- Cross-validation
+- Hyperparameter optimization
+- Bootstrap
+- Mallow’s Cp
+- Akaike information criterion (AIC)
+- Bayesian information criterion (BIC)
+
+## Model tuning: bias variance tradeoff and model complexity
+- Validation curve
+- Learning curve
+- Residual sum of squares
+- Goodness-of-fit metrics
+- Grid search
+
+## Feature extraction, feature selection, and feature engineering
+- Wrapper methods
+- Sensitivity analysis
+- PCA
+- Random forests
+    + Mean decrease impurity
+    + Mean decrease accuracy
+- Text-based
+    + Stemming
+    + Tokenizing
+    + Synonym substitutions
+
 ## Outlier/Anomaly Detection (Wikipedia)
 - Categories
     + Unsupervised anomaly detection
@@ -150,6 +181,20 @@
 - Audio
 - Facial    
 - Handwriting
+
+## Dimensionality Reduction
+- Principle component analysis (PCA)
+- Factor analysis
+- K-means clustering
+- Canopy clustering
+- Feature hashing
+- Wrapper methods
+- Sensitivity analysis
+- Self organizing maps
+- Text data
+    + Term frequency (TF)
+    + Inverse document frequency (IDF)
+- Latent Dirichlet Allocation (LDA)
 
 ## Information Retrieval
 - Discounted cumulative gain (DCG)
