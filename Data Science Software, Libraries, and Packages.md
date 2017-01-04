@@ -25,7 +25,6 @@
 - [Python(x,y)](http://python-xy.github.io/) - A free scientific and engineering development software for numerical computations, data analysis and data visualization based on Python programming language, Qt graphical user interfaces and Spyder interactive scientific development environment
 - Python
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
-    + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
     + [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
     + [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
     + [Numpy](https://docs.scipy.org/doc/) - The fundamental package for scientific computing with Python
@@ -67,9 +66,7 @@
     + [plyr](https://cran.r-project.org/web/packages/plyr/index.html) - A set of tools that solves a common set of problems
     + [stringr](https://cran.r-project.org/web/packages/stringr/index.html) - A consistent, simple and easy to use set of wrappers around the fantastic 'stringi' package
     + [shiny](https://cran.r-project.org/web/packages/shiny/index.html) - Easy to build interactive web applications with R
-    + [knitr](https://cran.r-project.org/web/packages/knitr/index.html) - A general-purpose tool for dynamic report generation in R using Literate Programming techniques
     + [readr](https://cran.r-project.org/web/packages/readr/index.html) - Read flat/tabular text files from disk (or a connection)
-    + [R Markdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) - Convert R Markdown documents into a variety of formats
     + [tidyr](https://cran.r-project.org/web/packages/tidyr/index.html) - Data tidying (not general reshaping or aggregating) and works well with 'dplyr' data pipelines
     + [lubridate](https://cran.r-project.org/web/packages/lubridate/index.html) - Functions to work with date-times and time-spans
     + [lme4](https://cran.r-project.org/web/packages/lme4/index.html) - Fit linear and generalized linear mixed-effects models
@@ -122,3 +119,8 @@
 - Analytics
     + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
     + [Snowplow](http://snowplowanalytics.com/guides/)
+- Notebooks
+    + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
+    + [Apache Zeppelin](https://zeppelin.apache.org/) - A web-based notebook that enables interactive data analytics. 
+    + [R Markdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) - Convert R Markdown documents into a variety of formats
+    + [knitr](https://cran.r-project.org/web/packages/knitr/index.html) - A general-purpose tool for dynamic report generation in R using Literate Programming techniques

@@ -68,6 +68,7 @@
     + [Apache Oozie](http://oozie.apache.org/) - A workflow scheduler system to manage Apache Hadoop jobs
 - Analytics
     + [Apache Mahout](http://mahout.apache.org/developers/developer-resources.html) - Build an environment for quickly creating scalable performant machine learning applications
+    + [Apache SystemML](https://apache.github.io/incubator-systemml/) - A machine learning platform optimal for big data
     + [Apache Kylin](http://kylin.apache.org/docs15/) - An open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets, original contributed from eBay Inc
     + [Apache Lens](http://lens.apache.org/user/index.html) - A unified analytics interface
 - Hadoop Enabled Applications
