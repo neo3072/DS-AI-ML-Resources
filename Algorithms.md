@@ -47,10 +47,11 @@
 - Regression with shrinkage
 - Stepwise regression
 - Regularized regression
+- Logistic regression and multinomial logistic regression
 
 ## Classification
 - Bayesian network
-- Neural nets
+- Neural networks
 - Random forests
 - Deep learning
 - Decision trees
@@ -68,7 +69,7 @@
 
 ## Recommendation
 - Collaborative filtering
-- Content-based methods
+- Content-based filtering
 - Graph-based methods
 
 ## Logical Reasoning
@@ -110,7 +111,7 @@
 - Hyperfast analytics
 - Embedded deep learning
 - Cognitive machine learning
-- Natural language generation
+- Natural language processing, generation, and understanding
 - Structured database generation
 
 ## References

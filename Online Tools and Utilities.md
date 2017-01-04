@@ -18,6 +18,7 @@
 - [Open port check tool - CanYouSeeMe.org](http://www.canyouseeme.org/)
 - [Port forwarding tester](http://www.yougetsignal.com/tools/open-ports/)
 - [No-IP Dynamic IP](https://www.noip.com/)
+- [PortCheckTool.com](http://www.portchecktool.com/)
 
 ## Unix, Linux, Security, ...
 - [Crontab Generator](http://crontab-generator.org/)
