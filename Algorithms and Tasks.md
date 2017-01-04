@@ -14,8 +14,8 @@
 - Sparse dictionary learning
 - Genetic algorithms
 
-## Tasks by Area
-- Text analytics/mining (Wikipedia)
+## Tasks by Area (Wikipedia)
+- Text analytics/mining
     + Information retrieval
     + Text categorization
     + Text clustering
@@ -30,6 +30,12 @@
     + Syntactic parsing
     + Part-of-speech tagging
     + Quantitative text analysis
+- Anomaly detection
+    + Intrusion detection
+    + Fraud detection
+    + Fault detection
+    + System health monitoring
+    + Event detection in sensor networks
 
 ## General Considerations
 - Dimensions for comparison (Kevin Markham)
@@ -119,8 +125,20 @@
 - Example
     + Multi-armed bandit problem
 
-## Outlier/Anomaly Detection
-- 
+## Outlier/Anomaly Detection (Wikipedia)
+- Categories
+    + Unsupervised anomaly detection
+    + Supervised anomaly detection
+    + Semi-supervised anomaly detection
+- Algorithms and Techiques
+    + Density-based techniques - K-nearest neighbor, Local outlier factor
+    + Subspace and correlation-based outlier detection for high-dimensional data
+    + One class support vector machines
+    + Replicator neural networks
+    + Cluster analysis-based outlier detection
+    + Deviations from association rules and frequent itemsets
+    + Fuzzy logic based outlier detection
+    + Ensemble techniques, using feature bagging, score normalization and different sources of diversity
 
 ## Recognition
 - Image
@@ -153,6 +171,57 @@
 - Minimum
 - Maximun
 - Optimal value or optimal combination
+
+## Quantitative Finance and Risk Management
+- Linear Regression
+- Monte Carlo methods
+- Empirical risk minimization
+
+## Ranking
+
+## Forecasting (Wikipedia)
+- Last period demand
+- Simple and weighted N-Period moving averages
+- Simple exponential smoothing
+- Poisson process model based forecasting and multiplicative seasonal indexes
+- Average approach
+- Naïve approach
+- Drift method
+- Seasonal naïve approach
+- Time series methods
+    + Moving average
+    + Weighted moving average
+    + Kalman filtering
+    + Exponential smoothing
+    + Autoregressive moving average (ARMA)
+    + Autoregressive integrated moving average (ARIMA)
+    + Extrapolation
+    + Linear prediction
+    + Trend estimation
+    + Growth curve (statistics)
+- Causal / econometric forecasting methods
+    + Regression analysis
+        * Parametric (linear or non-linear)
+        * Non-parametric techniques
+    + Autoregressive moving average with exogenous inputs (ARMAX)
+- Judgmental methods
+    + Composite forecasts
+    + Cooke's method
+    + Delphi method
+    + Forecast by analogy
+    + Scenario building
+    + Statistical surveys
+    + Technology forecasting
+- Artificial intelligence methods
+    + Artificial neural networks
+    + Group method of data handling
+    + Support vector machines
+- Other
+    + Simulation
+    + Prediction market
+    + Probabilistic forecasting and Ensemble forecasting
+- Considerations
+    + Seasonality and cyclic behaviour
 
 ## Simulation
 - Discrete event simulation
