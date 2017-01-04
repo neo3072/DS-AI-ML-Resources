@@ -71,6 +71,8 @@
 - Stepwise regression
 - Regularized regression
 - Logistic regression and multinomial logistic regression
+    + Sigmoid function
+    + Odds and odds ratios
 
 ## Classification
 - Bayesian network

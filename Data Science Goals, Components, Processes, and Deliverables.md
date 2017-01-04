@@ -160,10 +160,11 @@
                 - Regression models
         + Data deletion
 - Data consumption, exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
-    + General plots
+    + General plots | characteristics, trends, outliers, ...
         * Histogram
-        * Scatter
-        * Box
+        * Scatter plot and scatter matrix (aka pair plots)
+        * Box plot
+        * Line graph
     + Generate frequency table
     + Target variable distribution
     + Distributiont and outlier detection via box and scatter plots for numeric features
@@ -171,6 +172,21 @@
     + Plots with point color as label for classification tasks
     + Aggregations and analysis
         * Group for counts, sums, and averages
+    + Statistical analysis
+        * Sensitivity
+        * Correlation (and causation where possible)
+        * Variance and standard deviation
+        * Mean, median, and mode
+        * Max and min
+        * Quartiles and inter-quartile
+        * Skew and kurtosis
+        * Quartiles
+        * Distribution
+        * Count
+        * Range
+        * Plots
+        * Validation via p-values and confidence intervals
+    + Summary statistics
 - Feature extraction, feature selection, and feature engineering
     + Purpose
         * Simpler and faster training
@@ -187,14 +203,18 @@
             - Stemming
             - Tokenizing
             - Synonym substitutions
-- Performance metric selection. Examples:
-    + MSE and RMSE
+- Performance metric selection, including:
+    + Mean squared error (MSE)
+    + Root mean squared error (RMSE)
+    + Mean absolute error (MAE)
     + R squared (aka explained variance)
+    + Confusion matrix
     + Accuracy
     + Precision
     + Recall (aka sensitivity)
     + Receiver operator characteristic (ROC)
     + Area under the ROC curve (AUC)
+    + Loss functions
     + F-score
     + Per Kaggle
         * LB: Score you get is calculated on a subset of testing set
@@ -287,16 +307,6 @@
     + Visualizations
     + Presentation
 - Statistical analysis
-    + Sensitivity
-    + Correlation
-    + Variance and standard deviation
-    + Mean, median, and mode
-    + Skew and kurtosis
-    + Quartiles
-    + Distribution
-    + Count
-    + Range
-    + Plots
 - Asynchronous messaging, notifications, insights, and alerts
 - Deployed batch and/or real-time solution (e.g., analytics models and algorithms), potentially including monitoring, performance measurement, analytics, dashboards, and reporting
 - Analytics
@@ -326,6 +336,9 @@
     + Graph analytics (e.g., social network analysis)
     + Health diagnosis
     + Process improvements
+- Tradeoff analysis and reporting
+    + Precision vs recall
+    + Cost of false positives vs false negatives
 - Optimization
 - Segmentation
 - Targeted advertising
