@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms & Tasks
 
 ## Algorithm Categories
 - Decision tree learning
@@ -72,6 +72,39 @@
 - Content-based filtering
 - Graph-based methods
 
+## Text Analytics
+- Sentiment analysis
+- Word clouds
+- NLP, NLG, NLU
+- Text categorization
+- Text processing
+- N-grams
+- Entity extraction (e.g., phone numbers, addresses, ...)
+- Levenshtein distance
+
+## Natural language processing, generation, and understanding (NLP, NLG, NLU)
+- 
+
+## Reinforcement Learning
+- 
+
+## Outlier/Anomaly Detection
+- 
+
+## Recognition
+- Image
+- Speech
+- Video
+- Text and optical character
+- Pattern
+- Audio
+- Facial    
+- Handwriting
+
+## Information Retrieval
+- Discounted cumulative gain (DCG)
+- Discounted cumulative gain (nDCG)
+
 ## Logical Reasoning
 - Expert systems
 - Logical reasoning
@@ -86,6 +119,9 @@
 - Non-linear programming
 - Active learning
 - Ensemble learning
+- Minimum
+- Maximun
+- Optimal value or optimal combination
 
 ## Simulation
 - Discrete event simulation
@@ -96,6 +132,11 @@
 - Activity-based simulation
 - ODES and PDES
 - Fuzzy logic
+
+## Segmentation
+- Behavioral
+- Demographic
+- Geographic
 
 ## Experimentation
 - Design of Experiments (DOE)

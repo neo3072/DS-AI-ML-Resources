@@ -24,7 +24,7 @@ Cheers, and best of luck with your technical endeavors!
 
 <h2><a name="toc">Table of Contents</a></h2>
 - Files
-    + [Algorithms](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms.md)
+    + [Algorithms and Tasks](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms%20and%20Tasks.md)
     + [Articles, Tutorials, MOOCS, and Whitepapers](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Articles%2C%20tutorials%2C%20MOOCS%2C%20and%20whitepapers.md)
     + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Examples.md)
     + [Big Data, Analytics, and IoT Architecture Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Reference.md)

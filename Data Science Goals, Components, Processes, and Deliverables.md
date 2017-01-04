@@ -317,39 +317,17 @@
         * Anomoly detection
     + Unsupervised learning
         * Clustering, grouping, and characterizations
-        * Anomoly detection
+        * Anomaly detection
     + Recommendation systems (aka recommendation engine)
     + Recognition
-        * Image
-        * Speech
-        * Video
-        * Text and optical character
-        * Pattern
-        * Audio
-        * Facial    
-        * Handwriting
     + Text analytics
-        * Sentiment analysis
-        * Word clouds
-        * NLP, NLG, NLU
-        * Text categorization
-        * Text processing
-        * N-grams
-        * Entity extraction (e.g., phone numbers, addresses, ...)
-        * Levenshtein distance
     + Reinforcement learning
     + Probability estimates and likelihoods
     + Graph analytics (e.g., social network analysis)
     + Health diagnosis
     + Process improvements
 - Optimization
-    + Minimum
-    + Maximun
-    + Optimal value or optimal combination
 - Segmentation
-    + Behavioral
-    + Demographic
-    + Geographic
 - Targeted advertising
 - Forecasts
 - Risk analysis
