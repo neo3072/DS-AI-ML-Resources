@@ -27,6 +27,7 @@
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
     + [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
     + [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
+    + [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
     + [Numpy](https://docs.scipy.org/doc/) - The fundamental package for scientific computing with Python
     + [Scipy](https://docs.scipy.org/doc/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering
     + [Pandas](http://pandas.pydata.org/pandas-docs/stable/) - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language

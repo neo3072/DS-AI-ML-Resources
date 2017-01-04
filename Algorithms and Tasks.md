@@ -97,18 +97,17 @@
 - Content-based filtering
 - Graph-based methods
 
-## Text Analytics
+## Text Analytics, Natural Language Processing (NLP), Natural Language Generation (NLG), and Natural Language Understanding (NLU)
 - Sentiment analysis
 - Word clouds
 - NLP, NLG, NLU
 - Text categorization
+- Text tagging
 - Text processing
 - N-grams
 - Entity extraction (e.g., phone numbers, addresses, ...)
 - Levenshtein distance
-
-## Natural language processing, generation, and understanding (NLP, NLG, NLU)
-- See text analytics above
+- Tokenization
 
 ## Reinforcement Learning
 - Markov decision process (MDP)
