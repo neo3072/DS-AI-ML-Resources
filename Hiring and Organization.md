@@ -72,5 +72,5 @@ Coming soon...
 <h2><a name="forhire">Data Scientists for Hire & Training</a></h2>
 - [The Data Incubator](https://www.thedataincubator.com/)
 
-## References
-- The Field Guide to Data Science (Booz, Allen, Hamilton)
+<!-- ## References
+- The Field Guide to Data Science (Booz, Allen, Hamilton) -->
