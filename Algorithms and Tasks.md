@@ -225,6 +225,13 @@
 
 ## Ranking
 
+## Time-series
+- Rolling means
+- Autocorrelation
+- Frequency vs time domains and transfers (e.g., spectral analysis)
+- Trend and residual component decomposition
+- ARIMA modeling for forecasting and detecting trends
+
 ## Forecasting (Wikipedia)
 - Last period demand
 - Simple and weighted N-Period moving averages
