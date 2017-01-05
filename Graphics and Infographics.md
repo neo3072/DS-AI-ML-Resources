@@ -7,3 +7,4 @@
 - [Data Science Puzzle](http://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-600.jpg)
 - [Benefits of Having a Data Science Career](https://www.simplilearn.com/ice9/Other_Infographics/Benefits-of-having-a-career-in-data-science.jpg)
 - [Big data classification](https://www.ibm.com/developerworks/library/bd-archpatterns1/fig1.png)
+- [Top 12 Interesting Careers to Explore in Big Data](https://www.simplilearn.com/ice9/Other_Infographics/Top-12-interesting-careers-to-explore-in-bigdata-2016-final.jpg)

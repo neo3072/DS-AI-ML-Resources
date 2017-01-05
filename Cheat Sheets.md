@@ -12,3 +12,4 @@
 - [Guide to Data Science Cheat Sheets](http://www.kdnuggets.com/2014/05/guide-to-data-science-cheat-sheets.html)
 - [50+ Data Science and Machine Learning Cheat Sheets, Updated](http://www.kdnuggets.com/2016/12/data-science-machine-learning-cheat-sheets-updated.html)
 - [Comparing Supervised Learning Algorithms - Google Doc Spreadsheet](https://docs.google.com/spreadsheets/d/16i47Wmjpj8k-mFRk-NnXXU5tmSQz8h37YxluDV8Zy9U/edit#gid=0)
+- [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)

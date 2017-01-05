@@ -43,6 +43,8 @@
     + [Data processing architectures – Lambda and Kappa](https://www.ericsson.com/research-blog/data-knowledge/data-processing-architectures-lambda-and-kappa/)
 - Programming and Computer Science
 - IoT
+- Careers
+    + [Top 12 Interesting Careers to Explore in Big Data](http://www.kdnuggets.com/2016/10/top-12-interesting-careers-explore-big-data.html)
 - Opinion
     + [Suffering-oriented programming](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 
