@@ -67,12 +67,14 @@
 ## Regression
 - Tree-based methods
 - Generalized linear models
+- Generalized additive model (GAM)
 - Regression with shrinkage
 - Stepwise regression
 - Regularized regression
 - Logistic regression and multinomial logistic regression
     + Sigmoid function
     + Odds and odds ratios
+- Least squares
 
 ## Classification
 - Bayesian network
@@ -84,6 +86,9 @@
 - Naive bayes
 - Hidden markov model
 - Support vector machines (SVM)
+
+## Regularization
+- Least absolute shrinkage and selection operator (LASSO)
 
 ## Ensemble Methods
 - Bootstrapping,
@@ -156,6 +161,8 @@
     + Stemming
     + Tokenizing
     + Synonym substitutions
+- Least absolute shrinkage and selection operator (LASSO)
+- Subset selection
 
 ## Outlier/Anomaly Detection (Wikipedia)
 - Categories
