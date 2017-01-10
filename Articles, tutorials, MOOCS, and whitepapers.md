@@ -52,6 +52,7 @@
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 - [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
 - [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
+- [Python Machine Learning: Scikit-Learn Tutorial](Python Machine Learning: Scikit-Learn Tutorial - Read more at: http://scq.io/BOovHx9d#gs.iKB8Ek4)
 
 <h2><a name="moocs">MOOCS</a></h2>
 - Research
@@ -119,6 +120,7 @@
 - General and Search
     + [Switchup - Data Science](https://www.switchup.org/data-science-bootcamps-and-courses)
     + [Switchup - Best Data Science Bootcamps](https://www.switchup.org/research/best-data-science-bootcamps)
+- [Springboard](https://www.springboard.com/)
 - [Data Science Dojo](https://datasciencedojo.com)
 - [Data Application Lab](http://www.dataapplab.com/)
 - [NYC Data Science Academy](http://nycdatascience.com/data-science-bootcamp/)
@@ -131,6 +133,5 @@
 - [DataCamp](https://www.datacamp.com/)
 - [Northeastern Level](http://www.leveledu.com/)
 - [Metis](http://www.thisismetis.com/)
-- [Springboard](https://www.springboard.com/)
 - [The Data Incubator](https://www.thedataincubator.com/)
 - [XTOL](http://www.xtolcorp.com/)
