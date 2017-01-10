@@ -1,5 +1,8 @@
 # Data Visualization
 
+## Online Resources
+- [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
+
 ## Visualization Types - High Level
 - Exploration
 - Explanation
