@@ -10,4 +10,8 @@
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)
 - [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 - [THE Wikipedia Corpus](http://corpus.byu.edu/wiki/)
+- [Deep learning datasets](http://deeplearning.net/datasets/)
+- [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
+- [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
+- [Wikipedia List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
 - [data.world](https://data.world/)
