@@ -123,5 +123,6 @@
 - Notebooks
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
     + [Apache Zeppelin](https://zeppelin.apache.org/) - A web-based notebook that enables interactive data analytics. 
+    + [Beaker](http://beakernotebook.com/index) - A notebook-style development environment for working interactively with large and complex datasets. 
     + [R Markdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) - Convert R Markdown documents into a variety of formats
     + [knitr](https://cran.r-project.org/web/packages/knitr/index.html) - A general-purpose tool for dynamic report generation in R using Literate Programming techniques
