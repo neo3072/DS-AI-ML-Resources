@@ -47,7 +47,7 @@
     + [Oracle Database](http://www.oracle.com/technetwork/database/index.html)
     + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
 - In-memory
-    + [VoltDB](https://docs.voltdb.com/?utm_source=LL-UX&utm_medium=resources-dropdown&utm_content=resources-dropdown-top&utm_campaign=docs) - The only in-memory, operational database purpose-built to help businesses build high velocity applications
+    + [VoltDB](https://docs.voltdb.com/) - The only in-memory, operational database purpose-built to help businesses build high velocity applications
     + [MemSQL](http://docs.memsql.com/docs) - A high-performance, in-memory database that combines
     + [SAP HANA](https://hcp.sap.com/index.html#) - An open platform-as-a-service that provides unique in-memory database and application services
 the horizontal scalability of distributed systems with the familiarity of SQL

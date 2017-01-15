@@ -15,3 +15,4 @@
 - [Edwin Chen](http://blog.echen.me/)
 - [Harvard Data Science](http://harvarddatascience.com/)
 - [OpenAI](https://openai.com/blog/)
+- [Dataquest](http://www.dataquest.io/blog/)

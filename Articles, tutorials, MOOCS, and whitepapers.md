@@ -4,6 +4,7 @@
 - <a href="#moocs">MOOCS</a>
 - <a href="#whitepapers">Whitepapers</a>
 - <a href="#bootcamps">Bootcamps and Training</a>
+- <a href="#resources">General Resources</a>
 
 <h2><a name="articles">Articles</a></h2>
 - Data science
@@ -25,11 +26,12 @@
     + [What are the pros and cons of offline vs. online learning?](https://www.quora.com/What-are-the-pros-and-cons-of-offline-vs-online-learning)
     + [Introduction to Online Machine Learning : Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)
     + [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
+    + [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - Artificial intelligence
     + [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
     + [Artificial General Intelligence – The Holy Grail of AI](http://www.datasciencecentral.com/profiles/blogs/artificial-general-intelligence-the-holy-grail-of-ai)
     + [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0)
-    + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_48)
+    + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
 - Big Data
     + [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
     + [Real-Time Stream Processing as Game Changer in a Big Data World with Hadoop and Data Warehouse](https://www.infoq.com/articles/stream-processing-hadoop/)
@@ -50,9 +52,23 @@
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
-- [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
-- [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_101)
-- [Python Machine Learning: Scikit-Learn Tutorial](Python Machine Learning: Scikit-Learn Tutorial - Read more at: http://scq.io/BOovHx9d#gs.iKB8Ek4)
+- [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+- [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/)
+- [Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)
+- [O'reilly Oriole Online Tutorials](https://www.safaribooksonline.com/oriole)
+- [DataCamp Tutorials](https://www.datacamp.com/community/tutorials)
+- [KDnuggets Tutorials](http://www.kdnuggets.com/tutorials/index.html)
+- [Kaggle Tutorials](https://www.kaggle.com/wiki/Tutorials)
+- [Kaggle Blog Tutorials](http://blog.kaggle.com/category/tutorials/)
+- [Codementor Data Science Tutorials](https://www.codementor.io/data-science/tutorial)
+- [20 short tutorials all data scientists should read (and practice)](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
+- [Topcoder Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+- [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
+- [New KDnuggets Tutorials Page: Learn R, Python, Data Visualization, Data Science, and more](http://www.kdnuggets.com/2016/03/new-tutorials-section-r-python-data-visualization-data-science.html)
+- [Curated list of R tutorials for Data Science](https://www.r-bloggers.com/curated-list-of-r-tutorials-for-data-science/)
+- [AnalyticsPro : Analytics Tutorials for Data Science , BI & Big Data](http://analyticspro.org/)
+- Statistics
+    + 
 
 <h2><a name="moocs">MOOCS</a></h2>
 - Research
@@ -72,7 +88,7 @@
     + [Code School](https://www.codeschool.com/)
     + [MIT Open Courseware](https://ocw.mit.edu/index.htm)
     + [Harvard Online Learning](http://online-learning.harvard.edu/)
-    + [Stanford Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)
+    + [Big Data University](https://bigdatauniversity.com/)
 - Video Learning and Skills Development
     + [Lynda.com](https://www.lynda.com/)
     + [Pluralsight](https://www.pluralsight.com/)
@@ -82,11 +98,14 @@
     + [Become A Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
     + [Harvard's CS109 Data Science](http://cs109.github.io/2015/)
     + [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+    + [Stanford Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)
+    + [General Assembly - Data Science](https://generalassemb.ly/education/data-science)
 - Lists
     + [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
     + [Data Science Online Courses: A Comprehensive List](http://www.learndatasci.com/best-data-science-online-courses/)
     + [Best Data Science Online Courses](http://www.kdnuggets.com/2015/10/best-data-science-online-courses.html)
     + [Online Education in Analytics, Big Data, Data Science, Machine Learning](http://www.kdnuggets.com/education/online.html)
+    + [Data Science Academy - Free Data Science Courses](http://datascienceacademy.com/free-data-science-courses/)
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
 - [The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
@@ -135,3 +154,13 @@
 - [Metis](http://www.thisismetis.com/)
 - [The Data Incubator](https://www.thedataincubator.com/)
 - [XTOL](http://www.xtolcorp.com/)
+
+<h2><a name="resources">General Resources</a></h2>
+- [The Open Source Data Science Masters](http://datasciencemasters.org/)
+- [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
+- [Data School resources](http://www.dataschool.io/resources/)
+- [Learn DataSci Data Science Resources](http://www.learndatasci.com/data-science-resources/)
+- [TOP 50 DATA SCIENCE RESOURCES: THE BEST BLOGS, FORUMS, VIDEOS AND TUTORIALS TO LEARN ALL ABOUT DATA SCIENCE](https://www.ngdata.com/top-data-science-resources/)
+- [18 Resources to Learn Data Science Online](https://www.simplilearn.com/resources-to-learn-data-science-online-article)
+- Interactive
+    + [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
