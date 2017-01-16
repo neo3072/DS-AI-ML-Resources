@@ -221,19 +221,16 @@
         * LB: Score you get is calculated on a subset of testing set
         * CV: Score you get by local cross validation is commonly referred to as a CV score.
 - Data splitting
-- Model selection, training, evaluation, validation, complexity reduction, and tuning
+- Model selection, training, and evaluation
     + Iterative process and involves revisiting previous stages, including model selection
-    + Model complexity reduction via subset selection, shrinkage methods, regularization (e.g., ridge regression and lasso), and dimensionality reduction
-        * Dimensionality reduction
     + Ensemble methods exploration and implementation as needed for performance goals
         * Benefits
             - Bias and variance reduction, thus reduced overfitting risk
             - Increased performance
-    + Model validation, resampling methods, and selection
-    + Model tuning: bias variance tradeoff and model complexity
     + Error analysis and tradeoffs
         * Type 1
         * Type 2
+        * ...
     + Kaggle notes
         * Tree-based (top for Kaggle)
             - Gradient Boosted Trees
@@ -244,6 +241,13 @@
             - Linear Regression
             - Logistic Regression
             - Neural Networks
+- Model tuning, validation, and complexity reduction
+    + Model validation, resampling methods, and selection
+        * E.g., cross-validation
+    + Model complexity reduction via subset selection, shrinkage methods, regularization (e.g., ridge regression and lasso), and dimensionality reduction
+        * Dimensionality reduction
+    + Bias variance tradeoff
+    + Hyperparameter optimization, grid search, ...
     + Model tuning goals
         * Performance
         * Accuracy
