@@ -14,6 +14,7 @@ Note that some links are categorized according to my determination of best fit s
 
 ## Statistics and Analysis
 - [Statistics portal](https://en.wikipedia.org/wiki/Portal:Statistics)
+- [68–95–99.7 rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
 - [ANOVA - Analysis of variance](https://en.m.wikipedia.org/wiki/Analysis_of_variance)
 - [Statistics](https://en.wikipedia.org/wiki/Statistics)
 - [Statistical model](https://en.wikipedia.org/wiki/Statistical_model)
