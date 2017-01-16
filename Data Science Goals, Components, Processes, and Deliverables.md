@@ -141,7 +141,14 @@
     - Data processing, transformation, and aggregation
         + Includes feature scaling, normalization, and/or standardization
         + Categorical feature transformation and dummy variables
-            * One-hot encoding
+            * One-hot encoding or category indexing
+                - Category indexing
+                    + Assign a numeric value to each category
+                    + Implies ordering of categories, e.g., 0, 1, 2, ...
+                    + Best for ordinal variables
+                - One-hot encoding
+                    + Converts categories into binary vectors with at most one nonzero value, e.g., [0, 0], [0, 1], [1, 0]
+                    + Best for nominal (non-ordinal) variables
             * Note: For large number of categorical features, a good technique is to encode only the most important features (e.g., 95% of the importance) and then assign the rest to an 'others' class
         + Deduplication
         + Data conversions
