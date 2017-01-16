@@ -60,6 +60,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Network theory](https://en.wikipedia.org/wiki/Network_theory)
 - [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 - [Pattern matching](https://en.wikipedia.org/wiki/Pattern_matching)
+- [Hyperparameter optimization](https://en.wikipedia.org/wiki/Hyperparameter_optimization)
 
 ## Artificial Intelligence
 - [Artificial intelligence portal](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
