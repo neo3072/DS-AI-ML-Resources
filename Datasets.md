@@ -1,6 +1,8 @@
 # Datasets
 
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [sklearn.datasets](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
+- [Machine Learning Data Set Repository](http://mldata.org/)
 - [AWS Public Datasets](https://aws.amazon.com/datasets/)
 - [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
