@@ -40,6 +40,7 @@
     + [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial)
     + [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
     + [Spark Notebook](https://github.com/andypetrella/spark-notebook)
+    + [Statsmodels examples](https://github.com/statsmodels/statsmodels/tree/master/examples)
 - Book Resources
     + [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
     + [Python Machine Learning book FAQ](https://github.com/rasbt/python-machine-learning-book/tree/master/faq)
@@ -50,6 +51,9 @@
     + [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
     + [Hadoop Application Architectures](https://github.com/hadooparchitecturebook/hadoop-arch-book)
     + [Advanced Analytics with Spark](https://github.com/sryza/aas)
+    + [Think Stats](https://github.com/AllenDowney/ThinkStats2)
+    + [Think Bayes](https://github.com/AllenDowney/ThinkBayes)
+    + [Think Python](https://github.com/AllenDowney/ThinkPython2)
 - Courses
     + [Harvard's CS109 Data Science](https://github.com/cs109)
     + [General Assembly's Data Science course materials](https://github.com/justmarkham/DAT8)

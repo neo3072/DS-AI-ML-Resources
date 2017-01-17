@@ -68,7 +68,14 @@
 - [Curated list of R tutorials for Data Science](https://www.r-bloggers.com/curated-list-of-r-tutorials-for-data-science/)
 - [AnalyticsPro : Analytics Tutorials for Data Science , BI & Big Data](http://analyticspro.org/)
 - Statistics
-    + 
+    + [Scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/)
+    + [Scikit-learn Examples](http://scikit-learn.org/stable/auto_examples/)
+    + [Pandas Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+    + [Numpy Tutorials](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+    + [Scipy Tutorials](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html)
+    + [Statsmodels Tutorials](http://statsmodels.sourceforge.net/stable/examples/index.html)
+    + [Statsmodels Examples](http://statsmodels.sourceforge.net/devel/examples/)
+    + [Matplotlib Examples](http://matplotlib.org/examples/index.html)
 
 <h2><a name="moocs">MOOCS</a></h2>
 - Research

@@ -30,12 +30,14 @@
     + [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
     + [Numpy](https://docs.scipy.org/doc/) - The fundamental package for scientific computing with Python
     + [Scipy](https://docs.scipy.org/doc/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering
+        * [Scipy Stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
     + [Pandas](http://pandas.pydata.org/pandas-docs/stable/) - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
     + [PyBrain](http://pybrain.org/) - Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library
     + [Scikit-image](http://scikit-image.org/) - A collection of algorithms for image processing
     + [Scikit-learn](http://scikit-learn.org/stable/documentation.html) - A Python module for machine learning
     + [Seaborn](http://seaborn.pydata.org/api.html) - A Python visualization library based on matplotlib
-    + [StatsModels](http://statsmodels.sourceforge.net/documentation.html) - A Python module that allows users to explore data, estimate statistical models, and perform statistical tests
+    + [Statsmodels](http://statsmodels.sourceforge.net/documentation.html) - A Python module that allows users to explore data, estimate statistical models, and perform statistical tests
+        * [Statsmodels Stats](http://statsmodels.sourceforge.net/stable/stats.html)
     + [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
     + [Scrapy](https://scrapy.org/doc/) - An open source and collaborative framework for extracting the data you need from websites
     + [ggplot](http://yhat.github.io/ggplot/docs.html) - A package for plotting in Python
