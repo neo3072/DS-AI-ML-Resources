@@ -34,6 +34,7 @@
     + [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
     + [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)
 - Notebooks
+    + [GitHub-powered Jupyter nbviewer](http://nbviewer.jupyter.org/)
     + [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
     + [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
     + [machine_learning](https://github.com/masinoa/machine_learning)
