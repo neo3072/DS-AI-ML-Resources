@@ -28,6 +28,7 @@
     + [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
     + [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - Artificial intelligence
+    + [MIT - The Missing Link of Artificial Intelligence](https://www.technologyreview.com/s/600819/the-missing-link-of-artificial-intelligence/)
     + [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
     + [Artificial General Intelligence – The Holy Grail of AI](http://www.datasciencecentral.com/profiles/blogs/artificial-general-intelligence-the-holy-grail-of-ai)
     + [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0)
