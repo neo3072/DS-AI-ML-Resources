@@ -289,6 +289,7 @@
             - Markedness (MK)
     + Receiver operator characteristic (ROC)
         * Area under the ROC curve (AUC)
+            - Represents the likelihood of giving the positive example a score higher than a negative example
     + Loss functions
     + Per Kaggle
         * LB: Score you get is calculated on a subset of testing set
@@ -343,6 +344,25 @@
         * Modularized feature transformations. We only need to write a few lines of codes (or better, rules / DSLs) and the new feature is added to the training set.
         * Automated grid search. We only need to set up models and parameter grid, the search will be run and the best parameters will be recorded.
         * Automated ensemble selection. Use K best models for training the ensemble as soon as we put another base model into the pool.
+- [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+    + Start with directly observed and reported features as opposed to learned features.
+        * A learned feature is a feature generated either by an external system (such as an unsupervised clustering system) or by the learner itself (e.g. via a factored model or deep learning).
+        * The primary issue with factored models and deep models is that they are non­convex. Thus, there is no guarantee that an optimal solution can be approximated or found, and the local minima found on each iteration can be different. This variation makes it hard to judge whether the impact of a change to your system is meaningful or random.
+    + Use very specific features when you can.
+        * You can use regularization to eliminate the features that apply to too few examples.
+    + Combine and modify existing features to create new features in human­understandable ways.
+        * Transformations, with the two most standard approaches are “discretizations” and “crosses”.
+            - Discretization consists of taking a continuous feature and creating many discrete features from it. Don’t overthink the boundaries of these histograms: basic quantiles will give you most of the impact.
+            - Crosses combine two or more feature columns.
+                + Note that it takes massive amounts of data to learn models with crosses of three, four, or more base feature columns.
+            - Crosses that produce very large feature columns may overfit.
+    + The number of feature weights you can learn in a linear model is roughly proportional to the amount of data you have.
+        * There are fascinating statistical learning theory results concerning the appropriate level of complexity for a model, but this rule is basically all you need to know.
+    + Clean up features you are no longer using. Unused features create technical debt.
+    + When choosing models, utilitarian performance trumps predictive power.
+    + Look for patterns in the measured errors, and create new features.
+    + Keep ensembles simple
+        * To keep things simple, each model should either be an ensemble only taking the input of other models, or a base model taking many features, but not both
 
 ## Data Science Deliverables
 - Automated decision making, predictions, recommendations, and insights

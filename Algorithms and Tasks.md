@@ -191,6 +191,7 @@
 ## Information Retrieval
 - Discounted cumulative gain (DCG)
 - Discounted cumulative gain (nDCG)
+- Term frequency–inverse document frequency (TF-IDF)
 
 ## Logical Reasoning
 - Expert systems
