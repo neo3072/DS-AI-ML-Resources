@@ -14,97 +14,106 @@
 - Sparse dictionary learning
 - Genetic algorithms
 
-## Tasks by Area (Wikipedia)
-- Text analytics/mining
-    + Information retrieval
-    + Text categorization
-    + Text clustering
-    + Concept/entity extraction
-    + Production of granular taxonomies
-    + Sentiment analysis
-    + Document summarization
-    + Entity relation modeling
-    + Named entity recognition
-    + Recognition of Pattern Identified Entities
-    + Coreference
-    + Syntactic parsing
-    + Part-of-speech tagging
-    + Quantitative text analysis
-- Anomaly detection
-    + Intrusion detection
-    + Fraud detection
-    + Fault detection
-    + System health monitoring
-    + Event detection in sensor networks
+## Regression (Supervised) - Univariate, Multivariate, ...
+- Simple and multiple linear regression
+- Tree-based methods (e.g., decision tree or forest)
+- Generalized linear models
+- Generalized additive model (GAM)
+- Regression with shrinkage (e.g., regularization)
+- Stepwise regression
+- Ordinary least squares
+- Artificial Neural networks (ANN) and deep learning
+- Ordinal regression
+- Poisson regression
+- Polynomial regression
+- Nearest neighbor methods (e.g., k-NN or k-Nearest Neighbors)
+- Gradient tree boosting
+- Logistic regression
+- Nonlinear regression
 
-## General Considerations
-- Dimensions for comparison (Kevin Markham)
-    + Problem type (classification/regression)
-    + Results interpretable by you?
-    + Easy to explain algorithm to others?
-    + Average predictive accuracy
-    + Training speed
-    + Prediction speed
-    + Amount of parameter tuning needed (excluding feature selection)
-    + Performs well with small number of observations?
-    + Handles lots of irrelevant features well (separates signal from noise)?
-    + Automatically learns feature interactions?
-    + Gives calibrated probabilities of class membership?
-    + Parametric?
-    + Features might need scaling?
+## Classification (Supervised) - Unary (one-class), Binary, and Multi-class
+- Linear
+    + Linear discriminant analysis (LDA), aka Fisher's linear discriminant
+    + Logistic regression and multinomial logistic regression
+    + Bayesian classifiers (as opposed to frequentist)
+        * Naive Bayes
+    + Perceptron methods
+- Decision trees and random forests
+- Naive bayes
+- Hidden markov model
+- Support vector machines (SVM)
+    + Least squares support vector machines
+- Artificial Neural networks (ANN) and deep learning
+- Kernel estimation
+    + Nearest neighbor methods (e.g., k-NN or k-Nearest Neighbors)
+- One vs Rest and One vs One (binary transformation)
+- Gradient tree boosting
 
-## Clustering
-- Hierarchical
-- K-means
-- X-means
+## Regularization and Overfitting Prevention
+- Least absolute shrinkage and selection operator (LASSO)
+- Ridge regression
+- Akaike information criterion (AIC)
+- Bayesian information criterion (BIC)
+
+## Clustering (Unsupervised)
+- Hierarchical clustering, aka connectivity-based clustering
+    + Single-linkage clustering
+    + Complete linkage clustering
+    + Unweighted Pair Group Method with Arithmetic Mean (UPGMA), aka average linkage clustering
+- Centroid-based clustering
+    + k-means
+    + k-medoids
+    + k-medians
+    + K-means++
+    + Fuzzy c-means
+- Distribution-based clustering
+    + Gaussian mixture models via expectation-maximization algorithm
+- Density-based clustering
+    + Density-based spatial clustering of applications with noise (DBSCAN)
+    + Ordering points to identify the clustering structure (OPTICS)
+    + Mean-shift
 - Canapoy
 - Association rule mining (Apriori)
 - Topic modeling (text data)
 - Fractal
-- DB scan
 - Guassian mixture models
 
-## Regression
-- Tree-based methods
-- Generalized linear models
-- Generalized additive model (GAM)
-- Regression with shrinkage
-- Stepwise regression
-- Regularized regression
-- Logistic regression and multinomial logistic regression
-    + Sigmoid function
-    + Odds and odds ratios
-- Least squares
-
-## Classification
-- Bayesian network
-- Neural networks
-- Random forests
-- Deep learning
-- Decision trees
-- K-nearest neighbors (KNN)
-- Naive bayes
-- Hidden markov model
-- Support vector machines (SVM)
-
-## Regularization
-- Least absolute shrinkage and selection operator (LASSO)
-
-## Ensemble Methods
-- Bootstrapping,
-- Bagging
+## Ensemble Methods (Supervised, Unsupervised)
+- Bootstrap aggregating (bagging)
+    + Random Forests and ExtraTrees
 - Boosting
-- AdaBoost
-- Random Forests
-- Model averaging
+    + AdaBoost
+    + Gradient boosting
+    + Boost by majority
+    + BrownBoost
+    + xgboost
+    + MadaBoost
+    + LogitBoost
+    + LPBoost
+    + TotalBoost
+- Bayesian model averaging (BMA)
 - Weak learner theory
-- Blending
-- Stacking
+- Stacking and Blending
+- Bayes optimal classifier
+- Bayesian parameter averaging (BPA)
+- Bayesian model combination (BMC)
+- Bucket of models
 
 ## Recommendation
 - Collaborative filtering
 - Content-based filtering
 - Graph-based methods
+
+## Anomaly Detection (Supervised, Unsupervised, Semi-supervised)
+- Density-based techniques - K-nearest neighbor, Local outlier factor
+- Subspace and correlation-based outlier detection for high-dimensional data
+- One class support vector machines
+- Replicator neural networks
+- Cluster analysis-based outlier detection
+- Deviations from association rules and frequent itemsets
+- Fuzzy logic based outlier detection
+- Ensemble techniques, using feature bagging, score normalization and different sources of diversity
+- PCA (Principle component analysis)
 
 ## Text Analytics, Natural Language Processing (NLP), Natural Language Generation (NLG), and Natural Language Understanding (NLU)
 - Sentiment analysis
@@ -135,13 +144,14 @@
 - Example
     + Multi-armed bandit problem
 
-## Model validation, resampling methods, and selection
+## Model selection, validation, and resampling methods
 - Cross-validation
 - Hyperparameter optimization
 - Bootstrap
 - Mallow’s Cp
 - Akaike information criterion (AIC)
 - Bayesian information criterion (BIC)
+- Minimum description length (MDL)
 
 ## Model tuning: bias variance tradeoff and model complexity
 - Validation curve
@@ -163,31 +173,6 @@
     + Synonym substitutions
 - Least absolute shrinkage and selection operator (LASSO)
 - Subset selection
-
-## Outlier/Anomaly Detection (Wikipedia)
-- Categories
-    + Unsupervised anomaly detection
-    + Supervised anomaly detection
-    + Semi-supervised anomaly detection
-- Algorithms and Techiques
-    + Density-based techniques - K-nearest neighbor, Local outlier factor
-    + Subspace and correlation-based outlier detection for high-dimensional data
-    + One class support vector machines
-    + Replicator neural networks
-    + Cluster analysis-based outlier detection
-    + Deviations from association rules and frequent itemsets
-    + Fuzzy logic based outlier detection
-    + Ensemble techniques, using feature bagging, score normalization and different sources of diversity
-
-## Recognition
-- Image
-- Speech
-- Video
-- Text and optical character
-- Pattern
-- Audio
-- Facial    
-- Handwriting
 
 ## Dimensionality Reduction
 - Principle component analysis (PCA)
@@ -231,6 +216,7 @@
 - Empirical risk minimization
 
 ## Ranking
+- Coming soon...
 
 ## Time-series
 - Rolling means
@@ -238,6 +224,9 @@
 - Frequency vs time domains and transfers (e.g., spectral analysis)
 - Trend and residual component decomposition
 - ARIMA modeling for forecasting and detecting trends
+
+## Survival
+Coming soon...
 
 ## Forecasting (Wikipedia)
 - Last period demand

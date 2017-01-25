@@ -62,6 +62,45 @@
         + Exploratory data analysis to discover or refine hypotheses
         + Discover new relationships, insights and analytic paths from the data
 
+## Tasks by Area (Wikipedia)
+- Text analytics/mining
+    + Information retrieval
+    + Text categorization
+    + Text clustering
+    + Concept/entity extraction
+    + Production of granular taxonomies
+    + Sentiment analysis
+    + Document summarization
+    + Entity relation modeling
+    + Named entity recognition
+    + Recognition of Pattern Identified Entities
+    + Coreference
+    + Syntactic parsing
+    + Part-of-speech tagging
+    + Quantitative text analysis
+- Anomaly detection
+    + Intrusion detection
+    + Fraud detection
+    + Fault detection
+    + System health monitoring
+    + Event detection in sensor networks
+
+## General Considerations
+- Dimensions for comparison (Kevin Markham)
+    + Problem type (classification/regression)
+    + Results interpretable by you?
+    + Easy to explain algorithm to others?
+    + Average predictive accuracy
+    + Training speed
+    + Prediction speed
+    + Amount of parameter tuning needed (excluding feature selection)
+    + Performs well with small number of observations?
+    + Handles lots of irrelevant features well (separates signal from noise)?
+    + Automatically learns feature interactions?
+    + Gives calibrated probabilities of class membership?
+    + Parametric?
+    + Features might need scaling?
+
 ## Data Science Components and Considerations
 - Data types
     + Structured data
@@ -273,7 +312,7 @@
         * We shouldn’t use too many folds if our training data is limited. Otherwise we would have too few samples in each fold to guarantee statistical significance.
         * More folds, the CV score would become more reliable, but the training takes longer to finish as well.
     + Automated pipeline
-        * - Modularized feature transformations. We only need to write a few lines of codes (or better, rules / DSLs) and the new feature is added to the training set.
+        * Modularized feature transformations. We only need to write a few lines of codes (or better, rules / DSLs) and the new feature is added to the training set.
         * Automated grid search. We only need to set up models and parameter grid, the search will be run and the best parameters will be recorded.
         * Automated ensemble selection. Use K best models for training the ensemble as soon as we put another base model into the pool.
 
@@ -311,6 +350,14 @@
         * Anomaly detection
     + Recommendation systems (aka recommendation engine)
     + Recognition
+        * Image
+        * Speech
+        * Video
+        * Text and optical character
+        * Pattern
+        * Audio
+        * Facial    
+        * Handwriting
     + Text analytics
     + Reinforcement learning
     + Probability estimates and likelihoods
