@@ -17,7 +17,7 @@
 ## Regression (Supervised) - Univariate, Multivariate, ...
 - Simple and multiple linear regression
 - Tree-based methods (e.g., decision tree or forest)
-- Generalized linear models
+- Generalized linear models (GLM)
 - Generalized additive model (GAM)
 - Regression with shrinkage (e.g., regularization)
 - Stepwise regression
