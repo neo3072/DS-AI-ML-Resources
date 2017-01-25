@@ -153,6 +153,7 @@
             - Understand how Y varies with X and any underlying relationships between Y and X, particularly wrt. individual predictors and each of their impact on the response
             - Understand the degree to which Y varies with each predictor, e.g., linear, non-linear, ...
     + Prediction accuracy vs model interpretability
+    + Bias/variance tradeoff
 
 ## Analytics Toolbox
 - Mathematical
@@ -170,6 +171,7 @@
     + Understanding the goal of the project and define objectives
     + Drives mapping the problem space to the solution space
 - Determine the type of problem and type of solution required
+    + Regression, classification, unsupervised, recommender, reinforcement, text analytics, ...
 - Data instrumentation, acquisition, collection, extraction, merging/joining, ETL, storage, and pipeline architecture/development
     + Data sources: raw data, real time measurement, events, IoT, and so on
     + Data warehouse or data lake
@@ -217,7 +219,7 @@
                 - Statistical distributions
                 - Regression models
         + Data deletion
-- Data consumption, exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
+- Exploratory data analysis (EDA), statistical analysis, descriptive analytics, and visualization
     + General plots | characteristics, trends, outliers, ...
         * Histogram
         * Scatter plot and scatter matrix (aka pair plots)
@@ -245,31 +247,58 @@
         * Plots
         * Validation via p-values and confidence intervals
     + Summary statistics
-- Feature extraction, feature selection, and feature engineering
+- Feature selection and feature engineering
     + Purpose
         * Simpler and faster training
         * Less computationally expensive
         * Find feature interactions to use as new features
+        * Improve model performance
+        * Optimize bias/variance tradeoff and minimize overfitting
 - Performance metric selection, including:
     + Mean squared error (MSE)
     + Root mean squared error (RMSE)
     + Mean absolute error (MAE)
     + R squared (aka explained variance)
-    + Confusion matrix
-    + Accuracy
-    + Precision
-    + Recall (aka sensitivity)
+    + [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
+        * Outcomes
+            - True positive
+            - True negative
+            - False positive (Type 1 error, false alarm)
+            - False negative - (Type II error, miss)
+        * Metrics
+            - Recall, sensitivity, hit rate, or true positive rate (TPR)
+                + TP/P = TP/(TP+FN)
+            - Specificity or true negative rate (TNR)
+                + TN/N = TN/(FP+TN)
+            - Precision or positive predictive value (PPV)
+                + TP/(TP+FP)
+            - Negative predictive value (NPV)
+                + TN/(TN+FN)
+            - Fall-out or false positive rate (FPR)
+                + FP/N = FP/(FP+TN) = 1 - TNR
+            - False discovery rate (FDR)
+                + FP/(FP+TP) = 1 - PPV
+            - Miss rate or false negative rate (FNR)
+                + FN/P = FN/(FN+TP) = 1 - TPR
+            - Accuracy
+                + (TP+TN)/(P+N)
+            - F1 score, or F-score
+                + (2TP)/(2TP+FP+FN)
+            - Matthews correlation coefficient (MCC)
+            - Informedness or Bookmaker Informedness (BM)
+            - Markedness (MK)
     + Receiver operator characteristic (ROC)
-    + Area under the ROC curve (AUC)
+        * Area under the ROC curve (AUC)
     + Loss functions
-    + F-score
     + Per Kaggle
         * LB: Score you get is calculated on a subset of testing set
         * CV: Score you get by local cross validation is commonly referred to as a CV score.
 - Data splitting
-- Model selection, training, and evaluation
+    + Training, validation, test
+    + Cross-validation as alternative to traditional splitting
+- Model selection, training, evaluation, validation, resampling methods, tuning, and complexity reduction
     + Iterative process and involves revisiting previous stages, including model selection
-    + Ensemble methods exploration and implementation as needed for performance goals
+    + Ensemble methods exploration and implementation as needed to achieve performance goals
         * Benefits
             - Bias and variance reduction, thus reduced overfitting risk
             - Increased performance
@@ -287,7 +316,6 @@
             - Linear Regression
             - Logistic Regression
             - Neural Networks
-- Model tuning, validation, and complexity reduction
     + Model validation, resampling methods, and selection
         * E.g., cross-validation
     + Model complexity reduction via subset selection, shrinkage methods, regularization (e.g., ridge regression and lasso), and dimensionality reduction
