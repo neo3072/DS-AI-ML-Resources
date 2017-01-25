@@ -268,10 +268,14 @@
         * Metrics
             - Recall, sensitivity, hit rate, or true positive rate (TPR)
                 + TP/P = TP/(TP+FN)
+                + Fraction of relevant instances that are retrieved
+                + How complete the results are
             - Specificity or true negative rate (TNR)
                 + TN/N = TN/(FP+TN)
             - Precision or positive predictive value (PPV)
                 + TP/(TP+FP)
+                + Fraction of retrieved instances that are relevant
+                + How useful the results are
             - Negative predictive value (NPV)
                 + TN/(TN+FN)
             - Fall-out or false positive rate (FPR)
