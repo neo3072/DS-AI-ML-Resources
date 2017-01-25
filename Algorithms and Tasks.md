@@ -18,13 +18,13 @@
 - Simple and multiple linear regression
 - Tree-based methods (e.g., decision tree or forest)
 - Generalized linear models (GLM)
+    + Poisson regression, aka log-linear model
 - Generalized additive model (GAM)
 - Regression with shrinkage (e.g., regularization)
 - Stepwise regression
 - Ordinary least squares
 - Artificial Neural networks (ANN) and deep learning
 - Ordinal regression
-- Poisson regression
 - Polynomial regression
 - Nearest neighbor methods (e.g., k-NN or k-Nearest Neighbors)
 - Gradient tree boosting
