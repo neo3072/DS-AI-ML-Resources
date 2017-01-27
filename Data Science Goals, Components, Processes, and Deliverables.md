@@ -233,8 +233,8 @@
     + Aggregations and analysis
         * Group for counts, sums, and averages
     + Statistical analysis
-        * Sensitivity
-        * Correlation (and causation where possible)
+        * Sensitivity analysis
+        * Correlation and causation
         * Variance and standard deviation
         * Mean, median, and mode
         * Max and min
@@ -246,6 +246,7 @@
         * Range
         * Plots
         * Validation via p-values and confidence intervals
+        * ANOVA
     + Summary statistics
 - Feature selection and feature engineering
     + Purpose
@@ -454,15 +455,33 @@
 - [Practical advice for analysis of large, complex data sets](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
     + Technical
         * Look at your distributions
+            - Visualizations
+                + Histograms
+                + QDfs
+                + Q-Q plots
+            - Look for
+                + Multi-modal behavior or a significant class of outliers that you need to decide how to summarize
         * Consider the outliers
+            - It’s fine to exclude them from your data or to lump them together into an “Unusual” category, but you should make sure you know why data ended up in that category
         * Report noise/confidence
+            - We must be aware that randomness exists and will fool us
+            - Every estimator that you produce should have a notion of your confidence in this estimate attached to it
+                + Formal
+                    * Confidence intervals or credible intervals for estimators
+                    * p-vales or Bayes factors for conclusions
         * Look at examples
+            - You should be doing stratified sampling to look at a good sample across the distribution of values so you are not too focussed on the most common cases
         * Slice your data
+            - Separate your data into subgroups and look at the values of your metrics in those subgroups separately
+            - Be aware of mix shifts. A mix shift is when the amount of data in a slice is different across the groups you are comparing. Simpson’s paradox and other confusions can result. Generally, if the relative amount of data in a slice is the same across your two groups, you can safely make a comparison.
         * Consider practical significance
         * Check for consistency over time
+            - One particular slicing you should almost always employ is to slice by units of time (we often use days, but other units may be useful also). This is because many disturbances to underlying data happen as our systems evolve over time.
+            - Just because a particular day or set of days is an outlier does not mean you should discard it. Use the data as a hook to find a causal reason for that day being different before you discard it.
+            - The other benefit of looking at day over day data is it gives you a sense of the variation in the data that would eventually lead to confidence intervals or claims of statistical significance.
     + Process
         * Separate Validation, Description, and Evaluation
-        * Confirm expt/data collection setup
+        * Confirm experimentation/data collection setup
         * Check vital signs
         * Standard first, custom second
         * Measure twice, or more

@@ -82,5 +82,62 @@
     + Statistical power
 
 ## Probability
-
 Coming soon...
+
+## [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis)
+- Quantitative messages
+    + Time-series (line chart)
+    + Ranking (bar chart)
+    + Part-to-whole (bar chart)
+    + Deviation (bar chart)
+    + Frequency distribution (histogram)
+    + Correlation (scatter plot)
+    + Nominal comparison (bar chart)
+    + Geographic or geospatial (cartogram)
+- Analytical activities
+    + Retrieve Value
+    + Filter
+    + Compute Derived Value
+    + Find Extremum
+    + Sort
+    + Determine Range
+    + Characterize Distribution
+    + Find Anomalies
+    + Cluster
+    + Correlate
+- Initial transformations - After assessing the quality of the data and of the measurements, one might decide to impute missing data, or to perform initial transformations of one or more variables
+    + Square root transformation (if the distribution differs moderately from normal)
+    + Log-transformation (if the distribution differs substantially from normal)
+    + Inverse transformation (if the distribution differs severely from normal)
+    + Make categorical (ordinal / dichotomous) (if the distribution differs severely from normal, and no transformations help)
+- Characteristics of data sample
+    + Basic statistics of important variables
+    + Scatter plots
+    + Correlations and associations
+    + Cross-tabulations
+- Important decisions
+    + In the case of non-normals: should one transform variables; make variables categorical (ordinal/dichotomous); adapt the analysis method?
+    + In the case of missing data: should one neglect or impute the missing data; which imputation technique should be used?
+    + In the case of outliers: should one use robust analysis techniques?
+    + In case items do not fit the scale: should one adapt the measurement instrument by omitting items, or rather ensure comparability with other (uses of the) measurement instrument(s)?
+    + In the case of (too) small subgroups: should one drop the hypothesis about inter-group differences, or use small sample techniques, like exact tests or bootstrapping?
+    + In case the randomization procedure seems to be defective: can and should one calculate propensity scores and include them as covariates in the main analyses?
+- Analysis
+    + Types
+        * Univariate statistics (single variable)
+        * Bivariate associations (correlations)
+        * Graphical techniques (scatter plots)
+    + Techniques
+        * Nominal and ordinal variables
+            - Frequency counts (numbers and percentages)
+            - Associations
+                + circumambulations (crosstabulations)
+                + hierarchical loglinear analysis (restricted to a maximum of 8 variables)
+                + loglinear analysis (to identify relevant/important variables and possible confounders)
+            - Exact tests or bootstrapping (in case subgroups are small)
+            - Computation of new variables
+        * Continuous variables
+            - Distribution
+                + Statistics (M, SD, variance, skewness, kurtosis)
+                + Stem-and-leaf displays
+                + Box plots
