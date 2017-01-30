@@ -2,6 +2,7 @@
 
 ## Online Resources
 - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
+- [dataviz.tools](http://dataviz.tools/)
 
 ## Visualization Types - High Level
 - Exploration

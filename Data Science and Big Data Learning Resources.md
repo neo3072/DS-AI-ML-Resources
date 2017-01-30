@@ -52,6 +52,7 @@
     + [Suffering-oriented programming](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 
 <h2><a name="tutorials">Tutorials</a></h2>
+- [Introduction to R programming language and statistics](http://en.bricebottegal.com/introduction-to-r-programming-language-and-statistics/)
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 - [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 - [Data Mining in Python: A Guide](https://www.springboard.com/blog/data-mining-python-tutorial/)
