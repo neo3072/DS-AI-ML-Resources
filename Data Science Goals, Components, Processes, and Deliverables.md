@@ -180,7 +180,15 @@
 - Data munging/wrangling
     - Data parsing, cleaning, and tidying
     - Data processing, transformation, and aggregation
-        + Includes feature scaling, normalization, and/or standardization
+        + Includes [feature scaling](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html), normalization, and/or standardization
+            * Primary
+                - Standard score aka z-score (+/-): (x-Mean)/StdDev
+                - Min-Max aka unity-based normalization ([0, 1]): (x-Min)/Range
+            * Other
+                - General feature scaling (adjust to range): (Min+Range)*FeatureScaledValue
+                    + FeatureScaledValue between 0 and 1
+                - Relative to mean: x/Mean
+                - Relative to max: x/Max
         + Categorical feature transformation and dummy variables
             * One-hot encoding or category indexing
                 - Category indexing
