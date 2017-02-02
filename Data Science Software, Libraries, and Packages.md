@@ -11,6 +11,11 @@
 - [Gulp](http://gulpjs.com/plugins/)
 - [Grunt](http://gruntjs.com/plugins)
 
+## Tools and Language Popularity
+- [Tiobe Index for Programming Languages](http://www.tiobe.com/tiobe-index/)
+- [Top Analytics, Data Science software – KDnuggets 2016 Software Poll Results](http://www.kdnuggets.com/2016/06/r-python-top-analytics-data-mining-data-science-software.html)
+- [What Big Data, Data Science, Deep Learning software goes together?](http://www.kdnuggets.com/2016/06/big-data-science-deep-learning-software-associations.html)
+
 ## Software, Libraries, and Packages
 - Deep learning and neural networks
     + [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
@@ -20,15 +25,14 @@
     + [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html) - Open source software library for numerical computation using data flow graphs
     + [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne) - An Amazon developed library for building Deep Learning (DL) machine learning (ML) models
     + [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
-- [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html) - A collection of machine learning algorithms for data mining tasks
-- [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
-- [Python(x,y)](http://python-xy.github.io/) - A free scientific and engineering development software for numerical computations, data analysis and data visualization based on Python programming language, Qt graphical user interfaces and Spyder interactive scientific development environment
 - Python
+    + [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
+    + [Python(x,y)](http://python-xy.github.io/) - A free scientific and engineering development software for numerical computations, data analysis and data visualization based on Python programming language, Qt graphical user interfaces and Spyder interactive scientific development environment
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
     + [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
     + [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
     + [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
-    + [Numpy](https://docs.scipy.org/doc/) - The fundamental package for scientific computing with Python
+    + [Numpy](https://docs.scipy.org/doc/numpy/contents.html) - The fundamental package for scientific computing with Python
     + [Scipy](https://docs.scipy.org/doc/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering
         * [Scipy Stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
     + [Pandas](http://pandas.pydata.org/pandas-docs/stable/) - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
@@ -119,6 +123,8 @@
     + [gmodels](https://cran.r-project.org/web/packages/gmodels/index.html) - Various R programming tools for model fitting
     + [rodbc](https://cran.r-project.org/web/packages/RODBC/index.html) - An ODBC database interface
     + [princurve](https://cran.r-project.org/web/packages/princurve/index.html) - Fits a principal curve to a data matrix in arbitrary dimensions
+- General machine learning
+    + [Turi](https://turi.com/learn/) - A machine learning modeling tool for developers and data scientists
 - Analytics
     + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
     + [Snowplow](http://snowplowanalytics.com/guides/)
@@ -128,3 +134,11 @@
     + [Beaker](http://beakernotebook.com/index) - A notebook-style development environment for working interactively with large and complex datasets. 
     + [R Markdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) - Convert R Markdown documents into a variety of formats
     + [knitr](https://cran.r-project.org/web/packages/knitr/index.html) - A general-purpose tool for dynamic report generation in R using Literate Programming techniques
+- GUI-driven advanced analytics and data mining
+    + [RapidMiner](http://docs.rapidminer.com/) - Data science platform
+    + [KNIME](https://tech.knime.org/documentation) - Fast, easy and intuitive access to advanced data science
+    + [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html) - A collection of machine learning algorithms for data mining tasks
+    + [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
+- Symbolic Math
+    + [SageMath](http://doc.sagemath.org/) - A free open-source mathematics software system, creating a viable free open source alternative to Magma, Maple, Mathematica and Matlab
+    + [SymPy](http://docs.sympy.org/latest/index.html) - A Python library for symbolic mathematics
