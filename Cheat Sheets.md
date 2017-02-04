@@ -1,5 +1,6 @@
 # Cheat Sheets
 
+- [RStudio Cheat Sheet Collection](https://www.rstudio.com/resources/cheatsheets/)
 - [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
 - [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)

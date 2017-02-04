@@ -621,3 +621,19 @@ Coming soon...
 - Classification & Metadata
 - Information Lifecycle Management
 - Audit Information, Logging & Reporting
+
+## Diagrams
+<figure>
+    <img src='http://www.datazoomers.com/wp-content/uploads/2013/02/bi_data_ware_house.jpg' alt='missing' />
+    <figcaption>Courtesty of DataZoomers</figcaption>
+</figure>
+
+<figure>
+    <img src='http://cdn.guru99.com/images/ETL_Testing/ETLTesting_1.jpg' alt='missing' />
+    <figcaption>Courtesty of Guru99</figcaption>
+</figure>
+
+<!-- <figure>
+    <img src='http://cdn.guru99.com/images/ETL_Testing/ETLTesting_4.jpg' />
+    <figcaption>Courtesty of Guru99</figcaption>
+</figure> -->
