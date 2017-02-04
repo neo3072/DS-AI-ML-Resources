@@ -627,7 +627,7 @@ Coming soon...
     <img src='http://www.datazoomers.com/wp-content/uploads/2013/02/bi_data_ware_house.jpg' alt='missing' />
     <figcaption>Courtesty of DataZoomers</figcaption>
 </figure>
-
+<br/>
 <figure>
     <img src='http://cdn.guru99.com/images/ETL_Testing/ETLTesting_1.jpg' alt='missing' />
     <figcaption>Courtesty of Guru99</figcaption>
