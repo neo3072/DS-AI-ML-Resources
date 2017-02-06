@@ -1,59 +1,23 @@
 # Data Science Goals, Components, Processes, and Deliverables - Data Science, Data Mining, Machine Learning, AI, Advanced Analytics, and Big Data
 
-## Data Science, Artificial Intelligence, Statistics, Advanced Analytics, Big Data, and IoT Fields
-- Data/text mining and data exploration
-- Data/text analytics
-- Descriptive, predictive, and descriptive analytics
-- Machine learning
-- Recommendations
-- Real-time stream processing and computing (spot opportunities and risks)
-- Pattern Matching
-- Forecasting
-- Visualization
-- Semantic analysis
-- Statistical analysis
-- Network and cluster analysis
-- Multivariate statistics
-- Graph analysis
-- Simulation
-- Optimization
-- Experimental design
-- Complex event processing
-- Autonomous systems
-- Smart machines and devices
-- Neural networks and deep learning
-- Real-time scoring
-- Entity analytics
-- Business intelligence
-- Streaming media analytics
-- Cognitive IoT
-- Cognitive chatbots
-- Embedded deep learning
-- Embodied robotic cognition
-- Computer vision
-- Virtual and augmented reality
-- Knowledge management
-- Fraud detection
-
-## Typical data science goals
+## Typical Goals
 * Derive discoveries, insights, and value from data collections
 * Turning data into actions, including real-time
 * Build data products providing actionable information while abstracting away technical details, data, and analytics
 * Question discovery
 * Improving products for user benefit and experience
 * Driving business decisions and solutions
-* Improving the decisions your business makes
-    - Decision science uses data to analyze business metrics — such as growth, engagement, profitability drivers, and user feedback — to inform strategy and key business decisions.
-    - Decision science uses data analysis and visualization to inform business and product decisions.
+    - Improving the decisions your business makes
+        + Decision science uses data to analyze business metrics — such as growth, engagement, profitability drivers, and user feedback — to inform strategy and key business decisions.
+        + Decision science uses data analysis and visualization to inform business and product decisions.
+    - Inform strategic decisions
+    - Inform product changes and drive company KPIs
+    - Shift from HiPPO decision making to data-driven decision making
 * Automated decision making, predictions, recommendations, and deeper insights
-* Inform strategic decisions
-* Inform product changes and drive company KPIs
-* Shift from HiPPO decision making to data-driven decision making
 * Competitive advantage, differentiation, future-proofing, and opportunity costs
 * Complement business intelligence functions
 * Predict and advise
 * Grow data economy wealth
-* Increase ROI and ROA
 * Shifting between deductive (hypothesis-based) and inductive (pattern- based) reasoning (ref. Booz, Allen, Hamilton)
     - Deductive
         + Formulate hypotheses about relationships and underlying models
@@ -61,6 +25,112 @@
     - Inductive
         + Exploratory data analysis to discover or refine hypotheses
         + Discover new relationships, insights and analytic paths from the data
++ Business-level goals
+    * Increase ROI and ROA
+    * Increase revenue
+    * Increase profit
+    * Decrease costs
+    * Predict and/or reduce risk
+    * Increase operational efficiency
+    * Reduce waste
+    * Increase customer acquisition, retention, and growth
+    * Improve customer service
+    * Enhance business development
+    * Improve business governance
+    * Improve business processes
+    * Drive data and evidence-driven decisions
+    * Improve business agility
+    * Decision management and inform decisions
+    * Drive new business models
+    * Discover new products and services
+    * Business reporting and analysis
++ Self-service (ad-hoc) analytics and insights
++ Personalize customer experiences
+- Health diagnosis
+- Enterprise performance management (EPM
+- Information discovery
+
+## Fields, Techniques, and Deliverables
+- General
+    + Descriptive, predictive, and prescriptive analytics
+    + Machine learning
+    + Data/text mining and data exploration
+    + Real-time stream processing and computing (spot opportunities and risks)
+    + Statistical analysis
+    + Multivariate statistics
+    + Automated decision making, predictions, recommendations, and insights
+    + Deployed batch and/or real-time solution (e.g., analytics models and algorithms), potentially including monitoring, performance measurement, analytics, dashboards, and reporting
+- Analytics
+    + Descriptive analytics - What happened and why?
+        * Visualization
+        * EDA
+    + Predictive analytics - What is the probability of something happening?
+        * Machine learning
+        * Artificial intelligence
+        * Forecasting
+    + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
+    + Entity analytics
+    + Streaming media analytics
+    + Text analytics
+        * Semantic analysis
+    + Graph analytics (e.g., social network analysis)
+- Deep and actionable insights
+    + Story telling
+    + Writing
+    + Speaking
+    + Reports
+    + Dashboards
+    + Visualizations
+    + Presentation
+    + Asynchronous messaging, notifications, insights, and alerts
+- Supervised, unsupervised, and semi-supervised learning and prediction
+    + Pattern Matching
+    + Clustering, grouping, and characterizations
+    + Anomaly detection
+        + Fraud detection
+    - Prediction
+    - Classification
+    - Trends discovery
+- Reinforcement learning
+- Recommender system - recommendations
+- Recognition
+    + Image
+    + Speech
+    + Video
+    + Text and optical character
+    + Pattern
+    + Audio
+    + Facial    
+    + Handwriting
+- Forecasting
+- Visualization and business intelligence
+- Simulation
+- Optimization
+- Experimental design
+- Complex event processing
+- Autonomous systems
+- Smart machines and devices
+- Network and cluster analysis
+- Embedded
+    + Deep learning
+    + Robotic cognition
+- Marketing, sales, and retail
+    + Market basket analysis
+    + Churn prediction
+    + Segmentation
+    + Ranking/scoring
+    + Targeted advertising
+    + Forecasting
+- Risk analysis
+- Cognitive IoT
+- Cognitive chatbots
+- Computer vision
+- Virtual and augmented reality
+- Knowledge management
+- Real time intelligence and analytics
++ Security intelligence (security, fraud, and risk analysis)
++ Stream computing
+    * Event and data streams
 
 ## Tasks by Area (Wikipedia)
 - Text analytics/mining
@@ -100,6 +170,9 @@
     + Gives calibrated probabilities of class membership?
     + Parametric?
     + Features might need scaling?
+- Tradeoff analysis and reporting
+    + Precision vs recall
+    + Cost of false positives vs false negatives
 
 ## Data Science Components and Considerations
 - Data types
@@ -235,7 +308,7 @@
         * Line graph
     + Generate frequency table
     + Target variable distribution
-    + Distributiont and outlier detection via box and scatter plots for numeric features
+    + Distribution and outlier detection via box and scatter plots for numeric features
     + Correlation analysis and pairwise distribution plots
     + Plots with point color as label for classification tasks
     + Aggregations and analysis
@@ -341,65 +414,7 @@
         * Accuracy
         * Robustness
         * Speed
-- Deliverables, deployment, and results communication (see below)
-
-## Data Science Deliverables
-- Automated decision making, predictions, recommendations, and insights
-- Deep and actionable insights
-    + Story telling
-    + Writing
-    + Speaking
-    + Reports
-    + Dashboards
-    + Visualizations
-    + Presentation
-- Statistical analysis
-- Asynchronous messaging, notifications, insights, and alerts
-- Deployed batch and/or real-time solution (e.g., analytics models and algorithms), potentially including monitoring, performance measurement, analytics, dashboards, and reporting
-- Analytics
-    + Descriptive analytics - What happened and why?
-        * Visualization
-        * Exploratory data analysis
-    + Predictive analytics - What is the probability of something happening?
-        * Machine learning
-        * Artificial intelligence
-        * Forecasting
-    + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
-- Machine learning and Artificial intelligence specific
-    + Supervised learning and prediction
-        * Classification
-            - Binary (two class) and multi-class
-        * Regression
-            - Univariate and multivariate
-        * Anomoly detection
-    + Unsupervised learning
-        * Clustering, grouping, and characterizations
-        * Anomaly detection
-    + Recommendation systems (aka recommendation engine)
-    + Recognition
-        * Image
-        * Speech
-        * Video
-        * Text and optical character
-        * Pattern
-        * Audio
-        * Facial    
-        * Handwriting
-    + Text analytics
-    + Reinforcement learning
-    + Probability estimates and likelihoods
-    + Graph analytics (e.g., social network analysis)
-    + Health diagnosis
-    + Process improvements
-- Tradeoff analysis and reporting
-    + Precision vs recall
-    + Cost of false positives vs false negatives
-- Optimization
-- Segmentation
-- Targeted advertising
-- Forecasts
-- Risk analysis
-- Optimization and response surface models (RSM) for design of experiments (DOE) projects
+- Deliverables, deployment, and results communication
 
 ## Types of Analytics
 - [The four types of analytics - Neil Raden](http://www.actian.com/wp-content/uploads/2014/07/Neil-Raden-White-Paper4.pdf)

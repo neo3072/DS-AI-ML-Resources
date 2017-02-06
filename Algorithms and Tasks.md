@@ -126,6 +126,7 @@
 - Entity extraction (e.g., phone numbers, addresses, ...)
 - Levenshtein distance
 - Tokenization
+- Topic detection
 
 ## Reinforcement Learning
 - Markov decision process (MDP)

@@ -10,42 +10,6 @@
     + First Normal Form (1NF)
     + Third Normal Form (3NF)
 
-## Goals and Deliverables
-+ Business-level goals
-    * Increase revenue
-    * Increase profit
-    * Decrease costs
-    * Predict and/or reduce risk
-    * Increase operational efficiency
-    * Reduce waste
-    * Increase customer acquisition, retention, and growth
-    * Improve customer service
-    * Enhance business development
-    * Improve business governance
-    * Drive data and evidence-driven decisions
-    * Improve business agility
-    * Decision management and inform decisions
-    * Drive new business models
-    * Discover new products and services
-    * Business reporting and analysis
-+ Real time intelligence and analytics
-+ Security intelligence (security, fraud, and risk analysis)
-+ Self-service (ad-hoc)
-+ Personalize customer experiences
-+ Stream computing
-    * Event and data streams
-+ Advanced analytics, data mining, data modeling, business intelligence (BI), statistical analysis, dashboards and reporting, enterprise performance management (EPM), information discovery
-    * Data and insights discovery and exploration
-    * Discover relevant trends and patterns
-    * Descriptive analytics - What happened and why?
-    * Predictive analytics - What is the probability of something happening?
-    * Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
-    * Query and reporting
-    * OLAP Cubes
-    * Advanced analytics
-    * MapReduce
-    * Search engines
-
 ## Architectural Goals, Principles, and Considerations
 - Consistency
 - [Batch (slow/cold) vs. real-time streaming (fast/hot) data processing and paths](https://www.opsgility.com/blog/2016/11/07/big-data-and-iot-lambda-architecture/)
