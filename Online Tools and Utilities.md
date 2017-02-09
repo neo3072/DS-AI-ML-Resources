@@ -29,6 +29,13 @@
 ## RegEx
 - [RegExr](http://www.regexr.com/)
 
+## Web Compatibility and Availability
+- [How available are the web platform's features?](https://paulirish.github.io/web-feature-availability/?utm_source=html5weekly&utm_medium=email)
+- [CanIUse](http://caniuse.com/)
+
+## Research
+- [StatCounter Global Stats](http://gs.statcounter.com/)
+
 ## Mail Lists and Newsletters
 - [Mailchimp](https://mailchimp.com/)
 
@@ -42,3 +49,6 @@
 
 ## SEO
 - [SEO SiteCheckup](https://toolbox.seositecheckup.com/users)
+
+## MISC
+- [Open Source License Chooser](http://choosealicense.com/)

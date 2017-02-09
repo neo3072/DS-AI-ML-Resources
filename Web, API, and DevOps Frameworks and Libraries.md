@@ -11,3 +11,4 @@
 - [Grunt](http://gruntjs.com/getting-started)
 - [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/README.md)
 - [Nginx](https://nginx.org/en/docs/)
+- [StaticGen List](https://www.staticgen.com/)
