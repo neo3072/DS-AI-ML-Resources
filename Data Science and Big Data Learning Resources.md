@@ -1,5 +1,6 @@
 ## Table of Contents
 - <a href="#articles">Articles</a>
+- <a href="#books">Books Online</a>
 - <a href="#tutorials">Tutorials</a>
 - <a href="#moocs">MOOCS</a>
 - <a href="#whitepapers">Whitepapers</a>
@@ -50,8 +51,15 @@
     + [Top 12 Interesting Careers to Explore in Big Data](http://www.kdnuggets.com/2016/10/top-12-interesting-careers-explore-big-data.html)
 - Opinion
     + [Suffering-oriented programming](http://nathanmarz.com/blog/suffering-oriented-programming.html)
+- Databases
+    + [Analytics 101: Choosing the right database](https://reflect.io/blog/analytics-101-choosing-the-right-database/)
+
+<h2><a name="books">Books Online</a></h2>
+- [Deep Learning](http://www.deeplearningbook.org/)
+- [Deep Learning](http://www.deeplearningbook.org/)
 
 <h2><a name="tutorials">Tutorials</a></h2>
+- [Learn TensorFlow and deep learning, without a Ph.D. - Google Blog](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 - [Introduction to R programming language and statistics](http://en.bricebottegal.com/introduction-to-r-programming-language-and-statistics/)
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 - [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)

@@ -8,6 +8,7 @@
 - [RapidMiner Machine Learning Algorithm Reference Guide](http://mod.rapidminer.com/#app)
 - [Google structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 - [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
+- [food2vec - Tools for cooking with machine intelligence](https://altosaar.github.io/food2vec/)
 
 ## Networking, DNS, IP, ...
 - [What is my IP?](http://whatismyipaddress.com/)

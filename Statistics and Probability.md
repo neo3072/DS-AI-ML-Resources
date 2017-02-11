@@ -141,3 +141,9 @@ Coming soon...
                 + Statistics (M, SD, variance, skewness, kurtosis)
                 + Stem-and-leaf displays
                 + Box plots
+
+## [68–95–99.7 rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
+- Percentage of values that lie within a band around the mean in a normal distribution with a width of two, four and six standard deviations, respectively
+- 68.27%, 95.45% and 99.73% of the values lie within one, two and three standard deviations of the mean, respectively
+- Three-sigma rule of thumb - "nearly all" values are taken to lie within three standard deviations of the mean, i.e. that it is empirically useful to treat 99.7% probability as "near certainty"
+- Three-sigma rule - even for non-normally distributed variables, at least 98% of cases should fall within properly-calculated three-sigma intervals

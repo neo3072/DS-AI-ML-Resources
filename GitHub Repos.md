@@ -13,6 +13,7 @@
     - [Open Source Data Science Masters](https://github.com/datasciencemasters)
     - [The Field Guide to Data Science (Booz, Allen, Hamilton)](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science)
     - [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+    - [Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 - Awesome
     + [Awesome R](https://github.com/qinwf/awesome-R)
     + [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)

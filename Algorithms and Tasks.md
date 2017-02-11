@@ -314,5 +314,8 @@ Coming soon...
 - Swarm intelligence
 - Genetic algorithms
 
+## Polls and Popularity
+- [Top Algorithms and Methods Used by Data Scientists](http://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html)
+
 <!-- ## References
 - [The Field Guide to Data Science (Booz, Allen, Hamilton)](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf) -->
