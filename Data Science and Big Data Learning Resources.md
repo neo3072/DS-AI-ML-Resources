@@ -34,6 +34,7 @@
     + [Artificial General Intelligence – The Holy Grail of AI](http://www.datasciencecentral.com/profiles/blogs/artificial-general-intelligence-the-holy-grail-of-ai)
     + [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0)
     + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
+    + [Part of Speech Tags](http://www.winwaed.com/blog/2011/11/08/part-of-speech-tags/)
 - Big Data
     + [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
     + [Real-Time Stream Processing as Game Changer in a Big Data World with Hadoop and Data Warehouse](https://www.infoq.com/articles/stream-processing-hadoop/)
@@ -56,7 +57,7 @@
 
 <h2><a name="books">Books Online</a></h2>
 - [Deep Learning](http://www.deeplearningbook.org/)
-- [Deep Learning](http://www.deeplearningbook.org/)
+- [NLTK - Natural Language Processing with Python](http://www.nltk.org/book/)
 
 <h2><a name="tutorials">Tutorials</a></h2>
 - [Learn TensorFlow and deep learning, without a Ph.D. - Google Blog](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
@@ -93,6 +94,7 @@
     + [CourseTalk](https://www.coursetalk.com/)
     + [Online Course Report](https://www.onlinecoursereport.com/)
     + [Online Course Report - The 50 Most Popular MOOCs of All Time](https://www.onlinecoursereport.com/the-50-most-popular-moocs-of-all-time/)
+    + [Data Science Course Rankings - Opinion Article](https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e)
 - MOOC platforms and online schools
     + [Coursera](https://www.coursera.org/)
     + [edX](https://www.edx.org/)
@@ -156,6 +158,7 @@
 - General and Search
     + [Switchup - Data Science](https://www.switchup.org/data-science-bootcamps-and-courses)
     + [Switchup - Best Data Science Bootcamps](https://www.switchup.org/research/best-data-science-bootcamps)
+    + [10 boot camps to kick start your data science career](http://www.cio.com/article/3051124/careers-staffing/10-boot-camps-to-kick-start-your-data-science-career.html)
 - [Springboard](https://www.springboard.com/)
 - [Data Science Dojo](https://datasciencedojo.com)
 - [Data Application Lab](http://www.dataapplab.com/)

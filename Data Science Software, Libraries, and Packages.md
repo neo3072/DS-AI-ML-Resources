@@ -30,8 +30,11 @@
     + [Python(x,y)](http://python-xy.github.io/) - A free scientific and engineering development software for numerical computations, data analysis and data visualization based on Python programming language, Qt graphical user interfaces and Spyder interactive scientific development environment
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
     + [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
-    + [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
-    + [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
+    + Natural Language (NLP, NLG, NLU)
+        * [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
+        * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
+        * [TextBlob](https://textblob.readthedocs.io/en/dev/) - A Python (2 and 3) library for processing textual data
+        * [Gensim](http://radimrehurek.com/gensim/) - Python framework for fast Vector Space Modelling
     + [Numpy](https://docs.scipy.org/doc/numpy/contents.html) - The fundamental package for scientific computing with Python
     + [Scipy](https://docs.scipy.org/doc/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering
         * [Scipy Stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
@@ -52,7 +55,6 @@
     + [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
     + [NetworkX](http://networkx.github.io/documentation.html) - A Python language software package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
     + [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A Python library for pulling data out of HTML and XML files
-    + [Gensim](http://radimrehurek.com/gensim/) - Python framework for fast Vector Space Modelling
     + [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox that provides a wide range of unified and efficient Machine Learning (ML) methods
     + [Chainer](http://docs.chainer.org/en/stable/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks
     + [NuPIC](http://numenta.org/#docs) - An open source project based on a theory of neocortex called Hierarchical Temporal Memory (HTM)
@@ -62,6 +64,7 @@
     + [PyMVPA](http://www.pymvpa.org/manual.html) - PyMVPA stands for MultiVariate Pattern Analysis (MVPA) in Python
     + [Deap](http://deap.gel.ulaval.ca/doc/default/index.html) - A novel evolutionary computation framework for rapid prototyping and testing of ideas
     + [Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+    + [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/#) - Requests is the only Non-GMO HTTP library for Python, safe for human consumption
 - R
     + [General CRAN List - By task](https://cran.r-project.org/web/views/)
     + [General CRAN List - NLP/Text analytics](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
@@ -125,6 +128,9 @@
     + [princurve](https://cran.r-project.org/web/packages/princurve/index.html) - Fits a principal curve to a data matrix in arbitrary dimensions
 - General machine learning
     + [Turi](https://turi.com/learn/) - A machine learning modeling tool for developers and data scientists
+- Natural language (NLP, NLG, NLU)
+    + [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/) - An unsupervised learning algorithm for obtaining vector representations for words
+    + [text-processing.com](http://text-processing.com/) - Natural Language Processing APIs and Python NLTK Demos
 - Analytics
     + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
     + [Snowplow](http://snowplowanalytics.com/guides/)
@@ -142,3 +148,5 @@
 - Symbolic Math
     + [SageMath](http://doc.sagemath.org/) - A free open-source mathematics software system, creating a viable free open source alternative to Magma, Maple, Mathematica and Matlab
     + [SymPy](http://docs.sympy.org/latest/index.html) - A Python library for symbolic mathematics
+- Terminal and CLI
+    + [HTTPie](https://httpie.org/doc)

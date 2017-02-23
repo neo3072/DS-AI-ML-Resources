@@ -73,6 +73,8 @@ Note that some links are categorized according to my determination of best fit s
 - [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+    + [POS Tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
+    + [WordNet](https://en.wikipedia.org/wiki/WordNet)
 - [Natural language generation](https://en.wikipedia.org/wiki/Natural_language_generation)
 - [Natural language understanding](https://en.wikipedia.org/wiki/Natural_language_understanding)
 

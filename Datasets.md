@@ -6,6 +6,7 @@
 - [sklearn.datasets](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
 - [Rdatasets list](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
 - [Machine Learning Data Set Repository](http://mldata.org/)
+- [The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
 - [AWS Public Datasets Home](https://aws.amazon.com/datasets/)
 - [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
 - [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
