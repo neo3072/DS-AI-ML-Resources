@@ -26,45 +26,60 @@
     + [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne) - An Amazon developed library for building Deep Learning (DL) machine learning (ML) models
     + [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
 - Python
-    + [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
-    + [Python(x,y)](http://python-xy.github.io/) - A free scientific and engineering development software for numerical computations, data analysis and data visualization based on Python programming language, Qt graphical user interfaces and Spyder interactive scientific development environment
-    + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
-    + [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
+    + Package and Environment Management
+        * [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
+    + Platform
+        * [Python(x,y)](http://python-xy.github.io/) - A free scientific and engineering development software for numerical computations, data analysis and data visualization based on Python programming language, Qt graphical user interfaces and Spyder interactive scientific development environment
+    + Machine Learning
+        * [Scikit-image](http://scikit-image.org/) - A collection of algorithms for image processing
+        * [Scikit-learn](http://scikit-learn.org/stable/documentation.html) - A Python module for machine learning
+        * [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox that provides a wide range of unified and efficient Machine Learning (ML) methods
+        * [Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+        * [PyMC](https://pymc-devs.github.io/pymc/index.html) - A python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo
+        * [PyMVPA](http://www.pymvpa.org/manual.html) - PyMVPA stands for MultiVariate Pattern Analysis (MVPA) in Python
+        * [Deap](http://deap.gel.ulaval.ca/doc/default/index.html) - A novel evolutionary computation framework for rapid prototyping and testing of ideas
+    + Artificial Intelligence (AI)
+        * [PyBrain](http://pybrain.org/) - Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library
+        * [Chainer](http://docs.chainer.org/en/stable/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks
+        * [NuPIC](http://numenta.org/#docs) - An open source project based on a theory of neocortex called Hierarchical Temporal Memory (HTM)
+        * [Neon](http://neon.nervanasys.com/index.html/) - Python-based deep learning library
     + Natural Language (NLP, NLG, NLU)
         * [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
         * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
         * [TextBlob](https://textblob.readthedocs.io/en/dev/) - A Python (2 and 3) library for processing textual data
         * [Gensim](http://radimrehurek.com/gensim/) - Python framework for fast Vector Space Modelling
-    + [Numpy](https://docs.scipy.org/doc/numpy/contents.html) - The fundamental package for scientific computing with Python
-    + [Scipy](https://docs.scipy.org/doc/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering
-        * [Scipy Stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
-    + [Pandas](http://pandas.pydata.org/pandas-docs/stable/) - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
-    + [PyBrain](http://pybrain.org/) - Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library
-    + [Scikit-image](http://scikit-image.org/) - A collection of algorithms for image processing
-    + [Scikit-learn](http://scikit-learn.org/stable/documentation.html) - A Python module for machine learning
-    + [Seaborn](http://seaborn.pydata.org/api.html) - A Python visualization library based on matplotlib
-    + [Statsmodels](http://statsmodels.sourceforge.net/documentation.html) - A Python module that allows users to explore data, estimate statistical models, and perform statistical tests
+    + Visualization
+        * [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
+        * [Seaborn](http://seaborn.pydata.org/api.html) - A Python visualization library based on matplotlib
+        * [Altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
+        * [Bokeh](http://bokeh.pydata.org/en/latest/docs/user_guide.html) - A Python interactive visualization library that targets modern web browsers for presentation
+        * [ggplot](http://yhat.github.io/ggplot/docs.html) - A package for plotting in Python
+        * [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
+    + Munging and Wrangling
+        * [Pandas](http://pandas.pydata.org/pandas-docs/stable/) - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
+    + Scientific and Numerical
+        * [Numpy](https://docs.scipy.org/doc/numpy/contents.html) - The fundamental package for scientific computing with Python
+        * [Scipy](https://docs.scipy.org/doc/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering
+            - [Scipy Stats](https://docs.scipy.org/doc/scipy/reference/stats.html)
+    + Statistics and Mathematics
+        * [Statsmodels](http://statsmodels.sourceforge.net/documentation.html) - A Python module that allows users to explore data, estimate statistical models, and perform statistical tests
         * [Statsmodels Stats](http://statsmodels.sourceforge.net/stable/stats.html)
-    + [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
-    + [Scrapy](https://scrapy.org/doc/) - An open source and collaborative framework for extracting the data you need from websites
-    + [ggplot](http://yhat.github.io/ggplot/docs.html) - A package for plotting in Python
-    + [Altair](https://github.com/ellisonbg/altair) - Declarative statistical visualization library for Python
-    + [Blaze](http://blaze.readthedocs.io/en/latest/index.html) - Provides Python users high-level access to efficient computation on inconveniently large data
-    + [Dask](http://dask.pydata.org/en/latest) - A flexible parallel computing library for analytic computing
-    + [Bokeh](http://bokeh.pydata.org/en/latest/docs/user_guide.html) - A Python interactive visualization library that targets modern web browsers for presentation
-    + [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
-    + [NetworkX](http://networkx.github.io/documentation.html) - A Python language software package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
-    + [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A Python library for pulling data out of HTML and XML files
-    + [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox that provides a wide range of unified and efficient Machine Learning (ML) methods
-    + [Chainer](http://docs.chainer.org/en/stable/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks
-    + [NuPIC](http://numenta.org/#docs) - An open source project based on a theory of neocortex called Hierarchical Temporal Memory (HTM)
-    + [Neon](http://neon.nervanasys.com/index.html/) - Python-based deep learning library
-    + [PyMC](https://pymc-devs.github.io/pymc/index.html) - A python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo
-    + [Fuel](https://fuel.readthedocs.io/en/latest/) - A data pipeline framework which provides your machine learning models with the data they need
-    + [PyMVPA](http://www.pymvpa.org/manual.html) - PyMVPA stands for MultiVariate Pattern Analysis (MVPA) in Python
-    + [Deap](http://deap.gel.ulaval.ca/doc/default/index.html) - A novel evolutionary computation framework for rapid prototyping and testing of ideas
-    + [Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-    + [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/#) - Requests is the only Non-GMO HTTP library for Python, safe for human consumption
+    + Notebooks and Reporting
+        * [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
+    + Web Mining and Scraping
+        * [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
+        * [Scrapy](https://scrapy.org/doc/) - An open source and collaborative framework for extracting the data you need from websites
+    + Big Data and Performance
+        * [Blaze](http://blaze.readthedocs.io/en/latest/index.html) - Provides Python users high-level access to efficient computation on inconveniently large data
+        * [Dask](http://dask.pydata.org/en/latest) - A flexible parallel computing library for analytic computing
+    + Network and Graph Analytics
+        * [NetworkX](http://networkx.github.io/documentation.html) - A Python language software package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+    + Parsing and Data Extraction
+        * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A Python library for pulling data out of HTML and XML files
+    + Data Pipeline
+        * [Fuel](https://fuel.readthedocs.io/en/latest/) - A data pipeline framework which provides your machine learning models with the data they need
+    + Web and API
+        * [Requests: HTTP for Humans](http://docs.python-requests.org/en/master/#) - Requests is the only Non-GMO HTTP library for Python, safe for human consumption
 - R
     + [General CRAN List - By task](https://cran.r-project.org/web/views/)
     + [General CRAN List - NLP/Text analytics](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
@@ -126,6 +141,8 @@
     + [gmodels](https://cran.r-project.org/web/packages/gmodels/index.html) - Various R programming tools for model fitting
     + [rodbc](https://cran.r-project.org/web/packages/RODBC/index.html) - An ODBC database interface
     + [princurve](https://cran.r-project.org/web/packages/princurve/index.html) - Fits a principal curve to a data matrix in arbitrary dimensions
+- Visualization
+    + [Plot.ly](https://plot.ly/) - The modern platform for agile business intelligence and data science
 - General machine learning
     + [Turi](https://turi.com/learn/) - A machine learning modeling tool for developers and data scientists
 - Natural language (NLP, NLG, NLU)
@@ -136,6 +153,7 @@
     + [Snowplow](http://snowplowanalytics.com/guides/)
 - Notebooks
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
+    + [Jupyter notebook extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
     + [Apache Zeppelin](https://zeppelin.apache.org/) - A web-based notebook that enables interactive data analytics. 
     + [Beaker](http://beakernotebook.com/index) - A notebook-style development environment for working interactively with large and complex datasets. 
     + [R Markdown](https://cran.r-project.org/web/packages/rmarkdown/index.html) - Convert R Markdown documents into a variety of formats
