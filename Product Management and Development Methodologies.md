@@ -119,10 +119,8 @@ its behavior accordingly.
         + Reduces wasted time (parkinsons as well)
     + Not everything requires estimates and deadlines
     + Front-loading not optimimal, and oftern arbitrary
-    + Matches client request of weekly meetings
     + Continuous improvement and reprioritization, not fixed methodology
-    + More flexible process-wise and with client, which we need now
-        + Quickly adapt to new information and needs
+    + More flexible process-wise, quickly adapt to new information and needs
     + Emphasized continous delivery
     + Increased productivity and efficiency
         + Increased output
