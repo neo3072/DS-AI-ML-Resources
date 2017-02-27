@@ -53,6 +53,8 @@
 the horizontal scalability of distributed systems with the familiarity of SQL
 - Static storage
     - [AWS S3](https://aws.amazon.com/documentation/s3/) - Simple, durable, massively scalable object storage
+- Containerized
+    + [Pachyderm](https://www.pachyderm.io/) - A Containerized Data Lake
 - Search and full-text
     - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
     - [Apache Lucene](https://lucene.apache.org/core/documentation.html) - Java-based indexing and search technology, as well as spellchecking, hit highlighting and advanced analysis/tokenization capabilities
