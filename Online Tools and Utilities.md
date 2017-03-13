@@ -51,5 +51,8 @@
 ## SEO
 - [SEO SiteCheckup](https://toolbox.seositecheckup.com/users)
 
+## Jobs and Salaries
+- [Paysa](https://www.paysa.com/)
+
 ## MISC
 - [Open Source License Chooser](http://choosealicense.com/)

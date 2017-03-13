@@ -10,6 +10,7 @@
 <h2><a name="articles">Articles</a></h2>
 - Data science
     + [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
+    + [The Life of a Data Scientist](http://www.mastersindatascience.org/careers/data-scientist/)
     + [Data Science Falls Into Many Roles](http://www.forbes.com/sites/rawnshah/2015/10/06/data-science-falls-into-many-roles/)
     + [What’s the Difference Between Data Science Roles?](https://www.betterbuys.com/bi/comparing-data-science-roles/)
     + [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
@@ -161,6 +162,7 @@
     + [10 boot camps to kick start your data science career](http://www.cio.com/article/3051124/careers-staffing/10-boot-camps-to-kick-start-your-data-science-career.html)
 - [Springboard](https://www.springboard.com/)
 - [Data Science Dojo](https://datasciencedojo.com)
+- [Insight Data Science Fellows Program](http://insightdatascience.com/)
 - [Data Application Lab](http://www.dataapplab.com/)
 - [NYC Data Science Academy](http://nycdatascience.com/data-science-bootcamp/)
 - [Thinkful Data Science Online Course](https://www.thinkful.com/courses/learn-data-science-online/)
