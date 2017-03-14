@@ -66,6 +66,7 @@
 <h2><a name="articles">Articles</a></h2>
 - [How to Consistently Hire Remarkable Data Scientists](http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/)
 - [Battle of the Data Science Venn Diagrams](http://www.prooffreader.com/2016/09/battle-of-data-science-venn-diagrams.html)
+- [Hiring a data scientist](https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/)
 
 <h2><a name="projects">Take Home Projects</a></h2>
 

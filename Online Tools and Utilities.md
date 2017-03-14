@@ -34,6 +34,9 @@
 - [How available are the web platform's features?](https://paulirish.github.io/web-feature-availability/?utm_source=html5weekly&utm_medium=email)
 - [CanIUse](http://caniuse.com/)
 
+## Design, UI, UX
+- [Website Dimensions](http://www.websitedimensions.com/)
+
 ## Research
 - [StatCounter Global Stats](http://gs.statcounter.com/)
 

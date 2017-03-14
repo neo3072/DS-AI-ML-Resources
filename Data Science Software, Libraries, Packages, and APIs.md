@@ -1,6 +1,6 @@
 # Data Science Software, Libraries, and Packages
 
-## Package Managers
+## Package Managers and Project Organization
 - [Sublime Text Package Control](https://packagecontrol.io/)
 - [Bower](https://bower.io/search/)
 - [NPM](https://www.npmjs.com/)
@@ -10,6 +10,7 @@
 - [PyPi](https://pypi.python.org/pypi)
 - [Gulp](http://gulpjs.com/plugins/)
 - [Grunt](http://gruntjs.com/plugins)
+- [Cookiecutter - Project templates](https://github.com/audreyr/cookiecutter)
 
 ## Tools and Language Popularity
 - [Tiobe Index for Programming Languages](http://www.tiobe.com/tiobe-index/)
