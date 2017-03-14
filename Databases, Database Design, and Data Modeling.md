@@ -1,4 +1,4 @@
-# Databases and Database Management Systems
+## Databases and Database Management Systems
 
 - Data Warehouse and Data Lake
     + [AWS Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
@@ -75,3 +75,19 @@ the horizontal scalability of distributed systems with the familiarity of SQL
 
 ## Database Comparisons
 - [MongoDB and HBase Compared](https://www.mongodb.com/compare/mongodb-hbase)
+
+## Database Design
+
+## Data Modeling
+
+## Data Mapping
+- Active record (AR)
+- Data access object (DAO)
+- Data mapper
+- Table gateway
+- Object relational mapping (ORM)
+- Data transfer object (DTO)
+- CRUD - Create, read, update, delete
+
+## Articles
+- [DAO vs ORM vs ActiveRecord vs TableGateway vs AHHHH!](https://www.sitepoint.com/community/t/dao-vs-orm-vs-activerecord-vs-tablegateway-vs-ahhhh/2473/2)
