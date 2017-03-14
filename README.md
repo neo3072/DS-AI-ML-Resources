@@ -23,6 +23,7 @@ Cheers, and best of luck with your technical endeavors!
 [Alex](http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
 
 <h2><a name="toc">Table of Contents</a></h2>
+
 - Files
     + [Algorithms and Tasks](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms%20and%20Tasks.md)
     + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Examples.md)
