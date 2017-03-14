@@ -148,7 +148,6 @@
     + [Turi](https://turi.com/learn/) - A machine learning modeling tool for developers and data scientists
 - Natural language (NLP, NLG, NLU)
     + [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/) - An unsupervised learning algorithm for obtaining vector representations for words
-    + [text-processing.com](http://text-processing.com/) - Natural Language Processing APIs and Python NLTK Demos
 - Analytics
     + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
     + [Snowplow](http://snowplowanalytics.com/guides/)
@@ -169,3 +168,20 @@
     + [SymPy](http://docs.sympy.org/latest/index.html) - A Python library for symbolic mathematics
 - Terminal and CLI
     + [HTTPie](https://httpie.org/doc)
+
+## APIs
+- AWS
+    + [Lex](https://aws.amazon.com/lex/)
+    + [Rekognition](https://aws.amazon.com/rekognition/)
+    + [Polly](https://aws.amazon.com/polly/)
+    + [Machine Learning](https://aws.amazon.com/machine-learning)
+- Google Cloud Platform
+    + [Machine Learning Engine](https://cloud.google.com/ml-engine/)
+    + [Jobs API](https://cloud.google.com/jobs-api/)
+    + [Video Intelligence API](https://cloud.google.com/video-intelligence/)
+    + [Vision API](https://cloud.google.com/vision/)
+    + [Speech API](https://cloud.google.com/speech/)
+    + [Natural Language API](https://cloud.google.com/natural-language/)
+    + [Translation API](https://cloud.google.com/translate/)
+- Other
+    + [text-processing.com](http://text-processing.com/) - Natural Language Processing APIs and Python NLTK Demos
