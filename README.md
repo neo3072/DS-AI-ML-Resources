@@ -34,7 +34,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Cloud, SaaS, PaaS, and IaaS](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cloud%2C%20SaaS%2C%20PaaS%2C%20and%20IaaS.md)
     + [Data Science and Big Data Learning Resources](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20and%20Big%20Data%20Learning%20Resources.md)
     + [Data Science Goals, Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Goals%2C%20Components%2C%20Processes%2C%20and%20Deliverables.md)
-    + [Data Science Software, Libraries, Packages, and APIs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Software%2C%20Libraries%2C%20and%20Packages.md)
+    + [Data Science Software, Libraries, Packages, and APIs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Software%2C%20Libraries%2C%20Packages%2C%20and%20APIs.md)
     + [Data Visualization](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Visualization.md)
     + [Databases and Database Management Systems](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Databases%20and%20Database%20Management%20Systems.md)
     + [Datasets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Datasets.md)
