@@ -64,6 +64,8 @@
     + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
     + [AWS EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
     + [Google Cloud Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
+- Serverless, real-time analytics
+    + [AirBnB's StreamAlert](https://github.com/airbnb/streamalert?imm_mid=0ed682&cmp=em-data-na-na-newsltr_20170215)
 - Scheduling and Jobs
     + [Apache Oozie](http://oozie.apache.org/) - A workflow scheduler system to manage Apache Hadoop jobs
 - Analytics

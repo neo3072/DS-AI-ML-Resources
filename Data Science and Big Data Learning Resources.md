@@ -79,6 +79,8 @@
 - [New KDnuggets Tutorials Page: Learn R, Python, Data Visualization, Data Science, and more](http://www.kdnuggets.com/2016/03/new-tutorials-section-r-python-data-visualization-data-science.html)
 - [Curated list of R tutorials for Data Science](https://www.r-bloggers.com/curated-list-of-r-tutorials-for-data-science/)
 - [AnalyticsPro : Analytics Tutorials for Data Science , BI & Big Data](http://analyticspro.org/)
+- [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+- [7 More Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2017/03/seven-more-steps-machine-learning-python.html)
 - Statistics
     + [Scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/)
     + [Scikit-learn Examples](http://scikit-learn.org/stable/auto_examples/)
