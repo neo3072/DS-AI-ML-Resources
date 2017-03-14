@@ -2,6 +2,7 @@
 
 - Python
     + [Pandas Data Science Cheat Sheet - DataQuest](http://www.dataquest.io/blog/images/cheat-sheets/pandas-cheat-sheet.pdf)
+    + [Bokeh Cheat Sheet - DataCamp](https://www.datacamp.com/community/blog/bokeh-cheat-sheet-python)
 - R
     + [RStudio Cheat Sheet Collection](https://www.rstudio.com/resources/cheatsheets/)
     + [R Reference Card for Data Mining](https://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf)

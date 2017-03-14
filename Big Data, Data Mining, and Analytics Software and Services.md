@@ -86,25 +86,6 @@ for Clojure or Java
 ## IoT
 - [AWS IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
 
-## Data Science, AI, and Advanced Analytics Cloud Services and APIs
-+ [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
-+ [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
-+ [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
-+ [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
-+ [Google Cloud Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
-+ [Google Cloud Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
-+ [Google Cloud Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
-+ [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
-+ [Google Cloud Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
-+ [Google Cloud Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
-+ [Google Cloud Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
-- [BigML](https://bigml.com/)
-- [Carto.com](https://carto.com/)
-- [AWS Lex](https://aws.amazon.com/lex/) - Build Conversational Interfaces through Voice or Text
-- [AWS Rekognition](https://aws.amazon.com/rekognition/) - Deep Learning-Based Image Analysis
-- [AWS Polly](https://aws.amazon.com/polly) - Turn Text into Lifelike Speech
-- [AWS Athena](https://aws.amazon.com/athena/) - An interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL
-
 ## Data Mining and Analytics
 - [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
 - [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert

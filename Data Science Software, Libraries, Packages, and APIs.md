@@ -170,12 +170,13 @@
     + [HTTPie](https://httpie.org/doc)
 
 ## APIs
-- AWS
+- [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
     + [Lex](https://aws.amazon.com/lex/)
     + [Rekognition](https://aws.amazon.com/rekognition/)
     + [Polly](https://aws.amazon.com/polly/)
     + [Machine Learning](https://aws.amazon.com/machine-learning)
-- Google Cloud Platform
+    + [AWS Athena](https://aws.amazon.com/athena/) - An interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL
+- [Google Cloud Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
     + [Machine Learning Engine](https://cloud.google.com/ml-engine/)
     + [Jobs API](https://cloud.google.com/jobs-api/)
     + [Video Intelligence API](https://cloud.google.com/video-intelligence/)
@@ -185,3 +186,8 @@
     + [Translation API](https://cloud.google.com/translate/)
 - Other
     + [text-processing.com](http://text-processing.com/) - Natural Language Processing APIs and Python NLTK Demos
+    + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
+    + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
+    + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
+    + [BigML](https://bigml.com/)
+    + [Carto.com](https://carto.com/)
