@@ -37,7 +37,7 @@ Cheers, and best of luck with your technical endeavors!
     + [Data Science Goals, Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Goals%2C%20Components%2C%20Processes%2C%20and%20Deliverables.md)
     + [Data Science Software, Libraries, Packages, and APIs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Software%2C%20Libraries%2C%20Packages%2C%20and%20APIs.md)
     + [Data Visualization](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Visualization.md)
-    + [Databases, Database Design, and Data Modeling](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Databases%20and%20Database%20Management%20Systems.md)
+    + [Databases, Database Design, and Data Modeling](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Databases%2C%20Database%20Design%2C%20and%20Data%20Modeling.md)
     + [Datasets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Datasets.md)
     + [DevOps](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/DevOps.md)
     + [Gartner Magic Quadrants](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Gartner%20Magic%20Quadrants.md)
