@@ -114,6 +114,8 @@ Note that some links are categorized according to my determination of best fit s
 - [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 - [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing)
 - [OLTP](https://en.wikipedia.org/wiki/Online_transaction_processing)
+- [Dimension](https://en.wikipedia.org/wiki/Dimension_(data_warehouse))
+- [Fact Table](https://en.wikipedia.org/wiki/Fact_table)
 - [Federated database system](https://en.wikipedia.org/wiki/Federated_database_system)
 
 ## Data Modeling and Schemas
