@@ -5,11 +5,6 @@
 + Non-Relational
 + Hybrid
 
-## Normalization
-- Minimum requirements
-    + First Normal Form (1NF)
-    + Third Normal Form (3NF)
-
 ## Architectural Goals, Principles, and Considerations
 - Consistency
 - [Batch (slow/cold) vs. real-time streaming (fast/hot) data processing and paths](https://www.opsgility.com/blog/2016/11/07/big-data-and-iot-lambda-architecture/)
@@ -332,49 +327,6 @@
 + Mobile devices
 + Surveillance
 
-## Database Considerations and Tradeoffs
-- ACID
-    + Atomicity - An atomic transaction is an indivisible and irreducible series of database operations such that either all occur, or nothing occurs
-    + Consistency - The requirement that any given database transaction must change affected data only in allowed ways, and that any data written to the database must be valid according to all defined rules, including constraints, cascades, triggers, and any combination thereof
-    + Isolation - How transaction integrity is visible to other users and systems, i.e., how/when the changes made by one operation become visible to other
-    + Durability - Guarantees that transactions that have committed will survive permanently
-- BASE
-    + Basically Available - Any data request should receive a response, but that response may indicate a failure or changing state as opposed to the requested data
-    + Soft state - Given eventual consistency, the system may be in a changing state until consistency is reached
-    + Eventual consistency - Informally guarantees that (to achieve high availability), if no new updates are made to a given data item, eventually all accesses to that item will return the last updated value
-- CAP (Brewers theorem) and PACELC
-    + Consistency - All clients always have the same view of the data
-    + Availability - Each client can always read and write
-    + Partition tolerance - The system works well despite physical network partitions
-- Consistency vs eventually consistency
-- Speed and performance
-- Locks
-    + Lock contention
-    + Long term blocking
-    + Database deadlocks
-    + System deadlocks
-- Schema on write vs schema on read
-- Isolation levels
-- Concurrency control
-- Different read types (e.g., dirty, non-repeatable, phantom, ...)
-
-## Databases by CAP (non-exhaustive)
-- CA - Typically deal with P with replication
-    + RDBMS
-- AP - Achieve "eventual consistency" through replication and verification
-    + Dynamo
-    + Voldemort
-    + Cassandra
-    + SimpleDB
-    + CouchDB
-    + Riak
-- CP - Have trouble with availability while keeping data consistent across partitioned nodes
-    + BigTable
-    + MongoDB
-    + HBase
-    + MemcacheDB
-    + Redis
-
 **Big Data Architecture Patterns**
 - [Polyglot](http://datadventures.ghost.io/2014/07/06/polyglot-processing/)
 - [Lambda](http://lambda-architecture.net/)
@@ -486,41 +438,6 @@
 - Ability to process any and all data quickly and relatively cheap
 - Vast community, ecosystem, and pluggable architecture
 - Scalable, flexible, computational model
-
-## Data Lake vs Data Warehouse
-- Data Warehouse (EDW)
-    + [Definition](https://en.wikipedia.org/wiki/Data_warehouse) - A system used for reporting and data analysis, and is considered a core component of business intelligence
-    + Characteristics
-        * Data
-            - Structured
-            - Processed
-        * Schema-on-write processing
-        * Relatively expensive for large volumes
-        * Fixed configuration and less flexible
-        * Better suited for business intelligence and business professionals
-    + Considerations
-    + Technologies
-        * AWS Redshift
-- Data Lake
-    + [Definition](http://www.kdnuggets.com/2015/09/data-lake-vs-data-warehouse-key-differences.html) - A data lake is a storage repository that holds a vast amount of raw data in its native format, including structured, semi-structured, and unstructured data. The data structure and requirements are not defined until the data is needed.
-    + Characteristics
-        * Data
-            - Structured, semi-structured, unstructured
-            - Raw
-        * A data lake delivers maximum scale and insight with the lowest possible friction and cost
-        * Increased efficiency
-        * Reduced storage costs
-        * Data processing workload optimization, including data integration and transformation
-        * Schema-on-read processing and associated flexibility and new opportunities
-        * Multi-use and multi-workload data processing on same data from batch to real-time across business units
-        * Eliminate need for ETL and associated costs
-        * Keep 100% of source data and historical data for ongoing exploration (both raw and processed)   
-        * Easy and dynamic configuration and reconfiguration
-        * Better suited for data scientists
-    + Considerations
-    + Technologies
-        * Hadoop
-        * Apache YARN
 
 ## Data Processing and access methods/patterns
 - Batch
