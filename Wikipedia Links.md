@@ -30,6 +30,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation_and_dependence)
 - [Outlier](https://en.wikipedia.org/wiki/Outlier)
 - [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+- [Multidimensional analysis](https://en.wikipedia.org/wiki/Multidimensional_analysis) - Data dimensions and measurements
 
 ## Data Science, Data Mining, and Advanced Analytics
 - [Machine learning portal](https://en.wikipedia.org/wiki/Portal:Machine_learning)
