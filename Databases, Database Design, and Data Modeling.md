@@ -1,3 +1,21 @@
+## Database and data models
+
+- Model types
+    + Flat
+    + Relational
+    + NoSQL
+    + NewSQL
+    + Navigational
+    + Hierarchical
+    + Graph
+    + Network
+    + Object
+    + Object-relational
+- Data model schema types
+    + [Conceptual schema](https://en.wikipedia.org/wiki/Conceptual_schema)
+    + [Logical schema](https://en.wikipedia.org/wiki/Logical_schema)
+    + [Physical schema](https://en.wikipedia.org/wiki/Physical_schema)
+
 ## Databases and Database Management Systems
 
 - Data Warehouse and Data Lake
@@ -96,6 +114,14 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     + System deadlocks
 - Schema on write vs schema on read
 - Isolation levels
+    + Serializable
+    + Repeatable reads
+    + Read committed
+    + Read uncommitted
+- Isolation-related read phenomena
+    + Dirty reads
+    + Non-repeatable reads
+    + Phantom reads
 - Concurrency control
 - Different read types (e.g., dirty, non-repeatable, phantom, ...)
 
@@ -128,21 +154,37 @@ the horizontal scalability of distributed systems with the familiarity of SQL
         - Junk
         - Degenerate
         - Role-playing
-+ Fact
-+ Measures (e.g., sales)
++ Fact - A value or measurement
++ Measures (e.g., sales) - Facts
     * Types
         - Additive
         - Non-additive
         - Semi-additive
-+ Data elements
-+ OLAP
++ Data element
+    * An element of data representation that helps form a data model
++ Data structure
+    * A particular way of organizing data in a computer so that it can be used efficiently
+    * [Types](https://en.wikipedia.org/wiki/List_of_data_structures)
++ OLAP - Online analytical processing
     * Associated with OLAP data, tools, data storage, and querying 
+    * Types
+        - Multidimensional OLAP (MOLAP)
+        - Relational OLAP (ROLAP)
+        - Hybrid OLAP (HOLAP)
+        - Real-Time OLAP (RTOLAP)
 + OLAP Cube
     * A multi-dimensional array of data or multi-dimensional dataset
         - Pivoting (spreadsheet analysis) done via holding dimensions constant and leaving two dimensions to analyze
         - Associated with analytical operations (shown below)
-+ OLTP
-+ CRUD
++ OLTP - Online transaction processing
++ Operational database
+        * Sometimes synonymous with OLTP systems
+        * Wikipedia
+            - Operational databases allow you to modify that data (add, change or delete data), doing it in real-time.
+            - Operational databases are used to store, manage and track real-time business information.
+            - An operational database stores information about the activities of an organization, for example customer relationship management transactions or financial operations, in a computer database.
+            - A Database which is accessed by an operational system (e.g., the application used by the customer service department) to carry out regular operations of an organization. Operational databases usually use an OLTP database which is optimized for faster transaction processing (create, read, update and delete operations).
++ CRUD - Create, read, update, delete
 + Multidimensional analysis - Data dimensions and measurements
 + Analytical operations
     * Consolidation (roll-up)
@@ -150,6 +192,23 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     * Slicing - filtering data across a dimension(s), i.e., reduce the cubes dimension by one by selecting a single value for one dimension
     * Dicing - grouping data and reducing cube size, i.e., creating a subcube
     * Pivot - rotate the cube for different perspective of the data
++ Structured vs semi-structured vs unstructured data
+    * Structured
+        - Highly organized data that is well suited for relational database and/or data table storage
+    * Semi-structured
+        - Wikipedia: A form of structured data that does not conform with the formal structure of data models associated with relational databases or other forms of data tables, but nonetheless contains tags or other markers to separate semantic elements and enforce hierarchies of records and fields within the data
+        - Examples
+            + JSON
+            + XML
+    * Unstructured
+        - Wikipedia: Information that either does not have a pre-defined data model or is not organized in a pre-defined manner
+        - Examples
+            + Text (documents, email body, web page body, books, ...)
+            + Audio
+            + Video
+            + Analog data
+            + Images
+            + Files
 
 ## Database Design
 - Wide vs narrow data, or stacked vs un-stacked
@@ -158,7 +217,9 @@ the horizontal scalability of distributed systems with the familiarity of SQL
 - Entity vs event data
     + Entity: One table per entity and normalized, but requires lots of tables and joins for analytics
     + Event: JSON a good format, denormalized, nested, and schemaless
-- Transactional vs operational vs analytics database/data store
+- Transactional (OLTP) vs analytical (OLAP) database/data store
+    + OLTP: Simple queries, large volume, focus on transactions and transaction processing, CRUD-optimized
+    + OLAP: Complex analytical queries, rapid execution, focus on business intelligence and analytics, read-optimized
 - Table types
     + Dimension table
     + [Fact table](https://en.wikipedia.org/wiki/Fact_table#Types_of_fact_tables)
@@ -169,7 +230,7 @@ the horizontal scalability of distributed systems with the familiarity of SQL
             - Periodic snapshots
             - Accumulating snapshots
             - Temporal snapshots
-- Database schemas
+- Data warehouse and analytical schemas
     + Star
         * Best for data marts
         * One or more fact tables referencing any number of denormalized single-dimension tables
