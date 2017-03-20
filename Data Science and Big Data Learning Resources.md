@@ -2,7 +2,7 @@
 - <a href="#articles">Articles</a>
 - <a href="#books">Books Online</a>
 - <a href="#tutorials">Tutorials</a>
-- <a href="#moocs">MOOCS</a>
+- <a href="#moocs">MOOCS and Online Learning</a>
 - <a href="#whitepapers">Whitepapers</a>
 - <a href="#bootcamps">Bootcamps and Training</a>
 - <a href="#resources">General Resources</a>
@@ -30,12 +30,14 @@
     + [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
     + [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - Artificial intelligence
+    + [59 impressive things artificial intelligence can do today](http://www.businessinsider.com/artificial-intelligence-ai-most-impressive-achievements-2017-3/)
     + [MIT - The Missing Link of Artificial Intelligence](https://www.technologyreview.com/s/600819/the-missing-link-of-artificial-intelligence/)
     + [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
     + [Artificial General Intelligence – The Holy Grail of AI](http://www.datasciencecentral.com/profiles/blogs/artificial-general-intelligence-the-holy-grail-of-ai)
     + [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0)
     + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
     + [Part of Speech Tags](http://www.winwaed.com/blog/2011/11/08/part-of-speech-tags/)
+    + [The 7 Myths of AI](https://www.crowdflower.com/7-myths-ai/)
 - Big Data
     + [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
     + [Real-Time Stream Processing as Game Changer in a Big Data World with Hadoop and Data Warehouse](https://www.infoq.com/articles/stream-processing-hadoop/)
@@ -91,13 +93,14 @@
     + [Statsmodels Examples](http://statsmodels.sourceforge.net/devel/examples/)
     + [Matplotlib Examples](http://matplotlib.org/examples/index.html)
 
-<h2><a name="moocs">MOOCS</a></h2>
+<h2><a name="moocs">MOOCS and Online Learning</a></h2>
 - Research
     + [Course Report](https://www.coursereport.com/schools)
     + [CourseTalk](https://www.coursetalk.com/)
     + [Online Course Report](https://www.onlinecoursereport.com/)
     + [Online Course Report - The 50 Most Popular MOOCs of All Time](https://www.onlinecoursereport.com/the-50-most-popular-moocs-of-all-time/)
     + [Data Science Course Rankings - Opinion Article](https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e)
+    + [Every Intro to Data Science Course on the Internet, Ranked](http://www.kdnuggets.com/2017/03/every-intro-data-science-course-ranked.html)
 - MOOC platforms and online schools
     + [Coursera](https://www.coursera.org/)
     + [edX](https://www.edx.org/)

@@ -1,4 +1,4 @@
-# Blogs
+## Blogs
 
 - [InnoArchiTech](http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
 - [Flowing Data](http://flowingdata.com/)
@@ -16,3 +16,6 @@
 - [Harvard Data Science](http://harvarddatascience.com/)
 - [OpenAI](https://openai.com/blog/)
 - [Dataquest](http://www.dataquest.io/blog/)
+
+## Blog Lists
+- [Quora - What are the best blogs about data?](https://www.quora.com/What-are-the-best-blogs-about-data)

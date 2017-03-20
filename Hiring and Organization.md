@@ -9,6 +9,7 @@
 - <a href="#articles">Articles</a>
 - <a href="#projects">Take Home Projects</a>
 - <a href="#forhire">Data Scientists for Hire & Training</a>
+- <a href="#datacomps">Data Science & Big Data Consulting Companies</a>
 
 <h2><a name="roles">Roles</a></h2>
 - Chief Executive Officer - CEO
@@ -62,6 +63,7 @@
 - [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
 - [17 More Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers.html)
 - [50 Questions to Test True Data Science Knowledge](http://www.datasciencecentral.com/profiles/blogs/25-questions-to-detect-fake-data-scientists)
+- [Top Hadoop Interview Questions & Answers](http://www.datasciencecentral.com/profiles/blogs/top-11-hadoop-interview-questions-answers)
 
 <h2><a name="articles">Articles</a></h2>
 - [How to Consistently Hire Remarkable Data Scientists](http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/)
@@ -74,6 +76,10 @@ Coming soon...
 
 <h2><a name="forhire">Data Scientists for Hire & Training</a></h2>
 - [The Data Incubator](https://www.thedataincubator.com/)
+
+<h2><a name="datacomps">Data Science & Big Data Consulting Companies</a></h2>
+- [Mu Sigma](https://www.mu-sigma.com/)
+- [Mosaic](http://www.mosaicdatascience.com/)
 
 <!-- ## References
 - The Field Guide to Data Science (Booz, Allen, Hamilton) -->
