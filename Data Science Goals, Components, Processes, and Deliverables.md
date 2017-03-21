@@ -307,6 +307,7 @@
         * Box plot
         * Line graph
     + Generate frequency table
+    + Generate contingency table (i.e., cross tabulation or crosstab)
     + Target variable distribution
     + Distribution and outlier detection via box and scatter plots for numeric features
     + Correlation analysis and pairwise distribution plots

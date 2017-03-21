@@ -5,6 +5,7 @@
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
 - [sklearn.datasets](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
 - [Rdatasets list](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
+- [17 places to find datasets for data science projects](http://www.dataquest.io/blog/free-datasets-for-projects/)
 - [Machine Learning Data Set Repository](http://mldata.org/)
 - [The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
 - [AWS Public Datasets Home](https://aws.amazon.com/datasets/)

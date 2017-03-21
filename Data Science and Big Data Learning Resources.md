@@ -49,6 +49,9 @@
     + [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
     + [Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
     + [Data processing architectures – Lambda and Kappa](https://www.ericsson.com/research-blog/data-knowledge/data-processing-architectures-lambda-and-kappa/)
+- Software, Tools, and Services
+    + [Four Ways to Extend Jupyter Notebook](http://mindtrove.info/4-ways-to-extend-jupyter-notebook/)
+    + [Making Publication Ready Python Notebooks](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
 - Programming and Computer Science
 - IoT
 - Careers
@@ -191,3 +194,5 @@
 - [18 Resources to Learn Data Science Online](https://www.simplilearn.com/resources-to-learn-data-science-online-article)
 - Interactive
     + [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
+- Newsletters
+    + [7 awesome data science newsletters to keep you informed](http://www.dataquest.io/blog/data-science-newsletters/)
