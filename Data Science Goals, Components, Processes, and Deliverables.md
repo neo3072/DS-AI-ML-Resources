@@ -381,6 +381,7 @@
     + Per Kaggle
         * LB: Score you get is calculated on a subset of testing set
         * CV: Score you get by local cross validation is commonly referred to as a CV score.
+        * Mean Average Precision (MAP)
 - Data splitting
     + Training, validation, test
     + Cross-validation as alternative to traditional splitting
