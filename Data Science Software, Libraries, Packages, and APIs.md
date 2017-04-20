@@ -172,6 +172,7 @@
 - Analytics
     + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
     + [Snowplow](http://snowplowanalytics.com/guides/)
+    + [Mixpanel](https://mixpanel.com/)
 - Notebooks
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
     + [Jupyter notebook extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
