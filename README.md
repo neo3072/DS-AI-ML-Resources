@@ -25,9 +25,9 @@ Cheers, and best of luck with your technical endeavors!
 <h2><a name="toc">Table of Contents</a></h2>
 
 + [Algorithms and Tasks](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms%20and%20Tasks.md)
++ [Big Data Software, Libraries, Packages, and APIs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%20Software%2C%20Libraries%2C%20Packages%2C%20and%20APIs.md)
 + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Examples.md)
 + [Big Data, Analytics, and IoT Architecture Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Reference.md)
-+ [Big Data, Data Mining, and Analytics Software and Services](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Data%20Mining%2C%20and%20Analytics%20Software%20and%20Services.md)
 + [Blogs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Blogs.md)
 + [Books List](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Books%20List.md)
 + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cheat%20Sheets.md)

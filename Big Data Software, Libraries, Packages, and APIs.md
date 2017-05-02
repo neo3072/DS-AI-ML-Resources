@@ -1,4 +1,4 @@
-# Big Data, Data Mining, and Analytics Software and Cloud Services
+# Big Data Software, Libraries, Packages, and APIs
 
 ## Lists
 - [Apache Foundation](https://www.apache.org/)
