@@ -9,6 +9,7 @@
 - <a href="#resources">General Resources</a>
 
 <h2><a name="interactive">Interactive</a></h2>
+
 - [Google AI experiments](https://aiexperiments.withgoogle.com)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Scikit-learn's Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
@@ -18,6 +19,7 @@
 - [food2vec - Tools for cooking with machine intelligence](https://altosaar.github.io/food2vec/)
 
 <h2><a name="articles">Articles</a></h2>
+
 - Repository
     + [arXiv.org](https://arxiv.org/) - Cornell University's open access to 1MM+ e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 - Data science
@@ -77,10 +79,12 @@
     + [Analytics 101: Choosing the right database](https://reflect.io/blog/analytics-101-choosing-the-right-database/)
 
 <h2><a name="books">Books Online</a></h2>
+
 - [Deep Learning](http://www.deeplearningbook.org/)
 - [NLTK - Natural Language Processing with Python](http://www.nltk.org/book/)
 
 <h2><a name="tutorials">Tutorials</a></h2>
+
 - [Learn TensorFlow and deep learning, without a Ph.D. - Google Blog](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 - [Introduction to R programming language and statistics](http://en.bricebottegal.com/introduction-to-r-programming-language-and-statistics/)
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
@@ -112,6 +116,7 @@
     + [Matplotlib Examples](http://matplotlib.org/examples/index.html)
 
 <h2><a name="moocs">MOOCS and Online Learning</a></h2>
+
 - Research
     + [Course Report](https://www.coursereport.com/schools)
     + [CourseTalk](https://www.coursetalk.com/)
@@ -151,6 +156,7 @@
     + [Data Science Academy - Free Data Science Courses](http://datascienceacademy.com/free-data-science-courses/)
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
+
 - [The Field Guide to Data Science](https://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf)
 - [Increase Your Analytics Proficiency - Making the Move From Analytics to Data Science](http://www.actian.com/wp-content/uploads/2014/07/Neil-Raden-White-Paper4.pdf)
 - [AWS](https://aws.amazon.com/whitepapers/)
@@ -179,6 +185,7 @@
     + [Migrating your Existing Applications to the AWS Cloud](https://d0.awsstatic.com/whitepapers/cloud-migration-main.pdf)
 
 <h2><a name="bootcamps">Bootcamps and Training</a></h2>
+
 - General and Search
     + [Switchup - Data Science](https://www.switchup.org/data-science-bootcamps-and-courses)
     + [Switchup - Best Data Science Bootcamps](https://www.switchup.org/research/best-data-science-bootcamps)
@@ -202,6 +209,7 @@
 - [Deeplearningtrack - Online data science school](https://www.deeplearningtrack.com/)
 
 <h2><a name="resources">General Resources</a></h2>
+
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
 - [Data School resources](http://www.dataschool.io/resources/)
