@@ -47,5 +47,8 @@
 ## Jobs and Salaries
 - [Paysa](https://www.paysa.com/)
 
+## Social and Sharing
+- [Linktally.com](http://linktally.com/) - Count how many times a URL was ever shared across the 4 major social sharing sites: Facebook, Twitter, Google Plus and LinkedIn
+
 ## MISC
 - [Open Source License Chooser](http://choosealicense.com/)

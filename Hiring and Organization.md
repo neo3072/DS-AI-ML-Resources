@@ -69,6 +69,8 @@
 - [How to Consistently Hire Remarkable Data Scientists](http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/)
 - [Battle of the Data Science Venn Diagrams](http://www.prooffreader.com/2016/09/battle-of-data-science-venn-diagrams.html)
 - [Hiring a data scientist](https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/)
+- [Top mistakes data scientists make](https://cyborgus.com/2017/04/03/top-mistakes-data-scientists-make/)
+- [Nurturing a productive data team](https://pages.dataiku.com/hubfs/Guidebooks/Nurturing-infographics.pdf)
 
 <h2><a name="projects">Take Home Projects</a></h2>
 

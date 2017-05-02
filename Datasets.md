@@ -28,6 +28,8 @@
 - [data.world](https://data.world/)
 
 **Dataset By Category**
+- Streaming Open Data
+    + [Satori](https://www.satori.com) - Live streaming open data
 - Classification
     + http://archive.ics.uci.edu/ml/datasets/Wine+Quality
     + http://archive.ics.uci.edu/ml/datasets/Wine

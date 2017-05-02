@@ -18,6 +18,8 @@
 - [food2vec - Tools for cooking with machine intelligence](https://altosaar.github.io/food2vec/)
 
 <h2><a name="articles">Articles</a></h2>
+- Repository
+    + [arXiv.org](https://arxiv.org/) - Cornell University's open access to 1MM+ e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 - Data science
     + [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
     + [The Life of a Data Scientist](http://www.mastersindatascience.org/careers/data-scientist/)
@@ -28,6 +30,8 @@
     + [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
     + [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
     + [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+    + [The Periodic Table of Data Science](https://www.r-bloggers.com/the-periodic-table-of-data-science/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
+        * [The Periodic Table of Data Science PNG](https://i2.wp.com/s3.amazonaws.com/assets.datacamp.com/blog_assets/Data-Science-Periodic-Table.png)
 - Machine learning
     + [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
     + [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)

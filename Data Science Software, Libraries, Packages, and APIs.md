@@ -49,6 +49,7 @@
         * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
         * [TextBlob](https://textblob.readthedocs.io/en/dev/) - A Python (2 and 3) library for processing textual data
         * [Gensim](http://radimrehurek.com/gensim/) - Python framework for fast Vector Space Modelling
+        * [fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) - Pre-trained word vectors for 90 languages, trained on Wikipedia using fastText
     + Visualization
         * [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
         * [Seaborn](http://seaborn.pydata.org/api.html) - A Python visualization library based on matplotlib
@@ -210,7 +211,8 @@
 - [Plotly](https://plot.ly/)
 - [Datawrapper](https://www.datawrapper.de/)
 - [TIBCO Jaspersoft](https://www.jaspersoft.com/big-data-business-intelligence-instant)
-- [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - [Kibana](https://www.elastic.co/products/kibana) - Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stac
+- [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - [Kibana](https://www.elastic.co/products/kibana) - Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack
+- [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - [Databazel](https://databazel.com/) - The analytical and reporting solution for MongoDB
 
 ## Enterprise Big Data and Analytics Products and Services
 - [Databricks](https://databricks.com/) - Data integration, real-time exploration, and production pipelines in the cloud, powered by Apache® Spark
