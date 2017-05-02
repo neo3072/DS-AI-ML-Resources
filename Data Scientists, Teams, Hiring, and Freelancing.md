@@ -87,6 +87,7 @@ Coming soon...
 - [The Data Incubator](https://www.thedataincubator.com/)
 
 <h2><a name="datacomps">Data Science & Big Data Consulting Companies</a></h2>
+
 - [Mu Sigma](https://www.mu-sigma.com/)
 - [Mosaic](http://www.mosaicdatascience.com/)
 
