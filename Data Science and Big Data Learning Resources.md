@@ -184,6 +184,7 @@
 - [Metis](http://www.thisismetis.com/)
 - [The Data Incubator](https://www.thedataincubator.com/)
 - [XTOL](http://www.xtolcorp.com/)
+- [Deeplearningtrack - Online data science school](https://www.deeplearningtrack.com/)
 
 <h2><a name="resources">General Resources</a></h2>
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)

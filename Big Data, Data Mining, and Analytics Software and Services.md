@@ -107,7 +107,7 @@ for Clojure or Java
 - [Plotly](https://plot.ly/)
 - [Datawrapper](https://www.datawrapper.de/)
 - [TIBCO Jaspersoft](https://www.jaspersoft.com/big-data-business-intelligence-instant)
-- [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - Business intelligence and performance management
+- [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - [Kibana](https://www.elastic.co/products/kibana) - Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stac
 
 ## Enterprise Big Data and Analytics Products and Services
 - [Databricks](https://databricks.com/) - Data integration, real-time exploration, and production pipelines in the cloud, powered by Apache® Spark
