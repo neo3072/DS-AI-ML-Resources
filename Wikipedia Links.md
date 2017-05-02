@@ -31,6 +31,8 @@ Note that some links are categorized according to my determination of best fit s
 - [Outlier](https://en.wikipedia.org/wiki/Outlier)
 - [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
 - [Multidimensional analysis](https://en.wikipedia.org/wiki/Multidimensional_analysis) - Data dimensions and measurements
+- [Discrete choice](https://en.wikipedia.org/wiki/Discrete_choice)
+- [Marginal likelihood](https://en.wikipedia.org/wiki/Marginal_likelihood)
 
 ## Data Science, Data Mining, and Advanced Analytics
 - [Machine learning portal](https://en.wikipedia.org/wiki/Portal:Machine_learning)
@@ -140,10 +142,11 @@ Note that some links are categorized according to my determination of best fit s
 - [Matrix math](https://en.wikipedia.org/wiki/Matrix_(mathematics))
 - [Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
 
-## Computer Science and Information Theory
+## Computer Science, Information Theory, and Decision Theory
 - [Computer science portal](https://en.wikipedia.org/wiki/Portal:Computer_science)
 - [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 - [Directed acyclic graph (DAG)](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+- [Scoring rule](https://en.wikipedia.org/wiki/Scoring_rule)
 
 ## Software Architecture and Design Patterns
 - [Multitenancy](https://en.wikipedia.org/wiki/Multitenancy)

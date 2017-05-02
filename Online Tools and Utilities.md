@@ -3,6 +3,7 @@
 ## Networking, DNS, IP, ...
 - [What is my IP?](http://whatismyipaddress.com/)
 - [Internet speed test](http://www.speedtest.net/)
+- [fast.com](https://fast.com/)
 - [IP calulator and subnetting](http://jodies.de/ipcalc?host=192.168.0.1&mask1=24&mask2=)
 - [cidr / vlsm supernet calculator](http://www.subnet-calculator.com/cidr.php)
 - [IP subnet calculator](http://www.subnet-calculator.com/subnet.php?net_class=A)
@@ -52,3 +53,4 @@
 
 ## MISC
 - [Open Source License Chooser](http://choosealicense.com/)
+- [Dictionary.com](http://www.dictionary.com/)

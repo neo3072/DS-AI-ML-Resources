@@ -2,6 +2,7 @@
 
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)
 - [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [The Deep Learning textbook](http://www.deeplearningbook.org/)
 - [Mastering Predictive Analytics with R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r)
 - [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r)
 - [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)

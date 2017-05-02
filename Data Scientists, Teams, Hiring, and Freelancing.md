@@ -11,6 +11,7 @@
 - <a href="#projects">Take Home Projects</a>
 - <a href="#forhire">Data Scientists for Hire & Training</a>
 - <a href="#datacomps">Data Science & Big Data Consulting Companies</a>
+- <a href="#freelancing">Freelancing</a>
 
 <h2><a name="roles">Roles</a></h2>
 
@@ -77,6 +78,8 @@
 - [Hiring a data scientist](https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/)
 - [Top mistakes data scientists make](https://cyborgus.com/2017/04/03/top-mistakes-data-scientists-make/)
 - [Nurturing a productive data team](https://pages.dataiku.com/hubfs/Guidebooks/Nurturing-infographics.pdf)
+- [What makes a great data scientist?](https://cyborgus.com/2017/03/19/what-makes-a-great-data-scientist/)
+- [How to think like a data scientist to become one](https://cyborgus.com/2017/03/13/think-like-data-scientist/)
 
 <h2><a name="projects">Take Home Projects</a></h2>
 
@@ -90,6 +93,11 @@ Coming soon...
 
 - [Mu Sigma](https://www.mu-sigma.com/)
 - [Mosaic](http://www.mosaicdatascience.com/)
+
+<h2><a name="freelancing">Freelancing</a></h2>
+- [Infographic: How to Calculate Your Freelance Hourly Rate](http://blog.creativelive.com/how-to-calculate-freelance-hourly-rate-infographic/)
+- [Freelancer 101: How to Set Up a Simple Accounting System](https://hired.com/blog/candidates/freelancer-101-simple-accounting-system/)
+- [New to Freelancing? 9 Things You Need to Know](https://hired.com/blog/candidates/new-freelancing-9-things-need-know/)
 
 <!-- ## References
 - The Field Guide to Data Science (Booz, Allen, Hamilton) -->

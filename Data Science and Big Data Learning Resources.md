@@ -1,5 +1,6 @@
 ## Table of Contents
 - <a href="#interactive">Interactive</a>
+- <a href="#apidocs">API Docs</a>
 - <a href="#articles">Articles</a>
 - <a href="#books">Books Online</a>
 - <a href="#tutorials">Tutorials</a>
@@ -17,6 +18,10 @@
 - [Google structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 - [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
 - [food2vec - Tools for cooking with machine intelligence](https://altosaar.github.io/food2vec/)
+
+<h2><a name="apidocs">API Docs</a></h2>
+
+- [SQL² REFERENCE](http://quasar-analytics.org/docs/sqlreference/)
 
 <h2><a name="articles">Articles</a></h2>
 
@@ -66,6 +71,8 @@
     + [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
     + [Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
     + [Data processing architectures – Lambda and Kappa](https://www.ericsson.com/research-blog/data-knowledge/data-processing-architectures-lambda-and-kappa/)
+    + [Firing on All Cylinders: The 2017 Big Data Landscape](http://mattturck.com/bigdata2017/)
+        * [The 2017 Big Data Landscape PNG](http://mattturck.com/wp-content/uploads/2017/04/Big-Data-Landscape-2017-Matt-Turck-FirstMark.png)
 - Software, Tools, and Services
     + [Four Ways to Extend Jupyter Notebook](http://mindtrove.info/4-ways-to-extend-jupyter-notebook/)
     + [Making Publication Ready Python Notebooks](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
