@@ -290,6 +290,7 @@ the horizontal scalability of distributed systems with the familiarity of SQL
     + [Definition](https://en.wikipedia.org/wiki/Data_mart) - The access layer of the data warehouse environment that is used to get data out to the users. The data mart is a subset of the data warehouse and is usually oriented to a specific business line or team.
 
 ## Data Modeling and Mapping
+- [Dimensional modeling](http://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
 - Active record (AR)
 - Data access object (DAO)
 - Data mapper

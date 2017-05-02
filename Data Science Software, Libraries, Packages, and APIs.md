@@ -173,12 +173,13 @@
     + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
     + [Snowplow](http://snowplowanalytics.com/guides/)
     + [Mixpanel](https://mixpanel.com/)
-- Notebooks
+- Notebooks and collaboration
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
     + [Jupyter notebook extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
     + [Mode Analytics](https://about.modeanalytics.com/) - A SQL editor, Python notebook, and visualization builder, all rolled into one.
     + [Apache Zeppelin](https://zeppelin.apache.org/) - A web-based notebook that enables interactive data analytics. 
     + [Beaker](http://beakernotebook.com/index) - A notebook-style development environment for working interactively with large and complex datasets. 
+    + [Dataiku](http://www.dataiku.com/) - Dataiku DSS is the collaborative data science software platform for teams of data scientists, data analysts, and engineers to explore, prototype, build, and deliver their own data products more efficiently
 - GUI-driven advanced analytics and data mining
     + [RapidMiner](http://docs.rapidminer.com/) - Data science platform
     + [KNIME](https://tech.knime.org/documentation) - Fast, easy and intuitive access to advanced data science

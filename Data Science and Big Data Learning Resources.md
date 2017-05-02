@@ -1,4 +1,5 @@
 ## Table of Contents
+- <a href="#interactive">Interactive</a>
 - <a href="#articles">Articles</a>
 - <a href="#books">Books Online</a>
 - <a href="#tutorials">Tutorials</a>
@@ -6,6 +7,15 @@
 - <a href="#whitepapers">Whitepapers</a>
 - <a href="#bootcamps">Bootcamps and Training</a>
 - <a href="#resources">General Resources</a>
+
+<h2><a name="interactive">Interactive</a></h2>
+- [Google AI experiments](https://aiexperiments.withgoogle.com)
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [Scikit-learn's Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [RapidMiner Machine Learning Algorithm Reference Guide](http://mod.rapidminer.com/#app)
+- [Google structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
+- [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
+- [food2vec - Tools for cooking with machine intelligence](https://altosaar.github.io/food2vec/)
 
 <h2><a name="articles">Articles</a></h2>
 - Data science
@@ -29,6 +39,7 @@
     + [Introduction to Online Machine Learning : Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)
     + [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
     + [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+    + [Which machine learning algorithm should I use?](http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 - Artificial intelligence
     + [59 impressive things artificial intelligence can do today](http://www.businessinsider.com/artificial-intelligence-ai-most-impressive-achievements-2017-3/)
     + [MIT - The Missing Link of Artificial Intelligence](https://www.technologyreview.com/s/600819/the-missing-link-of-artificial-intelligence/)
