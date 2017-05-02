@@ -190,6 +190,47 @@
 - Terminal and CLI
     + [HTTPie](https://httpie.org/doc)
 
+## Data Mining and Analytics
+- [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
+- [Orange](http://orange.biolab.si/docs/) - Open source machine learning and data visualization for novice and expert
+- [RapidMiner](http://docs.rapidminer.com/) - Data science platform
+- [Statwing](https://www.statwing.com/)
+
+## Business Intelligence and Data Visualization
+- [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
+- [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)
+- [Graphviz](http://www.graphviz.org/) - Open source graph visualization software
+- [Tableau](http://www.tableau.com/support) - Business intelligence software
+- [Qlik](https://help.qlik.com/) - Business intelligence software
+- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/documentation/powerbi-landing-page/)
+- [SlamData](http://docs.slamdata.com/en/v4.0/)
+- [Silk](https://www.silk.co/home)
+- [Chartio](https://chartio.com/login/?next=/welcome/)
+- [Plotly](https://plot.ly/)
+- [Datawrapper](https://www.datawrapper.de/)
+- [TIBCO Jaspersoft](https://www.jaspersoft.com/big-data-business-intelligence-instant)
+- [IBM Cognos](http://www.ibm.com/analytics/us/en/technology/cognos-software/) - [Kibana](https://www.elastic.co/products/kibana) - Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stac
+
+## Enterprise Big Data and Analytics Products and Services
+- [Databricks](https://databricks.com/) - Data integration, real-time exploration, and production pipelines in the cloud, powered by Apache® Spark
+- [Talend](http://www.talend.com/) - Open source integration software provider to data-driven enterprises
+- [Teradata](http://www.teradata.com/?LangType=1033)
+    + Business Analytics Solutions
+    + Analytical Architecture Consulting
+    + Hybrid Cloud Products
+- [Pentaho](http://www.pentaho.com/)
+- [Matlab](https://www.mathworks.com/help/matlab/) - The Language of Technical Computing
+- [HPE Vertica](http://www8.hp.com/us/en/software-solutions/advanced-sql-big-data-analytics/) - Enables organizations to manage and analyze massive volumes of structured and semi-structured data quickly and reliably with no limits or business compromises
+- [IBM SPSS Modeler](https://www.ibm.com/marketplace/cloud/spss-modeler/resources/us/en-us#product-header-top) - A predictive analytics platform that helps you build accurate predictive models quickly and deliver predictive intelligence to individuals, groups, systems and the enterprise
+- [IBM SPSS Statistics](https://www.ibm.com/marketplace/cloud/statistical-analysis-and-reporting/us/en-us) - An integrated family of products that addresses the entire analytical process, from planning to data collection to analysis, reporting and deployment
+- [SAS](https://support.sas.com/documentation/) - Business intelligence software
+- [Alteryx](http://downloads.alteryx.com/documentation.html)
+- [Qubole](https://www.qubole.com/)
+- [SAP](https://support.sap.com/documentation.html)
+- [KNIME](https://tech.knime.org/documentation)
+- [Splunk](http://docs.splunk.com/Documentation)
+- [FICO Big Data Analyzer - Formerly Karmasphere](http://www.fico.com/en/products/fico-big-data-analyzer#corebenefits)
+
 ## APIs
 - [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
     + [Lex](https://aws.amazon.com/lex/)
