@@ -82,6 +82,13 @@
 - [Nurturing a productive data team](https://pages.dataiku.com/hubfs/Guidebooks/Nurturing-infographics.pdf)
 - [What makes a great data scientist?](https://cyborgus.com/2017/03/19/what-makes-a-great-data-scientist/)
 - [How to think like a data scientist to become one](https://cyborgus.com/2017/03/13/think-like-data-scientist/)
+- [The Life of a Data Scientist](http://www.mastersindatascience.org/careers/data-scientist/)
+- [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
+- [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
+- [Data Science Falls Into Many Roles](http://www.forbes.com/sites/rawnshah/2015/10/06/data-science-falls-into-many-roles/)
+- [What’s the Difference Between Data Science Roles?](https://www.betterbuys.com/bi/comparing-data-science-roles/)
+- [Doing Data Science Right — Your Most Common Questions Answered](http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/)
+- [Top 12 Interesting Careers to Explore in Big Data](http://www.kdnuggets.com/2016/10/top-12-interesting-careers-explore-big-data.html)
 
 <h2><a name="trends">Jobs, Skills, and Salary Trends</a></h2>
 

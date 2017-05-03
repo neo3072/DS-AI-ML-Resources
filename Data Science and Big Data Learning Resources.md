@@ -2,6 +2,7 @@
 - <a href="#interactive">Interactive</a>
 - <a href="#apidocs">API Docs</a>
 - <a href="#articles">Articles</a>
+- <a href="#research">Research and Analysis</a>
 - <a href="#books">Books Online</a>
 - <a href="#tutorials">Tutorials</a>
 - <a href="#moocs">MOOCS and Online Learning</a>
@@ -27,15 +28,11 @@
 
 <h2><a name="articles">Articles</a></h2>
 
+- Startup and Entrepreneur
+    + [The Startup Founder’s Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1)
 - Repository
     + [arXiv.org](https://arxiv.org/) - Cornell University's open access to 1MM+ e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics
 - Data science
-    + [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
-    + [The Life of a Data Scientist](http://www.mastersindatascience.org/careers/data-scientist/)
-    + [Data Science Falls Into Many Roles](http://www.forbes.com/sites/rawnshah/2015/10/06/data-science-falls-into-many-roles/)
-    + [What’s the Difference Between Data Science Roles?](https://www.betterbuys.com/bi/comparing-data-science-roles/)
-    + [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
-    + [Doing Data Science Right — Your Most Common Questions Answered](http://firstround.com/review/doing-data-science-right-your-most-common-questions-answered/)
     + [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
     + [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
     + [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
@@ -43,12 +40,8 @@
     + [The Periodic Table of Data Science](https://www.r-bloggers.com/the-periodic-table-of-data-science/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
         * [The Periodic Table of Data Science PNG](https://i2.wp.com/s3.amazonaws.com/assets.datacamp.com/blog_assets/Data-Science-Periodic-Table.png)
 - Machine learning
-    + [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
     + [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
     + [The 10 Algorithms Machine Learning Engineers Need to Know](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
-    + [DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
-    + [10+ Machine Learning as a Service Platforms](http://www.butleranalytics.com/10-machine-learning-as-a-service-platforms/)
-    + [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
     + [What are the pros and cons of offline vs. online learning?](https://www.quora.com/What-are-the-pros-and-cons-of-offline-vs-online-learning)
     + [Introduction to Online Machine Learning : Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)
     + [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
@@ -69,24 +62,19 @@
     + [Real-time Data Processing in AWS Cloud](https://www.infoq.com/articles/real-time-data-processing-in-aws-cloud)
     + [How much data does one need to efficiently use Hadoop instead of SQL?](https://www.quora.com/How-much-data-does-one-need-to-efficiently-use-Hadoop-instead-of-SQL)
     + [Don't use Hadoop - your data isn't that big](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html)
-    + [All the best big data tools and how to use them](https://www.import.io/post/all-the-best-big-data-tools-and-how-to-use-them/)
-    + [The big data ecosystem for science](https://www.oreilly.com/ideas/the-big-data-ecosystem-for-science?imm_mid=0ea74c&cmp=em-data-na-na-newsltr_20161109)
     + [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
     + [Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
     + [Data processing architectures – Lambda and Kappa](https://www.ericsson.com/research-blog/data-knowledge/data-processing-architectures-lambda-and-kappa/)
-    + [Firing on All Cylinders: The 2017 Big Data Landscape](http://mattturck.com/bigdata2017/)
-        * [The 2017 Big Data Landscape PNG](http://mattturck.com/wp-content/uploads/2017/04/Big-Data-Landscape-2017-Matt-Turck-FirstMark.png)
-- Software, Tools, and Services
-    + [Four Ways to Extend Jupyter Notebook](http://mindtrove.info/4-ways-to-extend-jupyter-notebook/)
-    + [Making Publication Ready Python Notebooks](http://blog.juliusschulz.de/blog/ultimate-ipython-notebook)
-- Programming and Computer Science
-- IoT
-- Careers
-    + [Top 12 Interesting Careers to Explore in Big Data](http://www.kdnuggets.com/2016/10/top-12-interesting-careers-explore-big-data.html)
 - Opinion
     + [Suffering-oriented programming](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 - Databases
     + [Analytics 101: Choosing the right database](https://reflect.io/blog/analytics-101-choosing-the-right-database/)
+- Programming and Computer Science
+- IoT
+
+<h2><a name="research">Research and Analysis</a></h2>
+
+- [Gigaom](https://gigaom.com/)
 
 <h2><a name="books">Books Online</a></h2>
 
