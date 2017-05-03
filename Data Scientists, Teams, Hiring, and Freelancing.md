@@ -8,6 +8,7 @@
 - <a href="#ex-process">Example Process</a>
 - <a href="#interview-q">Interview Questions</a>
 - <a href="#articles">Articles</a>
+- <a href="#trends">Jobs, Skills, and Salary Trends</a>
 - <a href="#projects">Take Home Projects</a>
 - <a href="#forhire">Data Scientists for Hire & Training</a>
 - <a href="#datacomps">Data Science & Big Data Consulting Companies</a>
@@ -70,6 +71,7 @@
 - [17 More Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2017/02/17-data-science-interview-questions-answers.html)
 - [50 Questions to Test True Data Science Knowledge](http://www.datasciencecentral.com/profiles/blogs/25-questions-to-detect-fake-data-scientists)
 - [Top Hadoop Interview Questions & Answers](http://www.datasciencecentral.com/profiles/blogs/top-11-hadoop-interview-questions-answers)
+- [Over 100 Data Science Interview Questions](http://www.learndatasci.com/data-science-interview-questions/)
 
 <h2><a name="articles">Articles</a></h2>
 
@@ -80,6 +82,11 @@
 - [Nurturing a productive data team](https://pages.dataiku.com/hubfs/Guidebooks/Nurturing-infographics.pdf)
 - [What makes a great data scientist?](https://cyborgus.com/2017/03/19/what-makes-a-great-data-scientist/)
 - [How to think like a data scientist to become one](https://cyborgus.com/2017/03/13/think-like-data-scientist/)
+
+<h2><a name="trends">Jobs, Skills, and Salary Trends</a></h2>
+
+- [The 3 Highest Paid Jobs in Tech (and 17 Skills That Get You Hired)](https://hired.com/blog/candidates/3-highest-paid-jobs-technology/)
+- [2017 State of Global Tech Salaries](https://hired.com/state-of-salaries-2017)
 
 <h2><a name="projects">Take Home Projects</a></h2>
 

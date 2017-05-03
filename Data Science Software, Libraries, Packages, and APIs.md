@@ -12,11 +12,6 @@
 - [Grunt](http://gruntjs.com/plugins)
 - [Cookiecutter - Project templates](https://github.com/audreyr/cookiecutter)
 
-## Tools and Language Popularity
-- [Tiobe Index for Programming Languages](http://www.tiobe.com/tiobe-index/)
-- [Top Analytics, Data Science software – KDnuggets 2016 Software Poll Results](http://www.kdnuggets.com/2016/06/r-python-top-analytics-data-mining-data-science-software.html)
-- [What Big Data, Data Science, Deep Learning software goes together?](http://www.kdnuggets.com/2016/06/big-data-science-deep-learning-software-associations.html)
-
 ## Software, Libraries, and Packages
 - Deep learning and neural networks
     + [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
@@ -26,6 +21,10 @@
     + [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html) - Open source software library for numerical computation using data flow graphs
     + [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne) - An Amazon developed library for building Deep Learning (DL) machine learning (ML) models
     + [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
+    + [Blocks](http://blocks.readthedocs.io/en/latest/) - A framework that helps you build and manage neural network models on using Theano
+    + [Lasagne](http://lasagne.readthedocs.io/en/latest/) - A lightweight library to build and train neural networks in Theano
+    + [MXNet](http://mxnet.io/api/python/index.html#python-api-reference) - Flexible and Efficient Library for Deep Learning
+    + [PyTorch](http://pytorch.org/docs/) - An optimized tensor library for deep learning using GPUs and CPUs
 - Python
     + Package and Environment Management
         * [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
@@ -256,3 +255,9 @@
     + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
     + [BigML](https://bigml.com/)
     + [Carto.com](https://carto.com/)
+
+## Tools and Language Popularity, Comparisons, Trends, ...
+- [Tiobe Index for Programming Languages](http://www.tiobe.com/tiobe-index/)
+- [Top Analytics, Data Science software – KDnuggets 2016 Software Poll Results](http://www.kdnuggets.com/2016/06/r-python-top-analytics-data-mining-data-science-software.html)
+- [What Big Data, Data Science, Deep Learning software goes together?](http://www.kdnuggets.com/2016/06/big-data-science-deep-learning-software-associations.html)
+- [Python Deep Learning Frameworks Reviewed](https://indico.io/blog/python-deep-learning-frameworks-reviewed/)

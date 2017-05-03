@@ -7,6 +7,7 @@
 - <a href="#moocs">MOOCS and Online Learning</a>
 - <a href="#whitepapers">Whitepapers</a>
 - <a href="#bootcamps">Bootcamps and Training</a>
+- <a href="#trends">Programming Languages, Software, and Packages Trends</a>
 - <a href="#resources">General Resources</a>
 
 <h2><a name="interactive">Interactive</a></h2>
@@ -18,6 +19,7 @@
 - [Google structured data testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 - [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
 - [food2vec - Tools for cooking with machine intelligence](https://altosaar.github.io/food2vec/)
+- [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 
 <h2><a name="apidocs">API Docs</a></h2>
 
@@ -37,6 +39,7 @@
     + [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
     + [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
     + [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+    + [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
     + [The Periodic Table of Data Science](https://www.r-bloggers.com/the-periodic-table-of-data-science/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
         * [The Periodic Table of Data Science PNG](https://i2.wp.com/s3.amazonaws.com/assets.datacamp.com/blog_assets/Data-Science-Periodic-Table.png)
 - Machine learning
@@ -214,6 +217,10 @@
 - [The Data Incubator](https://www.thedataincubator.com/)
 - [XTOL](http://www.xtolcorp.com/)
 - [Deeplearningtrack - Online data science school](https://www.deeplearningtrack.com/)
+
+<h2><a name="trends">Programming Languages, Software, and Packages Trends</a></h2>
+
+- [Stack Overflow Developer Survey Results 2017](https://stackoverflow.com/insights/survey/2017)
 
 <h2><a name="resources">General Resources</a></h2>
 
