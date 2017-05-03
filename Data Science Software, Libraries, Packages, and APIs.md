@@ -25,6 +25,7 @@
     + [Lasagne](http://lasagne.readthedocs.io/en/latest/) - A lightweight library to build and train neural networks in Theano
     + [MXNet](http://mxnet.io/api/python/index.html#python-api-reference) - Flexible and Efficient Library for Deep Learning
     + [PyTorch](http://pytorch.org/docs/) - An optimized tensor library for deep learning using GPUs and CPUs
+    + [Sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
 - Python
     + Package and Environment Management
         * [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
@@ -33,6 +34,7 @@
     + Machine Learning
         * [Scikit-image](http://scikit-image.org/) - A collection of algorithms for image processing
         * [Scikit-learn](http://scikit-learn.org/stable/documentation.html) - A Python module for machine learning
+        * [Scikit-feature](https://github.com/jundongl/scikit-feature) - Open-source feature selection repository in python
         * [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox that provides a wide range of unified and efficient Machine Learning (ML) methods
         * [Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
         * [PyMC](https://pymc-devs.github.io/pymc/index.html) - A python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo
@@ -47,7 +49,7 @@
         * [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
         * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
         * [TextBlob](https://textblob.readthedocs.io/en/dev/) - A Python (2 and 3) library for processing textual data
-        * [Gensim](http://radimrehurek.com/gensim/) - Python framework for fast Vector Space Modelling
+        * [Gensim](http://radimrehurek.com/gensim/) - Topic modelling for humans
         * [fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) - Pre-trained word vectors for 90 languages, trained on Wikipedia using fastText
     + Visualization
         * [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
@@ -57,6 +59,7 @@
         * [ggplot](http://yhat.github.io/ggplot/docs.html) - A package for plotting in Python
         * [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
         * [Facebook's Visdom](https://github.com/facebookresearch/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data
+        * [Scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects
     + Munging and Wrangling
         * [Pandas](http://pandas.pydata.org/pandas-docs/stable/) - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
     + Scientific and Numerical
@@ -165,14 +168,13 @@
         * [RCurl](https://cran.r-project.org/web/packages/RCurl/index.html) - A wrapper for 'libcurl' <http://curl.haxx.se/libcurl/> Provides functions to allow one to compose general HTTP requests and provides convenient functions to fetch URIs, get & post forms, etc. and process the results returned by the Web server
 - Visualization
     + [Plot.ly](https://plot.ly/) - The modern platform for agile business intelligence and data science
+- Reinforcement learning
+    + [Ray](http://ray.readthedocs.io/en/latest/index.html) - A flexible, high-performance distributed execution framework
 - General machine learning
     + [Turi](https://turi.com/learn/) - A machine learning modeling tool for developers and data scientists
+    + [Smile](http://haifengl.github.io/smile/) - Statistical Machine Intelligence & Learning Engine
 - Natural language (NLP, NLG, NLU)
     + [GloVe: Global Vectors for Word Representation](http://nlp.stanford.edu/projects/glove/) - An unsupervised learning algorithm for obtaining vector representations for words
-- Analytics
-    + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
-    + [Snowplow](http://snowplowanalytics.com/guides/)
-    + [Mixpanel](https://mixpanel.com/)
 - Notebooks and collaboration
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
     + [Jupyter notebook extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
@@ -190,6 +192,20 @@
     + [SymPy](http://docs.sympy.org/latest/index.html) - A Python library for symbolic mathematics
 - Terminal and CLI
     + [HTTPie](https://httpie.org/doc)
+- Data modeling
+    + [dbt](http://getdbt.com/) - Data Modeling for Teams
+- Instrumentation, data collection, and analytics
+    + [Google Analytics](https://www.google.com/analytics/)
+    + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
+    + [Snowplow](http://snowplowanalytics.com/guides/)
+    + [Mixpanel](https://mixpanel.com/)
+    + [Heap](https://heapanalytics.com/)
+- Business metrics and analytics
+    + [Baremetrics](https://baremetrics.com/)
+- Feedback, Surveys, Questionnaires, and Net promoter score (NPS)
+    + [Wootric](https://www.wootric.com/)
+    + [Delighted](https://delighted.com/)
+    + [Survey Monkey](https://www.surveymonkey.com/)
 
 ## Data Mining and Analytics
 - [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
@@ -198,6 +214,8 @@
 - [Statwing](https://www.statwing.com/)
 
 ## Business Intelligence and Data Visualization
+- [Mode Analytics](https://about.modeanalytics.com/) - A SQL editor, Python notebook, and visualization builder, all rolled into one.
+- [Looker](https://looker.com/) - Business intelligence
 - [AWS QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
 - [Google Data Studio](https://datastudio.google.com/u/0/#/org//navigation/reporting)
 - [Graphviz](http://www.graphviz.org/) - Open source graph visualization software
@@ -232,6 +250,8 @@
 - [KNIME](https://tech.knime.org/documentation)
 - [Splunk](http://docs.splunk.com/Documentation)
 - [FICO Big Data Analyzer - Formerly Karmasphere](http://www.fico.com/en/products/fico-big-data-analyzer#corebenefits)
+- [DataScience.com](https://www.datascience.com/) - A powerful platform for enterprise data science
+- [DataRobot](https://www.datarobot.com/) - Advanced enterprise machine learning platform
 
 ## APIs
 - [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
@@ -250,7 +270,6 @@
     + [Translation API](https://cloud.google.com/translate/)
 - Other
     + [text-processing.com](http://text-processing.com/) - Natural Language Processing APIs and Python NLTK Demos
-    + [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
     + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
     + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
     + [BigML](https://bigml.com/)

@@ -3,7 +3,6 @@
 - <a href="#apidocs">API Docs</a>
 - <a href="#articles">Articles</a>
 - <a href="#research">Research and Analysis</a>
-- <a href="#books">Books Online</a>
 - <a href="#tutorials">Tutorials</a>
 - <a href="#moocs">MOOCS and Online Learning</a>
 - <a href="#whitepapers">Whitepapers</a>
@@ -76,11 +75,6 @@
 
 - [Gigaom](https://gigaom.com/)
 
-<h2><a name="books">Books Online</a></h2>
-
-- [Deep Learning](http://www.deeplearningbook.org/)
-- [NLTK - Natural Language Processing with Python](http://www.nltk.org/book/)
-
 <h2><a name="tutorials">Tutorials</a></h2>
 
 - [Learn TensorFlow and deep learning, without a Ph.D. - Google Blog](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
@@ -152,6 +146,8 @@
     + [Best Data Science Online Courses](http://www.kdnuggets.com/2015/10/best-data-science-online-courses.html)
     + [Online Education in Analytics, Big Data, Data Science, Machine Learning](http://www.kdnuggets.com/education/online.html)
     + [Data Science Academy - Free Data Science Courses](http://datascienceacademy.com/free-data-science-courses/)
+    + [New Online Data Science Tracks for 2017](http://www.kdnuggets.com/2017/04/new-online-data-science-tracks-2017.html)
+    + [Data Science Online Courses: A Comprehensive List for 2017](http://www.learndatasci.com/best-data-science-online-courses/)
 
 <h2><a name="whitepapers">Whitepapers</a></h2>
 

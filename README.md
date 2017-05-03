@@ -29,7 +29,7 @@ Cheers, and best of luck with your technical endeavors!
 + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Examples.md)
 + [Big Data, Analytics, and IoT Architecture Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Reference.md)
 + [Blogs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Blogs.md)
-+ [Books List](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Books%20List.md)
++ [Books](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Books.md)
 + [Cheat Sheets](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cheat%20Sheets.md)
 + [Cloud, SaaS, PaaS, and IaaS](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Cloud%2C%20SaaS%2C%20PaaS%2C%20and%20IaaS.md)
 + [Data Science and Big Data Learning Resources](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20and%20Big%20Data%20Learning%20Resources.md)

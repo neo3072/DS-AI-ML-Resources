@@ -20,6 +20,7 @@
 
 - Data Warehouse and Data Lake
     + [AWS Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
+    + [Snowflake](https://www.snowflake.net/) - The Only Data Warehouse Built for the Cloud
     + [Google Cloud BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
     + [Apache Tajo](http://tajo.apache.org/docs/current/index.html) - A robust big data relational and distributed data warehouse system for Apache Hadoop
     + [Greenplum](http://gpdb.docs.pivotal.io/43100/common/welcome.html) - The World's First Open Source Massively Parallel Data Warehouse

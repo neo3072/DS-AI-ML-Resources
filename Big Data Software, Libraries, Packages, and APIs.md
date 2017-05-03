@@ -34,7 +34,7 @@
 - Data Cleaning and Integrity
     + [OpenRefine](http://openrefine.org/documentation.html) - A powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data
     + [DataCleaner](http://datacleaner.org/docs) - A strong data profiling engine for discovering and analyzing the quality of your data
-- Data Integration, ingestion, ETL, Transfer, and Migration
+- Data Ingestion and Integration
     + [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform
     + [Apache Spark Streaming](http://spark.apache.org/docs/latest/streaming-programming-guide.html) - An extension of the core Spark API that enables scalable, high-throughput, fault-tolerant stream processing of live data streams
     + [Apache Sqoop](http://sqoop.apache.org/) - A tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases
@@ -45,6 +45,10 @@
     + [Blockspring](https://www.blockspring.com/)
     + [Apache Falcon](https://falcon.apache.org/index.html) - A feed processing and feed management system aimed at making it easier for end consumers to onboard their feed processing and feed management on hadoop clusters
     + [Logstash](https://falcon.apache.org/index.html) - Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite “stash.”
+- ETL/ELT
+    + [Stitch](https://www.stitchdata.com/)
+    + [Fivetran](https://fivetran.com/)
+    + [Singer](https://www.singer.io/) - Simple, Composable, Open Source ETL
 - Data Processing (Batch, real-time/streaming, ...)
     + [Apache Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
         * [Spark SQL](http://spark.apache.org/docs/latest/sql-programming-guide.html) - A Spark module for structured data processing
