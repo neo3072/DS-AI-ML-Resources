@@ -13,7 +13,7 @@
 - [Cookiecutter - Project templates](https://github.com/audreyr/cookiecutter)
 
 ## Software, Libraries, and Packages
-- Deep learning and neural networks
+- Deep learning and neural networks (General)
     + [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
     + [Caffe](http://caffe.berkeleyvision.org/) - A deep learning framework made with expression, speed, and modularity in mind
     + [DL4J](https://deeplearning4j.org/) - Open-Source, Distributed, Deep Learning Library for the JVM
@@ -24,7 +24,6 @@
     + [Blocks](http://blocks.readthedocs.io/en/latest/) - A framework that helps you build and manage neural network models on using Theano
     + [Lasagne](http://lasagne.readthedocs.io/en/latest/) - A lightweight library to build and train neural networks in Theano
     + [MXNet](http://mxnet.io/api/python/index.html#python-api-reference) - Flexible and Efficient Library for Deep Learning
-    + [PyTorch](http://pytorch.org/docs/) - An optimized tensor library for deep learning using GPUs and CPUs
     + [Sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
 - Python
     + Package and Environment Management
@@ -36,8 +35,8 @@
         * [Scikit-learn](http://scikit-learn.org/stable/documentation.html) - A Python module for machine learning
         * [Scikit-feature](https://github.com/jundongl/scikit-feature) - Open-source feature selection repository in python
         * [Shogun](https://github.com/shogun-toolbox/shogun) - Machine learning toolbox that provides a wide range of unified and efficient Machine Learning (ML) methods
+        * [mlpy](http://mlpy.sourceforge.net/docs/3.5/) - A Python module for Machine Learning built on top of NumPy/SciPy and the GNU Scientific Libraries
         * [Annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-        * [PyMC](https://pymc-devs.github.io/pymc/index.html) - A python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo
         * [PyMVPA](http://www.pymvpa.org/manual.html) - PyMVPA stands for MultiVariate Pattern Analysis (MVPA) in Python
         * [Deap](http://deap.gel.ulaval.ca/doc/default/index.html) - A novel evolutionary computation framework for rapid prototyping and testing of ideas
     + Artificial Intelligence (AI)
@@ -45,12 +44,23 @@
         * [Chainer](http://docs.chainer.org/en/stable/) - A Powerful, Flexible, and Intuitive Framework for Neural Networks
         * [NuPIC](http://numenta.org/#docs) - An open source project based on a theory of neocortex called Hierarchical Temporal Memory (HTM)
         * [Neon](http://neon.nervanasys.com/index.html/) - Python-based deep learning library
+        * [OpenCV](http://opencv.org/) - An open source computer vision and machine learning software library
+        * [Neurolab](https://code.google.com/archive/p/neurolab/) - A simple and powerful Neural Network Library for Python
+        * [SimpleAI](https://github.com/simpleai-team/simpleai) - Implements many of the artificial intelligence algorithms described on the book "Artificial Intelligence, a Modern Approach", from Stuart Russel and Peter Norvig
+        * [Nolearn](https://pythonhosted.org/nolearn/) - Utility modules that are helpful with machine learning tasks
+        * [Hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python
+        * [DeepPy](https://github.com/andersbll/deeppy) - Deep learning in Python
+        * [PyTorch](http://pytorch.org/docs/) - An optimized tensor library for deep learning using GPUs and CPUs
     + Natural Language (NLP, NLG, NLU)
         * [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
         * [spaCy](https://spacy.io/) - Industrial-Strength Natural Language Processing in Python
         * [TextBlob](https://textblob.readthedocs.io/en/dev/) - A Python (2 and 3) library for processing textual data
         * [Gensim](http://radimrehurek.com/gensim/) - Topic modelling for humans
         * [fastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) - Pre-trained word vectors for 90 languages, trained on Wikipedia using fastText
+    + Probabilistic Graphical Modelling
+        * [PyMC](https://pymc-devs.github.io/pymc/index.html) - A python module that implements Bayesian statistical models and fitting algorithms, including Markov chain Monte Carlo
+        * [pgmpy](http://pgmpy.org/)
+        * [libpgm](http://pythonhosted.org/libpgm/)
     + Visualization
         * [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
         * [Seaborn](http://seaborn.pydata.org/api.html) - A Python visualization library based on matplotlib
