@@ -207,9 +207,10 @@
 - Instrumentation, data collection, and analytics
     + [Google Analytics](https://www.google.com/analytics/)
     + [Segment's Analytics.js](https://github.com/segmentio/analytics.js)
-    + [Snowplow](http://snowplowanalytics.com/guides/)
+    + [Snowplow](https://snowplowanalytics.com/)
     + [Mixpanel](https://mixpanel.com/)
     + [Heap](https://heapanalytics.com/)
+    + [Kissmetrics](https://www.kissmetrics.com/)
 - Business metrics and analytics
     + [Baremetrics](https://baremetrics.com/)
 - Feedback, Surveys, Questionnaires, and Net promoter score (NPS)
