@@ -20,6 +20,7 @@
 - [An Interactive Tutorial on Numerical Optimization](http://www.benfrederickson.com/numerical-optimization/)
 - [food2vec - Tools for cooking with machine intelligence](https://altosaar.github.io/food2vec/)
 - [Immersive linear algebra](http://immersivemath.com/ila/index.html)
+- [Seeing Theory - A Visual Introduction to Probability and Statistics](http://students.brown.edu/seeing-theory)
 
 <h2><a name="apidocs">API Docs</a></h2>
 

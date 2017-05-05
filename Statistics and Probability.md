@@ -1,8 +1,5 @@
 # Statistics and Probability
 
-## Online Resources
-- [Seeing Theory - A Visual Introduction to Probability and Statistics](http://students.brown.edu/seeing-theory)
-
 ## Statistics
 - Descriptive statistics
     + Summary statistics

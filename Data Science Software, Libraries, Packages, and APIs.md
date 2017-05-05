@@ -233,6 +233,8 @@
     + [Dynatrace](https://www.dynatrace.com/)
     + [Stackify](https://stackify.com/)
     + [Logentries](https://logentries.com/)
+- Event data capture
+    + [Keen IO](https://keen.io/)
 
 ## Data Mining and Analytics
 - [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
@@ -296,11 +298,13 @@
     + [Natural Language API](https://cloud.google.com/natural-language/)
     + [Translation API](https://cloud.google.com/translate/)
 - Other
+    + [Houndify](https://www.houndify.com/) - Add a voice-enabled AI to anything
     + [text-processing.com](http://text-processing.com/) - Natural Language Processing APIs and Python NLTK Demos
     + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
     + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
     + [BigML](https://bigml.com/)
     + [Carto.com](https://carto.com/)
+    + [RISELab](https://rise.cs.berkeley.edu/) - Real-time Intelligence with Secure Execution
 
 ## Tools and Language Popularity, Comparisons, Trends, ...
 - [Tiobe Index for Programming Languages](http://www.tiobe.com/tiobe-index/)
