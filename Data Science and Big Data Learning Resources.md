@@ -69,7 +69,10 @@
     + [Suffering-oriented programming](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 - Databases
     + [Analytics 101: Choosing the right database](https://reflect.io/blog/analytics-101-choosing-the-right-database/)
-- Programming and Computer Science
+- Computer Science
+- Programming languages
+    + [What is SQL and why is it important?
+](https://www.quora.com/What-is-SQL-and-why-is-it-important/answer/Kunal-Mukherjee-23?srid=h8DXi)
 - IoT
 
 <h2><a name="research">Research and Analysis</a></h2>
