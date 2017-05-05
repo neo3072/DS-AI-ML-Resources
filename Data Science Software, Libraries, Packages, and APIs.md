@@ -216,6 +216,23 @@
     + [Wootric](https://www.wootric.com/)
     + [Delighted](https://delighted.com/)
     + [Survey Monkey](https://www.surveymonkey.com/)
+- Logging, monitoring, and application performance management (APM)
+    + [Splunk](https://www.splunk.com/)
+    + [Sumo Logic](https://www.sumologic.com/)
+    + [Loggly](https://www.loggly.com/)
+    + [Papertrail](https://papertrailapp.com/)
+    + [Graylog](https://www.graylog.org/)
+    + [ELK Stack](https://www.elastic.co/products)
+        * [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+        * [Logstash](https://www.elastic.co/products/logstash)
+        * [Kibana](https://www.elastic.co/products/kibana)
+    + [Stackify Prefix](https://stackify.com/prefix/)
+    + [New Relic](https://newrelic.com/)
+    + [Nagios](https://www.nagios.org/)
+    + [AppDynamics](https://www.appdynamics.com/solutions/application-performance-management/)
+    + [Dynatrace](https://www.dynatrace.com/)
+    + [Stackify](https://stackify.com/)
+    + [Logentries](https://logentries.com/)
 
 ## Data Mining and Analytics
 - [Google Cloud Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
