@@ -1,5 +1,51 @@
 # Product Management and Development Methodologies
 
+## Learning Resources
+- Bootcamps and Training
+    + [General Assembly](https://generalassemb.ly/)
+        * Product Management Bootcamp - 1 full day
+        * Product Management - 10 week course
+- MOOCS and Online Learning
+    + []()
+- Meetups
+    + The Product Group
+    + ProductTank
+    + Chicago Product Management Association
+    + Product Hunt
+    + Chicago PDMA
+- Books
+    + [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B002Q6XUE4/ref=sr_1_sc_1)
+    + [The Product Manager's Desk Reference](https://www.amazon.com/Product-Managers-Reference-Business-Books-ebook/dp/B00KWQ1TN4/ref=sr_1_6)
+    + [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00LMGLXTS/ref=sr_1_1)
+    + [Cracking the PM Interview: How to Land a Product Manager Job in Technology](https://www.amazon.com/Cracking-PM-Interview-Product-Technology-ebook/dp/B00ISYMUR6/ref=sr_1_2)
+    + [Inspired: How To Create Products Customers Love](https://www.amazon.com/Inspired-Create-Products-Customers-Love-ebook/dp/B001AQ95UY/ref=sr_1_3)
+    + [Decode and Conquer: Answers to Product Management Interviews](https://www.amazon.com/Decode-Conquer-Answers-Management-Interviews-ebook/dp/B00IGIUMQ0/ref=sr_1_4)
+    + [The Product Manager's Survival Guide: Everything You Need to Know to Succeed as a Product Manager](https://www.amazon.com/Product-Managers-Survival-Guide-Everything-ebook/dp/B00C4BDRCG/ref=sr_1_7)
+    + [Making It Right: Product Management For A Startup World](https://www.amazon.com/Making-Right-Product-Management-Startup-ebook/dp/B00M0KTVTO/ref=sr_1_8)
+    + [The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/B01FV5Y7MA/ref=sr_1_11)
+    + [The Product Manager's Handbook](https://www.amazon.com/Product-Managers-Handbook-Linda-Gorchels-ebook/dp/B006402OPY/ref=sr_1_13)
+    + [Value Proposition Design: How to Create Products and Services Customers Want](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH/ref=sr_1_14)
+    + [The Practitioner's Guide to Product Management](https://www.amazon.com/Practitioners-Guide-Product-Management-ebook/dp/B00AWBN7V6/ref=sr_1_16)
+    + [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=sr_1_21)
+    + [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG/ref=sr_1_26)
+    + [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/ref=sr_1_28)
+    + [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers-ebook/dp/B06X426D4F/ref=sr_1_30)
+    + [The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](https://www.amazon.com/Inmates-Are-Running-Asylum-Products-ebook/dp/B000OZ0N62/ref=sr_1_1)
+    + [Think First: My No-Nonsense Approach to Creating Successful Products, Memorable User Experiences + Very Happy Customers](https://www.amazon.com/Think-First-No-Nonsense-Successful-Experiences-ebook/dp/B015DC4SCU/ref=sr_1_1)
+    + [Designing Products People Love: How Great Designers Create Successful Products](https://www.amazon.com/Designing-Products-People-Love-Successful-ebook/dp/B019YN9WFW/ref=sr_1_1)
+    + [Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others-ebook/dp/B000N2HCKQ/ref=sr_1_1)
+    + [The Power of Habit: Why We Do What We Do in Life and Business](https://www.amazon.com/Power-Habit-What-Life-Business-ebook/dp/B0055PGUYU/ref=sr_1_1)
+    + [Meaningful: The Story of Ideas That Fly](https://www.amazon.com/Meaningful-Story-Ideas-That-Fly-ebook/dp/B016CUPB5K/ref=sr_1_1)
+    + [Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO/ref=sr_1_1)
+    + [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.com/UX-Strategy-Innovative-Digital-Products-ebook/dp/B00XZF0J26/ref=sr_1_1)
+    + [Mastering Communication at Work: How to Lead, Manage, and Influence](https://www.amazon.com/Mastering-Communication-Work-Manage-Influence-ebook/dp/B002OEZJ74/ref=sr_1_1)
+    + [Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Works-OReilly-ebook/dp/B006UKFFE0/ref=sr_1_1)
+    + [Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=sr_1_1)
+    + [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=sr_1_15)
+    + [Kanban](https://www.amazon.com/Kanban-David-J-Anderson-ebook/dp/B0057H2M70/ref=sr_1_1)
+- Articles
+- General
+
 ## Product Management Key Elements and Phases
 - Product vision
     + The needs addressed, problems solve, and the WHY
