@@ -4,15 +4,32 @@
 - Bootcamps and Training
     + [General Assembly](https://generalassemb.ly/)
         * Product Management Bootcamp - 1 full day
-        * Product Management - 10 week course
+        * [Product Management](https://generalassemb.ly/education/product-management) - 10 week or 1 week accelerated course
+    + [Product School](https://www.productschool.com/)
+    + [Tradecraft](http://tradecrafted.com/)
+    + [BrainStation - Product Management Course (Canada)](https://brainstation.io/course/toronto/product-management)
 - MOOCS and Online Learning
-    + []()
+    + [280 Group](https://280group.com/product-management-training/courses/)
+    + [Pragmatic Marketing](http://pragmaticmarketing.com/courses)
+    + [Brainmates - Essentials of Product Management](https://brainmates.com.au/product_manager_training/essentials-product-management/)
+    + [Sequent Learning Networks](https://www.sequentlearning.com/)
+    + [UC Berkeley's: Product Management Training Program](http://ucberkeley-galima.com/product-management/)
+    + [UC Berkeley's: Product Management](http://executive.berkeley.edu/programs/product-management)
+    + [Coursera product management specialization](https://www.coursera.org/specializations/product-management)
+    + [Coursera product management courses](https://www.coursera.org/courses?languages=en&query=product+management)
+    + [Udemy Product Mangement Courses](https://www.udemy.com/courses/search/?lang=en&q=product%20management&src=ukw)
+    + [Raj Karamchedu - First-time Product Management](http://school.rajkaramchedu.com/p/productmanagement)
+    + [Lynda - Product Management Foundations](https://www.lynda.com/Business-Skills-tutorials/Product-Management-Fundamentals/479069-2.html)
+    + [Highbrow - Intro To Product Management](http://gohighbrow.com/portfolio/intro-to-product-management/)
 - Meetups
     + The Product Group
     + ProductTank
     + Chicago Product Management Association
     + Product Hunt
     + Chicago PDMA
+- Certifications
+    + [Scrum.org - PROFESSIONAL SCRUM PRODUCT OWNER TRAINING](https://www.scrum.org/courses/professional-scrum-product-owner-training)
+    + [Scrum Alliance - Certified Scrum Product Owner® (CSPO)](https://www.scrumalliance.org/certifications/practitioners/cspo-certification)
 - Books
     + [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B002Q6XUE4/ref=sr_1_sc_1)
     + [The Product Manager's Desk Reference](https://www.amazon.com/Product-Managers-Reference-Business-Books-ebook/dp/B00KWQ1TN4/ref=sr_1_6)
@@ -43,6 +60,7 @@
     + [Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=sr_1_1)
     + [Scrum: a Breathtakingly Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction-ebook/dp/B007P5N8D4/ref=sr_1_15)
     + [Kanban](https://www.amazon.com/Kanban-David-J-Anderson-ebook/dp/B0057H2M70/ref=sr_1_1)
+    + [#pmbook: How to become a product manager](https://www.inkshares.com/books/pmbook)
 - Articles
 - General
 
