@@ -44,10 +44,10 @@
     * Drive new business models
     * Discover new products and services
     * Business reporting and analysis
-+ Self-service (ad-hoc) analytics and insights
-+ Personalize customer experiences
+- Self-service (ad-hoc) analytics and insights
+- Personalize customer experiences
 - Health diagnosis
-- Enterprise performance management (EPM
+- Enterprise performance management (EPM)
 - Information discovery
 
 ## Fields, Techniques, and Deliverables
@@ -128,8 +128,8 @@
 - Virtual and augmented reality
 - Knowledge management
 - Real time intelligence and analytics
-+ Security intelligence (security, fraud, and risk analysis)
-+ Stream computing
+- Security intelligence (security, fraud, and risk analysis)
+- Stream computing
     * Event and data streams
 
 ## Tasks by Area (Wikipedia)
