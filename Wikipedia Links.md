@@ -33,6 +33,10 @@ Note that some links are categorized according to my determination of best fit s
 - [Multidimensional analysis](https://en.wikipedia.org/wiki/Multidimensional_analysis) - Data dimensions and measurements
 - [Discrete choice](https://en.wikipedia.org/wiki/Discrete_choice)
 - [Marginal likelihood](https://en.wikipedia.org/wiki/Marginal_likelihood)
+- [Cohort analysis](https://en.wikipedia.org/wiki/Cohort_analysis)
+- [Behavioral analytics](https://en.wikipedia.org/wiki/Behavioral_analytics)
+- [Path analysis (computing)](https://en.wikipedia.org/wiki/Path_analysis_(computing))
+- [Funnel analysis](https://en.wikipedia.org/wiki/Funnel_analysis)
 
 ## Data Science, Data Mining, and Advanced Analytics
 - [Machine learning portal](https://en.wikipedia.org/wiki/Portal:Machine_learning)
@@ -65,6 +69,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 - [Pattern matching](https://en.wikipedia.org/wiki/Pattern_matching)
 - [Hyperparameter optimization](https://en.wikipedia.org/wiki/Hyperparameter_optimization)
+- [Cross Industry Standard Process for Data Mining - CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
 
 ## Artificial Intelligence
 - [Artificial intelligence portal](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
@@ -74,6 +79,7 @@ Note that some links are categorized according to my determination of best fit s
 - [Evolutionary algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm)
 - [Evolutionary computing](https://en.wikipedia.org/wiki/Evolutionary_computation)
 - [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+- [Types of artificial neural networks](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
 - [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
     + [POS Tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging)
@@ -147,6 +153,10 @@ Note that some links are categorized according to my determination of best fit s
 - [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 - [Directed acyclic graph (DAG)](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 - [Scoring rule](https://en.wikipedia.org/wiki/Scoring_rule)
+- [NAND Gate](https://en.wikipedia.org/wiki/NAND_gate)
+- [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition)
+- [Qubit](https://en.wikipedia.org/wiki/Qubit)
+- [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
 
 ## Software Architecture and Design Patterns
 - [Multitenancy](https://en.wikipedia.org/wiki/Multitenancy)

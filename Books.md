@@ -2,6 +2,10 @@
 
 ## Book Links
 - [The Deep Learning textbook](http://www.deeplearningbook.org/)
+- [Neural Networks and Deep Learning](neuralnetworksanddeeplearning)
+- [Stanford's Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+- [Reinforcement Learning:
+An Introduction](http://incompleteideas.net/sutton/book/the-book-1st.html)
 - [NLTK - Natural Language Processing with Python](http://www.nltk.org/book/)
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)
 - [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
