@@ -75,44 +75,47 @@
             - "Inspired by your shopping trends"
             - "Inspired by your Wish List"
     + Robo-advisors and portfolio rebalancing
-        * Weathfront
-        * Betterment
-    + Spotify 'Daily Mix'
+        * [Weathfront](https://www.wealthfront.com/)
+        * [Betterment](https://www.betterment.com/)
+    + Spotify
+        * [Daily Mix](https://support.spotify.com/us/using_spotify/search_play/daily-mix/)
     + Personalized news feeds, including Facebook
 - Prediction and Classification
     + Many diseases or issues, including stroke, cancer, ...
         * Cancer detection using cell-free genomes
         * cardiovascular events prediction (e.g., heart attack, stroke)
         * Companies
-            - Google DeepMind
-            - IBM's Watson (Watson for Oncology)
-            - Others (Freenome, CureMetrix, ...)
+            - [Google DeepMind](https://deepmind.com/)
+            - IBM's [Watson](https://www.ibm.com/watson/) (Watson for Oncology)
+            - Others
+                - [Freenome](https://www.freenome.com/)
+                - [CureMetrix](http://curemetrix.com/)
     + Spam for email
     + Smart email categorization (Gmail)
         * Primary, social, and promotion inboxes, as well as labeling emails as important
     + Stock market predictions and algorithmic trading
-        * Kavout
-        * Sentient
-        * Genotick
-        * Numerai
-        * qplum
+        * [Kavout](https://www.kavout.com/)
+        * [Sentient](http://www.sentient.ai/)
+        * [Genotick](http://genotick.com/)
+        * [Numerai](https://numer.ai/)
+        * [QPLUM](https://www.qplum.co/)
     + Crime
         * Who, Type, and location
         * Based on previous crime and social media activity
         * Examples
-            - BRS Labs AISight
+            - [BRS Labs AISight](https://www.genetec.com/solutions/resources/brs-labs-aisight-technology-and-omnicast-integration)
     + Suicide risk
         * Based on a lot of different risk factors
         * Examples
-            - Facebook
-            - Instagram
-            - Cogito
+            - [Facebook](https://research.fb.com/category/facebook-ai-research-fair/)
+            - [Instagram](https://www.instagram.com/)
+            - [Cogito](https://www.cogitocorp.com/)
     + Uber's ETA
     + Credit decisions
-        * Underwrite.ai
+        * [Underwrite.ai](http://www.underwrite.ai/)
     + Agriculture - predicting crop yields
-        * Descartes Lab
-        * Stanford's Sustainability and Artificial Intelligence Lab
+        * [Descartes Lab](http://www.descarteslabs.com/)
+            - [Stanford's Sustainability and Artificial Intelligence Lab](http://sustain.stanford.edu/)
 - Computer vision and recognition
     + Computer vision
         * Components
@@ -126,7 +129,7 @@
                 + Quality control
                 + Assembly line
             - Visual surveillance
-                + BRS Labs AISight
+                + [BRS Labs AISight](https://www.genetec.com/solutions/resources/brs-labs-aisight-technology-and-omnicast-integration)
             - Navigation, including autonomous vehicles
                 + Land, water, and space
             - Medical image processing and diagnosis
@@ -135,37 +138,40 @@
                 + Missle guidance
             - Drones
                 + Inspection (pipelines), surveillance, exploration (buildings), and protection
-                    * Digital Signal
-                    * Shield.ai
-            - Item recognition (Amazon Go)
+                    * [Digital Signal](http://www.digitalsignalcorp.com/)
+                    * [Shield.ai](http://shield.ai/)
+            - Item recognition
+                + [Amazon Go](https://www.amazon.com/b?node=16008589011)
     + Recognition
-        * Shazam
-        * Delectable/Vivino
+        * [Shazam](https://www.shazam.com/)
+        * Wine
+            - [Delectable](https://delectable.com/)
+            - [Vivino](https://www.vivino.com/)
         * Facebook photo recognition (highlights faces and suggests friends to tag)
         * Speech/Voice to text (faster to talk than to type acc'g to Stanford)
-            - Google Cloud Speech API
+            - [Google Cloud Speech API](https://cloud.google.com/speech/)
         * Text to speech
-            - Amazon Polly
+            - [Amazon Polly](https://aws.amazon.com/polly/)
         * Video (NEED EXAMPLE)
-            - Clarifai
-            - Google Cloud Video Intelligence
+            - [Clarifai](https://www.clarifai.com/)
+            - [Google Cloud Video Intelligence](https://cloud.google.com/video-intelligence/)
         * OCR
             - Mobile app check deposits and uploading receipts
             - Post office address recognition
         * Object recognition
-            - Pinterest (then used to recommend other pins)
+            - [Pinterest](https://medium.com/@Pinterest_Engineering) (then used to recommend other pins)
         * Image
-            - Clarifai
-            - Captricity
-            - Google Cloud Vision API
-            - Amazon Rekognition
+            - [Clarifai](https://www.clarifai.com/)
+            - [Captricity](http://captricity.com/)
+            - [Google Cloud Vision API](https://cloud.google.com/vision/)
+            - [Amazon Rekognition](https://aws.amazon.com/rekognition/)
 - Clustering and anomaly detection
     + Clustering
     + Anomaly detection
         * Manufacturing
         * Data security
-            - Cylance
-            - Darktrace
+            - [Cylance](https://www.cylance.com/en_us/home.html)
+            - [Darktrace](https://www.darktrace.com/)
         * Personal security (security screenings at airports, stadiums, concerts, and other venues)
         * Law enforcement
         * Application performance
@@ -173,9 +179,9 @@
 - Natural language
     + Smart personal assistants
         * Examples
-            - Alexa
-            - Google Assistant
-            - Siri
+            - [Alexa](https://developer.amazon.com/alexa)
+            - [Google Assistant](https://assistant.google.com/)
+            - [Siri](https://www.apple.com/ios/siri/)
         * Uses
             - Internet searches and answer questions
             - Set reminders
@@ -193,25 +199,25 @@
         * Story telling
         * Sports recaps
         * Examples
-            - Narrative Science
+            - [Narrative Science](https://www.narrativescience.com/)
     + NLP and language translation
         * Voicemail transcripts
-        * Textio for writing optimal job descriptions
+        * [Textio](https://textio.com/) for writing optimal job descriptions
         * eDiscovery
         * Examples
-            - Google Natural Language API
-            - Google Cloud Translation API
+            - [Google Natural Language API](https://cloud.google.com/natural-language/)
+            - [Google Cloud Translation API](https://cloud.google.com/translate/)
     + NLU and Chatbots
         * Shopping
         * Errands
         * Day to day tasks
         * Examples
-            - x.ai (personal assistant)
-            - MindMeld
-            - Google Inbox Smart Reply
-            - Amazon Lex, includes Automatic speech recognition (ASR)
+            - [x.ai](https://x.ai/) (personal assistant)
+            - [MindMeld](https://www.mindmeld.com/)
+            - [Google Inbox Smart Reply](https://blog.google/products/gmail/save-time-with-smart-reply-in-gmail/)
+            - [Amazon Lex](https://aws.amazon.com/lex/), includes Automatic speech recognition (ASR)
     + Smart instant messaging
-        * Google Allo smart messaging app (https://allo.google.com/)
+        * [Google Allo](https://allo.google.com/) smart messaging app (https://allo.google.com/)
 - Marketing and forecasting
     + Marketing
         * Market basket analysis > location and promotions of items
@@ -220,8 +226,8 @@
         * Customer lifetime value forecasting > future business value and predicting growth
         * Targeted and personalized advertising
         * Examples
-            - Appier
-            - Voyager Labs
+            - [Appier](https://www.appier.com/)
+            - [Voyager Labs](http://voyagerlabs.co/)
     + Forecasting
         * Revenue and growth
 - Other
@@ -234,36 +240,38 @@
         * Get your time back in the vehicle to do what you want
         * Efficient ride-sharing
         * Examples
-            - Zoox
-            - Nauto
-            - nuTonomy
+            - [Zoox](http://zoox.com/)
+            - [Nauto](http://www.nauto.com/)
+            - [nuTonomy](http://nutonomy.com/)
     + Home monitoring, control, and security
-        * Flare
+        * [Flare](https://buddyguard.io/)
     + Voice-controled robotics
     + Photo-realistic pictures generation from text or sketches
-        * NYU article
+        * [NYU article](http://cds.nyu.edu/astronomers-explore-uses-ai-generated-images-using-ai-generating-imagess/)
     + Music generation
-        * Jukedeck
+        * [Jukedeck](https://www.jukedeck.com/)
     + Movie and script generation
     + Automatically generated software code
-        * DeepCoder (Microsoft and Cambridge)
+        * [DeepCoder](https://openreview.net/pdf?id=ByldLrqlx) (Microsoft and Cambridge)
     + Authentication without passwords (using mobile phone that knows it's you)
-        * TypingDNA
+        * [TypingDNA](https://typingdna.com/)
     + Customer support
-        * DigitalGenius
+        * [DigitalGenius](https://www.digitalgenius.com/)
     + Optimized directions and routes
     + Plagiarism Checkers
     + Robo-readers and graders
     + Virtual reality
     + Gaming
-    + Zillow’s “zestimate” feature, which estimates the price of homes
+    + [Zillow’s](https://www.zillow.com/zestimate/) “zestimate” feature, which estimates the price of homes
     + Medical/Health
-        * BenevolentAI
+        * [BenevolentAI](http://benevolent.ai/)
     + Sales
-        * InsideSales.com
+        * [InsideSales.com](https://www.insidesales.com/)
 
 ## AI-specific Resources
 
 - Articles
-    + Coming soon...
+    + [AI 100: The Artificial Intelligence Startups Redefining Industries](https://www.cbinsights.com/blog/artificial-intelligence-top-startups/)
+    + [Sensors, Plus Brains: 17 IoT Companies Using Artificial Intelligence Tech](https://www.cbinsights.com/blog/artificial-intelligence-iot-company-list/)
+    + [Meet the 2017 CNBC Disruptor 50 companies](http://www.cnbc.com/2017/05/16/the-2017-cnbc-disruptor-50-list-of-companies.html)
 
