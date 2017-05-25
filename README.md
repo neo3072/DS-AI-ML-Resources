@@ -2,11 +2,11 @@
 
 Welcome! 
 
-This is <a href="http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_InnoArchiTech's_</a> non-exaustive, work in progress repository of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more. 
+This is <a href="http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_InnoArchiTech's_</a> curated set of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more. 
 
 A hyperlinked <a href="#toc">_table of contents_</a> is provided below for your convenience.
 
-If you find this repository useful, please _share_ it with others!
+If you find this repository useful, please _share_ it using these links.
 - [Twitter](https://twitter.com/intent/tweet?text=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20%26%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI%20%23Data)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources&title=Data%20Science,%20Machine%20Learning,%20Artificial%20Intelligence,%20Big%20Data,%20and%20IoT%20Resources&summary=)
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources)
@@ -16,7 +16,7 @@ Cheers, and best of luck with your technical endeavors!
 
 [Alex](http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
 
-For the latest _InnoArchiTech_ content updates, you can follow [_@innoarchitech_](https://twitter.com/innoarchitech) on _Twitter_ and sign up for our <a href="http://innoarchitech.com/newsletter/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_newsletter_</a>.
+Sign up for _InnoArchiTech's_ <a href="http://innoarchitech.com/newsletter/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_newsletter_</a> for the latest updates.
 
 <h2><a name="toc">Table of Contents</a></h2>
 
