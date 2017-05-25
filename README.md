@@ -20,6 +20,7 @@ PS. If you find this repository useful, please star it and _share_ it with these
 <h2><a name="toc">Table of Contents</a></h2>
 
 + [Algorithms and Tasks](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms%20and%20Tasks.md)
++ [Artificial Intelligence](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Artificial%20Intelligence.md)
 + [Big Data Software, Libraries, Packages, and APIs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%20Software%2C%20Libraries%2C%20Packages%2C%20and%20APIs.md)
 + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Examples.md)
 + [Big Data, Analytics, and IoT Architecture Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Reference.md)
