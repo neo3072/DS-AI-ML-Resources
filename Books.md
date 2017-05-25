@@ -2,7 +2,7 @@
 
 ## Book Links
 - [The Deep Learning textbook](http://www.deeplearningbook.org/)
-- [Neural Networks and Deep Learning](neuralnetworksanddeeplearning)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Stanford's Unsupervised Feature Learning and Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 - [Reinforcement Learning:
 An Introduction](http://incompleteideas.net/sutton/book/the-book-1st.html)
