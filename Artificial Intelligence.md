@@ -255,7 +255,7 @@
     + Smart instant messaging
         * Companies
             - [Google Allo](https://allo.google.com/) smart messaging app (https://allo.google.com/)
-- Marketing and forecasting
+- Marketing and Sales
     + Marketing
         * Market basket analysis > location and promotions of items
         * Cohort analysis and segmentation > targeted marketing
@@ -265,7 +265,7 @@
         * Companies
             - [Appier](https://www.appier.com/)
             - [Voyager Labs](http://voyagerlabs.co/)
-    + Forecasting
+    + Sales and forecasting
         * Revenue and growth
 - Other
     + Google search
