@@ -104,7 +104,7 @@
 - Content-based filtering
 - Graph-based methods
 
-## Neural Networks and Deep Learning
+## [Neural Networks and Deep Learning](http://www.asimovinstitute.org/neural-network-zoo/)
 - Feed forward neural networks (FF or FFNN) and perceptrons (P)
 - Radial basis function (RBF)
 - Hopfield network (HN)
