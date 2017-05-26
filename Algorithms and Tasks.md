@@ -104,6 +104,32 @@
 - Content-based filtering
 - Graph-based methods
 
+## Neural Networks and Deep Learning
+- Feed forward neural networks (FF or FFNN) and perceptrons (P)
+- Radial basis function (RBF)
+- Hopfield network (HN)
+- Markov chains (MC or discrete time Markov Chain, DTMC)
+- Boltzmann machines (BM)
+- Restricted Boltzmann machines (RBM)
+- Autoencoders (AE)
+- Sparse autoencoders (SAE)
+- Variational autoencoders (VAE)
+- Denoising autoencoders (DAE) 
+- Deep belief networks (DBN)
+- Convolutional neural networks (CNN or deep convolutional neural networks, DCNN)
+- Deconvolutional networks (DN)
+- Deep convolutional inverse graphics networks (DCIGN)
+- Generative adversarial networks (GAN)Recurrent neural networks (RNN)Long / short term memory (LSTM)
+- Gated recurrent units (GRU)
+- Neural Turing machines (NTM)
+- Bidirectional recurrent neural networks, bidirectional long / short term memory networks and bidirectional gated recurrent units (BiRNN, BiLSTM and BiGRU respectively)
+- Deep residual networks (DRN)
+- Echo state networks (ESN)
+- Extreme learning machines (ELM)
+- Liquid state machines (LSM)
+- Support vector machines (SVM)
+- Kohonen networks (KN, also self organising (feature) map, SOM, SOFM) 
+
 ## Anomaly Detection (Supervised, Unsupervised, Semi-supervised)
 - Density-based techniques - K-nearest neighbor, Local outlier factor
 - Subspace and correlation-based outlier detection for high-dimensional data
