@@ -12,6 +12,7 @@
 - <a href="#projects">Take Home Projects</a>
 - <a href="#forhire">Data Scientists for Hire & Training</a>
 - <a href="#datacomps">Data Science & Big Data Consulting Companies</a>
+- <a href="#datacommunity">Data Science Communities</a>
 - <a href="#freelancing">Freelancing</a>
 
 <h2><a name="roles">Roles</a></h2>
@@ -102,16 +103,41 @@ Coming soon...
 <h2><a name="forhire">Data Scientists for Hire & Training</a></h2>
 
 - [The Data Incubator](https://www.thedataincubator.com/)
+- [Kaggle Connect](https://www.kaggle.com/host)
+- [Upwork](https://www.upwork.com/)
+- [Toptal](https://www.toptal.com/data-science)
+- [Hired](https://hired.com)
 
 <h2><a name="datacomps">Data Science & Big Data Consulting Companies</a></h2>
 
 - [Mu Sigma](https://www.mu-sigma.com/)
 - [Mosaic](http://www.mosaicdatascience.com/)
+- [Forum Analytics](http://www.forumanalytics.com/)
+- [ZS](https://www.zs.com/)
+- [Dunnhumby](https://www.dunnhumby.com/)
+- [Civis Analytics](https://www.civisanalytics.com/)
+- [Softweb](http://www.softwebdatascience.com/)
+- [River Point](http://riverpoint.com/)
+- [Gray Matter Analytics](https://www.graymatteranalytics.com/)
+- [Decision Systems](http://www.decisionsystems.com/)
+- [CBIG Consulting](http://www.cbigconsulting.com/)
+- [Datascope](https://datascopeanalytics.com/)
+- [Strong Analytics](https://www.strong.io/)
+
+<h2><a name="datacommunity">Data Science Communities</a></h2>
+
+- [Gitter](https://gitter.im/explore/tags/curated:data-science)
+- [Kaggle Forum](https://www.kaggle.com/discussion)
+- [Crowd Analytix](https://www.crowdanalytix.com/community)
+- [Data Science Stack Exchange](https://datascience.stackexchange.com/)
+- [KDnuggets](http://www.kdnuggets.com/)
+- [Data Science Central Forum](http://www.datasciencecentral.com/forum)
 
 <h2><a name="freelancing">Freelancing</a></h2>
 - [Infographic: How to Calculate Your Freelance Hourly Rate](http://blog.creativelive.com/how-to-calculate-freelance-hourly-rate-infographic/)
 - [Freelancer 101: How to Set Up a Simple Accounting System](https://hired.com/blog/candidates/freelancer-101-simple-accounting-system/)
 - [New to Freelancing? 9 Things You Need to Know](https://hired.com/blog/candidates/new-freelancing-9-things-need-know/)
+- [How to Become a Freelance Data Scientist](https://www.springboard.com/blog/freelance-data-scientist/)
 
 <!-- ## References
 - The Field Guide to Data Science (Booz, Allen, Hamilton) -->
