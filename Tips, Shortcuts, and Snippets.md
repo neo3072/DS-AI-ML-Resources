@@ -1,6 +1,6 @@
-## Python Packages
+## Python
 
-**Importing**
+**Importing Packages**
 
 ```python
 import numpy as np
@@ -10,7 +10,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 ```
 
-**Updating**
+**Updating Packages**
 
 
 ## Jupyter
@@ -25,6 +25,7 @@ import matplotlib.pyplot as plt
 
 ```shell
 jupyter notebook # Launch Jupyter
+jupyter notebook --debug
 ```
 
 ## IPython
@@ -39,6 +40,9 @@ jupyter notebook # Launch Jupyter
 ```shell
 conda info -e # List environments
 ls -al ~/anaconda/envs/ # List environments in directory
+
+# Create environment and install packages
+conda create -n <env_name> python=<python_version_number> matplotlib numpy scipy scikit-learn jupyter pandas statsmodels nltk seaborn <additional packages> # E.g., name = py352, python version = 3.5.2
 
 conda env export > <path/filename.yml>
 ```
@@ -77,6 +81,13 @@ which python3
 python --version
 ```
 
+**Jupyter and IPython**
+```shell
+which jupyter
+which ipython
+jupyter kernelspec list
+```
+
 **PIP**
 ```shell
 which pip
@@ -87,6 +98,12 @@ which pip
 - IPython
 - Conda
 - Python
+- General installation directory (mac): /usr/local/bin
+- General framewords directory (mac): /Library/Frameworks
+
+## Installations
+
+- [Grunt](http://gruntjs.com/installing-grunt)
 
 
 
