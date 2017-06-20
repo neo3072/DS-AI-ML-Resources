@@ -72,6 +72,8 @@ conda update jupyter
 pip install -U pip # Update PIP
 ```
 
+-----
+
 ## Versions and Locations
 
 **Python**
@@ -93,6 +95,8 @@ jupyter kernelspec list
 which pip
 ```
 
+-----
+
 ## Important File Locations
 - Jupyter
 - IPython
@@ -100,6 +104,8 @@ which pip
 - Python
 - General installation directory (mac): /usr/local/bin
 - General framewords directory (mac): /Library/Frameworks
+
+-----
 
 ## Installations
 
