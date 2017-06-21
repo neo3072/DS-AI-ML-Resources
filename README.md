@@ -1,6 +1,6 @@
 <p><a href="http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource"><img src="assets/logo-horizontal-blue-No-Tagline.png" alt="InnoArchiTech Logo" width="350px"></a></p>
 
-Welcome to <a href="http://www.innoarchitech.com/about?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_Alex Castrounis'_</a> curated set of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more. 
+Welcome to <a href="http://www.innoarchitech.com/about?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_Alex Castrounis'_</a> curated set of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more. If you find this repository useful, please star it!
 
 A hyperlinked <a href="#toc">_table of contents_</a> is provided below for your convenience.
 
@@ -41,7 +41,7 @@ Cheers, and best of luck with your technical and not-so-technical endeavors!
 + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 
 </br>
-PS. If you find this repository useful, please star it and share with these links!
+Please share this repository with others!
 
 - [Twitter](https://twitter.com/intent/tweet?text=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20%26%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI%20%23Data)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources&title=Data%20Science,%20Machine%20Learning,%20Artificial%20Intelligence,%20Big%20Data,%20and%20IoT%20Resources&summary=)
