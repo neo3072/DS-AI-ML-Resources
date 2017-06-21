@@ -41,7 +41,7 @@ Cheers, and best of luck with your technical and not-so-technical endeavors!
 + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 
 </br>
-PS. If you find this repository useful, please star it and _share_ it with these links.
+PS. If you find this repository useful, please star it and share with these links!
 
 - [Twitter](https://twitter.com/intent/tweet?text=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20%26%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI%20%23Data)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources&title=Data%20Science,%20Machine%20Learning,%20Artificial%20Intelligence,%20Big%20Data,%20and%20IoT%20Resources&summary=)
