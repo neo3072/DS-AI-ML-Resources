@@ -6,9 +6,7 @@ A hyperlinked <a href="#toc">_table of contents_</a> is provided below for your 
 
 To learn about artificial intelligence, machine learning, and what both of these amazing fields can do for you or your business, check out Alex's <a href="http://skl.sh/2sEOYGT">_Goal-Driven Artificial Intelligence and Machine Learning_</a> class on Skillshare as well!
 
-Cheers, and best of luck with your technical endeavors!
-
-[Alex](http://www.innoarchitech.com/about/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource)
+Cheers, and best of luck with your technical and not-so-technical endeavors!
 
 <h2><a name="toc">Table of Contents</a></h2>
 
@@ -42,6 +40,7 @@ Cheers, and best of luck with your technical endeavors!
 + [Web, API, and DevOps Frameworks and Libraries](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%2C%20API%2C%20and%20DevOps%20Frameworks%20and%20Libraries.md)
 + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 
+</br>
 PS. If you find this repository useful, please star it and _share_ it with these links.
 - [Twitter](https://twitter.com/intent/tweet?text=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20%26%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI%20%23Data)
 - [LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources&title=Data%20Science,%20Machine%20Learning,%20Artificial%20Intelligence,%20Big%20Data,%20and%20IoT%20Resources&summary=)
