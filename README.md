@@ -42,7 +42,6 @@ Cheers, and best of luck with your technical and not-so-technical endeavors!
 + [Web, API, and DevOps Frameworks and Libraries](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%2C%20API%2C%20and%20DevOps%20Frameworks%20and%20Libraries.md)
 + [Wikipedia Links](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Wikipedia%20Links.md)
 
-</br>
 Please share this repository with others!
 
 - [Twitter](https://twitter.com/intent/tweet?text=Data%20Science,%20Machine%20Learning,%20AI,%20Big%20Data,%20%26%20IoT%20Resources%20https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources%20%23DataScience%20%23MachineLearning%20%23BigData%20%23IoT%20%23AI%20%23Data)
