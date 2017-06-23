@@ -1,4 +1,6 @@
-## Python
+## Languages, Packages, and Libraries
+
+### Python
 
 **Importing Packages**
 
@@ -13,7 +15,7 @@ import matplotlib.pyplot as plt
 **Updating Packages**
 
 
-## Jupyter
+### Jupyter
 
 **Configuration**
 ```python
@@ -28,12 +30,12 @@ jupyter notebook # Launch Jupyter
 jupyter notebook --debug
 ```
 
-## IPython
+### IPython
 
 **CLI**
 
 
-## Conda/Anaconda
+### Conda/Anaconda
 
 **Environment Management**
 
@@ -62,6 +64,7 @@ conda env create -f <path/filename.yml>
 conda list
 
 conda search -f python # List available Python packages
+conda search python
 
 conda update conda 
 conda update anaconda
@@ -75,7 +78,7 @@ conda update -n <env_name> <package_name(s)>
 conda update jupyter
 ```
 
-## PIP
+### PIP
 
 ```shell
 pip install -U pip # Update PIP
@@ -83,7 +86,7 @@ pip install -U pip # Update PIP
 
 -----
 
-## Versions and Locations
+## Versions, Locations, Lists, and Search
 
 **Python**
 ```shell
@@ -99,9 +102,31 @@ which ipython
 jupyter kernelspec list
 ```
 
+**Conda/Anaconda**
+```shell
+which anaconda
+```
+
 **PIP**
 ```shell
 which pip
+```
+
+**Ruby & RBENV**
+```shell
+which ruby
+gem list
+rbenv install –l # Shows Ruby versions available to rbenv
+```
+
+**Jekyll & Ruby Gems**
+```shell
+gem list jekyll
+```
+
+**Homebrew**
+```shell
+brew list
 ```
 
 -----
@@ -110,6 +135,7 @@ which pip
 - Jupyter
 - IPython
 - Conda
+    + ~/<conda_dist_directory>/envs
 - Python
 - General installation directory (mac): /usr/local/bin
 - General framewords directory (mac): /Library/Frameworks
