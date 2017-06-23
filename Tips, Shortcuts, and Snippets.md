@@ -40,31 +40,60 @@ from numpy import cov
 from numpy import median
 
 import pandas as pd
+from pandas import DataFrame as df
 
 import sklearn
-from sklearn import metrics
-from sklearn.metrics import mean_squared_error
+from sklearn import datasets
+from sklearn.datasets import fetch_mldata
+
 from sklearn.linear_model import LinearRegression
-from sklearn.cross_validation import KFold
-from sklearn import cross_validation
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.feature_selection import SelectKBest, f_classif
-from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.naive_bayes import MultinomialNB
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.neighbors import KNeighborsRegressor
-from sklearn.cross_validation import train_test_split
 from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.cluster import KMeans
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.ensemble import GradientBoostingClassifier
+
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import f_classif
+from sklearn.feature_extraction.text import CountVectorizer
+
+from sklearn import cross_validation
+from sklearn.cross_validation import train_test_split
 from sklearn.cross_validation import cross_val_predict
+from sklearn.cross_validation import KFold
+
+from sklearn import metrics
+from sklearn.metrics.pairwise import euclidean_distances
+from sklearn.metrics import mean_squared_error
+from sklearn.metrics import roc_auc_score
 
 import matplotlib
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 import seaborn as sns
 
+from bokeh.plotting import figure, output_file, show
+
+from IPython.display import Image
+
 from mpl_toolkits.basemap import Basemap
 
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+
+from statsmodels.regression.linear_model import OLS, WLS
+from statsmodels.tools.tools import rank, add_constant
+from statsmodels.datasets import macrodata
+import statsmodels.stats import diagnostic
+import statsmodels.regression.linear_model as lm
+import statsmodels.stats.diagnostic as smsdia
+import statsmodels.stats.outliers_influence as oi
+
 import scipy
+from scipy import stats
 from scipy.stats import chisquare
 from scipy.stats import chi2_contingency
 from scipy.spatial import distance
@@ -75,20 +104,54 @@ from scipy.stats import skew
 from scipy.stats import kurtosis
 from scipy.stats import norm
 from scipy.stats.stats import pearsonr
+from scipy.stats import trim_mean
+from scipy.stats.mstats import mode, gmean, hmean
+
+import nltk
 
 from pyspark.sql import SQLContext
 
 from bs4 import BeautifulSoup
 
+# Python Core (Standard Library)
 import math
-import re
+import random
+import statistics
+import io
+from io import StringIO
+import requests
+import csv
 import json
+import xml.etree.ElementTree
+import xml.dom
+import xml.sax
+import os
+import sys
+from datetime import date
+import shutil # Daily file and directory management tasks, higher level than os
+import glob # Function for making file lists from directory wildcard searches
+import re # Regular expressions
+from urllib.request # HTTP URL requests/responses
+from urllib.request import urlopen
+import smtplib # # SMTP for emails
+import poplib # # POP for emails
+import zlib # Data compression
+from timeit import Timer # Performance measurement
+import doctest # Quality control
+import unittest
+import xmlrpc.client # RPC
+import xmlrpc.server
+import email # Managing email messages
+import sqlite3
+import gettext
+import locale
+import codecs
+
+import re
 import sqlite3
 import psycopg2
-import random
 import operator
 from collections import Counter
-import csv
 ```
 
 ### PIP
