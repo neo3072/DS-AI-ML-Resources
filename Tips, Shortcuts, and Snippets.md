@@ -1,4 +1,12 @@
-## Languages, Packages, and Libraries
+## Packages
+
+### Linux
+
+**OS Updgrading**
+```shell
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get dist-upgrade
+```
 
 ### Python
 
@@ -12,8 +20,59 @@ import matplotlib
 import matplotlib.pyplot as plt
 ```
 
-**Updating Packages**
+### PIP
 
+```shell
+pip install -U pip # Update PIP
+```
+
+### Conda/Anaconda
+
+**Package Management**
+
+```shell
+conda list
+
+conda search -f python # List available Python packages
+conda search python
+
+conda update conda 
+conda update anaconda
+conda update --all
+
+conda update -n <env_name> <package_name(s)>
+```
+
+*Specific Packages*
+```shell
+conda update <package_name> # E.g., juptyer
+```
+
+### Homebrew
+```shell
+brew list
+```
+
+### Ruby/RBENV
+
+```shell
+gem list
+rbenv install –l # Shows Ruby versions available to rbenv
+```
+
+### Jekyll/Ruby Gems
+
+```shell
+gem list jekyll
+```
+
+<!-- **Updating Packages**
+
+**Listing Packages** -->
+
+-----
+
+## CLI and API
 
 ### Jupyter
 
@@ -34,6 +93,9 @@ jupyter notebook --debug
 
 **CLI**
 
+```shell
+jupyter kernelspec list
+```
 
 ### Conda/Anaconda
 
@@ -58,35 +120,9 @@ conda env export > <path/filename.yml>
 conda env create -f <path/filename.yml>
 ```
 
-**Package Management**
-
-```shell
-conda list
-
-conda search -f python # List available Python packages
-conda search python
-
-conda update conda 
-conda update anaconda
-conda update --all
-
-conda update -n <env_name> <package_name(s)>
-```
-
-*Specific Packages*
-```shell
-conda update jupyter
-```
-
-### PIP
-
-```shell
-pip install -U pip # Update PIP
-```
-
 -----
 
-## Versions, Locations, Lists, and Search
+## Versions and Locations
 
 **Python**
 ```shell
@@ -99,39 +135,46 @@ python --version
 ```shell
 which jupyter
 which ipython
-jupyter kernelspec list
 ```
 
 **Conda/Anaconda**
 ```shell
 which anaconda
+anaconda --version
 ```
 
 **PIP**
 ```shell
 which pip
+pip --version
+```
+
+**R**
+```shell
+R --version
+```
+
+**Node.js and NPM**
+```shell
+node -v
+npm -v
 ```
 
 **Ruby & RBENV**
 ```shell
 which ruby
-gem list
-rbenv install –l # Shows Ruby versions available to rbenv
+ruby -v
+rbenv --version
 ```
 
 **Jekyll & Ruby Gems**
 ```shell
-gem list jekyll
-```
-
-**Homebrew**
-```shell
-brew list
+jekyll --version
 ```
 
 -----
 
-## Important File Locations
+## Important File Locations (Linux/Mac)
 - Jupyter
 - IPython
 - Conda
@@ -139,21 +182,6 @@ brew list
 - Python
 - General installation directory (mac): /usr/local/bin
 - General framewords directory (mac): /Library/Frameworks
-
------
-
-## Installations
-
-- [Grunt](http://gruntjs.com/installing-grunt)
-
-## Linux
-
-**OS Updgrading**
-```shell
-sudo apt-get update && sudo apt-get upgrade
-sudo apt-get update && sudo apt-get dist-upgrade
-
-```
 
 
 
