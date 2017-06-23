@@ -1,4 +1,4 @@
-## Packages
+## Packages: Installing, Importing, Searching, Updating
 
 ### Linux
 
@@ -9,6 +9,11 @@ sudo apt-get update && sudo apt-get dist-upgrade
 ```
 
 ### Python
+
+**Updating via conda**
+```shell
+conda update python
+```
 
 **Importing Packages**
 
@@ -38,32 +43,50 @@ conda search python
 
 conda update conda 
 conda update anaconda
-conda update --all
-
+conda update --all # E.g., conda update --all python=3.5 # Updates all packages in default environment to Python 3 versions
 conda update -n <env_name> <package_name(s)>
+conda update <package_name> # E.g., juptyer
 ```
 
-*Specific Packages*
+### R
+
 ```shell
-conda update <package_name> # E.g., juptyer
+open https://cran.r-project.org/bin/macosx/
 ```
 
 ### Homebrew
 ```shell
 brew list
+brew update; brew upgrade
 ```
 
-### Ruby/RBENV
+### Ruby/RBENV/RVM
 
 ```shell
-gem list
 rbenv install –l # Shows Ruby versions available to rbenv
+rvm get stable
 ```
 
 ### Jekyll/Ruby Gems
 
 ```shell
-gem list jekyll
+gem list
+gem list <package_name> # E.g., jekyll
+gem update <package_name>
+gem update --system # If issue (https://rubygems.org/pages/download): gem install rubygems-update; update_rubygems
+```
+
+### Node/NPM
+
+```shell
+open https://nodejs.org/en/download/
+npm install npm@latest -g
+npm update -g # Update all global packages
+npm-check-updates -u
+
+npm install <module> --save-dev
+npm uninstall <package>
+npm uninstall -g <package>
 ```
 
 <!-- **Updating Packages**
