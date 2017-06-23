@@ -41,10 +41,19 @@ jupyter notebook --debug
 conda info -e # List environments
 ls -al ~/anaconda/envs/ # List environments in directory
 
-# Create environment and install packages
+# Create environment and install packages**
 conda create -n <env_name> python=<python_version_number> matplotlib numpy scipy scikit-learn jupyter pandas statsmodels nltk seaborn <additional packages> # E.g., name = py352, python version = 3.5.2
 
+# Delete environment
+conda remove -n <env_name> --all
+
+# Activate and deactivate environment
+source activate <env_name>
+source deactivate <env_name>
+
+# Export environment and load
 conda env export > <path/filename.yml>
+conda env create -f <path/filename.yml>
 ```
 
 **Package Management**
@@ -110,6 +119,15 @@ which pip
 ## Installations
 
 - [Grunt](http://gruntjs.com/installing-grunt)
+
+## Linux
+
+**OS Updgrading**
+```shell
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get dist-upgrade
+
+```
 
 
 
