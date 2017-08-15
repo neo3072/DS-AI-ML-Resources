@@ -1,14 +1,18 @@
 <p><a href="http://www.innoarchitech.com/?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource"><img src="assets/logo-horizontal-blue-No-Tagline.png" alt="InnoArchiTech Logo" width="350px"></a></p>
 
-Welcome to <a href="http://www.innoarchitech.com/about?utm_source=github&utm_medium=repo&utm_content=repolink&utm_campaign=opensource">_Alex Castrounis'_</a> curated set of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more!
+Welcome to my curated set of resources for data science, machine learning, artificial intelligence (AI), big data, internet of things (IoT), and more!
 
-Please star this repository if you find it to be useful, and a hyperlinked table of contents is provided below for your convenience.
+a hyperlinked table of contents is provided below for your convenience.
+
+<!-- Please star this repository if you find it to be useful, and a hyperlinked table of contents is provided below for your convenience. -->
 
 <!-- Please star this repository if you find it to be useful, and a hyperlinked <a href="#toc">_table of contents_</a> is provided below for your convenience. -->
 
-To learn about artificial intelligence, machine learning, and what both of these amazing fields can do for you or your business, check out Alex's <a href="http://skl.sh/2sEOYGT">_Goal-Driven Artificial Intelligence and Machine Learning_</a> class on Skillshare as well!
+<!-- To learn about artificial intelligence, machine learning, and what both of these amazing fields can do for you or your business, check out Alex's <a href="http://skl.sh/2sEOYGT">_Goal-Driven Artificial Intelligence and Machine Learning_</a> class on Skillshare as well! -->
 
 Cheers, and best of luck with your technical and not-so-technical endeavors!
+
+Alex
 
 <h2><a name="toc">Table of Contents</a></h2>
 
