@@ -1,6 +1,7 @@
 # Product Management and Development Methodologies
 
 ## Table of Contents
+- <a href="#roles">Product Roles and Hierarchy</a>
 - <a href="#resources">Learning Resources</a>
 - <a href="#phases">Product Management Key Elements and Phases</a>
 - <a href="#tradeoffs">Considerations and Tradeoffs</a>
@@ -16,6 +17,23 @@
 - <a href="#adoption">Technology Adoption</a>
 - <a href="#sla">Pricing and Service Levels</a>
 - <a href="#risk">Risk Management</a>
+
+<h2><a name="roles">Product Roles and Hierarchy</a></h2>
+
+- Management and Leadership
+    + Chief Product Officer (CPO)
+    + VP Product Management (VP, SVP, EVP)
+    + Senior Director, Product Management
+    + Director, Product Management
+    + Group Product Manager
+- Contributor
+    + Principal Product Manager
+    + Senior Product Manager
+    + Product Manager
+    + Associate Product Manager
+    + Product Owner
+
+[The Product Manager vs. Product Owner](https://blog.aha.io/the-product-manager-vs-product-owner/)
 
 <h2><a name="resources">Learning Resources</a></h2>
 
