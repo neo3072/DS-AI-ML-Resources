@@ -1,6 +1,11 @@
 # Algorithms & Tasks
 
-## Algorithm Categories
+## Table of Contents
+- <a href="#categories">Algorithm Categories</a>
+- <a href="#regression">Regression (Supervised) - Univariate, Multivariate, ...</a>
+
+<h2><a name="categories">Algorithm Categories</a></h2>
+
 - Decision tree learning
 - Association rule learning
 - Artificial neural networks
@@ -14,7 +19,8 @@
 - Sparse dictionary learning
 - Genetic algorithms
 
-## Regression (Supervised) - Univariate, Multivariate, ...
+<h2><a name="regression">Regression (Supervised) - Univariate, Multivariate, ...</a></h2>
+
 - Simple and multiple linear regression
 - Tree-based methods (e.g., decision tree or forest)
 - Generalized linear models (GLM)

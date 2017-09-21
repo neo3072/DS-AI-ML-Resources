@@ -1,6 +1,24 @@
 # Product Management and Development Methodologies
 
-## Learning Resources
+## Table of Contents
+- <a href="#resources">Learning Resources</a>
+- <a href="#phases">Product Management Key Elements and Phases</a>
+- <a href="#tradeoffs">Considerations and Tradeoffs</a>
+- <a href="#methodologies">Product Development Methodologies and Frameworks List (non-exhaustive)</a>
+- <a href="#agilevals">Agile Values</a>
+- <a href="#manifesto">Agile Manifesto - Principles</a>
+- <a href="#methodologiesdetails">Product Development Methodologies (Details)</a>
+- <a href="#prioritization">Prioritization</a>
+- <a href="#continuous">Continuous...</a>
+- <a href="#prodmarketfit">Product Market Fit</a>
+- <a href="#uxiceberg">UX Design Iceberg</a>
+- <a href="#mvp">MVP Characteristics</a>
+- <a href="#adoption">Technology Adoption</a>
+- <a href="#sla">Pricing and Service Levels</a>
+- <a href="#risk">Risk Management</a>
+
+<h2><a name="resources">Learning Resources</a></h2>
+
 - Bootcamps and Training
     + [General Assembly](https://generalassemb.ly/)
         * Product Management Bootcamp - 1 full day
@@ -64,7 +82,8 @@
 - Articles
 - General
 
-## Product Management Key Elements and Phases
+<h2><a name="phases">Product Management Key Elements and Phases</a></h2>
+
 - Product vision
     + The needs addressed, problems solve, and the WHY
 - Product strategy
@@ -106,14 +125,16 @@
         * Qualitative and quantitative
         * Agile testing matrix
 
-## Considerations and Tradeoffs
+<h2><a name="tradeoffs">Considerations and Tradeoffs</a></h2>
+
 - Iron triangle
     + No silver bullet for magically delivering fixed scope by a fixed date with fixed resources, requires difficult business­based trade­off decisions
 - Design by committee (collaboration vs concensus)
     + Godin - "Nothing is what happens when everyone has to agree"
     + Consistently produces weak results
 
-## Product Development Methodologies and Frameworks List (non-exhaustive)
+<h2><a name="methodologies">Product Development Methodologies and Frameworks List (non-exhaustive)</a></h2>
+
 - Agile/SCRUM
     + Alternatives
         * Disciplined agile delivery (DAD)
@@ -127,13 +148,15 @@
 - Extreme programming (XP)
 - Spiral
 
-## Agile Values
+<h2><a name="agilevals">Agile Values</a></h2>
+
 - Individuals and interactions over processes and tools
 - Working software over comprehensive documentation                    
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-## Agile Manifesto - Principles
+<h2><a name="manifesto">Agile Manifesto - Principles</a></h2>
+
 - Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.
@@ -165,7 +188,7 @@ emerge from self-organizing teams.
 to become more effective, then tunes and adjusts 
 its behavior accordingly.
 
-## Product Development Methodologies (Details)
+<h2><a name="methodologiesdetails">Product Development Methodologies (Details)</a></h2>
 
 **Kanban**
 - Principles
@@ -204,7 +227,8 @@ its behavior accordingly.
     + Minimum lovable product (MLP)
     + Minimum marketable feature (MMF)
 
-## Prioritization
+<h2><a name="prioritization">Prioritization</a></h2>
+
 - JTBD and importance vs satisfaction (four quadrants) | underserved needs
     + Opportunity (top left)
     + Competitive market (top right)
@@ -244,14 +268,16 @@ its behavior accordingly.
     + Benefit (positive)
     + Cost (negative)
 
-## Continuous...
+<h2><a name="continuous">Continuous...</a></h2>
+
 - Prioritization
 - Improvement
 - Optimization
 - Learning
 - Integration/deployment/delivery
 
-## Product Market Fit
+<h2><a name="prodmarketfit">Product Market Fit</a></h2>
+
 - Product
     + UX
     + Feature set
@@ -260,7 +286,8 @@ its behavior accordingly.
     + Underserved needs
     + Target customer
 
-## UX Design Iceberg
+<h2><a name="uxiceberg">UX Design Iceberg</a></h2>
+
 - Visual design
     + Color
     + Typography
@@ -274,13 +301,15 @@ its behavior accordingly.
     + Sitemap best representative
 - Conceptual design
 
-## MVP Characteristics
+<h2><a name="mvp">MVP Characteristics</a></h2>
+
 - Delightful
 - Usable
 - Reliable
 - Functional
 
-## Technology Adoption
+<h2><a name="adoption">Technology Adoption</a></h2>
+
 - Innovators - Techies
 - Early adopters - Visionaries
 - GAP - CHASM
@@ -288,12 +317,14 @@ its behavior accordingly.
 - Late majority - Conservatives
 - Laggards - Skeptics
 
-## Pricing and Service Levels
+<h2><a name="sla">Pricing and Service Levels</a></h2>
+
 - Service level agreement (SLA)
     + Mean time between failures (MTBF)
     + Mean time to repair/recovery (MTTR)
 
-## Risk Management
+<h2><a name="risk">Risk Management</a></h2>
+
 - ROAM model
     - Resolved:­ the risk has been answered and avoided or eliminated
     - Owned: the risk has been allocated to someone who has responsibility for doing something about it
