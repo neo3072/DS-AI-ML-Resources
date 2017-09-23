@@ -103,40 +103,49 @@
 
 <h2><a name="5ds">Product Management 5 Ds</a></h2>
 
-- Discovery
+- **Discovery**
     + Process elements
-        * 
-    + Outcomes
+        * Interviews
+        * Workshops
+        * Research (potential users, market, competitors, industry)
+        * Meetings
+    + Deliverables
         * Product vision
         * Product Strategy, manifested as a prioritized feature roadmap
         * Release planning
         * Business case
-- Define
+- **Define**
     + Process elements
-    + Outcomes
+        * Convert discovery findings to deliverables listed below
+    + Deliverables
         * Requirements and acceptance criteria definition
         * Conceptual system design
         * Flow diagrams, user journey diagrams, etc.
         * Data models and entity relationships
         * Functional and non-functional specification
-- Design
+- **Design**
     + Process elements
-    + Outcomes
+        * Design deliverables below based on product/feature definition and requirements
+    + Deliverables
         * Wireframes, mockups, interactive prototypes, assets (images)
         * System/Software architecture and selection of technologies
         * Functional, non-functional, and technical design
         * Test plan
-- Develop
+- **Develop**
     + Process elements
-    + Outcomes
+        * Build system components (hardware, firmware, network connectivity, software) per define and design phase deliverables
+    + Deliverables
         * Code
         * Hardware/firmware/sensor/connectivity solutions and infrastructure
         * Testing/Quality Assurance
         * Documentation, including user and technical
         * Software/hardware/firmware (in the IoT case) products and features, which may include combinations of user interfaces, APIs, SDKs, hardware, sensors, network connectivity, and so on.
-- Deploy
+- **Deploy**
     + Process elements
-    + Outcomes
+        * Devops
+        * Environment setup and management
+        * Address non-functional requirements (e.g., scalability, availability, ...)
+    + Deliverables
         * IoT and digital products deployed and operating in production environments
         * Training
         * Documentation release and udpates
