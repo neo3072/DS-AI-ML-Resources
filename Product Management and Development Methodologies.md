@@ -3,6 +3,7 @@
 ## Table of Contents
 - <a href="#roles">Product Roles and Hierarchy</a>
 - <a href="#resources">Learning Resources</a>
+- <a href="#5ds">Product Management 5 Ds</a>
 - <a href="#phases">Product Management Key Elements and Phases</a>
 - <a href="#tradeoffs">Considerations and Tradeoffs</a>
 - <a href="#methodologies">Product Development Methodologies and Frameworks List (non-exhaustive)</a>
