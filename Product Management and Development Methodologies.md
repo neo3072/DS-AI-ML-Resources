@@ -100,6 +100,48 @@
 - Articles
 - General
 
+<h2><a name="5ds">Product Management 5 Ds</a></h2>
+- Discovery
+    + Process elements
+        * 
+    + Outcomes
+        * Product vision
+        * Product Strategy, manifested as a prioritized feature roadmap
+        * Release planning
+        * Business case
+- Define
+    + Process elements
+    + Outcomes
+        * Requirements and acceptance criteria definition
+        * Conceptual system design
+        * Flow diagrams, user journey diagrams, etc.
+        * Data models and entity relationships
+        * Functional and non-functional specification
+- Design
+    + Process elements
+    + Outcomes
+        * Wireframes, mockups, interactive prototypes, assets (images)
+        * System/Software architecture and selection of technologies
+        * Functional, non-functional, and technical design
+        * Test plan
+- Develop
+    + Process elements
+    + Outcomes
+        * Code
+        * Hardware/firmware/sensor/connectivity solutions and infrastructure
+        * Testing/Quality Assurance
+        * Documentation, including user and technical
+        * Software/hardware/firmware (in the IoT case) products and features, which may include combinations of user interfaces, APIs, SDKs, hardware, sensors, network connectivity, and so on.
+- Deploy
+    + Process elements
+    + Outcomes
+        * IoT and digital products deployed and operating in production environments
+        * Training
+        * Documentation release and udpates
+        * Installation and implementation
+        * Support and maintenance
+        * System monitoring
+
 <h2><a name="phases">Product Management Key Elements and Phases</a></h2>
 
 - Product vision
@@ -128,7 +170,7 @@
         * Features
         * User stories
         * Tasks
-- Product delivery
+- Product development and delivery
     + Design
     + Engineering
     + QA
