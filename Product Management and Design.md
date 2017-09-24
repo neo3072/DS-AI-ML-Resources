@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - <a href="#roles">Product Roles and Hierarchy</a>
+- <a href="#vision">Product Vision and Strategy</a>
 - <a href="#5ds">Product Management 5 Ds</a>
-- <a href="#phases">Product Management Key Elements and Phases</a>
 - <a href="#interview">Product Management Interview Topics</a>
 - <a href="#prioritization">Prioritization</a>
 - <a href="#uxiceberg">UX Design Iceberg</a>
@@ -32,6 +32,23 @@
 
 [The Product Manager vs. Product Owner](https://blog.aha.io/the-product-manager-vs-product-owner/)
 
+<h2><a name="vision">Product Vision and Strategy</a></h2>
+
+- Product vision
+    + The needs addressed, problems solve, and the WHY
+- Product strategy
+    + Plan to achieve product vision and goals
+    + Manifested as the roadmap
+        * Identify and state needs and alignment with vision
+        * Use scenario-based planning
+        * Consist of releases
+        * Should always be dynamic and fluid, and expectations/communications managed as such
+    + Outcome-driven innovation (ODI) and JTBD
+        * Customers don't buy products and services; they hire various solutions at various times to get a wide array of jobs done.
+        * Investment themes are designed to be addressed on "a percentage of resources to be made available basis." Not in the backlog.
+            - Along with epics help with prioritization and determining roadmaps
+    + Investment/strategic themes
+
 <h2><a name="5ds">Product Management 5 Ds</a></h2>
 
 - **Discovery**
@@ -51,7 +68,7 @@
         * Convert discovery findings to deliverables listed below
     + Deliverables
         * Core functionality
-        * Product artifacts: Themes, epics, features, user stories, ...
+        * Product artifacts: Themes, epics, features, user stories, tasks, ...
         * Requirements and acceptance criteria definition
         * Conceptual system design
         * Flow diagrams, user journey diagrams, etc.
@@ -74,6 +91,8 @@
         * Functional, non-functional, and technical design assets
         * Test plan
         * Usability testing
+            - "Traditional" or "discount" usability testing
+            - RITE Method - Rapid Iterative Testing and Evaluation
 - **Develop**
     + Process elements
         * Build system components (hardware, firmware, network connectivity, software) per define and design phase deliverables
@@ -83,6 +102,8 @@
             - Integration testing
             - User acceptance testing (UAT)
             - Automated testing
+            - Qualitative and quantitative
+            - Agile testing matrix
     + Deliverables
         * Code
         * Hardware/firmware/sensor/connectivity solutions and infrastructure
@@ -100,49 +121,6 @@
         * Installation and implementation
         * Support and maintenance
         * System monitoring
-
-<h2><a name="phases">Product Management Key Elements and Phases</a></h2>
-
-- Product vision
-    + The needs addressed, problems solve, and the WHY
-- Product strategy
-    + Plan to achieve product vision and goals
-    + Manifested as the roadmap
-        * Identify and state needs and alignment with vision
-        * Use scenario-based planning
-        * Consist of releases
-        * Should always be dynamic and fluid, and expectations/communications managed as such
-    + Outcome-driven innovation (ODI) and JTBD
-        * Customers don't buy products and services; they hire various solutions at various times to get a wide array of jobs done.
-        * Investment themes are designed to be addressed on "a percentage of resources to be made available basis." Not in the backlog.
-            - Along with epics help with prioritization and determining roadmaps
-- Product design and definition
-    + UX/UI
-    + Information architecture
-    + Interaction design
-    + Conceptual design
-    + Requirements
-    + Acceptance criteria
-    + Investment/strategic themes
-    + Backlog items (aka artifacts)
-        * Epics
-        * Features
-        * User stories
-        * Tasks
-- Product development and delivery
-    + Design
-    + Engineering
-    + QA
-    + Testing
-        * Unit
-        * Integration
-        * Automation
-        * User acceptance (UAT)
-        * Usability
-            - "Traditional" or "discount" usability testing
-            - RITE Method - Rapid Iterative Testing and Evaluation
-        * Qualitative and quantitative
-        * Agile testing matrix
 
 <h2><a name="interview">Product Management Interview Topics</a></h2>
 
