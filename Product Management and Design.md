@@ -80,6 +80,9 @@
         * System/Software architecture and selection of technologies
         * Information architecture
         * Functional, non-functional, and technical requirements
+        * Use cases
+        * Internationalization
+        * Security
 - **Design**
     + Process elements
         * Design deliverables below based on product/feature definition and requirements
@@ -89,6 +92,7 @@
         * Sketches
         * Wireframes, mockups, interactive prototypes, assets (images)
         * Functional, non-functional, and technical design assets
+        * Application states
         * Test plan
         * Usability testing
             - "Traditional" or "discount" usability testing
