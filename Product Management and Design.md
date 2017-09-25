@@ -128,7 +128,71 @@
 
 <h2><a name="interview">Product Management Interview Topics</a></h2>
 
-- 
+- Product Strategy
+    + Market, industry, and competitor analysis
+        * Porter's Five Forces Framework
+    + Tradeoffs
+    + Business case
+    + Opportunity statement
+    + Product positioning statement
+    + Concept
+    + Feasability
+- Product discovery
+    + 5 whys
+    + Business goals
+    + Problems requiring solutions
+    + Jobs to be done (JTBD)
+- Estimation and different methods
+    + Story points
+    + Time
+    + T-shirt sizes
+- Product design and improvement
+- Prioritization and different methods
+- Product pricing
+- Product requirements and acceptance criteria
+- Product artifacts
+    + Product backlog
+    + Product roadmap
+    + Release plan and/or continuous delivery
+    + Themes, epics, features, tasks
+- Product metrics
+    + AARM
+        * Acquisition
+        * Activation
+        * Retention
+        * Monetization
+    + Three Loops
+    + AARRR
+        * Acquisition
+        * Activation
+        * Retention
+        * Revenue
+        * Referral
+- Product Testing
+    + Usability
+    + A/B
+- Product types
+    + Websites, SaaS, mobile apps, IoT, analytics
+- Product development methodologies
+    + Lean
+    + Kanban
+    + Agile
+    + Scrum
+    + Scrumban
+    + SAFe
+- Product life cycle (PLC)
+- Software development life cycle (SLDC)
+- Application lifecycle management (ALM)
+- Product development management
+- Shared vision and understanding
+    + Product development team
+    + Product stakeholders
+    + Users
+- Product launch and go-to-market strategy
+- Product portfolio management
+- Discontinuing products
+- Product marketing
+- Product support and maintenance
 
 <h2><a name="prioritization">Prioritization</a></h2>
 
