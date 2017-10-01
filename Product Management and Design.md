@@ -126,7 +126,9 @@
         * Support and maintenance
         * System monitoring
 
-<h2><a name="interview">Product Management Interview Topics</a></h2>
+<h2><a name="interview">Product Management Key Topics</a></h2>
+
+**Note** That the topics listed below can also be used as a guide for a product management interview.
 
 - Product Strategy
     + Market, industry, and competitor analysis
@@ -154,7 +156,7 @@
     + Product backlog
     + Product roadmap
     + Release plan and/or continuous delivery
-    + Themes, epics, features, tasks
+    + Themes, epics, features, user stories, tasks
 - Product metrics
     + AARM
         * Acquisition
@@ -193,6 +195,22 @@
 - Discontinuing products
 - Product marketing
 - Product support and maintenance
+- Visibility and transparency in to process and product delivery for both team members and key stakeholders
+- Communicating product delivery status and progress
+- Meeting facilitator
+    + Release/feature kickoffs
+    + Feature discovery and requirements gathering
+    + Team standups
+    + Team updates on roadmap goals, priorities, and changes
+    + Stakeholder product updates and ideation, feedback, ideas, requirements, discovery, and requests gathering
+    + Company product updates
+    + Product feature demos and showcases to stakeholders and internal team
+- Soft skills and scenario handling
+    + Team estimates much longer than work should take
+    + Team estimates much shorter than work should take
+    + Team is behind on delivery promises and/or deadlines and doesn't mention it until the last minute
+    + Stakeholders do not understand why you're not prioritizing their feature requests and/or ideas for the product
+    + 
 
 <h2><a name="prioritization">Prioritization</a></h2>
 
