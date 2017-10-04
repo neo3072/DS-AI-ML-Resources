@@ -2,10 +2,34 @@
 
 <h2><a name="toc">Table of Contents</a></h2>
 
+- <a href="#interview-gen">Interview Questions and Topics - General and Soft Skills</a>
 - <a href="#interview-ds">Interview Questions and Topics - Data Science and Advanced Analytics</a>
 - <a href="#interview-prod">Interview Questions and Topics - Product Management</a>
-- <a href="#interview-gen">Interview Questions and Topics - General and Soft Skills</a>
 - <a href="#articles">Articles</a>
+
+<h2><a name="interview-gen">Interview Questions and Topics - General and Soft Skills</a></h2>
+
+- When available
+- Resume overview
+- What are the goals of a business
+- Dynamic environments, or steady, routine environments.
+- Small or large company size
+- Services vs product company
+- What unique skills would you bring to the team
+- Most important characteristics of company you work for
+- If you could improve in any one technical area, what would it be and why
+- If you could improve in any one non-technical area, what would it be and why
+- Top strengths
+- Top areas with room for growth
+- Discuss a positive impact you've had on, or way you provided value to a company/school
+- Discuss a negative experience you’ve had at work/school, and how you dealt with it
+- What audiences have you communicated results and recommendations with, and how do you feel about presenting to others
+- What’s a project you’d like to work on at our company
+- What is your ideal role and title in a company, and what are your responsibilities
+- What are your professional goals for the next 1-2 years, what about for 3-5 years
+- Do you do any professional development outside of work. Technical projects?
+- When explaining or describing something, what is the difference between the 'how', 'what', and 'why'. Which do you think is the most important, and what would be the ideal order to use in your explanation?
+- Compensation requirements
 
 <h2><a name="interview-ds">Interview Questions and Topics - Data Science and Advanced Analytics</a></h2>
 
@@ -47,6 +71,34 @@
         + Big data
             * Hadoop
             * Spark
+- What process do you use (steps) to understand a new data set
+- How do you go about choosing a model. Which machine learning model (classification vs. regression, for example) to use given a particular problem.
+- How to efficiently represent 5 dimension in a chart
+- Can you give an example of a unique algorithm that you’ve written, code, etc. 
+- What tools do you use for analytics and visualization. Favorites.
+- How do you detect outliers
+- How would you validate a model you created to predict a quantitative outcome variable using multiple regression
+- How to go about training, testing, and validating results and model performance. 
+- What are some different ways of controlling for model complexity (regularization and dimensionality reduction)
+- What is overfitting? Also, how related to bias and variance?
+- What is regularization? Why is it useful. What are some algorithms that use regularization
+- Explain what precision and recall are. How do they relate to the ROC curve?
+- What is a recommendation engine and how does it work
+- The tradeoffs between different types of classification models. Between different types of regression models.
+- Explain what a false positive and a false negative are. Why is it important to differentiate these from each other?
+- Is it better to have too many false positives, or too many false negatives? Explain
+- What is the curse of dimensionality
+- Dealing with correlated features in your data set, how to reduce the dimensionality of data.
+- Describe optimization and what are some potential issues that can be encountered
+- Describe reinforcement learning
+- What is root cause analysis
+- What is selection bias and how can you avoid it
+- Give an example of how you would use experimental design to answer a question
+- What’s the difference between long and wide format data
+- What is chart junk
+- What is statistical power
+- Explain what resampling methods are and why they are useful. Also explain their limitations.
+- What is leakage in predictive modeling?
 
 <h2><a name="interview-prod">Interview Questions and Topics - Product Management</a></h2>
 
@@ -158,7 +210,7 @@
     + What is the Kano model
     + What is cost of delay and CD3
     + How would you distinguish between low, medium, high, and critical bugs
-    + What's the difference between collaboration and concensus
+    + What's the difference between collaboration and consensus
     + What is the jobs to be done framework
 - Soft skills and scenario handling
     + Team estimates much longer than work should take
@@ -176,30 +228,6 @@
     + Stakeholders need something developed and delivered by a fixed date, but the team estimates that it's impossible to accommodate, and it's also impossible to add any additional resources to the team to help.
         * If you could add more resources to the team, what are some potential concerns in doing so?
     + The roadmap and backlog is getting too large and contains too many features.
-
-<h2><a name="interview-gen">Interview Questions and Topics - General and Soft Skills</a></h2>
-
-- When available
-- Resume overview
-- What are the goals of a business
-- Dynamic environments, or steady, routine environments.
-- Small or large company size
-- Services vs product company
-- What unique skills would you bring to the team
-- Most important characteristics of company you work for
-- If you could improve in any one technical area, what would it be and why
-- If you could improve in any one non-technical area, what would it be and why
-- Top strengths
-- Top areas with room for growth
-- Discuss a positive impact you've had on, or way you provided value to a company/school
-- Discuss a negative experience you’ve had at work/school, and how you dealt with it
-- What audiences have you communicated results and recommendations with, and how do you feel about presenting to others
-- What’s a project you’d like to work on at our company
-- What is your ideal role and title in a company, and what are your responsibilities
-- What are your professional goals for the next 1-2 years, what about for 3-5 years
-- Do you do any professional development outside of work. Technical projects?
-- When explaining or describing something, what is the difference between the 'how', 'what', and 'why'. Which do you think is the most important, and what would be the ideal order to use in your explanation?
-- Compensatioin requirements
 
 <h2><a name="articles">Articles</a></h2>
 
