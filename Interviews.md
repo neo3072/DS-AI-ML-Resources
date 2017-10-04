@@ -47,12 +47,6 @@
         + Big data
             * Hadoop
             * Spark
-- Do you prefer dynamic environments, or steady, routine environments. 
-- Do you prefer small or large company size
-- What unique skills would you bring to the team
-- Top 3 most important characteristics of company you work for
-- If you could improve in any one technical area, what would it be and why
-- If you could improve in any one non-technical area, what would it be and why
 
 <h2><a name="interview-prod">Interview Questions and Topics - Product Management</a></h2>
 
@@ -147,6 +141,25 @@
         *  Discovery, definition, design, development, and delivery
     +  Describe the product delivery process and the PM's role in it
     +  What makes a product great?
+    +  What's the difference between product vision and strategy
+    +  Rate on scale 0 to 5, 5 being the best, 0 being no experience
+        + Working cross-functionally
+        + Creating a shared vision and understanding with stakeholders and team members
+        + Client and stakeholder communications
+        + Product discovery
+        + Product definition and requirements
+        + Product design (any design skills?)
+        + Product delivery
+    + Describe 2-3 different product development methodologies and compare them
+    + Describe 2-3 different methods for prioritizing product features and stories
+    + What is a product roadmap and how is it generated
+    + Describe and explain the difference between themes, epics, features, user stories, and tasks
+    + What is the difference between the different Kanban class of service types
+    + What is the Kano model
+    + What is cost of delay and CD3
+    + How would you distinguish between low, medium, high, and critical bugs
+    + What's the difference between collaboration and concensus
+    + What is the jobs to be done framework
 - Soft skills and scenario handling
     + Team estimates much longer than work should take
     + Team estimates much shorter than work should take
@@ -166,15 +179,27 @@
 
 <h2><a name="interview-gen">Interview Questions and Topics - General and Soft Skills</a></h2>
 
+- When available
+- Resume overview
 - What are the goals of a business
 - Dynamic environments, or steady, routine environments.
 - Small or large company size
 - Services vs product company
 - What unique skills would you bring to the team
-- Top 3 most important characteristics of company you work for
+- Most important characteristics of company you work for
 - If you could improve in any one technical area, what would it be and why
 - If you could improve in any one non-technical area, what would it be and why
-- 
+- Top strengths
+- Top areas with room for growth
+- Discuss a positive impact you've had on, or way you provided value to a company/school
+- Discuss a negative experience you’ve had at work/school, and how you dealt with it
+- What audiences have you communicated results and recommendations with, and how do you feel about presenting to others
+- What’s a project you’d like to work on at our company
+- What is your ideal role and title in a company, and what are your responsibilities
+- What are your professional goals for the next 1-2 years, what about for 3-5 years
+- Do you do any professional development outside of work. Technical projects?
+- When explaining or describing something, what is the difference between the 'how', 'what', and 'why'. Which do you think is the most important, and what would be the ideal order to use in your explanation?
+- Compensatioin requirements
 
 <h2><a name="articles">Articles</a></h2>
 
