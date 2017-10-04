@@ -65,6 +65,7 @@ its behavior accordingly.
 <h2><a name="methodologiesdetails">Product Development Methodologies Details</a></h2>
 
 **Kanban**
+
 - Principles
     + Visualize workflow
     + Create flow and pull
@@ -91,6 +92,7 @@ its behavior accordingly.
     + Target date with performance metric
 
 **Lean** 
+
 - Principles
     + Kaizen
     + Build, measure, learn
