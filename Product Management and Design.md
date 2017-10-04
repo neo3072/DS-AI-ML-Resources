@@ -138,7 +138,7 @@
     + Opportunity statement
     + Product positioning statement
     + Concept
-    + Feasability
+    + Feasibility
 - Product discovery
     + 5 whys
     + Business goals
@@ -175,7 +175,7 @@
     + A/B
 - Product types
     + Websites, SaaS, mobile apps, IoT, analytics
-- Product development methodologies
+- Product development methodologies and their characteristics and differences
     + Lean
     + Kanban
     + Agile
@@ -184,7 +184,7 @@
     + SAFe
 - Product life cycle (PLC)
 - Software development life cycle (SLDC)
-- Application lifecycle management (ALM)
+- Application life-cycle management (ALM)
 - Product development management
 - Shared vision and understanding
     + Product development team
@@ -197,6 +197,7 @@
 - Product support and maintenance
 - Visibility and transparency in to process and product delivery for both team members and key stakeholders
 - Communicating product delivery status and progress
+- Difference between Product Manager, Product Owner, Scrum Master, and Business Analyst
 - Meeting facilitator
     + Release/feature kickoffs
     + Feature discovery and requirements gathering
@@ -208,13 +209,23 @@
 - Soft skills and scenario handling
     + Team estimates much longer than work should take
     + Team estimates much shorter than work should take
-    + Team is behind on delivery promises and/or deadlines and doesn't mention it until the last minute
+    + Team is behind on delivery promises and/or deadlines after having committed, and doesn't mention it until the last minute
+    + Delivery deadlines are close and you find out last minute that the requirements and/or what was asked of the team has been misunderstood, or missed completely. What to do in that situation, and also to prevent in the future.
     + Stakeholders do not understand why you're not prioritizing their feature requests and/or ideas for the product
-    + 
+    + Stakeholders have unreasonable requests or time expectations
+    + The team needs your help getting questions answered, getting unblocked, understanding requirements, or is just giving status updates. They feel that a lot of detail is necessary to explain, when really you only need high level summaries and explanations.
+    + Suppose you need to split the product work so that one person handles the high level product vision, strategy, and prioritized roadmap. The other person is responsible for executing, developing, and delivering the roadmap at the team level.
+    + The development team thinks that a feature is stupid or unnecessary
+    + The stakeholders change immediate priority, but work is already in progress for suddenly de-prioritized features
+    + The team identifies many small features that are part of a larger epic, or master feature. Stakeholders would like to only do some of the features, but not all, and despite that the team things they're all critical.
+    + Stakeholders are constantly changing requirements, priorities, and/or increasing scope, but are unwilling to increase budget or move deadlines.
+    + Stakeholders need something developed and delivered by a fixed date, but the team estimates that it's impossible to accommodate, and it's also impossible to add any additional resources to the team to help.
+        * If you could add more resources to the team, what are some potential concerns in doing so?
+    + The roadmap and backlog is getting too large and contains too many features.
 
 <h2><a name="prioritization">Prioritization</a></h2>
 
-- JTBD and importance vs satisfaction (four quadrants) | underserved needs
+- JTBD and importance vs satisfaction (four quadrants) | under-served needs
     + Opportunity (top left)
     + Competitive market (top right)
     + Not worth going after (bottom half)
@@ -239,7 +250,7 @@
     + Brainstorm on sticky notes
     + Group items together and name the groups
     + Vote on or rank the groups
-- Scorecarding
+- Score carding
 - Weighted shortest job first (WSJF)
     + Priority = Cost of delay / Job duration
     + Jobs that deliver the highest value (i.e., cost of delay) and can be implemented in the shortest duration are of the highest priority for implementation
@@ -288,7 +299,7 @@
 
 - Iron triangle
     + No silver bullet for magically delivering fixed scope by a fixed date with fixed resources, requires difficult business­based trade­off decisions
-- Design by committee (collaboration vs concensus)
+- Design by committee (collaboration vs consensus)
     + Godin - "Nothing is what happens when everyone has to agree"
     + Consistently produces weak results
 
@@ -299,7 +310,7 @@
     + Feature set
     + Value proposition
 - Market
-    + Underserved needs
+    + Under-served needs
     + Target customer
 
 <h2><a name="sla">Pricing and Service Levels</a></h2>
@@ -342,7 +353,7 @@
     + [UC Berkeley's: Product Management](http://executive.berkeley.edu/programs/product-management)
     + [Coursera product management specialization](https://www.coursera.org/specializations/product-management)
     + [Coursera product management courses](https://www.coursera.org/courses?languages=en&query=product+management)
-    + [Udemy Product Mangement Courses](https://www.udemy.com/courses/search/?lang=en&q=product%20management&src=ukw)
+    + [Udemy Product Management Courses](https://www.udemy.com/courses/search/?lang=en&q=product%20management&src=ukw)
     + [Raj Karamchedu - First-time Product Management](http://school.rajkaramchedu.com/p/productmanagement)
     + [Lynda - Product Management Foundations](https://www.lynda.com/Business-Skills-tutorials/Product-Management-Fundamentals/479069-2.html)
     + [Highbrow - Intro To Product Management](http://gohighbrow.com/portfolio/intro-to-product-management/)
