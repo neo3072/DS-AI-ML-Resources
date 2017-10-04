@@ -38,6 +38,7 @@ Alex
 + [Graphics and Infographics](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Graphics%20and%20Infographics.md)
 + [IDEs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/IDEs.md)
 + [Internet of Things (IoT)](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Internet%20of%20Things%20-%20IoT.md)
++ [Interviews](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Interviews.md)
 + [Methodologies - Product, Software, and IoT Development](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Methodologies%20-%20Product%2C%20Software%2C%20and%20IoT%20Development.md)
 + [Online Tools and Utilities](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Online%20Tools%20and%20Utilities.md)
 + [Principles, Laws, Quotes, Idioms, and Sayings](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Principles%2C%20Laws%2C%20quotes%2C%20Idioms%2C%20and%20Sayings.md)
