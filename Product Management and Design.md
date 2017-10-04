@@ -134,10 +134,10 @@
 - Kano model (customer delight vs product function)
     + Categories
         * Must have
-        * Performance
-        * Delighter
+        * Performance
+        * Delighter
     + Notes
-        * Today's must have is tomorrow's delighter
+        * Today's must have is tomorrow's delighter
 - Pareto: Identify which 20% of features are likely to create 80% of the value/impact
 - CoD/CoS: Cost of delay, class of service, and risk
     + CoS
@@ -145,7 +145,7 @@
         * Fixed-date - Step function cost of delay
         * Standard - Linear cost of delay
         * Intangible - Intangible cost of delay
-- MoSCoW ­ "MUST, SHOULD, COULD, WON'T"
+- MoSCoW >­ "MUST, SHOULD, COULD, WON'T"
 - Benefit Cost Ratio (BCR) - Value Divided by Effort
 - Buy a feature
 - KJ method, affinity diagramming/grouping
@@ -224,18 +224,18 @@
 <h2><a name="risk">Risk Management</a></h2>
 
 - ROAM model
-    - Resolved:­ the risk has been answered and avoided or eliminated
-    - Owned: the risk has been allocated to someone who has responsibility for doing something about it
-    - Accepted: the risk has been accepted and it has been agreed that
+    + Resolved:­ the risk has been answered and avoided or eliminated
+    + Owned: the risk has been allocated to someone who has responsibility for doing something about it
+    + Accepted: the risk has been accepted and it has been agreed that
         nothing will be done about it
-    - Mitigated:­ action has been taken so the risk has been mitigated,
+    + Mitigated:­ action has been taken so the risk has been mitigated,
         either reducing the likelihood or reducing the impact
 - Key risks
-    - Value risk: would anyone buy this or choose to use it?
-    - Usability risk: would they be able to figure out how to use it?
-    - Feasibility risk: can our engineers build this with the technology
+    + Value risk: would anyone buy this or choose to use it?
+    + Usability risk: would they be able to figure out how to use it?
+    + Feasibility risk: can our engineers build this with the technology
         available, the time available, and the skill­sets available on the team?
-    - Stakeholder risk: are the different parts of the company ok with this proposed solution?
+    + Stakeholder risk: are the different parts of the company ok with this proposed solution?
 
 <h2><a name="resources">Learning Resources</a></h2>
 
