@@ -68,12 +68,12 @@ its behavior accordingly.
 
 - Principles
     + Visualize workflow
-    + Create flow and pull
-    + Balance demand against throughput
-    + Limit WIP
-    + Target lead time with performance metric
-    + Continuous improvement
-    + Class of service
+    + Create flow and pull
+    + Balance demand against throughput
+    + Limit WIP
+    + Target lead time with performance metric
+    + Continuous improvement
+    + Class of service
 - Benefits
     + Flow-driven, pull system, balance demand and throuput
         + Allows for 'just in time' and more focused delivery of work
