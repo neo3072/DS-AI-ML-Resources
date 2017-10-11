@@ -13,6 +13,8 @@
 - <a href="#sla">Pricing and Service Levels</a>
 - <a href="#risk">Risk Management</a>
 - <a href="#resources">Learning Resources</a>
+- <a href="#glossary">Product Management Glossary and Jargon</a>
+- <a href="#tools">Product Management Tools</a>
 
 <h2><a name="roles">Product Roles and Hierarchy</a></h2>
 
@@ -301,3 +303,22 @@
     + [#pmbook: How to become a product manager](https://www.inkshares.com/books/pmbook)
 - Articles
 - General
+
+<h2><a name="glossary">Product Management Glossary, Jargon, and Effective Communication</a></h2>
+
+- [5 Steps for Product Managers to Ditch the Jargon and Communicate Better](https://medium.com/startup-grind/5-steps-for-product-managers-to-ditch-the-jargon-and-communicate-better-f9297006118e)
+- [The Ultimate Agile Dictionary](https://www.smartsheet.com/ultimate-agile-dictionary)
+- [Glossary of product management acronyms and jargon](https://medium.com/pminsider/glossary-of-product-management-acronyms-and-jargon-b371b7daa9aa)
+- [Product Management Terms Explained](https://www.productplan.com/product-management-terms-explained/)
+- [Agile Glossary](https://www.solutionsiq.com/agile-glossary/)
+- [Agile Alliance - Agile Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
+- [Scrum Glossary](https://www.scrum.org/scrum-glossary)
+- [Kanban Glossary of Terms](http://edu.leankanban.com/kanban-glossary-terms)
+- [Kanban Glossary](https://leankit.com/learn/kanban/kanban-glossary/)
+- [SwiftKanban Glossary](https://www.digite.com/kanban/kanban-glossary/)
+- [LeanProduction Glossary](https://www.leanproduction.com/lean-glossary.html)
+
+<h2><a name="tools">Product Management Tools</a></h2>
+
+- [ROMAN’S PRODUCT MANAGEMENT TOOLS](http://www.romanpichler.com/tools/)
+- [Aha!](https://www.aha.io/roadmapping/guide/product-management)
