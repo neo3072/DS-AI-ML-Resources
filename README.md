@@ -20,11 +20,11 @@ Alex
     + [Artificial Intelligence](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Artificial%20Intelligence.md)
     + [Algorithms and Tasks](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-resources/blob/master/Algorithms%20and%20Tasks.md)
 - Data science
-    + [Data Science Learning Resources](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20and%20Big%20Data%20Learning%20Resources.md)
+    + [Data Science Learning Resources](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Data%20Science%20Learning%20Resources.md)
     + [Data Science Goals, Components, Processes, and Deliverables](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Goals%2C%20Components%2C%20Processes%2C%20and%20Deliverables.md)
     + [Data Science Software, Libraries, Packages, and APIs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20Software%2C%20Libraries%2C%20Packages%2C%20and%20APIs.md)
 - Big data
-    + [Big Data Learning Resources](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Data%20Science%20and%20Big%20Data%20Learning%20Resources.md)
+    + [Big Data Learning Resources](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Big%20Data%20Learning%20Resources.md)
     + [Big Data Software, Libraries, Packages, and APIs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%20Software%2C%20Libraries%2C%20Packages%2C%20and%20APIs.md)
     + [Big Data, Analytics, and IoT Architecture Examples](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Examples.md)
     + [Big Data, Analytics, and IoT Architecture Reference](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Big%20Data%2C%20Analytics%2C%20and%20IoT%20Architecture%20Reference.md)
@@ -42,7 +42,7 @@ Alex
     + [Programming Languages and OS](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Programming%20Languages%20and%20OS.md)
     + [IDEs](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/IDEs.md)
 - Product design and management
-    + [Product Design and mMnagement](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Product%20Management%20and%20Design.md)
+    + [Product Management and Design](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Product%20Management%20and%20Design.md)
     + [Methodologies - Product, Software, and IoT Development](https://github.com/InnoArchiTech/datascience-ai-machinelearning-resources/blob/master/Methodologies%20-%20Product%2C%20Software%2C%20and%20IoT%20Development.md)
 - Cloud computing, site reliability, and DevOps
     + [Web, API, and DevOps Frameworks and Libraries](https://github.com/acastrounis/data-science-machine-learning-ai-big-data-iot-resources/blob/master/Web%2C%20API%2C%20and%20DevOps%20Frameworks%20and%20Libraries.md)
