@@ -1,6 +1,7 @@
 # Data Visualization
 
 ## Online Resources
+- [The Python Graph Gallery](https://python-graph-gallery.com/)
 - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
 - [dataviz.tools](http://dataviz.tools/)
 - [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery)

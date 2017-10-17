@@ -2,10 +2,15 @@
 
 <h2><a name="toc">Table of Contents</a></h2>
 
+- <a href="#interactive">Interactive Interview Training</a>
 - <a href="#interview-gen">Interview Questions and Topics - General and Soft Skills</a>
 - <a href="#interview-ds">Interview Questions and Topics - Data Science and Advanced Analytics</a>
 - <a href="#interview-prod">Interview Questions and Topics - Product Management</a>
 - <a href="#articles">Articles</a>
+
+<h2><a name="interactive">Interactive Interview Training</a></h2>
+
+- [The Data Science Interview](http://www.thedsinterview.com/)
 
 <h2><a name="interview-gen">Interview Questions and Topics - General and Soft Skills</a></h2>
 
