@@ -19,7 +19,7 @@
 - Chief Executive Officer - CEO
 - Chief Data Officer - CDO
 - Chief Analytics Officer - CAO
-- VP of Data Science
+- VP of Data Science or VP of Advanced Analytics
 - Director of Data Science
 - Lead Data Scientist
 - Senior Data Scientist
@@ -94,10 +94,10 @@ Coming soon...
 
 <h2><a name="forhire">Data Scientists for Hire & Training</a></h2>
 
+- [Toptal](https://www.toptal.com/data-science)
+- [Upwork](https://www.upwork.com/)
 - [The Data Incubator](https://www.thedataincubator.com/)
 - [Kaggle Connect](https://www.kaggle.com/host)
-- [Upwork](https://www.upwork.com/)
-- [Toptal](https://www.toptal.com/data-science)
 - [Hired](https://hired.com)
 
 <h2><a name="datacomps">Data Science & Big Data Consulting Companies</a></h2>
@@ -126,6 +126,7 @@ Coming soon...
 - [Data Science Central Forum](http://www.datasciencecentral.com/forum)
 
 <h2><a name="freelancing">Freelancing</a></h2>
+
 - [Infographic: How to Calculate Your Freelance Hourly Rate](http://blog.creativelive.com/how-to-calculate-freelance-hourly-rate-infographic/)
 - [Freelancer 101: How to Set Up a Simple Accounting System](https://hired.com/blog/candidates/freelancer-101-simple-accounting-system/)
 - [New to Freelancing? 9 Things You Need to Know](https://hired.com/blog/candidates/new-freelancing-9-things-need-know/)

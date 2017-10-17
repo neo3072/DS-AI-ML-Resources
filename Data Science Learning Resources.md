@@ -56,15 +56,6 @@
     + [THE NEURAL NETWORK ZOO](http://www.asimovinstitute.org/neural-network-zoo/)
     + [Part of Speech Tags](http://www.winwaed.com/blog/2011/11/08/part-of-speech-tags/)
     + [The 7 Myths of AI](https://www.crowdflower.com/7-myths-ai/)
-- Big Data
-    + [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
-    + [Real-Time Stream Processing as Game Changer in a Big Data World with Hadoop and Data Warehouse](https://www.infoq.com/articles/stream-processing-hadoop/)
-    + [Real-time Data Processing in AWS Cloud](https://www.infoq.com/articles/real-time-data-processing-in-aws-cloud)
-    + [How much data does one need to efficiently use Hadoop instead of SQL?](https://www.quora.com/How-much-data-does-one-need-to-efficiently-use-Hadoop-instead-of-SQL)
-    + [Don't use Hadoop - your data isn't that big](https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html)
-    + [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
-    + [Data Lakes: Hadoop Vs. In-Memory Databases](http://www.centurylink.com/business/enterprise/blog/thinkgig/data-lakes-hadoop-vs-in-memory-databases/)
-    + [Data processing architectures – Lambda and Kappa](https://www.ericsson.com/research-blog/data-knowledge/data-processing-architectures-lambda-and-kappa/)
 - Opinion
     + [Suffering-oriented programming](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 - Databases
@@ -98,7 +89,6 @@
 - [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
 - [New KDnuggets Tutorials Page: Learn R, Python, Data Visualization, Data Science, and more](http://www.kdnuggets.com/2016/03/new-tutorials-section-r-python-data-visualization-data-science.html)
 - [Curated list of R tutorials for Data Science](https://www.r-bloggers.com/curated-list-of-r-tutorials-for-data-science/)
-- [AnalyticsPro : Analytics Tutorials for Data Science , BI & Big Data](http://analyticspro.org/)
 - [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 - [7 More Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2017/03/seven-more-steps-machine-learning-python.html)
 - Statistics
@@ -127,7 +117,6 @@
     + [Kahn Academy](https://www.khanacademy.org/)
     + [MIT Open Courseware](https://ocw.mit.edu/index.htm)
     + [Harvard Online Learning](http://online-learning.harvard.edu/)
-    + [Big Data University](https://bigdatauniversity.com/)
 - Video Learning and Skills Development
     + [SkillShare](https://www.skillshare.com/)
     + [Treehouse](https://teamtreehouse.com/)
@@ -169,7 +158,6 @@
     + [Cloud Architectures](https://d0.awsstatic.com/whitepapers/aws-cloud-architectures.pdf)
     + [Operational Checklists for AWS](https://d0.awsstatic.com/whitepapers/aws-operational-checklists.pdf)
     + [Robust Random Cut Forest Based Anomaly Detection On Streams](https://d0.awsstatic.com/whitepapers/kinesis-anomaly-detection-on-streaming-data.pdf)
-    + [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
     + [Lambda Architecture for Batch and RealTime Processing on AWS with Spark Streaming and Spark SQL](https://d0.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf)
     + [Amazon Kinesis and Apache Storm - Building a Real-Time Sliding-Window Dashboard over Streaming Data](https://d0.awsstatic.com/whitepapers/building-sliding-window-analysis-of-clickstream-data-kinesis.pdf)
     + [Best Practices for Amazon EMR](https://d0.awsstatic.com/whitepapers/aws-amazon-emr-best-practices.pdf)
@@ -183,7 +171,6 @@
     + [Core Tenets of IoT](https://d0.awsstatic.com/whitepapers/core-tenets-of-iot1.pdf)
     + [Hosting Static Websites on AWS](https://d0.awsstatic.com/whitepapers/Storage/Building%20Static%20Websites%20on%20AWS.pdf)
     + [Web Application Hosting in the AWS Cloud - Best Practices](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)
-    + [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
     + [Migrating your Existing Applications to the AWS Cloud](https://d0.awsstatic.com/whitepapers/cloud-migration-main.pdf)
 
 <h2><a name="bootcamps">Bootcamps and Training</a></h2>
