@@ -217,22 +217,35 @@
     + How would you distinguish between low, medium, high, and critical bugs
     + What's the difference between collaboration and consensus
     + What is the jobs to be done framework
+    + How much time should be spent on writing user stories, requirements, acceptance criteria, and other pre-development documentation. Also, what type or form should the documentatino be in, and what amount of detail is necessary
 - Soft skills and scenario handling
-    + Team estimates much longer than work should take
-    + Team estimates much shorter than work should take
-    + Team is behind on delivery promises and/or deadlines after having committed, and doesn't mention it until the last minute
-    + Delivery deadlines are close and you find out last minute that the requirements and/or what was asked of the team has been misunderstood, or missed completely. What to do in that situation, and also to prevent in the future.
-    + Stakeholders do not understand why you're not prioritizing their feature requests and/or ideas for the product
-    + Stakeholders have unreasonable requests or time expectations
-    + The team needs your help getting questions answered, getting unblocked, understanding requirements, or is just giving status updates. They feel that a lot of detail is necessary to explain, when really you only need high level summaries and explanations.
-    + Suppose you need to split the product work so that one person handles the high level product vision, strategy, and prioritized roadmap. The other person is responsible for executing, developing, and delivering the roadmap at the team level.
-    + The development team thinks that a feature is stupid or unnecessary
-    + The stakeholders change immediate priority, but work is already in progress for suddenly de-prioritized features
-    + The team identifies many small features that are part of a larger epic, or master feature. Stakeholders would like to only do some of the features, but not all, and despite that the team things they're all critical.
-    + Stakeholders are constantly changing requirements, priorities, and/or increasing scope, but are unwilling to increase budget or move deadlines.
-    + Stakeholders need something developed and delivered by a fixed date, but the team estimates that it's impossible to accommodate, and it's also impossible to add any additional resources to the team to help.
-        * If you could add more resources to the team, what are some potential concerns in doing so?
-    + The roadmap and backlog is getting too large and contains too many features.
+    + Product development team
+        * Team estimates much longer than work should take
+        * Team estimates much shorter than work should take
+        * Team is behind on delivery promises and/or deadlines after having committed, and doesn't mention it until the last minute
+        * Delivery deadlines are close and you find out last minute that the requirements and/or what was asked of the team has been misunderstood, or missed completely. What to do in that situation, and also to prevent in the future.
+        * The team needs your help getting questions answered, getting unblocked, understanding requirements, or is just giving status updates.
+            - You have limited meeting time available, and team members feel that they need to provide lot of detail, when really you only need high level summaries and explanations.
+        * The development team thinks that a feature is stupid or unnecessary. What do you do, and how to prevent this.
+        * The team identifies many small features that are part of a larger feature or epic. Stakeholders and/or time only allow for building some, not all of the features, but the team thinks all of the features are critical to launch the feature.
+        * The product development team is regularly complaining about needed to do rework of features once in progress, or after development is complete. The want to avoid this in the future. What are the possible causes of this, and best ways to avoid in the future.
+        * You've asked team members to provide status updates whenever a feature changes phase (e.g., development complete, qa complete, deployed to staging, deployed to production), but you do not receive these updates on time, or possibly at all.
+    + Stakeholders (internal, clients, customers, ...)
+        * Stakeholders do not understand why you're not prioritizing their feature requests and/or ideas for the product
+        * Stakeholders have unreasonable requests or time expectations
+        * The stakeholders change immediate priority, but work is already in progress for suddenly de-prioritized features
+        * Stakeholders are constantly changing requirements, priorities, and/or increasing scope, but are seemingly unwilling to increase budget or move deadlines.
+        * Stakeholders are non-responsive or slow to communicate when needed to move product development and delivery along
+        * Stakeholders need something developed and delivered by a fixed date, but the team estimates that it's impossible to accommodate, and it's also impossible to add any additional resources to the team to help.
+            - If you could add more resources to the team, what are some potential concerns in doing so?
+    + Product management
+        * Suppose you need to split the product work so that one person handles the high level product vision, strategy, and prioritized roadmap. The other person is responsible for executing, developing, and delivering the roadmap at the team level.
+        * The roadmap and backlog is getting too large and contains too many features
+        * A certain number of features would be ideal to deliverable by a specific date, although the team isn't large enough to complete all work required.
+            - Would adding additional team members help get everything done in time, and if maybe not, why?
+    + Product support
+        * People are able to submit bug tickets, and label the majority of the tickets as 'critical', even if they are low, medium, or high. How handle this situation, and what severity strategy would you use.
+        * People, usually customer success, submit bug tickets, but the engineering team is very slow to respond, provide ongoing communications, and/or status updates, and does not prioritize bugs over new feature or existing feature development
 
 <h2><a name="articles">Articles</a></h2>
 
