@@ -30,3 +30,5 @@
 - Markup and Syntax
     + [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     + [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
+- Misc
+    + [AI, Neural Networks, ML, Deep Learning, Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
